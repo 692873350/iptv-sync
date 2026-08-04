@@ -2,7 +2,6 @@ name: 同步多米直播源
 
 on:
   schedule:
-    # 每6小时执行一次（UTC 0/6/12/18点，对应北京时间 8/14/20/2点）
     - cron: '0 0,6,12,18 * * *'
   workflow_dispatch:
 
@@ -26,13 +25,6 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add iptv_source.txt
+          git add iptv_source.txt last_zip_url.txt
           git diff --cached --quiet || git commit -m "自动同步直播源 $(date '+%Y-%m-%d %H:%M')"
           git push
-- name: 提交更新到仓库
-  run: |
-    git config user.name "github-actions[bot]"
-    git config user.email "github-actions[bot]@users.noreply.github.com"
-    git add iptv_source.txt last_zip_url.txt
-    git diff --cached --quiet || git commit -m "自动同步直播源 $(date '+%Y-%m-%d %H:%M')"
-    git push
