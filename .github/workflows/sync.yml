@@ -1,31 +1,7 @@
-name: 同步多米直播源
-
-on:
-  schedule:
-    # 每6小时执行一次（UTC 0/6/12/18点，对应北京时间 8/14/20/2点）
-    - cron: '0 0,6,12,18 * * *'
-  workflow_dispatch:
-
-jobs:
-  sync:
-    runs-on: ubuntu-latest
-
-    steps:
-      - name: 拉取仓库
-        uses: actions/checkout@v4
-        with:
-          token: ${{ secrets.GH_TOKEN }}
-
-      - name: 安装依赖
-        run: pip install requests pyzipper
-
-      - name: 运行同步脚本
-        run: python sync.py
-
-      - name: 提交更新到仓库
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add iptv_source.txt
-          git diff --cached --quiet || git commit -m "自动同步直播源 $(date '+%Y-%m-%d %H:%M')"
-          git push
+- name: 提交更新到仓库
+  run: |
+    git config user.name "github-actions[bot]"
+    git config user.email "github-actions[bot]@users.noreply.github.com"
+    git add iptv_source.txt last_zip_url.txt
+    git diff --cached --quiet || git commit -m "自动同步直播源 $(date '+%Y-%m-%d %H:%M')"
+    git push
