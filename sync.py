@@ -16,80 +16,68 @@ AD_KEYWORDS = [
     "家家购物", "购物街"
 ]
 
-def filter_ad(content):
-    lines = content.split("\n")
-    out = []
-    removed = 0
-    for line in lines:
-        s = line.strip()
-        # 跳过空行
-        if not s:
-            out.append(line)
-            continue
-        # 跳过 #genre# 分组行
-        if "#genre#" in s:
-            out.append(line)
-            continue
-        # diyp 格式: 频道名,URL
-        # 检查是否包含逗号（频道名和 URL 的分隔符）
-        if "," in s:
-            # 取第一个逗号前面的部分作为频道名
-            name = s.split(",", 1)[0].strip()
-            # 检查频道名是否包含广告关键词
-            hit = False
-            for kw in AD_KEYWORDS:
-                if kw in name:
-                    hit = True
-                    break
-            if hit:
-                removed += 1
-                continue  # 跳过这一行
-        # 其他行正常保留
-        out.append(line)
-    return "\n".join(out), removed
-
 def run():
     t = int(time.time())
     url = CONFIG_URL.format(t=t)
-    print("拉取配置:", url)
+    print("1. 拉取配置:", url)
     resp = requests.get(url, timeout=30)
     conf = resp.json()
     zip_url = conf["source"]
-    print("最新zip:", zip_url)
-    with open("last_zip_url.txt", "w") as f:
-        f.write(zip_url)
+    print("2. 最新zip:", zip_url)
+    open("last_zip_url.txt", "w").write(zip_url)
 
     try:
         r = requests.get(zip_url, timeout=60)
         r.raise_for_status()
     except Exception as e:
         print("下载失败，尝试缓存:", e)
-        with open("last_zip_url.txt") as f:
-            zip_url = f.read().strip()
+        zip_url = open("last_zip_url.txt").read().strip()
         r = requests.get(zip_url, timeout=60)
         r.raise_for_status()
 
-    with open("tmp.zip", "wb") as f:
-        f.write(r.content)
-    print("下载完成:", len(r.content), "字节")
+    open("tmp.zip", "wb").write(r.content)
+    print("3. 下载完成:", len(r.content), "字节")
 
-    print("解压中...")
+    print("4. 解压中...")
     with pyzipper.AESZipFile("tmp.zip") as zf:
         zf.setpassword(ZIP_PASSWORD)
         names = zf.namelist()
-        print("zip内:", names)
+        print("   zip内:", names)
         txt = next((x for x in names if x.lower().endswith(".txt")),
                    next((x for x in names if x.lower().endswith(".m3u")), names[0]))
         content = zf.read(txt).decode("utf-8", errors="replace")
 
-    content, removed = filter_ad(content)
-    print("过滤广告台:", removed, "个")
+    # 过滤
+    lines = content.split("\n")
+    out = []
+    removed = 0
+    filtered = []
+    for line in lines:
+        s = line.strip()
+        if not s or "#genre#" in s:
+            out.append(line)
+            continue
+        if "," in s:
+            name = s.split(",", 1)[0].strip()
+            hit = False
+            for kw in AD_KEYWORDS:
+                if kw in name:
+                    hit = True
+                    break
+            if hit:
+                filtered.append(name)
+                removed += 1
+                continue
+        out.append(line)
 
-    with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
-        f.write(content)
+    print("5. 过滤掉", removed, "个广告台:")
+    for n in filtered:
+        print("   -", n)
+
+    result = "\n".join(out)
+    open(OUTPUT_FILE, "w", encoding="utf-8").write(result)
     os.remove("tmp.zip")
-
-    print("完成！", OUTPUT_FILE, len(content), "字节")
+    print("6. 完成！", OUTPUT_FILE, len(result), "字节")
 
 if __name__ == "__main__":
     run()
