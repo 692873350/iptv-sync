@@ -328,7 +328,6 @@ CCTV5+,http://47.97.252.137:8911/tvlive/cctv5p.m3u8?node=10
 CCTV5+,http://47.97.252.137:8911/tvlive/cctv5p.m3u8?node=11
 CCTV5+,http://47.97.252.137:8911/tvlive/cctv5p.m3u8?node=12
 CCTV5+,http://38.75.136.137:98/gslb/dsdqpub/cctv5p.m3u8?auth=tvzb260306
-严选好物,http://47.97.252.137:81/applive/yss.m3u8?app=jiashitong
 CCTV4K超高清,http://47.97.252.137:8911/daili/cctv4k.m3u8?line=0
 CCTV4K超高清,http://47.97.252.137:8911/daili/cctv4k.m3u8?line=1
 CCTV4K超高清,http://47.97.252.137:8911/tvlive/cctv4k.m3u8?node=4
@@ -447,7 +446,6 @@ CHC家庭影院,http://47.97.252.137:8911/tvlive/chcjt.m3u8?node=3
 重温经典,http://47.97.252.137:8911/tvlive/cwjd.m3u8?node=1
 重温经典,http://47.97.252.137:8911/tvlive/cwjd.m3u8?node=3
 重温经典,http://47.97.252.137:8911/tvlive/cwjd.m3u8?node=4
-美好生活,http://47.97.252.137:81/applive/byt.m3u8?app=jiashitong
 CGTN,http://47.97.252.137:8911/daili/cctvnews.m3u8?line=0
 CGTN,http://47.97.252.137:8911/daili/cctvnews.m3u8?line=1
 CGTN,http://47.97.252.137:8911/daili/cctvnews.m3u8?line=2
@@ -507,7 +505,6 @@ CGTN俄罗斯语,http://47.97.252.137:8911/daili/cctvr.m3u8?line=2
 湖南卫视,http://47.97.252.137:8911/tvlive/hnwshd.m3u8?node=7
 湖南卫视,http://47.97.252.137:8911/tvlive/hnwshd.m3u8?node=8
 湖南卫视,http://47.97.252.137:8911/tvlive/hnwshd.m3u8?node=9
-健康在线,http://47.97.252.137:81/applive/mkt.m3u8?app=jiashitong
 江苏卫视,http://47.97.252.137:8911/daili/jswshd.m3u8?line=0
 江苏卫视,http://47.97.252.137:8911/apptv/jsws.m3u8
 江苏卫视,http://47.97.252.137:8911/cdnlive/jsws.m3u8
@@ -520,7 +517,6 @@ CGTN俄罗斯语,http://47.97.252.137:8911/daili/cctvr.m3u8?line=2
 江苏卫视,http://47.97.252.137:8911/tvlive/jswshd.m3u8?node=8
 江苏卫视,http://47.97.252.137:8911/tvlive/jswshd.m3u8?node=9
 江苏卫视,http://47.97.252.137:8911/tvlive/jswshd.m3u8?node=12
-会员专享,http://47.97.252.137:81/applive/yss.m3u8?app=jiashitong
 浙江卫视,https://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
 浙江卫视,http://47.97.252.137:8911/daili/zjwshd.m3u8?line=0
 浙江卫视,http://47.97.252.137:8911/apptv/zjws.m3u8
