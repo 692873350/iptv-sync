@@ -9,12 +9,13 @@ OUTPUT_FILE = "iptv_source.txt"
 YIYI_URL = "https://raw.githubusercontent.com/fafa002/yf2025/main/yiyifafa.txt"
 
 # 从 yiyifafa.txt 提取这些分类，合并到"港澳台"
-TARGET_CATEGORIES = [
-    "AK电影,#genre#", "极速港台,#genre#", "极速港台2,#genre#",
+# 港澳台（不含AK电影）
+HK_CATEGORIES = [
+    "极速港台,#genre#", "极速港台2,#genre#",
     "四季台湾,#genre#", "四季台湾2,#genre#", "今日影视,#genre#"
 ]
-NEW_CATEGORY = "港澳台,#genre#"
-
+# 最新影院
+MOVIE_CATEGORIES = ["AK电影,#genre#"]
 AD_KEYWORDS = [
     "好物推荐", "好物分享", "健康甄选", "健康有约", "健康在线", "养生馆",
     "精品甄选", "福利多多", "严选好物", "会员专享", "美好生活",
@@ -43,23 +44,32 @@ def filter_ad(content):
     return "\n".join(out), removed
 
 def extract_categories(content):
-    """从 yiyifafa.txt 提取目标分类频道，合并到港澳台"""
     lines = content.replace("\r", "").split("\n")
-    result = [f"\n{NEW_CATEGORY}"]
-    in_target = False
-    added = 0
+    result = []
+    hk = [f"\n港澳台,#genre#"]
+    mv = [f"\n最新影院,#genre#"]
+    added_hk = 0
+    added_mv = 0
     for line in lines:
         s = line.strip()
         if not s:
             continue
         if "#genre#" in s:
-            in_target = s in TARGET_CATEGORIES
+            if s in HK_CATEGORIES:
+                target = hk
+            elif s in MOVIE_CATEGORIES:
+                target = mv
+            else:
+                target = None
             continue
-        if in_target and "," in s and "://" in s:
-            result.append(line)
-            added += 1
-    print(f"    从yiyifafa提取: {added} 个频道")
-    return "\n".join(result), added
+        if target is not None and "," in s and "://" in s:
+            target.append(line)
+            if target is hk:
+                added_hk += 1
+            else:
+                added_mv += 1
+    print(f"    港澳台: {added_hk} 个, 最新影院: {added_mv} 个")
+    return "\n".join(hk + mv), added_hk + added_mv
 
 def run():
     # 1. 拉取多米配置
