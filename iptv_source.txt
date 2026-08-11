@@ -1,0 +1,9 @@
+{
+    "ver": "100",
+    "apk": "http:\/\/1.2.3.4\/apk\/tvzb4.apk",
+    "apkDesc": "1.修复已知bug\r\n2.优化流畅度",
+    "source": "http:\/\/207.56.16.135:9999\/jsttv\/zip1\/source_20260811112920.zip",
+    "adCh": "0",
+    "pubMsg": "0",
+    "epg": "http:\/\/207.246.105.79:9999\/tv\/diyp1.php?ch={name}&date={date}"
+}
