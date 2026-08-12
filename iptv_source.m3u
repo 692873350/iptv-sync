@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://epg.pw/api/epg.xml?channel=cn" catchup="append" catchup-source="&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}"
+#EXTM3U x-tvg-url="https://live.fanmingming.cn/e.xml" catchup="append" catchup-source="&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}"
 
 # ================================== 央视 ==================================
 
