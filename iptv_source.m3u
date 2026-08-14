@@ -377,13 +377,10 @@ http://gslbmgsplive.miguvideo.com/migu/kailu/20200324/cctv17hd/51/index.m3u8?msi
 # ===== 卫视 =====
 
 #EXTINF:-1 tvg-id="" tvg-name="湖南卫视" tvg-logo="",group-title="卫视",湖南卫视
-http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
+http://111.29.9.33:6610/000000001000/1000000001000009115/index.m3u8?channel-id=bestzb&Contentid=1000000001000009115&livemode=1&stbId=3
 
 #EXTINF:-1 tvg-id="" tvg-name="湖南卫视" tvg-logo="",group-title="卫视",湖南卫视
 http://go.bkpcp.top/mg/hunws
-
-#EXTINF:-1 tvg-id="" tvg-name="湖南卫视" tvg-logo="",group-title="卫视",湖南卫视
-http://111.29.9.33:6610/000000001000/1000000001000009115/index.m3u8?channel-id=bestzb&Contentid=1000000001000009115&livemode=1&stbId=3
 
 #EXTINF:-1 tvg-id="" tvg-name="湖南卫视" tvg-logo="",group-title="卫视",湖南卫视
 http://m.061899.xyz/mg/hunws
@@ -490,6 +487,15 @@ http://115.29.208.41:23001/live/1408.m3u8
 
 # ===== 广东频道 =====
 
+#EXTINF:-1 tvg-id="" tvg-name="广州综合" tvg-logo="",group-title="广东频道",广州综合
+https://168.sryze.cc/163189/gzzh
+
+#EXTINF:-1 tvg-id="" tvg-name="广州新闻" tvg-logo="",group-title="广东频道",广州新闻
+https://168.sryze.cc/163189/gzxw
+
+#EXTINF:-1 tvg-id="" tvg-name="深圳都市" tvg-logo="",group-title="广东频道",深圳都市
+http://livepull-tcms.sztv.com.cn/live/dslive.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="汕头综合" tvg-logo="",group-title="广东频道",汕头综合
 http://129.211.14.102:25000/gdst.php?id=st1&token=www.9kds.com
 
@@ -507,6 +513,30 @@ http://livezhpd.czbtv.com:38880/live/ctvzhpd.m3u8?secret=czbtv20250301
 
 #EXTINF:-1 tvg-id="" tvg-name="潮州民生" tvg-logo="",group-title="广东频道",潮州民生
 http://livezhpd.czbtv.com:38880/live/ggpd.m3u8?secret=czbtv20250301
+
+#EXTINF:-1 tvg-id="" tvg-name="广州综合" tvg-logo="",group-title="广东频道",广州综合
+https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=f0147ae6453a80f5989f382368b72aad&txTime=18d00acf487
+
+#EXTINF:-1 tvg-id="" tvg-name="广州新闻" tvg-logo="",group-title="广东频道",广州新闻
+https://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=6f73647cae387d01a3c2132074132a83&txTime=18d00acf487
+
+#EXTINF:-1 tvg-id="" tvg-name="深圳卫视" tvg-logo="",group-title="广东频道",深圳卫视
+http://nn.7x9d.cn/深圳最新.php?id=szws4k
+
+#EXTINF:-1 tvg-id="" tvg-name="深圳都市" tvg-logo="",group-title="广东频道",深圳都市
+http://nn.7x9d.cn/深圳最新.php?id=szds
+
+#EXTINF:-1 tvg-id="" tvg-name="深圳电视剧" tvg-logo="",group-title="广东频道",深圳电视剧
+http://nn.7x9d.cn/深圳最新.php?id=szdsj
+
+#EXTINF:-1 tvg-id="" tvg-name="深圳财经生活" tvg-logo="",group-title="广东频道",深圳财经生活
+http://nn.7x9d.cn/深圳最新.php?id=szcjsh
+
+#EXTINF:-1 tvg-id="" tvg-name="深圳少儿" tvg-logo="",group-title="广东频道",深圳少儿
+http://nn.7x9d.cn/深圳最新.php?id=szse
+
+#EXTINF:-1 tvg-id="" tvg-name="深圳国际" tvg-logo="",group-title="广东频道",深圳国际
+http://nn.7x9d.cn/深圳最新.php?id=szgj
 
 #EXTINF:-1 tvg-id="" tvg-name="揭阳综合" tvg-logo="",group-title="广东频道",揭阳综合
 http://119.29.142.81:4022/udp/239.77.0.229:5146
@@ -777,6 +807,33 @@ http://61.145.188.90:50055/udp/239.253.43.70:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="潮州民生" tvg-logo="",group-title="广东频道",潮州民生
 http://61.145.188.90:50055/udp/239.253.43.75:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="深圳卫视" tvg-logo="",group-title="广东频道",深圳卫视
+http://111.221.137.234:44330/tsfile/live/1013_1.m3u8?key=txiptv&playlive=0&authid=0
+
+#EXTINF:-1 tvg-id="" tvg-name="深圳都市" tvg-logo="",group-title="广东频道",深圳都市
+http://111.221.137.234:44330/tsfile/live/1014_1.m3u8?key=txiptv&playlive=0&authid=0
+
+#EXTINF:-1 tvg-id="" tvg-name="深圳电视剧" tvg-logo="",group-title="广东频道",深圳电视剧
+http://111.221.137.234:44330/tsfile/live/1015_1.m3u8?key=txiptv&playlive=0&authid=0
+
+#EXTINF:-1 tvg-id="" tvg-name="深圳财经生活" tvg-logo="",group-title="广东频道",深圳财经生活
+http://111.221.137.234:44330/tsfile/live/1007_1.m3u8?key=txiptv&playlive=0&authid=0
+
+#EXTINF:-1 tvg-id="" tvg-name="深圳卫视" tvg-logo="",group-title="广东频道",深圳卫视
+http://120.87.19.109:80/PLTV/88888973/224/3221225692/10000100000000060000000000333949_0.smil/01.m3u8?fmt=ts2hls,244,01.m3u8&accountinfo=UoQbCSdhOfs+Fhzpjb+WON1faRQ9pU15SBx6EULzJM/q63EjPL5/UXSVfEKzDq3xFGzcqVLw9DhXsfPc5tj3VwWZ1F4+6A1eDkDeh5XZlpvpn23wIF+ldb6dnBPa8zHj,END&tenantId=8601
+
+#EXTINF:-1 tvg-id="" tvg-name="深圳卫视" tvg-logo="",group-title="广东频道",深圳卫视
+http://120.87.19.109:80/PLTV/88888973/224/3221225708/10000100000000060000000000334657_0.smil/01.m3u8?fmt=ts2hls,244,01.m3u8&accountinfo=UoQbCSdhOfs+Fhzpjb+WON1faRQ9pU15SBx6EULzJM/q63EjPL5/UXSVfEKzDq3xZox2lUBTeY7VmKWJJTAIBAWZ1F4+6A1eDkDeh5XZlpvpn23wIF+ldb6dnBPa8zHj,END&tenantId=8601
+
+#EXTINF:-1 tvg-id="" tvg-name="深圳卫视" tvg-logo="",group-title="广东频道",深圳卫视
+http://120.87.19.109:80/PLTV/88888973/224/3221226683/371164180.smil/01.m3u8?fmt=ts2hls,244,01.m3u8&accountinfo=BAu/5zTaVrkoGICQ1wEADu6V6NhLgGOptRgdVhrCQe7m9ZdRmhvNMrOvsUD5pWqRagl35Cq2uM1J4ThcF3xx0gH/EWyiXZ+X9W27D2TV7vWTPfznWbMXUWJ+TPvJfJCC,END&tenantId=8601
+
+#EXTINF:-1 tvg-id="" tvg-name="深圳卫视" tvg-logo="",group-title="广东频道",深圳卫视
+http://120.87.19.109:80/PLTV/88888973/224/3221226683/371164180.smil/01.m3u8?fmt=ts2hls,1,01.m3u8&rrsip=120.87.4.103:80&zoneoffset=0&servicetype=1&icpid=&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=ZErBHdoicx6KA8k34VvsyxmZWqqhmoqWnjwSzvmAgjq8m6DMrBjwBDjtfkmBgyvoi2n%2FkYZZroy5c4pnOUwIFy%2B%2FkIAavci9z%2FLJPqxg7dZGAMCQWKP%2FVYv0YgXiGkmJ%3A20260214223934%2C10500001346793%2C27.45.45.191%2C20260214223934%2Curn%3AHuawei%3AliveTV%3AXTV371164179%2C10001000211336%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C371164180%2CEND&GuardEncType=2
+
+#EXTINF:-1 tvg-id="" tvg-name="深圳卫视" tvg-logo="",group-title="广东频道",深圳卫视
+http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226688/1.m3u8
 
 
 # ===== 港澳台频道 =====
@@ -1543,9 +1600,6 @@ http://4gtv.cnlive.club/channel/n1ecb3c7f/index.m3u8?q=1782639885837
 
 # ===== 少儿频道 =====
 
-#EXTINF:-1 tvg-id="" tvg-name="EBS少儿" tvg-logo="",group-title="少儿频道",EBS少儿
-http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="金鹰卡通" tvg-logo="",group-title="少儿频道",金鹰卡通
 http://111.29.9.33:6610/000000001000/5000000006000040024/index.m3u8?channel-id=bestzb&Contentid=5000000006000040024&livemode=1&stbId=3
 
@@ -1554,9 +1608,6 @@ http://111.29.9.33:6610/000000001000/5000000011000031123/index.m3u8?channel-id=b
 
 #EXTINF:-1 tvg-id="" tvg-name="嘉佳卡通" tvg-logo="",group-title="少儿频道",嘉佳卡通
 http://111.29.9.33:6610/000000001000/1000000002000025964/index.m3u8?channel-id=bestzb&Contentid=1000000002000025964&livemode=1&stbId=3
-
-#EXTINF:-1 tvg-id="" tvg-name="黑莓动画" tvg-logo="",group-title="少儿频道",黑莓动画
-http://111.29.9.33:6610/000000001000/1000000004000021734/index.m3u8?channel-id=bestzb&Contentid=1000000004000021734&livemode=1&stbId=3
 
 #EXTINF:-1 tvg-id="" tvg-name="动漫秀场" tvg-logo="",group-title="少儿频道",动漫秀场
 http://111.29.9.33:6610/000000001000/5000000011000031113/index.m3u8?channel-id=bestzb&Contentid=5000000011000031113&livemode=1&stbId=3
@@ -1573,9 +1624,6 @@ http://k.061899.xyz/k.php?id=jjkt
 #EXTINF:-1 tvg-id="" tvg-name="卡酷少儿" tvg-logo="",group-title="少儿频道",卡酷少儿
 http://k.061899.xyz/k.php?id=bjkk
 
-#EXTINF:-1 tvg-id="" tvg-name="经典动画大集合" tvg-logo="",group-title="少儿频道",经典动画大集合
-http://k.061899.xyz/k.php?id=dhdjh
-
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-14少儿" tvg-logo="",group-title="少儿频道",CCTV-14少儿
 http://j.s.bkpcp.top/jj/cctv14
 
@@ -1590,9 +1638,6 @@ http://wfenf.x3322.net:7788/962067523
 
 #EXTINF:-1 tvg-id="" tvg-name="嘉佳卡通" tvg-logo="",group-title="少儿频道",嘉佳卡通
 http://wfenf.x3322.net:7788/614952364
-
-#EXTINF:-1 tvg-id="" tvg-name="经典动画大集合" tvg-logo="",group-title="少儿频道",经典动画大集合
-http://wfenf.x3322.net:7788/629942219
 
 #EXTINF:-1 tvg-id="" tvg-name="新动漫" tvg-logo="",group-title="少儿频道",新动漫
 http://wfenf.x3322.net:7788/961930269
@@ -1609,9 +1654,6 @@ http://www.ikerobot.com:1234/962067523
 #EXTINF:-1 tvg-id="" tvg-name="嘉佳卡通" tvg-logo="",group-title="少儿频道",嘉佳卡通
 http://www.ikerobot.com:1234/614952364
 
-#EXTINF:-1 tvg-id="" tvg-name="经典动画大集合" tvg-logo="",group-title="少儿频道",经典动画大集合
-http://www.ikerobot.com:1234/629942219
-
 #EXTINF:-1 tvg-id="" tvg-name="新动漫" tvg-logo="",group-title="少儿频道",新动漫
 http://www.ikerobot.com:1234/961930269
 
@@ -1626,9 +1668,6 @@ http://p.08top.top:8088/962067523
 
 #EXTINF:-1 tvg-id="" tvg-name="嘉佳卡通" tvg-logo="",group-title="少儿频道",嘉佳卡通
 http://p.08top.top:8088/614952364
-
-#EXTINF:-1 tvg-id="" tvg-name="经典动画大集合" tvg-logo="",group-title="少儿频道",经典动画大集合
-http://p.08top.top:8088/629942219
 
 #EXTINF:-1 tvg-id="" tvg-name="新动漫" tvg-logo="",group-title="少儿频道",新动漫
 http://p.08top.top:8088/961930269
@@ -1825,12 +1864,6 @@ https://live.264788.xyz/channel/dongmanxiuchang?streamid=27aaba95be137dfaffb7305
 #EXTINF:-1 tvg-id="" tvg-name="动漫秀场" tvg-logo="",group-title="少儿频道",动漫秀场
 https://live.264788.xyz/channel/dongmanxiuchang?streamid=03e61bd70c969d8c285a59c0b6dbab87&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 
-#EXTINF:-1 tvg-id="" tvg-name="黑莓动画" tvg-logo="",group-title="少儿频道",黑莓动画
-https://live.264788.xyz/channel/heimeidonghua?streamid=7e2280fb52eae0bc10c4fa7c703196ae&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-
-#EXTINF:-1 tvg-id="" tvg-name="黑莓动画" tvg-logo="",group-title="少儿频道",黑莓动画
-https://live.264788.xyz/channel/heimeidonghua?streamid=e28cd42e24738c192f5bf90ad9b909da&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-
 #EXTINF:-1 tvg-id="" tvg-name="福建少儿" tvg-logo="",group-title="少儿频道",福建少儿
 https://live.264788.xyz/channel/fujianshaoer?streamid=98ccc174671e43f0e307e3445e59e2b5&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 
@@ -1920,282 +1953,6 @@ http://115.29.208.41:23001/live/1732.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="KAKU少儿" tvg-logo="",group-title="少儿频道",KAKU少儿
 http://115.29.208.41:23001/live/1259.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="猫和老鼠" tvg-logo="",group-title="少儿频道",猫和老鼠
-https://www.goodiptv.club/huya/11352879
-
-#EXTINF:-1 tvg-id="" tvg-name="哆啦A梦" tvg-logo="",group-title="少儿频道",哆啦A梦
-https://www.goodiptv.club/huya/11601963
-
-#EXTINF:-1 tvg-id="" tvg-name="茶啊二中动画" tvg-logo="",group-title="少儿频道",茶啊二中动画
-https://www.goodiptv.club/huya/11213191
-
-#EXTINF:-1 tvg-id="" tvg-name="航海王动漫" tvg-logo="",group-title="少儿频道",航海王动漫
-https://www.goodiptv.club/huya/16913382
-
-#EXTINF:-1 tvg-id="" tvg-name="七龙珠动漫" tvg-logo="",group-title="少儿频道",七龙珠动漫
-https://www.goodiptv.club/huya/11601966
-
-#EXTINF:-1 tvg-id="" tvg-name="中华小当家动漫" tvg-logo="",group-title="少儿频道",中华小当家动漫
-https://www.goodiptv.club/huya/11342413
-
-#EXTINF:-1 tvg-id="" tvg-name="晓葵动漫花园o(❁´◡`❁)o" tvg-logo="",group-title="少儿频道",晓葵动漫花园o(❁´◡`❁)o
-https://www.goodiptv.club/douyu/426517
-
-#EXTINF:-1 tvg-id="" tvg-name="【动漫】超燃 怀旧 经典" tvg-logo="",group-title="少儿频道",【动漫】超燃 怀旧 经典
-https://www.goodiptv.club/douyu/1174353
-
-#EXTINF:-1 tvg-id="" tvg-name="【Hunter】动漫 热血 老贼 冒险" tvg-logo="",group-title="少儿频道",【Hunter】动漫 热血 老贼 冒险
-https://www.goodiptv.club/douyu/6610883
-
-#EXTINF:-1 tvg-id="" tvg-name="【樱花道灌篮】HP动漫精彩解说" tvg-logo="",group-title="少儿频道",【樱花道灌篮】HP动漫精彩解说
-https://www.goodiptv.club/douyu/9837291
-
-#EXTINF:-1 tvg-id="" tvg-name="【拳叔】那些经典的动漫" tvg-logo="",group-title="少儿频道",【拳叔】那些经典的动漫
-https://www.goodiptv.club/douyu/9484105
-
-#EXTINF:-1 tvg-id="" tvg-name="【茶啊二中】好看的动画" tvg-logo="",group-title="少儿频道",【茶啊二中】好看的动画
-https://www.goodiptv.club/douyu/2925610
-
-#EXTINF:-1 tvg-id="" tvg-name="战斗吧热血动漫全看" tvg-logo="",group-title="少儿频道",战斗吧热血动漫全看
-https://www.goodiptv.club/douyu/9641152
-
-#EXTINF:-1 tvg-id="" tvg-name="爆笑解说各种动漫" tvg-logo="",group-title="少儿频道",爆笑解说各种动漫
-https://www.goodiptv.club/douyu/2365
-
-#EXTINF:-1 tvg-id="" tvg-name="【小叮当】童年经典动画片" tvg-logo="",group-title="少儿频道",【小叮当】童年经典动画片
-https://www.goodiptv.club/douyu/9445279
-
-#EXTINF:-1 tvg-id="" tvg-name="听听歌，看绝美动漫场景" tvg-logo="",group-title="少儿频道",听听歌，看绝美动漫场景
-https://www.goodiptv.club/douyu/9191790
-
-#EXTINF:-1 tvg-id="" tvg-name="原创惊悚恐怖动漫" tvg-logo="",group-title="少儿频道",原创惊悚恐怖动漫
-https://www.goodiptv.club/douyu/9312460
-
-#EXTINF:-1 tvg-id="" tvg-name="【久远酱】动漫解说，进来就对了" tvg-logo="",group-title="少儿频道",【久远酱】动漫解说，进来就对了
-https://www.goodiptv.club/douyu/9046649
-
-#EXTINF:-1 tvg-id="" tvg-name="流小象   爆笑配音动画" tvg-logo="",group-title="少儿频道",流小象   爆笑配音动画
-https://www.goodiptv.club/douyu/2441228
-
-#EXTINF:-1 tvg-id="" tvg-name="带您进入崎L的动漫小屋" tvg-logo="",group-title="少儿频道",带您进入崎L的动漫小屋
-https://www.goodiptv.club/douyu/9409703
-
-#EXTINF:-1 tvg-id="" tvg-name="动漫搞笑配音" tvg-logo="",group-title="少儿频道",动漫搞笑配音
-https://www.goodiptv.club/douyu/9650181
-
-#EXTINF:-1 tvg-id="" tvg-name="带您进入神之传说的动漫小屋" tvg-logo="",group-title="少儿频道",带您进入神之传说的动漫小屋
-https://www.goodiptv.club/douyu/9370168
-
-#EXTINF:-1 tvg-id="" tvg-name="带您进入Fatal飞雪的动漫小屋" tvg-logo="",group-title="少儿频道",带您进入Fatal飞雪的动漫小屋
-https://www.goodiptv.club/douyu/8813596
-
-#EXTINF:-1 tvg-id="" tvg-name="带您进入永无止境的动漫小屋" tvg-logo="",group-title="少儿频道",带您进入永无止境的动漫小屋
-https://www.goodiptv.club/douyu/9442980
-
-#EXTINF:-1 tvg-id="" tvg-name="带您进入动画魂的动漫小屋" tvg-logo="",group-title="少儿频道",带您进入动画魂的动漫小屋
-https://www.goodiptv.club/douyu/9393242
-
-#EXTINF:-1 tvg-id="" tvg-name="17号说动漫热血解说" tvg-logo="",group-title="少儿频道",17号说动漫热血解说
-https://www.goodiptv.club/douyu/9822277
-
-#EXTINF:-1 tvg-id="" tvg-name="动漫新番看这里，包子解说" tvg-logo="",group-title="少儿频道",动漫新番看这里，包子解说
-https://www.goodiptv.club/douyu/9028721
-
-#EXTINF:-1 tvg-id="" tvg-name="带您进入5毒士的动漫小屋" tvg-logo="",group-title="少儿频道",带您进入5毒士的动漫小屋
-https://www.goodiptv.club/douyu/9406600
-
-#EXTINF:-1 tvg-id="" tvg-name="动漫混剪放映厅" tvg-logo="",group-title="少儿频道",动漫混剪放映厅
-https://www.goodiptv.club/douyu/9191006
-
-#EXTINF:-1 tvg-id="" tvg-name="喜欢二次元动漫就点进来吧" tvg-logo="",group-title="少儿频道",喜欢二次元动漫就点进来吧
-https://www.goodiptv.club/douyu/4285043
-
-#EXTINF:-1 tvg-id="" tvg-name="老sao的沙雕动漫解说" tvg-logo="",group-title="少儿频道",老sao的沙雕动漫解说
-https://www.goodiptv.club/douyu/8833450
-
-#EXTINF:-1 tvg-id="" tvg-name="带您走进心史酱动漫的小屋" tvg-logo="",group-title="少儿频道",带您走进心史酱动漫的小屋
-https://www.goodiptv.club/douyu/9488056
-
-#EXTINF:-1 tvg-id="" tvg-name="乐儿陪你看动漫" tvg-logo="",group-title="少儿频道",乐儿陪你看动漫
-https://www.goodiptv.club/douyu/8221699
-
-#EXTINF:-1 tvg-id="" tvg-name="动漫推荐官方直播间" tvg-logo="",group-title="少儿频道",动漫推荐官方直播间
-https://www.goodiptv.club/douyu/5187099
-
-#EXTINF:-1 tvg-id="" tvg-name="【动漫】记录你的王者峡谷生活" tvg-logo="",group-title="少儿频道",【动漫】记录你的王者峡谷生活
-https://www.goodiptv.club/douyu/9360149
-
-#EXTINF:-1 tvg-id="" tvg-name="【娴娜酱】带你一起看动漫" tvg-logo="",group-title="少儿频道",【娴娜酱】带你一起看动漫
-https://www.goodiptv.club/douyu/9445557
-
-#EXTINF:-1 tvg-id="" tvg-name="动漫配音 安排安排" tvg-logo="",group-title="少儿频道",动漫配音 安排安排
-https://www.goodiptv.club/douyu/4049310
-
-#EXTINF:-1 tvg-id="" tvg-name="动漫杂谈放送" tvg-logo="",group-title="少儿频道",动漫杂谈放送
-https://www.goodiptv.club/douyu/5124602
-
-#EXTINF:-1 tvg-id="" tvg-name="关羽猬动漫剧场" tvg-logo="",group-title="少儿频道",关羽猬动漫剧场
-https://www.goodiptv.club/douyu/8820996
-
-#EXTINF:-1 tvg-id="" tvg-name="带您进入YIKa777的动漫小屋" tvg-logo="",group-title="少儿频道",带您进入YIKa777的动漫小屋
-https://www.goodiptv.club/douyu/8868213
-
-#EXTINF:-1 tvg-id="" tvg-name="【托尔纳桃花剑】动漫特设反复横跳" tvg-logo="",group-title="少儿频道",【托尔纳桃花剑】动漫特设反复横跳
-https://www.goodiptv.club/douyu/8896743
-
-#EXTINF:-1 tvg-id="" tvg-name="【前女友】动漫了解一个" tvg-logo="",group-title="少儿频道",【前女友】动漫了解一个
-https://www.goodiptv.club/douyu/8896746
-
-#EXTINF:-1 tvg-id="" tvg-name="带您进入安琪儿的翅膀的动漫小屋" tvg-logo="",group-title="少儿频道",带您进入安琪儿的翅膀的动漫小屋
-https://www.goodiptv.club/douyu/9388783
-
-#EXTINF:-1 tvg-id="" tvg-name="带您进入少年阿虎的动漫小屋" tvg-logo="",group-title="少儿频道",带您进入少年阿虎的动漫小屋
-https://www.goodiptv.club/douyu/9396762
-
-#EXTINF:-1 tvg-id="" tvg-name="齐木楠雄陪你看动漫" tvg-logo="",group-title="少儿频道",齐木楠雄陪你看动漫
-https://www.goodiptv.club/douyu/9415755
-
-#EXTINF:-1 tvg-id="" tvg-name="带您进入忆样的动漫小屋" tvg-logo="",group-title="少儿频道",带您进入忆样的动漫小屋
-https://www.goodiptv.club/douyu/9455518
-
-#EXTINF:-1 tvg-id="" tvg-name="带您进入潜伏的动漫小屋" tvg-logo="",group-title="少儿频道",带您进入潜伏的动漫小屋
-https://www.goodiptv.club/douyu/9458345
-
-#EXTINF:-1 tvg-id="" tvg-name="带您进入LCPD拉登的动画世界" tvg-logo="",group-title="少儿频道",带您进入LCPD拉登的动画世界
-https://www.goodiptv.club/douyu/9503015
-
-#EXTINF:-1 tvg-id="" tvg-name="带您进入潇洒公子的动漫小屋" tvg-logo="",group-title="少儿频道",带您进入潇洒公子的动漫小屋
-https://www.goodiptv.club/douyu/9535657
-
-#EXTINF:-1 tvg-id="" tvg-name="枫狂吐槽的动漫推荐没番看就进来吧" tvg-logo="",group-title="少儿频道",枫狂吐槽的动漫推荐没番看就进来吧
-https://www.goodiptv.club/douyu/9541849
-
-#EXTINF:-1 tvg-id="" tvg-name="立即动画的直播间" tvg-logo="",group-title="少儿频道",立即动画的直播间
-https://www.goodiptv.club/douyu/10351891
-
-#EXTINF:-1 tvg-id="" tvg-name="阚酱盘动漫的直播间" tvg-logo="",group-title="少儿频道",阚酱盘动漫的直播间
-https://www.goodiptv.club/douyu/9547575
-
-#EXTINF:-1 tvg-id="" tvg-name="带您进入华白雨的动漫小屋" tvg-logo="",group-title="少儿频道",带您进入华白雨的动漫小屋
-https://www.goodiptv.club/douyu/9495454
-
-#EXTINF:-1 tvg-id="" tvg-name="【草泥泥影院】每日解说欧美高分动画" tvg-logo="",group-title="少儿频道",【草泥泥影院】每日解说欧美高分动画
-https://www.goodiptv.club/douyu/9091049
-
-#EXTINF:-1 tvg-id="" tvg-name="童年经典动漫讲解" tvg-logo="",group-title="少儿频道",童年经典动漫讲解
-https://www.goodiptv.club/douyu/9734515
-
-#EXTINF:-1 tvg-id="" tvg-name="最好看的搞笑篮球动漫" tvg-logo="",group-title="少儿频道",最好看的搞笑篮球动漫
-https://www.goodiptv.club/douyu/9401305
-
-#EXTINF:-1 tvg-id="" tvg-name="二次元fans鹿鹿~鹿鹿陪你看动漫" tvg-logo="",group-title="少儿频道",二次元fans鹿鹿~鹿鹿陪你看动漫
-https://www.goodiptv.club/douyu/8661526
-
-#EXTINF:-1 tvg-id="" tvg-name="动画大师姐的直播间" tvg-logo="",group-title="少儿频道",动画大师姐的直播间
-https://www.goodiptv.club/douyu/9742136
-
-#EXTINF:-1 tvg-id="" tvg-name="来看热血动漫" tvg-logo="",group-title="少儿频道",来看热血动漫
-https://www.goodiptv.club/douyu/9931766
-
-#EXTINF:-1 tvg-id="" tvg-name="带您走进侯瑶瑶的动漫绘画世界" tvg-logo="",group-title="少儿频道",带您走进侯瑶瑶的动漫绘画世界
-https://www.goodiptv.club/douyu/9450568
-
-#EXTINF:-1 tvg-id="" tvg-name="带您进入白鱼Sakana的动漫小屋" tvg-logo="",group-title="少儿频道",带您进入白鱼Sakana的动漫小屋
-https://www.goodiptv.club/douyu/9611771
-
-#EXTINF:-1 tvg-id="" tvg-name="【经典动漫】 9455567" tvg-logo="",group-title="少儿频道",【经典动漫】 9455567
-https://www.goodiptv.club/douyu/9455567
-
-#EXTINF:-1 tvg-id="" tvg-name="【有超超】那些童年回忆的动画" tvg-logo="",group-title="少儿频道",【有超超】那些童年回忆的动画
-https://www.goodiptv.club/douyu/9665484
-
-#EXTINF:-1 tvg-id="" tvg-name="动漫二次元#补番推荐#" tvg-logo="",group-title="少儿频道",动漫二次元#补番推荐#
-https://www.goodiptv.club/douyu/9429545
-
-#EXTINF:-1 tvg-id="" tvg-name="动漫精彩混剪，令人极为舒适的踩点衔接" tvg-logo="",group-title="少儿频道",动漫精彩混剪，令人极为舒适的踩点衔接
-https://www.goodiptv.club/douyu/9192852
-
-#EXTINF:-1 tvg-id="" tvg-name="动漫女神儿  每日更新" tvg-logo="",group-title="少儿频道",动漫女神儿  每日更新
-https://www.goodiptv.club/douyu/9439594
-
-#EXTINF:-1 tvg-id="" tvg-name="mzx阿哲   动漫杂谈" tvg-logo="",group-title="少儿频道",mzx阿哲   动漫杂谈
-https://www.goodiptv.club/douyu/9483965
-
-#EXTINF:-1 tvg-id="" tvg-name="冷门动漫解说" tvg-logo="",group-title="少儿频道",冷门动漫解说
-https://www.goodiptv.club/douyu/9064711
-
-#EXTINF:-1 tvg-id="" tvg-name="带您进入皮皮动漫星球的动漫小屋" tvg-logo="",group-title="少儿频道",带您进入皮皮动漫星球的动漫小屋
-https://www.goodiptv.club/douyu/8841920
-
-#EXTINF:-1 tvg-id="" tvg-name="三新动漫的直播间" tvg-logo="",group-title="少儿频道",三新动漫的直播间
-https://www.goodiptv.club/douyu/9548279
-
-#EXTINF:-1 tvg-id="" tvg-name="放学后联盟 | 协同动画工作室" tvg-logo="",group-title="少儿频道",放学后联盟 | 协同动画工作室
-https://www.goodiptv.club/douyu/9543361
-
-#EXTINF:-1 tvg-id="" tvg-name="带您进入孙十一的动漫小屋" tvg-logo="",group-title="少儿频道",带您进入孙十一的动漫小屋
-https://www.goodiptv.club/douyu/9619048
-
-#EXTINF:-1 tvg-id="" tvg-name="是小x同学呀  原创动画的世界" tvg-logo="",group-title="少儿频道",是小x同学呀  原创动画的世界
-https://www.goodiptv.club/douyu/9415020
-
-#EXTINF:-1 tvg-id="" tvg-name="千代语默的动漫世界" tvg-logo="",group-title="少儿频道",千代语默的动漫世界
-https://www.goodiptv.club/douyu/9484187
-
-#EXTINF:-1 tvg-id="" tvg-name="带您进入粽子酱的动漫小屋" tvg-logo="",group-title="少儿频道",带您进入粽子酱的动漫小屋
-https://www.goodiptv.club/douyu/9390685
-
-#EXTINF:-1 tvg-id="" tvg-name="小姐姐详细解说动漫" tvg-logo="",group-title="少儿频道",小姐姐详细解说动漫
-https://www.goodiptv.club/douyu/9674566
-
-#EXTINF:-1 tvg-id="" tvg-name="【动漫盘点+老番补番】动漫片段24h轮播" tvg-logo="",group-title="少儿频道",【动漫盘点+老番补番】动漫片段24h轮播
-https://www.goodiptv.club/douyu/9199976
-
-#EXTINF:-1 tvg-id="" tvg-name="带您进入鸡蛋糕的动漫小屋" tvg-logo="",group-title="少儿频道",带您进入鸡蛋糕的动漫小屋
-https://www.goodiptv.club/douyu/9367188
-
-#EXTINF:-1 tvg-id="" tvg-name="带您进入滑稽中二楼的动漫小屋" tvg-logo="",group-title="少儿频道",带您进入滑稽中二楼的动漫小屋
-https://www.goodiptv.club/douyu/8829706
-
-#EXTINF:-1 tvg-id="" tvg-name="补番推荐、动漫吐槽老二次元了" tvg-logo="",group-title="少儿频道",补番推荐、动漫吐槽老二次元了
-https://www.goodiptv.club/douyu/9272043
-
-#EXTINF:-1 tvg-id="" tvg-name="看动画听听歌" tvg-logo="",group-title="少儿频道",看动画听听歌
-https://www.goodiptv.club/douyu/9506782
-
-#EXTINF:-1 tvg-id="" tvg-name="你也爱看动漫吗？" tvg-logo="",group-title="少儿频道",你也爱看动漫吗？
-https://www.goodiptv.club/douyu/9564766
-
-#EXTINF:-1 tvg-id="" tvg-name="动漫" tvg-logo="",group-title="少儿频道",动漫
-https://www.goodiptv.club/yy/23993334
-
-#EXTINF:-1 tvg-id="" tvg-name="动漫" tvg-logo="",group-title="少儿频道",动漫
-https://www.goodiptv.club/yy/25055036
-
-#EXTINF:-1 tvg-id="" tvg-name="动漫" tvg-logo="",group-title="少儿频道",动漫
-https://www.goodiptv.club/yy/26664495
-
-#EXTINF:-1 tvg-id="" tvg-name="动漫" tvg-logo="",group-title="少儿频道",动漫
-https://www.goodiptv.club/yy/1354143938
-
-#EXTINF:-1 tvg-id="" tvg-name="动漫" tvg-logo="",group-title="少儿频道",动漫
-https://www.goodiptv.club/yy/1382747970
-
-#EXTINF:-1 tvg-id="" tvg-name="动漫" tvg-logo="",group-title="少儿频道",动漫
-https://www.goodiptv.club/yy/1354768831
-
-#EXTINF:-1 tvg-id="" tvg-name="国漫动漫" tvg-logo="",group-title="少儿频道",国漫动漫
-https://www.goodiptv.club/yy/1354768828
-
-#EXTINF:-1 tvg-id="" tvg-name="动漫《火影疾风传》" tvg-logo="",group-title="少儿频道",动漫《火影疾风传》
-https://www.goodiptv.club/yy/1459675153
-
-#EXTINF:-1 tvg-id="" tvg-name="精彩动漫" tvg-logo="",group-title="少儿频道",精彩动漫
-https://www.goodiptv.club/yy/1420843376
-
-#EXTINF:-1 tvg-id="" tvg-name="动漫" tvg-logo="",group-title="少儿频道",动漫
-https://www.goodiptv.club/yy/22777075
 
 #EXTINF:-1 tvg-id="" tvg-name="动漫声音萝莉萌妹" tvg-logo="",group-title="少儿频道",动漫声音萝莉萌妹
 https://server17.xsmj10.com/video/m3u8/202506/13/2920dff9eee3/playlist.m3u8
@@ -2574,75 +2331,6 @@ http://115.29.208.41:23001/live/1508.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="魅力足球" tvg-logo="",group-title="运动频道",魅力足球
 http://115.29.208.41:23001/live/1737.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="黑子的篮球" tvg-logo="",group-title="运动频道",黑子的篮球
-https://www.goodiptv.club/huya/30080253
-
-#EXTINF:-1 tvg-id="" tvg-name="网球王子" tvg-logo="",group-title="运动频道",网球王子
-https://www.goodiptv.club/huya/11352882
-
-#EXTINF:-1 tvg-id="" tvg-name="【体育】聊聊科比、乔丹传奇故事" tvg-logo="",group-title="运动频道",【体育】聊聊科比、乔丹传奇故事
-https://www.goodiptv.club/douyu/8434598
-
-#EXTINF:-1 tvg-id="" tvg-name="【路亚钓鱼】韩国美女在线钓鱼" tvg-logo="",group-title="运动频道",【路亚钓鱼】韩国美女在线钓鱼
-https://www.goodiptv.club/douyu/10616765
-
-#EXTINF:-1 tvg-id="" tvg-name="篮球集锦速递" tvg-logo="",group-title="运动频道",篮球集锦速递
-https://www.goodiptv.club/douyu/9399887
-
-#EXTINF:-1 tvg-id="" tvg-name="二毛荒野垂钓生活" tvg-logo="",group-title="运动频道",二毛荒野垂钓生活
-https://www.goodiptv.club/douyu/10007687
-
-#EXTINF:-1 tvg-id="" tvg-name="有温度的篮球厂牌" tvg-logo="",group-title="运动频道",有温度的篮球厂牌
-https://www.goodiptv.club/douyu/9367541
-
-#EXTINF:-1 tvg-id="" tvg-name="两个大麻瓜的沙雕钓鱼日常" tvg-logo="",group-title="运动频道",两个大麻瓜的沙雕钓鱼日常
-https://www.goodiptv.club/douyu/10121755
-
-#EXTINF:-1 tvg-id="" tvg-name="钓鱼人最后的挣扎" tvg-logo="",group-title="运动频道",钓鱼人最后的挣扎
-https://www.goodiptv.club/douyu/9570290
-
-#EXTINF:-1 tvg-id="" tvg-name="【钓鱼】最专业的路亚钓法" tvg-logo="",group-title="运动频道",【钓鱼】最专业的路亚钓法
-https://www.goodiptv.club/douyu/9974427
-
-#EXTINF:-1 tvg-id="" tvg-name="篮球小人物的直播间" tvg-logo="",group-title="运动频道",篮球小人物的直播间
-https://www.goodiptv.club/douyu/9184257
-
-#EXTINF:-1 tvg-id="" tvg-name="篮球直播间 10228726" tvg-logo="",group-title="运动频道",篮球直播间 10228726
-https://www.goodiptv.club/douyu/10228726
-
-#EXTINF:-1 tvg-id="" tvg-name="每天一分钟，笑侃体坛篮球那些事" tvg-logo="",group-title="运动频道",每天一分钟，笑侃体坛篮球那些事
-https://www.goodiptv.club/douyu/9170147
-
-#EXTINF:-1 tvg-id="" tvg-name="一起看台球那些人" tvg-logo="",group-title="运动频道",一起看台球那些人
-https://www.goodiptv.club/douyu/10078171
-
-#EXTINF:-1 tvg-id="" tvg-name="书岳钓鱼的直播间" tvg-logo="",group-title="运动频道",书岳钓鱼的直播间
-https://www.goodiptv.club/douyu/10100206
-
-#EXTINF:-1 tvg-id="" tvg-name="Melo的健身课堂的直播间" tvg-logo="",group-title="运动频道",Melo的健身课堂的直播间
-https://www.goodiptv.club/douyu/9306609
-
-#EXTINF:-1 tvg-id="" tvg-name="带您进入不会骑马的健身少年的日常" tvg-logo="",group-title="运动频道",带您进入不会骑马的健身少年的日常
-https://www.goodiptv.club/douyu/8862198
-
-#EXTINF:-1 tvg-id="" tvg-name="游戏天才纪录片【话龙电竞】" tvg-logo="",group-title="运动频道",游戏天才纪录片【话龙电竞】
-https://www.goodiptv.club/douyu/9957571
-
-#EXTINF:-1 tvg-id="" tvg-name="关于游泳与健身那些事~" tvg-logo="",group-title="运动频道",关于游泳与健身那些事~
-https://www.goodiptv.club/douyu/9546016
-
-#EXTINF:-1 tvg-id="" tvg-name="【体育】足坛事件大盘点" tvg-logo="",group-title="运动频道",【体育】足坛事件大盘点
-https://www.goodiptv.club/douyu/4589972
-
-#EXTINF:-1 tvg-id="" tvg-name="郭教练篮球教学的直播间" tvg-logo="",group-title="运动频道",郭教练篮球教学的直播间
-https://www.goodiptv.club/douyu/9437932
-
-#EXTINF:-1 tvg-id="" tvg-name="我的体育老师" tvg-logo="",group-title="运动频道",我的体育老师
-https://www.goodiptv.club/yy/1382745169
-
-#EXTINF:-1 tvg-id="" tvg-name="鸭子天空-翱翔于篮球的梦想" tvg-logo="",group-title="运动频道",鸭子天空-翱翔于篮球的梦想
-https://www.goodiptv.club/yy/1354930894
 
 #EXTINF:-1 tvg-id="" tvg-name="豆传媒.IDG5500.瑶瑶.一发魂下感台球陪练" tvg-logo="",group-title="运动频道",豆传媒.IDG5500.瑶瑶.一发魂下感台球陪练
 https://t33.cdn2020.com/video/m3u8/2024/10/12/9a9a2537/index.m3u8
