@@ -2077,6 +2077,24 @@ https://live.264788.xyz/channel/cctv14?streamid=8f369d689a4dd78055143e69e32ce6d8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-14少儿" tvg-logo="",group-title="少儿频道",CCTV-14少儿
 https://live.264788.xyz/channel/cctv14?streamid=62f8056147d37ab75d0da292d40c0418&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 
+#EXTINF:-1 tvg-id="" tvg-name="金鹰纪实" tvg-logo="",group-title="少儿频道",金鹰纪实
+https://live.264788.xyz/channel/jinyingjishi?streamid=39c14c1420dbb152d037b2b1cc17c175&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+
+#EXTINF:-1 tvg-id="" tvg-name="金鹰纪实" tvg-logo="",group-title="少儿频道",金鹰纪实
+https://live.264788.xyz/channel/jinyingjishi?streamid=4e14722244f78fc9c49bf260b10b3cad&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+
+#EXTINF:-1 tvg-id="" tvg-name="金鹰纪实" tvg-logo="",group-title="少儿频道",金鹰纪实
+https://live.264788.xyz/channel/jinyingjishi?streamid=8613f04bbb24163ffa946e8e078454b3&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+
+#EXTINF:-1 tvg-id="" tvg-name="金鹰纪实" tvg-logo="",group-title="少儿频道",金鹰纪实
+https://live.264788.xyz/channel/jinyingjishi?streamid=b33f7690b2ce36708f54588c53a20742&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+
+#EXTINF:-1 tvg-id="" tvg-name="金鹰纪实" tvg-logo="",group-title="少儿频道",金鹰纪实
+https://live.264788.xyz/channel/jinyingjishi?streamid=3680a1c0ad58417e29641bb984685a5b&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+
+#EXTINF:-1 tvg-id="" tvg-name="金鹰纪实" tvg-logo="",group-title="少儿频道",金鹰纪实
+https://live.264788.xyz/channel/jinyingjishi?streamid=bcfd639f6519faa0373873f93c140821&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+
 #EXTINF:-1 tvg-id="" tvg-name="卡酷少儿" tvg-logo="",group-title="少儿频道",卡酷少儿
 https://live.264788.xyz/channel/kakushaoer?streamid=f6f34f478523a4a98d075253b716da80&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 
@@ -2190,6 +2208,12 @@ http://115.29.208.41:29995/180000001001/00000001000000000022000000381025/1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="嘉佳卡通" tvg-logo="",group-title="少儿频道",嘉佳卡通
 http://115.29.208.41:29995/180000001002/00000001000000000022000000381025/1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="金鹰纪实" tvg-logo="",group-title="少儿频道",金鹰纪实
+http://115.29.208.41:29995/180000001001/00000001000000000016000000007228/1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="金鹰纪实" tvg-logo="",group-title="少儿频道",金鹰纪实
+http://115.29.208.41:29995/180000001002/00000001000000000016000000007228/1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="金鹰卡通" tvg-logo="",group-title="少儿频道",金鹰卡通
 http://115.29.208.41:29995/180000001001/00000001000000000007000000001247/1.m3u8
