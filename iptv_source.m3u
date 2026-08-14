@@ -466,15 +466,6 @@ http://115.29.208.41:29995/180000001001/00000001000000000064000000308822/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="湖南卫视" tvg-logo="",group-title="卫视",湖南卫视
 http://115.29.208.41:29995/180000001001/00000001000000000064000000308827/1.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="湖南卫视" tvg-logo="",group-title="卫视",湖南卫视
-http://115.29.208.41:23001/live/4016.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="湖南卫视" tvg-logo="",group-title="卫视",湖南卫视
-http://115.29.208.41:23001/live/1203.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="湖南卫视" tvg-logo="",group-title="卫视",湖南卫视
-http://115.29.208.41:23001/live/1408.m3u8
-
 
 # ===== 广东频道 =====
 
@@ -1143,6 +1134,87 @@ http://120.87.19.109:80/PLTV/88888973/224/3221226683/371164180.smil/01.m3u8?fmt=
 
 #EXTINF:-1 tvg-id="" tvg-name="深圳卫视" tvg-logo="",group-title="广东频道",深圳卫视
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226688/1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="深圳卫视" tvg-logo="",group-title="广东频道",深圳卫视
+http://115.29.208.41:23001/live/4013.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="深圳卫视" tvg-logo="",group-title="广东频道",深圳卫视
+http://115.29.208.41:23001/live/1405_7500.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="深圳卫视" tvg-logo="",group-title="广东频道",深圳卫视
+http://115.29.208.41:23001/live/1234.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="广东珠江" tvg-logo="",group-title="广东频道",广东珠江
+http://115.29.208.41:23001/live/1437.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="广东民生" tvg-logo="",group-title="广东频道",广东民生
+http://115.29.208.41:23001/live/1455.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="广东民生" tvg-logo="",group-title="广东频道",广东民生
+http://115.29.208.41:23001/live/1214.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="广东体育" tvg-logo="",group-title="广东频道",广东体育
+http://115.29.208.41:23001/live/1413.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="广东体育" tvg-logo="",group-title="广东频道",广东体育
+http://115.29.208.41:23001/live/1216.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="广东新闻" tvg-logo="",group-title="广东频道",广东新闻
+http://115.29.208.41:23001/live/1215.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="广东新闻" tvg-logo="",group-title="广东频道",广东新闻
+http://115.29.208.41:23001/live/1454.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="经济科教" tvg-logo="",group-title="广东频道",经济科教
+http://115.29.208.41:23001/live/1422.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="经济科教" tvg-logo="",group-title="广东频道",经济科教
+http://115.29.208.41:23001/live/1218.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="广州法治" tvg-logo="",group-title="广东频道",广州法治
+http://115.29.208.41:23001/live/2003.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="广州新闻" tvg-logo="",group-title="广东频道",广州新闻
+http://115.29.208.41:23001/live/2002.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="广州新闻" tvg-logo="",group-title="广东频道",广州新闻
+http://115.29.208.41:23001/live/1433.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="广州综合" tvg-logo="",group-title="广东频道",广州综合
+http://115.29.208.41:23001/live/1432.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="广州综合" tvg-logo="",group-title="广东频道",广州综合
+http://115.29.208.41:23001/live/2001.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="汕头生活" tvg-logo="",group-title="广东频道",汕头生活
+http://115.29.208.41:23001/live/2502.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="汕头生活" tvg-logo="",group-title="广东频道",汕头生活
+http://115.29.208.41:23001/live/2507.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="汕头综合" tvg-logo="",group-title="广东频道",汕头综合
+http://115.29.208.41:23001/live/2501.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="汕头综合" tvg-logo="",group-title="广东频道",汕头综合
+http://115.29.208.41:23001/live/2506.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="揭阳生活" tvg-logo="",group-title="广东频道",揭阳生活
+http://115.29.208.41:23001/live/2901.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="揭阳生活" tvg-logo="",group-title="广东频道",揭阳生活
+http://115.29.208.41:23001/live/2926.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="揭阳综合" tvg-logo="",group-title="广东频道",揭阳综合
+http://115.29.208.41:23001/live/2902.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="揭阳综合" tvg-logo="",group-title="广东频道",揭阳综合
+http://115.29.208.41:23001/live/2925.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="潮州民生" tvg-logo="",group-title="广东频道",潮州民生
+http://115.29.208.41:23001/live/3132.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="潮州综合" tvg-logo="",group-title="广东频道",潮州综合
+http://115.29.208.41:23001/live/3131.m3u8
 
 
 # ===== 港澳台频道 =====
@@ -2251,48 +2323,6 @@ http://115.29.208.41:29995/180000001001/00000001000000000090000000215608/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="卡酷少儿" tvg-logo="",group-title="少儿频道",卡酷少儿
 http://115.29.208.41:29995/180000001002/00000001000000000090000000215608/1.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="CCTV14少儿" tvg-logo="",group-title="少儿频道",CCTV14少儿
-http://115.29.208.41:23001/live/1014.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="CCTV14少儿" tvg-logo="",group-title="少儿频道",CCTV14少儿
-http://115.29.208.41:23001/live/1614_7500.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="广东少儿" tvg-logo="",group-title="少儿频道",广东少儿
-http://115.29.208.41:23001/live/1457_7500.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="广东少儿" tvg-logo="",group-title="少儿频道",广东少儿
-http://115.29.208.41:23001/live/1212.m3u
-
-#EXTINF:-1 tvg-id="" tvg-name="嘉佳卡通" tvg-logo="",group-title="少儿频道",嘉佳卡通
-http://115.29.208.41:23001/live/1459.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="嘉佳卡通" tvg-logo="",group-title="少儿频道",嘉佳卡通
-http://115.29.208.41:23001/live/1222.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="金鹰卡通" tvg-logo="",group-title="少儿频道",金鹰卡通
-http://115.29.208.41:23001/live/1257.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="动漫秀场" tvg-logo="",group-title="少儿频道",动漫秀场
-http://115.29.208.41:23001/live/1901.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="动漫秀场" tvg-logo="",group-title="少儿频道",动漫秀场
-http://115.29.208.41:23001/live/1713.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="广东少儿" tvg-logo="",group-title="少儿频道",广东少儿
-http://115.29.208.41:23001/live/1212.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="哈哈炫动" tvg-logo="",group-title="少儿频道",哈哈炫动
-http://115.29.208.41:23001/live/1258.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="卡酷少儿" tvg-logo="",group-title="少儿频道",卡酷少儿
-http://115.29.208.41:23001/live/1464.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="新动漫" tvg-logo="",group-title="少儿频道",新动漫
-http://115.29.208.41:23001/live/1732.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="KAKU少儿" tvg-logo="",group-title="少儿频道",KAKU少儿
-http://115.29.208.41:23001/live/1259.m3u8
-
 
 # ===== 运动频道 =====
 
@@ -2613,38 +2643,5 @@ http://115.29.208.41:29995/180000001002/00000001000000000010000000040367/1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="四海钓鱼" tvg-logo="",group-title="运动频道",四海钓鱼
 http://115.29.208.41:29995/180000001001/00000001000000000010000000040367/1.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="CCTV5体育" tvg-logo="",group-title="运动频道",CCTV5体育
-http://115.29.208.41:23001/live/1005.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="CCTV5体育" tvg-logo="",group-title="运动频道",CCTV5体育
-http://115.29.208.41:23001/live/1605_7500.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="CCTV5+体育赛事" tvg-logo="",group-title="运动频道",CCTV5+体育赛事
-http://115.29.208.41:23001/live/1403_7500.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="广东体育" tvg-logo="",group-title="运动频道",广东体育
-http://115.29.208.41:23001/live/1413.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="广东体育" tvg-logo="",group-title="运动频道",广东体育
-http://115.29.208.41:23001/live/1216.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="劲爆体育" tvg-logo="",group-title="运动频道",劲爆体育
-http://115.29.208.41:23001/live/1505.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="劲爆体育" tvg-logo="",group-title="运动频道",劲爆体育
-http://115.29.208.41:23001/live/1711.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="风云足球" tvg-logo="",group-title="运动频道",风云足球
-http://115.29.208.41:23001/live/1704.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="快乐垂钓" tvg-logo="",group-title="运动频道",快乐垂钓
-http://115.29.208.41:23001/live/1921.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="魅力足球" tvg-logo="",group-title="运动频道",魅力足球
-http://115.29.208.41:23001/live/1508.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="魅力足球" tvg-logo="",group-title="运动频道",魅力足球
-http://115.29.208.41:23001/live/1737.m3u8
 
 
