@@ -470,34 +470,13 @@ https://live.264788.xyz/channel/hunanweishi4k?streamid=e7f9a38ccce9109f57a4f4e2e
 https://live.264788.xyz/channel/hunanweishi4k?streamid=1d2cff60e497ead8198445a199d19583&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 
 #EXTINF:-1 tvg-id="" tvg-name="湖南卫视" tvg-logo="",group-title="卫视",湖南卫视
-http://115.29.208.41:29995/180000001002/00000001000000000010000000040382/1.m3u8
+http://115.29.208.41:23002/live/4016.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="湖南卫视" tvg-logo="",group-title="卫视",湖南卫视
-http://115.29.208.41:29995/180000001002/00000001000000000007000000001242/1.m3u8
+http://115.29.208.41:23002/live/1203.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="湖南卫视" tvg-logo="",group-title="卫视",湖南卫视
-http://115.29.208.41:29995/180000001001/00000001000000000010000000040382/1.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="湖南卫视" tvg-logo="",group-title="卫视",湖南卫视
-http://115.29.208.41:29995/180000001002/00000001000000000064000000308827/1.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="湖南卫视" tvg-logo="",group-title="卫视",湖南卫视
-http://115.29.208.41:29995/180000001001/00000001000000000007000000001242/1.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="湖南卫视" tvg-logo="",group-title="卫视",湖南卫视
-http://115.29.208.41:29995/180000001001/00000001000000000064000000308822/1.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="湖南卫视" tvg-logo="",group-title="卫视",湖南卫视
-http://115.29.208.41:29995/180000001001/00000001000000000064000000308827/1.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="湖南卫视" tvg-logo="",group-title="卫视",湖南卫视
-http://115.29.208.41:23001/live/4016.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="湖南卫视" tvg-logo="",group-title="卫视",湖南卫视
-http://115.29.208.41:23001/live/1203.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="湖南卫视" tvg-logo="",group-title="卫视",湖南卫视
-http://115.29.208.41:23001/live/1408.m3u8
+http://115.29.208.41:23002/live/1408.m3u8
 
 
 # ===== 广东频道 =====
@@ -1118,10 +1097,16 @@ http://j.s.bkpcp.top/jj/szws
 http://cdn6.bkpcp.top/tl/tuiliu.php?id=szws
 
 #EXTINF:-1 tvg-id="" tvg-name="广东珠江" tvg-logo="",group-title="广东频道",广东珠江
+http://116.147.111.62:7788/639731952
+
+#EXTINF:-1 tvg-id="" tvg-name="广东珠江" tvg-logo="",group-title="广东频道",广东珠江
 http://www.ikerobot.com:1234/639731952
 
 #EXTINF:-1 tvg-id="" tvg-name="广东珠江" tvg-logo="",group-title="广东频道",广东珠江
 http://p.08top.top:8088/639731952
+
+#EXTINF:-1 tvg-id="" tvg-name="广东珠江" tvg-logo="",group-title="广东频道",广东珠江
+http://111.76.18.39:1234/639731952
 
 #EXTINF:-1 tvg-id="" tvg-name="深圳卫视" tvg-logo="",group-title="广东频道",深圳卫视
 http://38.75.136.137:98/gslb/dsdqpub/szwshd.m3u8?auth=testpub
@@ -1250,85 +1235,79 @@ https://live.264788.xyz/channel/shenzhenweishi4k?streamid=9358bae96a5b72f372b4f3
 https://live.264788.xyz/channel/shenzhenweishi4k?streamid=6a514a5cfdaa120248fe2cdbd96284bc&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 
 #EXTINF:-1 tvg-id="" tvg-name="深圳卫视" tvg-logo="",group-title="广东频道",深圳卫视
-http://115.29.208.41:29995/180000001001/00000001000000000008000000047446/1.m3u8
+http://115.29.208.41:23002/live/4013.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="深圳卫视" tvg-logo="",group-title="广东频道",深圳卫视
-http://115.29.208.41:29995/180000001002/00000001000000000008000000047446/1.m3u8
+http://115.29.208.41:23002/live/1405_7500.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="深圳卫视" tvg-logo="",group-title="广东频道",深圳卫视
-http://115.29.208.41:23001/live/4013.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="深圳卫视" tvg-logo="",group-title="广东频道",深圳卫视
-http://115.29.208.41:23001/live/1405_7500.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="深圳卫视" tvg-logo="",group-title="广东频道",深圳卫视
-http://115.29.208.41:23001/live/1234.m3u8
+http://115.29.208.41:23002/live/1234.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="广东珠江" tvg-logo="",group-title="广东频道",广东珠江
-http://115.29.208.41:23001/live/1437.m3u8
+http://115.29.208.41:23002/live/1437.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="广东民生" tvg-logo="",group-title="广东频道",广东民生
-http://115.29.208.41:23001/live/1455.m3u8
+http://115.29.208.41:23002/live/1455.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="广东民生" tvg-logo="",group-title="广东频道",广东民生
-http://115.29.208.41:23001/live/1214.m3u8
+http://115.29.208.41:23002/live/1214.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="广东新闻" tvg-logo="",group-title="广东频道",广东新闻
-http://115.29.208.41:23001/live/1215.m3u8
+http://115.29.208.41:23002/live/1215.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="广东新闻" tvg-logo="",group-title="广东频道",广东新闻
-http://115.29.208.41:23001/live/1454.m3u8
+http://115.29.208.41:23002/live/1454.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="经济科教" tvg-logo="",group-title="广东频道",经济科教
-http://115.29.208.41:23001/live/1422.m3u8
+http://115.29.208.41:23002/live/1422.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="经济科教" tvg-logo="",group-title="广东频道",经济科教
-http://115.29.208.41:23001/live/1218.m3u8
+http://115.29.208.41:23002/live/1218.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="广州法治" tvg-logo="",group-title="广东频道",广州法治
-http://115.29.208.41:23001/live/2003.m3u8
+http://115.29.208.41:23002/live/2003.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="广州新闻" tvg-logo="",group-title="广东频道",广州新闻
-http://115.29.208.41:23001/live/2002.m3u8
+http://115.29.208.41:23002/live/2002.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="广州新闻" tvg-logo="",group-title="广东频道",广州新闻
-http://115.29.208.41:23001/live/1433.m3u8
+http://115.29.208.41:23002/live/1433.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="广州综合" tvg-logo="",group-title="广东频道",广州综合
-http://115.29.208.41:23001/live/1432.m3u8
+http://115.29.208.41:23002/live/1432.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="广州综合" tvg-logo="",group-title="广东频道",广州综合
-http://115.29.208.41:23001/live/2001.m3u8
+http://115.29.208.41:23002/live/2001.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="汕头生活" tvg-logo="",group-title="广东频道",汕头生活
-http://115.29.208.41:23001/live/2502.m3u8
+http://115.29.208.41:23002/live/2502.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="汕头生活" tvg-logo="",group-title="广东频道",汕头生活
-http://115.29.208.41:23001/live/2507.m3u8
+http://115.29.208.41:23002/live/2507.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="汕头综合" tvg-logo="",group-title="广东频道",汕头综合
-http://115.29.208.41:23001/live/2501.m3u8
+http://115.29.208.41:23002/live/2501.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="汕头综合" tvg-logo="",group-title="广东频道",汕头综合
-http://115.29.208.41:23001/live/2506.m3u8
+http://115.29.208.41:23002/live/2506.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="揭阳生活" tvg-logo="",group-title="广东频道",揭阳生活
-http://115.29.208.41:23001/live/2901.m3u8
+http://115.29.208.41:23002/live/2901.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="揭阳生活" tvg-logo="",group-title="广东频道",揭阳生活
-http://115.29.208.41:23001/live/2926.m3u8
+http://115.29.208.41:23002/live/2926.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="揭阳综合" tvg-logo="",group-title="广东频道",揭阳综合
-http://115.29.208.41:23001/live/2902.m3u8
+http://115.29.208.41:23002/live/2902.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="揭阳综合" tvg-logo="",group-title="广东频道",揭阳综合
-http://115.29.208.41:23001/live/2925.m3u8
+http://115.29.208.41:23002/live/2925.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="潮州民生" tvg-logo="",group-title="广东频道",潮州民生
-http://115.29.208.41:23001/live/3132.m3u8
+http://115.29.208.41:23002/live/3132.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="潮州综合" tvg-logo="",group-title="广东频道",潮州综合
-http://115.29.208.41:23001/live/3131.m3u8
+http://115.29.208.41:23002/live/3131.m3u8
 
 
 # ===== 港澳台频道 =====
@@ -2192,22 +2171,22 @@ http://k.061899.xyz/k.php?id=dhdjh
 http://j.s.bkpcp.top/jj/cctv14
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV14少儿" tvg-logo="",group-title="少儿频道",CCTV14少儿
-http://wfenf.x3322.net:7788/624878440
+http://116.147.111.62:7788/624878440
 
 #EXTINF:-1 tvg-id="" tvg-name="优漫卡通频道" tvg-logo="",group-title="少儿频道",优漫卡通频道
-http://wfenf.x3322.net:7788/626064703
+http://116.147.111.62:7788/626064703
 
 #EXTINF:-1 tvg-id="" tvg-name="海南广播电视总台少儿频道" tvg-logo="",group-title="少儿频道",海南广播电视总台少儿频道
-http://wfenf.x3322.net:7788/962067523
+http://116.147.111.62:7788/962067523
 
 #EXTINF:-1 tvg-id="" tvg-name="嘉佳卡通" tvg-logo="",group-title="少儿频道",嘉佳卡通
-http://wfenf.x3322.net:7788/614952364
+http://116.147.111.62:7788/614952364
 
 #EXTINF:-1 tvg-id="" tvg-name="经典动画大集合" tvg-logo="",group-title="少儿频道",经典动画大集合
-http://wfenf.x3322.net:7788/629942219
+http://116.147.111.62:7788/629942219
 
 #EXTINF:-1 tvg-id="" tvg-name="新动漫" tvg-logo="",group-title="少儿频道",新动漫
-http://wfenf.x3322.net:7788/961930269
+http://116.147.111.62:7788/961930269
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV14少儿" tvg-logo="",group-title="少儿频道",CCTV14少儿
 http://www.ikerobot.com:1234/624878440
@@ -2244,6 +2223,24 @@ http://p.08top.top:8088/629942219
 
 #EXTINF:-1 tvg-id="" tvg-name="新动漫" tvg-logo="",group-title="少儿频道",新动漫
 http://p.08top.top:8088/961930269
+
+#EXTINF:-1 tvg-id="" tvg-name="CCTV14少儿" tvg-logo="",group-title="少儿频道",CCTV14少儿
+http://111.76.18.39:1234/624878440
+
+#EXTINF:-1 tvg-id="" tvg-name="优漫卡通频道" tvg-logo="",group-title="少儿频道",优漫卡通频道
+http://111.76.18.39:1234/626064703
+
+#EXTINF:-1 tvg-id="" tvg-name="海南广播电视总台少儿频道" tvg-logo="",group-title="少儿频道",海南广播电视总台少儿频道
+http://111.76.18.39:1234/962067523
+
+#EXTINF:-1 tvg-id="" tvg-name="嘉佳卡通" tvg-logo="",group-title="少儿频道",嘉佳卡通
+http://111.76.18.39:1234/614952364
+
+#EXTINF:-1 tvg-id="" tvg-name="经典动画大集合" tvg-logo="",group-title="少儿频道",经典动画大集合
+http://111.76.18.39:1234/629942219
+
+#EXTINF:-1 tvg-id="" tvg-name="新动漫" tvg-logo="",group-title="少儿频道",新动漫
+http://111.76.18.39:1234/961930269
 
 #EXTINF:-1 tvg-id="" tvg-name="优漫卡通" tvg-logo="",group-title="少儿频道",优漫卡通
 http://38.75.136.137:98/gslb/dsdqpub/ymkt.m3u8?auth=testpub
@@ -2449,89 +2446,47 @@ https://live.264788.xyz/channel/fujianshaoer?streamid=98ccc174671e43f0e307e3445e
 #EXTINF:-1 tvg-id="" tvg-name="福建少儿" tvg-logo="",group-title="少儿频道",福建少儿
 https://live.264788.xyz/channel/fujianshaoer?streamid=e835a9456b847a72e1a0b8d64b585300&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 
-#EXTINF:-1 tvg-id="" tvg-name="嘉佳卡通" tvg-logo="",group-title="少儿频道",嘉佳卡通
-http://115.29.208.41:29995/180000001001/00000001000000000022000000381025/1.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="嘉佳卡通" tvg-logo="",group-title="少儿频道",嘉佳卡通
-http://115.29.208.41:29995/180000001002/00000001000000000022000000381025/1.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="金鹰卡通" tvg-logo="",group-title="少儿频道",金鹰卡通
-http://115.29.208.41:29995/180000001001/00000001000000000007000000001247/1.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="金鹰卡通" tvg-logo="",group-title="少儿频道",金鹰卡通
-http://115.29.208.41:29995/180000001002/00000001000000000007000000001247/1.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="新动漫" tvg-logo="",group-title="少儿频道",新动漫
-http://115.29.208.41:29995/180000001002/00000001000000000050000000448837/1.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="新动漫" tvg-logo="",group-title="少儿频道",新动漫
-http://115.29.208.41:29995/180000001001/00000001000000000050000000448837/1.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="优漫卡通" tvg-logo="",group-title="少儿频道",优漫卡通
-http://115.29.208.41:29995/180000001002/00000000000000020000000000182321/1.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="优漫卡通" tvg-logo="",group-title="少儿频道",优漫卡通
-http://115.29.208.41:29995/180000001001/00000000000000020000000000182321/1.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="哈哈炫动" tvg-logo="",group-title="少儿频道",哈哈炫动
-http://115.29.208.41:29995/180000001002/00000000000000020000000000182497/1.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="哈哈炫动" tvg-logo="",group-title="少儿频道",哈哈炫动
-http://115.29.208.41:29995/180000001001/00000000000000020000000000182497/1.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="动漫秀场" tvg-logo="",group-title="少儿频道",动漫秀场
-http://115.29.208.41:29995/180000001001/32024042210585548805959716256407/1.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="动漫秀场" tvg-logo="",group-title="少儿频道",动漫秀场
-http://115.29.208.41:29995/180000001002/32024042210585548805959716256407/1.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="卡酷少儿" tvg-logo="",group-title="少儿频道",卡酷少儿
-http://115.29.208.41:29995/180000001001/00000001000000000090000000215608/1.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="卡酷少儿" tvg-logo="",group-title="少儿频道",卡酷少儿
-http://115.29.208.41:29995/180000001002/00000001000000000090000000215608/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV14少儿" tvg-logo="",group-title="少儿频道",CCTV14少儿
+http://115.29.208.41:23002/live/1014.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV14少儿" tvg-logo="",group-title="少儿频道",CCTV14少儿
-http://115.29.208.41:23001/live/1014.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="CCTV14少儿" tvg-logo="",group-title="少儿频道",CCTV14少儿
-http://115.29.208.41:23001/live/1614_7500.m3u8
+http://115.29.208.41:23002/live/1614_7500.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="广东少儿" tvg-logo="",group-title="少儿频道",广东少儿
-http://115.29.208.41:23001/live/1457_7500.m3u8
+http://115.29.208.41:23002/live/1457_7500.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="广东少儿" tvg-logo="",group-title="少儿频道",广东少儿
-http://115.29.208.41:23001/live/1212.m3u
+http://115.29.208.41:23002/live/1212.m3u
 
 #EXTINF:-1 tvg-id="" tvg-name="嘉佳卡通" tvg-logo="",group-title="少儿频道",嘉佳卡通
-http://115.29.208.41:23001/live/1459.m3u8
+http://115.29.208.41:23002/live/1459.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="嘉佳卡通" tvg-logo="",group-title="少儿频道",嘉佳卡通
-http://115.29.208.41:23001/live/1222.m3u8
+http://115.29.208.41:23002/live/1222.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="金鹰卡通" tvg-logo="",group-title="少儿频道",金鹰卡通
-http://115.29.208.41:23001/live/1257.m3u8
+http://115.29.208.41:23002/live/1257.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="动漫秀场" tvg-logo="",group-title="少儿频道",动漫秀场
-http://115.29.208.41:23001/live/1901.m3u8
+http://115.29.208.41:23002/live/1901.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="动漫秀场" tvg-logo="",group-title="少儿频道",动漫秀场
-http://115.29.208.41:23001/live/1713.m3u8
+http://115.29.208.41:23002/live/1713.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="广东少儿" tvg-logo="",group-title="少儿频道",广东少儿
-http://115.29.208.41:23001/live/1212.m3u8
+http://115.29.208.41:23002/live/1212.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="哈哈炫动" tvg-logo="",group-title="少儿频道",哈哈炫动
-http://115.29.208.41:23001/live/1258.m3u8
+http://115.29.208.41:23002/live/1258.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="卡酷少儿" tvg-logo="",group-title="少儿频道",卡酷少儿
-http://115.29.208.41:23001/live/1464.m3u8
+http://115.29.208.41:23002/live/1464.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="新动漫" tvg-logo="",group-title="少儿频道",新动漫
-http://115.29.208.41:23001/live/1732.m3u8
+http://115.29.208.41:23002/live/1732.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="KAKU少儿" tvg-logo="",group-title="少儿频道",KAKU少儿
-http://115.29.208.41:23001/live/1259.m3u8
+http://115.29.208.41:23002/live/1259.m3u8
 
 
 # ===== 运动频道 =====
@@ -2699,25 +2654,25 @@ http://j.s.bkpcp.top/jj/cctv5
 http://j.s.bkpcp.top/jj/cctv5p
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV5体育" tvg-logo="",group-title="运动频道",CCTV5体育
-http://wfenf.x3322.net:7788/641886683
+http://116.147.111.62:7788/641886683
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV5+体育赛事" tvg-logo="",group-title="运动频道",CCTV5+体育赛事
-http://wfenf.x3322.net:7788/641886773
+http://116.147.111.62:7788/641886773
 
 #EXTINF:-1 tvg-id="" tvg-name="体育休闲频道" tvg-logo="",group-title="运动频道",体育休闲频道
-http://wfenf.x3322.net:7788/626064707
+http://116.147.111.62:7788/626064707
 
 #EXTINF:-1 tvg-id="" tvg-name="赛事最经典" tvg-logo="",group-title="运动频道",赛事最经典
-http://wfenf.x3322.net:7788/646596895
+http://116.147.111.62:7788/646596895
 
 #EXTINF:-1 tvg-id="" tvg-name="四海钓鱼" tvg-logo="",group-title="运动频道",四海钓鱼
-http://wfenf.x3322.net:7788/637444975
+http://116.147.111.62:7788/637444975
 
 #EXTINF:-1 tvg-id="" tvg-name="陕西体育休闲频道" tvg-logo="",group-title="运动频道",陕西体育休闲频道
-http://wfenf.x3322.net:7788/956909356
+http://116.147.111.62:7788/956909356
 
 #EXTINF:-1 tvg-id="" tvg-name="快乐垂钓" tvg-logo="",group-title="运动频道",快乐垂钓
-http://wfenf.x3322.net:7788/961930263
+http://116.147.111.62:7788/961930263
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV5体育" tvg-logo="",group-title="运动频道",CCTV5体育
 http://www.ikerobot.com:1234/641886683
@@ -2751,6 +2706,27 @@ http://p.08top.top:8088/626064707
 
 #EXTINF:-1 tvg-id="" tvg-name="陕西体育休闲频道" tvg-logo="",group-title="运动频道",陕西体育休闲频道
 http://p.08top.top:8088/956909356
+
+#EXTINF:-1 tvg-id="" tvg-name="CCTV5体育" tvg-logo="",group-title="运动频道",CCTV5体育
+http://111.76.18.39:1234/641886683
+
+#EXTINF:-1 tvg-id="" tvg-name="CCTV5+体育赛事" tvg-logo="",group-title="运动频道",CCTV5+体育赛事
+http://111.76.18.39:1234/641886773
+
+#EXTINF:-1 tvg-id="" tvg-name="体育休闲频道" tvg-logo="",group-title="运动频道",体育休闲频道
+http://111.76.18.39:1234/626064707
+
+#EXTINF:-1 tvg-id="" tvg-name="赛事最经典" tvg-logo="",group-title="运动频道",赛事最经典
+http://111.76.18.39:1234/646596895
+
+#EXTINF:-1 tvg-id="" tvg-name="四海钓鱼" tvg-logo="",group-title="运动频道",四海钓鱼
+http://111.76.18.39:1234/637444975
+
+#EXTINF:-1 tvg-id="" tvg-name="陕西体育休闲频道" tvg-logo="",group-title="运动频道",陕西体育休闲频道
+http://111.76.18.39:1234/956909356
+
+#EXTINF:-1 tvg-id="" tvg-name="快乐垂钓" tvg-logo="",group-title="运动频道",快乐垂钓
+http://111.76.18.39:1234/961930263
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-风云足球" tvg-logo="",group-title="运动频道",CCTV-风云足球
 http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
@@ -2947,70 +2923,37 @@ https://live.264788.xyz/channel/wuxingtiyu?streamid=bacdc88caa25b71b955f471072f0
 #EXTINF:-1 tvg-id="" tvg-name="五星体育" tvg-logo="",group-title="运动频道",五星体育
 https://live.264788.xyz/channel/wuxingtiyu?streamid=574ea4050333d6418edfd71d0df52f43&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 
-#EXTINF:-1 tvg-id="" tvg-name="央视台球" tvg-logo="",group-title="运动频道",央视台球
-http://115.29.208.41:29995/180000001002/00000001000000000091000000244803/1.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="央视台球" tvg-logo="",group-title="运动频道",央视台球
-http://115.29.208.41:29995/180000001001/00000001000000000091000000244803/1.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="风云足球" tvg-logo="",group-title="运动频道",风云足球
-http://115.29.208.41:29995/180000001002/00000001000000000091000000244800/1.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="风云足球" tvg-logo="",group-title="运动频道",风云足球
-http://115.29.208.41:29995/180000001001/00000001000000000091000000244800/1.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="高尔夫网球" tvg-logo="",group-title="运动频道",高尔夫网球
-http://115.29.208.41:29995/180000001001/00000001000000000091000000244801/1.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="快乐垂钓" tvg-logo="",group-title="运动频道",快乐垂钓
-http://115.29.208.41:29995/180000001001/00000001000000000010000000040368/1.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="快乐垂钓" tvg-logo="",group-title="运动频道",快乐垂钓
-http://115.29.208.41:29995/180000001002/00000001000000000010000000040368/1.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="魅力足球" tvg-logo="",group-title="运动频道",魅力足球
-http://115.29.208.41:29995/180000001001/32024042209535166598016957159953/1.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="魅力足球" tvg-logo="",group-title="运动频道",魅力足球
-http://115.29.208.41:29995/180000001002/32024042209535166598016957159953/1.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="四海钓鱼" tvg-logo="",group-title="运动频道",四海钓鱼
-http://115.29.208.41:29995/180000001002/00000001000000000010000000040367/1.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="四海钓鱼" tvg-logo="",group-title="运动频道",四海钓鱼
-http://115.29.208.41:29995/180000001001/00000001000000000010000000040367/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV5体育" tvg-logo="",group-title="运动频道",CCTV5体育
+http://115.29.208.41:23002/live/1005.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV5体育" tvg-logo="",group-title="运动频道",CCTV5体育
-http://115.29.208.41:23001/live/1005.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="CCTV5体育" tvg-logo="",group-title="运动频道",CCTV5体育
-http://115.29.208.41:23001/live/1605_7500.m3u8
+http://115.29.208.41:23002/live/1605_7500.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV5+体育赛事" tvg-logo="",group-title="运动频道",CCTV5+体育赛事
-http://115.29.208.41:23001/live/1403_7500.m3u8
+http://115.29.208.41:23002/live/1403_7500.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="广东体育" tvg-logo="",group-title="运动频道",广东体育
-http://115.29.208.41:23001/live/1413.m3u8
+http://115.29.208.41:23002/live/1413.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="广东体育" tvg-logo="",group-title="运动频道",广东体育
-http://115.29.208.41:23001/live/1216.m3u8
+http://115.29.208.41:23002/live/1216.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="劲爆体育" tvg-logo="",group-title="运动频道",劲爆体育
-http://115.29.208.41:23001/live/1505.m3u8
+http://115.29.208.41:23002/live/1505.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="劲爆体育" tvg-logo="",group-title="运动频道",劲爆体育
-http://115.29.208.41:23001/live/1711.m3u8
+http://115.29.208.41:23002/live/1711.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="风云足球" tvg-logo="",group-title="运动频道",风云足球
-http://115.29.208.41:23001/live/1704.m3u8
+http://115.29.208.41:23002/live/1704.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="快乐垂钓" tvg-logo="",group-title="运动频道",快乐垂钓
-http://115.29.208.41:23001/live/1921.m3u8
+http://115.29.208.41:23002/live/1921.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="魅力足球" tvg-logo="",group-title="运动频道",魅力足球
-http://115.29.208.41:23001/live/1508.m3u8
+http://115.29.208.41:23002/live/1508.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="魅力足球" tvg-logo="",group-title="运动频道",魅力足球
-http://115.29.208.41:23001/live/1737.m3u8
+http://115.29.208.41:23002/live/1737.m3u8
 
 
