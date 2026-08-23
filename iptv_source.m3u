@@ -2539,4 +2539,46 @@ http://173.208.212.130:8181/720p/gefwq.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-5体育" tvg-logo="",group-title="运动频道",CCTV-5体育
 http://173.208.212.130:8181/1080p/cctv5.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="湖南卫视01" tvg-logo="",group-title="卫视",湖南卫视01
+http://120.234.187.66:10086/rtp/239.10.0.115:1025
+
+#EXTINF:-1 tvg-id="" tvg-name="湖南卫视02" tvg-logo="",group-title="卫视",湖南卫视02
+http://120.234.187.66:10086/rtp/239.10.0.145:1025
+
+#EXTINF:-1 tvg-id="" tvg-name="湖南卫视03" tvg-logo="",group-title="卫视",湖南卫视03
+http://120.234.187.66:10086/rtp/239.10.0.49:1025
+
+#EXTINF:-1 tvg-id="" tvg-name="湖南卫视04" tvg-logo="",group-title="卫视",湖南卫视04
+http://120.234.187.66:10086/rtp/239.11.0.200:1025
+
+#EXTINF:-1 tvg-id="" tvg-name="湖南卫视05" tvg-logo="",group-title="卫视",湖南卫视05
+http://120.234.187.66:10086/rtp/239.20.0.105:2008
+
+#EXTINF:-1 tvg-id="" tvg-name="湖南卫视06" tvg-logo="",group-title="卫视",湖南卫视06
+http://120.234.187.66:10086/rtp/239.20.0.135:2068
+
+#EXTINF:-1 tvg-id="" tvg-name="湖南卫视07" tvg-logo="",group-title="卫视",湖南卫视07
+http://120.234.187.66:10086/rtp/239.21.0.166:4012
+
+#EXTINF:-1 tvg-id="" tvg-name="湖南卫视08" tvg-logo="",group-title="卫视",湖南卫视08
+http://gzgxzm.dpdns.org:10086/rtp/239.10.0.115:1025
+
+#EXTINF:-1 tvg-id="" tvg-name="湖南卫视09" tvg-logo="",group-title="卫视",湖南卫视09
+http://gzgxzm.dpdns.org:10086/rtp/239.10.0.145:1025
+
+#EXTINF:-1 tvg-id="" tvg-name="湖南卫视10" tvg-logo="",group-title="卫视",湖南卫视10
+http://gzgxzm.dpdns.org:10086/rtp/239.10.0.49:1025
+
+#EXTINF:-1 tvg-id="" tvg-name="湖南卫视11" tvg-logo="",group-title="卫视",湖南卫视11
+http://gzgxzm.dpdns.org:10086/rtp/239.11.0.200:1025
+
+#EXTINF:-1 tvg-id="" tvg-name="湖南卫视12" tvg-logo="",group-title="卫视",湖南卫视12
+http://gzgxzm.dpdns.org:10086/rtp/239.20.0.105:2008
+
+#EXTINF:-1 tvg-id="" tvg-name="湖南卫视13" tvg-logo="",group-title="卫视",湖南卫视13
+http://gzgxzm.dpdns.org:10086/rtp/239.20.0.135:2068
+
+#EXTINF:-1 tvg-id="" tvg-name="湖南卫视14" tvg-logo="",group-title="卫视",湖南卫视14
+http://gzgxzm.dpdns.org:10086/rtp/239.21.0.166:4012
+
 
