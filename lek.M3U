@@ -213,6 +213,13 @@ kdsvod://http://v.91kds.com/b7/tvzb3.m3u8?id=cctv1hd&pwd=jsdecode
 kdsvod://http://v.91kds.com/b7/tvzb4.m3u8?id=cctv1hd&pwd=jsdecode
 kdsvod://http://v.91kds.com/b7/tvzb5.m3u8?id=cctv1hd&pwd=jsdecode
 kdsvod://http://v.91kds.com/b7/tvzb6.m3u8?id=cctv1hd&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/tvzb7.m3u8?id=cctv1hd&pwd=jsdecode
+http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226635/1.m3u8
+http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226736/1.m3u8
+http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226737/1.m3u8
+http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226823/1.m3u8
+tvbus://128z6qatpQtSdQZEFKrKuQa2EWNuC5wDEdmUBmPzYFPNeCitayT
+kdsvod://http://v.91kds.com/b7/cdnlive.m3u8?id=cctv1-720p&pwd=jsdecode
 #EXTINF:-1 group-title="央视",CCTV-1综合
 kdsvod://http://v.91kds.com/b7/jxycfc.m3u8?id=cctv1&pwd=jsdecode
 http://hebcx.chinashadt.com:2036/live/10003.stream/playlist.m3u8
