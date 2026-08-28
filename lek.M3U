@@ -1,526 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="卫视",三沙卫视
-kdsvod://http://v.91kds.com/b7/hitv.m3u8?id=ssws&pwd=jsdecode
-kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=ssws&pwd=jsdecode
-kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=ssws&pwd=jsdecode
-#EXTINF:-1 group-title="卫视",东南卫视
-kdsvod://http://v.91kds.com/b7/fjtv.m3u8?id=dnws&pwd=jsdecode
-kdsvod://http://v1.91kds.com/live1/xuexi.m3u8?id=dnws&pwd=jsdecode
-kdsvod://http://v1.91kds.com/live1/xuexi1.m3u8?id=dnws&pwd=jsdecode
-http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226675/1.m3u8
-#EXTINF:-1 group-title="卫视",东南卫视HD
-kdsvod://http://v.91kds.com/b7/fjtv.m3u8?id=dnwshd&pwd=jsdecode
-kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=dnwshd&pwd=jsdecode
-kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=dnwshd&pwd=jsdecode
-http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226670/1.m3u8
-#EXTINF:-1 group-title="卫视",东方卫视
-http://media.hndyjyfw.gov.cn/live/jz-shanghaiweishi-gq/live.m3u8@@Referer=https://www.hndyjyfw.gov.cn/@@
-htmlplay://https://m.miguvideo.com/m/liveDetail/651632648?channelId=10010001005
-kdsvod://http://v.91kds.com/b7/xuexi.m3u8?id=dfws&pwd=jsdecode
-kdsvod://http://v.91kds.com/b7/xuexi1.m3u8?id=dfws&pwd=jsdecode
-#EXTINF:-1 group-title="卫视",东方卫视4K
-kdsvod://http://v.91kds.com/c7/shkk.m3u8?id=dfws4k&pwd=jsdecode
-kdsvod://http://v.91kds.com/b7/zgst.m3u8?id=dfws4k&pwd=jsdecode
-kdsvod://bstv://dongfangweishi21324
-#EXTINF:-1 group-title="卫视",东方卫视HD
-kdsvod://http://v.91kds.com/b7/migu.m3u8?id=dfwshd&pwd=jsdecode
-kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=dfwshd&pwd=jsdecode
-kdsvod://http://v.91kds.com/b7/dsdq.m3u8?id=dfwshd&pwd=jsdecode
-kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=dfwshd&pwd=jsdecode
-kdsvod://bstv://Umai:CHAN/111131@BESTV.SMG.SMG
-kdsvod://migu://651632648
-kdsvod://http://v.91kds.com/b7/tvzb2.m3u8?id=dfwshd&pwd=jsdecode
-kdsvod://http://v.91kds.com/b7/tvzb1.m3u8?id=dfwshd&pwd=jsdecode
-kdsvod://http://v.91kds.com/b7/tvzb3.m3u8?id=dfwshd&pwd=jsdecode
-kdsvod://http://v.91kds.com/b7/tvzb4.m3u8?id=dfwshd&pwd=jsdecode
-kdsvod://http://v.91kds.com/b7/tvzb5.m3u8?id=dfwshd&pwd=jsdecode
-kdsvod://http://v.91kds.com/b7/tvzb6.m3u8?id=dfwshd&pwd=jsdecode
-kdsvod://http://v.91kds.com/b7/tvzb7.m3u8?id=dfwshd&pwd=jsdecode
-http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226734/1.m3u8
-kdsvod://http://v.91kds.com/b7/cdnlive.m3u8?id=dfws-720p&pwd=jsdecode
-#EXTINF:-1 group-title="卫视",乐享好物2
-http://live.enai1.cn/playlist/703/9.m3u8
-kdsvod://http://v.91kds.com/b7/ad.m3u8?id=ad16&pwd=jsdecode
-#EXTINF:-1 group-title="卫视",云南卫视
-https://zhzt.edehong.com:8001/srs1/live/2557455.flv
-htmlplay://https://m.miguvideo.com/m/liveDetail/783846580?channelId=10010001005
-kdsvod://http://v.91kds.com/b7/xuexi.m3u8?id=ynws&pwd=jsdecode
-kdsvod://http://v.91kds.com/b7/xuexi1.m3u8?id=ynws&pwd=jsdecode
-http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226709/1.m3u8
-#EXTINF:-1 group-title="卫视",云南卫视HD
-kdsvod://http://v.91kds.com/b7/yntv.m3u8?id=ynws&pwd=jsdecode@@Referer=https://www.yntv.cn/@@
-https://hwapi.yntv.net/62hdvf/nqyn7w.m3u8@@Referer=http://cloudxyapi.yntv.net/@@
-kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=ynwshd&pwd=jsdecode
-kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=ynwshd&pwd=jsdecode
-#EXTINF:-1 group-title="卫视",今日热销2
-http://live.enai1.cn/playlist/702/9.m3u8
-kdsvod://http://v.91kds.com/b7/ad.m3u8?id=ad15&pwd=jsdecode
-#EXTINF:-1 group-title="卫视",休闲推荐2
-http://live.enai1.cn/playlist/818.m3u8
-kdsvod://http://v.91kds.com/b7/ad.m3u8?id=ad11&pwd=jsdecode
-#EXTINF:-1 group-title="卫视",兵团卫视
-https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
-kdsvod://http://v.91kds.com/b7/xuexi.m3u8?id=btws&pwd=jsdecode
-kdsvod://http://v.91kds.com/b7/xuexi1.m3u8?id=btws&pwd=jsdecode
-kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=btws&pwd=jsdecode
-kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=btws&pwd=jsdecode
-kdsvod://migu://956923145
-http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226661/1.m3u8
-#EXTINF:-1 group-title="卫视",内蒙古卫视
-https://livestream-bt.nmtv.cn/nmtv/3208526general.m3u8?txSecret=eb5a3102dd5406c7ffeddf560b024952&txTime=76B2F9A0
-htmlplay://https://m.miguvideo.com/m/liveDetail/738911430?channelId=10010001005
-kdsvod://http://v.91kds.com/b7/xuexi.m3u8?id=nmgws&pwd=jsdecode
-kdsvod://http://v.91kds.com/c7/nmtv.m3u8?id=nmgws&pwd=jsdecode
-kdsvod://http://v.91kds.com/b7/migu.m3u8?id=nmgws&pwd=jsdecode
-kdsvod://http://v.91kds.com/b7/xuexi1.m3u8?id=nmgws&pwd=jsdecode
-kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=nmgws&pwd=jsdecode
-kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=nmgws&pwd=jsdecode
-http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226685/1.m3u8
-#EXTINF:-1 group-title="卫视",内蒙古蒙语
-kdsvod://http://v.91kds.com/b7/xuexi.m3u8?id=nmmy&pwd=jsdecode
-kdsvod://http://v.91kds.com/c7/nmtv.m3u8?id=nmmy&pwd=jsdecode
-http://play1-qk.nmtv.cn/live/1769652018126032.m3u8
-kdsvod://http://v.91kds.com/b7/xuexi1.m3u8?id=nmmy&pwd=jsdecode
-#EXTINF:-1 group-title="卫视",农林卫视
-kdsvod://sntv://nl
-kdsvod://migu://956904896
-#EXTINF:-1 group-title="卫视",北京卫视
-http://media.hndyjyfw.gov.cn/live/jz-beijingweishi/live.m3u8@@Referer=https://www.hndyjyfw.gov.cn/@@
-kdsvod://http://v.91kds.com/b7/xuexi.m3u8?id=bjws&pwd=jsdecode
-kdsvod://http://v.91kds.com/b7/xuexi1.m3u8?id=bjws&pwd=jsdecode
-#EXTINF:-1 group-title="卫视",北京卫视4K
-kdsvod://http://v.91kds.com/c7/btv.m3u8?id=bjws4k&pwd=jsdecode
-kdsvod://http://v.91kds.com/b7/zgst.m3u8?id=bjws4k&pwd=jsdecode@@Referer=https://api.chinaaudiovisual.cn/@@
-#EXTINF:-1 group-title="卫视",北京卫视HD
-kdsvod://http://v.91kds.com/c7/btv.m3u8?id=bjwshd&pwd=jsdecode
-kdsvod://http://v.91kds.com/b7/dsdq.m3u8?id=bjwshd&pwd=jsdecode
-kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=bjwshd&pwd=jsdecode
-kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=bjwshd&pwd=jsdecode
-http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226719/1.m3u8
-kdsvod://http://v.91kds.com/b7/cdnlive.m3u8?id=bjws-720p&pwd=jsdecode
-#EXTINF:-1 group-title="卫视",厦门卫视
-kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=xmws&pwd=jsdecode
-kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=xmws&pwd=jsdecode
-http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226695/1.m3u8
-#EXTINF:-1 group-title="卫视",吉林卫视
-kdsvod://http://v.91kds.com/b7/hoge.m3u8?ip=jltv&id=351&pwd=jsdecode
-htmlplay://https://m.miguvideo.com/m/liveDetail/738906889?channelId=10010001005
-kdsvod://http://v.91kds.com/b7/xuexi.m3u8?id=jlws&pwd=jsdecode
-kdsvod://http://v.91kds.com/b7/xuexi1.m3u8?id=jlws&pwd=jsdecode
-kdsvod://migu://947472500
-http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226671/1.m3u8
-#EXTINF:-1 group-title="卫视",吉林卫视HD
-http://stream4.jlntv.cn/jlwshd/sd/live.m3u8
-kdsvod://http://v.91kds.com/c7/jltv.m3u8?id=jlwshd&pwd=jsdecode
-kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=jlwshd&pwd=jsdecode
-kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=jlwshd&pwd=jsdecode
-#EXTINF:-1 group-title="卫视",四川卫视
-kdsvod://http://v.91kds.com/b7/xuexi.m3u8?id=scws&pwd=jsdecode
-kdsvod://http://v.91kds.com/b7/xuexi1.m3u8?id=scws&pwd=jsdecode
-http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226697/1.m3u8
-#EXTINF:-1 group-title="卫视",四川卫视4K
-kdsvod://http://v.91kds.com/b7/zgst.m3u8?id=scws4k&pwd=jsdecode@@Referer=https://api.chinaaudiovisual.cn/@@
-#EXTINF:-1 group-title="卫视",四川卫视HD
-kdsvod://http://v.91kds.com/b7/sctv.m3u8?id=scwshd&pwd=jsdecode@@Referer=https://www.sctv.com/@@
-kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=scwshd&pwd=jsdecode
-kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=scwshd&pwd=jsdecode
-http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226659/1.m3u8
-#EXTINF:-1 group-title="卫视",大湾区卫视
-htmlplay://https://www.gdtv.cn/tvChannelDetail/51@@UA=Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/100.0.4896.75Safari/537.36@@
-htmlplay://https://m.miguvideo.com/m/liveDetail/608917627?channelId=10010001005
-kdsvod://http://v.91kds.com/b7/xuexi.m3u8?id=nfws&pwd=jsdecode
-kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=nfws&pwd=jsdecode
-kdsvod://http://v.91kds.com/c7/gdtv.m3u8?id=nfws&pwd=jsdecode
-kdsvod://http://v.91kds.com/b7/xuexi1.m3u8?id=nfws&pwd=jsdecode
-kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=nfws&pwd=jsdecode
-kdsvod://migu://608917627
-#EXTINF:-1 group-title="卫视",大湾区卫视(国际版)
-htmlplay://https://www.gdtv.cn/tvChannelDetail/46@@UA=Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/100.0.4896.75Safari/537.36@@
-https://hc73k3dhwo5gfkt.wcetv.com/hls/gdtv.m3u8
-kdsvod://http://v.91kds.com/c7/gdtv.m3u8?id=gdgj&pwd=jsdecode
-kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=gdgj&pwd=jsdecode
-kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=gdgj&pwd=jsdecode
-kdsvod://http://v.91kds.com/b7/cdnlive.m3u8?id=gdgj&pwd=jsdecode
-#EXTINF:-1 group-title="卫视",天津卫视
-kdsvod://http://v.91kds.com/b7/xuexi.m3u8?id=tjws&pwd=jsdecode
-kdsvod://http://v.91kds.com/b7/xuexi1.m3u8?id=tjws&pwd=jsdecode
-#EXTINF:-1 group-title="卫视",天津卫视HD
-kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=tjwshd&pwd=jsdecode
-kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=tjwshd&pwd=jsdecode
-http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226686/1.m3u8
-kdsvod://http://v.91kds.com/b7/cdnlive.m3u8?id=tjws-720p&pwd=jsdecode
-#EXTINF:-1 group-title="卫视",宁夏卫视
-https://hls.ningxiahuangheyun.com/live/nxws1M.m3u8@@Referer=https://web.ningxiahuangheyun.com@@
-htmlplay://https://m.miguvideo.com/m/liveDetail/738910535?channelId=10010001005
-kdsvod://http://v.91kds.com/b7/xuexi.m3u8?id=nxws&pwd=jsdecode
-kdsvod://http://v.91kds.com/b7/xuexi1.m3u8?id=nxws&pwd=jsdecode
-kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=nxws&pwd=jsdecode
-kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=nxws&pwd=jsdecode
-http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226691/1.m3u8
-#EXTINF:-1 group-title="卫视",安多卫视
-htmlplay://http://www.qhtb.cn/onlin/onlin_tv/
-kdsvod://http://v.91kds.com/b7/xuexi.m3u8?id=qhzy&pwd=jsdecode
-kdsvod://http://v.91kds.com/b7/xuexi1.m3u8?id=qhzy&pwd=jsdecode
-#EXTINF:-1 group-title="卫视",安徽卫视
-http://media.hndyjyfw.gov.cn/live/jz-anhuiweishi-gq/live.m3u8@@Referer=https://www.hndyjyfw.gov.cn/@@
-kdsvod://http://v.91kds.com/b7/xuexi.m3u8?id=ahws&pwd=jsdecode
-kdsvod://http://v.91kds.com/b7/xuexi1.m3u8?id=ahws&pwd=jsdecode
-#EXTINF:-1 group-title="卫视",安徽卫视HD
-kdsvod://ahtv2://47
-kdsvod://http://v.91kds.com/c7/ahtv2.m3u8?id=ahwshd&pwd=jsdecode
-kdsvod://http://v.91kds.com/b7/ahtv2.m3u8?id=ahwshd&kdsplayer=media&pwd=jsdecode@@referer=https://www.ahtv.cn/@user-agent=Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/99.0.4844.84Safari/537.36HBPC/12.1.3.306@@
-kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=ahwshd&pwd=jsdecode
-kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=ahwshd&pwd=jsdecode
-kdsvod://http://v.91kds.com/b7/tvzb2.m3u8?id=ahwshd&pwd=jsdecode
-kdsvod://http://v.91kds.com/b7/tvzb1.m3u8?id=ahwshd&pwd=jsdecode
-kdsvod://http://v.91kds.com/b7/tvzb3.m3u8?id=ahwshd&pwd=jsdecode
-kdsvod://http://v.91kds.com/b7/tvzb4.m3u8?id=ahwshd&pwd=jsdecode
-kdsvod://http://v.91kds.com/b7/tvzb5.m3u8?id=ahwshd&pwd=jsdecode
-kdsvod://http://v.91kds.com/b7/tvzb6.m3u8?id=ahwshd&pwd=jsdecode
-kdsvod://http://v.91kds.com/b7/tvzb7.m3u8?id=ahwshd&pwd=jsdecode
-http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226655/1.m3u8
-http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226664/1.m3u8
-kdsvod://http://v.91kds.com/b7/cdnlive.m3u8?id=ahws-720p&pwd=jsdecode
-#EXTINF:-1 group-title="卫视",山东卫视
-http://lives.jnnews.tv/video/s10001-SDTV/index.m3u8
-https://wfrtv-live-tz.wfcmw.cn:5443/live/sdtv.m3u8
-htmlplay://https://m.miguvideo.com/m/liveDetail/738910366?channelId=10010001005
-kdsvod://http://v.91kds.com/b7/xuexi.m3u8?id=sdws&pwd=jsdecode
-http://221.2.36.14/video/s10001-SDTV/index.m3u8
-http://60.211.179.171/video/s10001-SDTV/index.m3u8
-http://111.17.177.164/video/s10001-SDTV/index.m3u8
-kdsvod://sdtv1://24581
-kdsvod://http://v.91kds.com/b7/sdxw.m3u8?id=sdws&pwd=jsdecode
-kdsvod://http://v.91kds.com/b7/xuexi1.m3u8?id=sdws&pwd=jsdecode
-#EXTINF:-1 group-title="卫视",山东卫视4K
-kdsvod://http://v.91kds.com/b7/zgst.m3u8?id=sdws4k&pwd=jsdecode
-#EXTINF:-1 group-title="卫视",山东卫视HD
-kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=sdwshd&pwd=jsdecode
-kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=sdwshd&pwd=jsdecode
-http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226693/1.m3u8
-kdsvod://http://v.91kds.com/b7/cdnlive.m3u8?id=sdws-720p&pwd=jsdecode
-#EXTINF:-1 group-title="卫视",山东教育卫视
-http://livewai.sdetv.com.cn/live/da4ebbb91ee8468db5a9d230a535391f_transios/playlist.m3u8
-kdsvod://http://v.91kds.com/b7/xuexi.m3u8?id=sdjy&pwd=jsdecode
-kdsvod://http://v.91kds.com/b7/xuexi1.m3u8?id=sdjy&pwd=jsdecode
-kdsvod://migu://609154353
-http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226701/1.m3u8
-#EXTINF:-1 group-title="卫视",山西卫视
-kdsvod://http://v.91kds.com/b7/tidenew.m3u8?id=sxws&pwd=jsdecode@@User-Agent=Mozilla/5.0@@
-kdsvod://http://v.91kds.com/b7/xuexi.m3u8?id=sxws&pwd=jsdecode
-kdsvod://http://v.91kds.com/b7/xuexi1.m3u8?id=sxws&pwd=jsdecode
-http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226704/1.m3u8
-#EXTINF:-1 group-title="卫视",山西卫视HD
-kdsvod://http://v.91kds.com/b7/sxtv.m3u8?id=sxws&pwd=jsdecode@@User-Agent=Mozilla/5.0@@
-kdsvod://tide://https://livehhhttps.sxrtv.com/lsdream/q8RVWgs/1000/&q8RVWgs
-kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=sxwshd&pwd=jsdecode
-kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=sxwshd&pwd=jsdecode
-#EXTINF:-1 group-title="卫视",广东卫视
-htmlplay://https://www.gdtv.cn/tvChannelDetail/43@@UA=Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/100.0.4896.75Safari/537.36@@
-kdsvod://http://v.91kds.com/b7/xuexi.m3u8?id=gdws&pwd=jsdecode
-kdsvod://http://v.91kds.com/c7/gdtv.m3u8?id=gdws&pwd=jsdecode
-kdsvod://http://v.91kds.com/b7/xuexi1.m3u8?id=gdws&pwd=jsdecode
-#EXTINF:-1 group-title="卫视",广东卫视HD
-kdsvod://http://v.91kds.com/b7/migu.m3u8?id=gdwshd&pwd=jsdecode
-kdsvod://http://v.91kds.com/c7/gdtv.m3u8?id=gdwshd&pwd=jsdecode
-kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=gdwshd&pwd=jsdecode
-kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=gdwshd&pwd=jsdecode
-kdsvod://migu://608831231
-kdsvod://http://v.91kds.com/b7/tvzb2.m3u8?id=gdwshd&pwd=jsdecode
-kdsvod://http://v.91kds.com/b7/tvzb1.m3u8?id=gdwshd&pwd=jsdecode
-kdsvod://http://v.91kds.com/b7/tvzb3.m3u8?id=gdwshd&pwd=jsdecode
-kdsvod://http://v.91kds.com/b7/tvzb4.m3u8?id=gdwshd&pwd=jsdecode
-kdsvod://http://v.91kds.com/b7/tvzb5.m3u8?id=gdwshd&pwd=jsdecode
-kdsvod://http://v.91kds.com/b7/tvzb6.m3u8?id=gdwshd&pwd=jsdecode
-kdsvod://http://v.91kds.com/b7/tvzb7.m3u8?id=gdwshd&pwd=jsdecode
-kdsvod://http://v.91kds.com/b7/cdnlive.m3u8?id=gdws-720p&pwd=jsdecode
-#EXTINF:-1 group-title="卫视",广西卫视
-rtmp://live.gxrb.com.cn/hls/a23
-htmlplay://https://m.miguvideo.com/m/liveDetail/783844132?channelId=10010001005
-kdsvod://http://v.91kds.com/b7/xuexi.m3u8?id=gxws&pwd=jsdecode
-kdsvod://http://v.91kds.com/b7/xuexi1.m3u8?id=gxws&pwd=jsdecode
-http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226681/1.m3u8
-#EXTINF:-1 group-title="卫视",广西卫视HD
-http://222.216.111.82:8088/flv0
-https://live.gxrb.com.cn/tv/gxtvlive03/index.m3u8&kdsplayer=media
-rtmp://live.gxrb.com.cn/tv/gxtvlive03
-kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=gxwshd&pwd=jsdecode
-kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=gxwshd&pwd=jsdecode
-#EXTINF:-1 group-title="卫视",康巴卫视
-kdsvod://http://v.91kds.com/b7/kbws.m3u8?id=kbws&pwd=jsdecode@@referer=https://www.kangbatv.com/@@
-kdsvod://http://v.91kds.com/b7/sctv.m3u8?id=kbws&pwd=jsdecode@@Referer=https://www.sctv.com/@@
-kdsvod://http://v.91kds.com/b7/xuexi.m3u8?id=kbws&pwd=jsdecode
-kdsvod://http://v.91kds.com/b7/xuexi1.m3u8?id=kbws&pwd=jsdecode
-#EXTINF:-1 group-title="卫视",延边卫视
-https://srs.iyb983.cn/video/CYS/index.m3u8
-kdsvod://http://v.91kds.com/b7/xuexi.m3u8?id=ybws&pwd=jsdecode
-kdsvod://http://v.91kds.com/b7/xuexi1.m3u8?id=ybws&pwd=jsdecode
-#EXTINF:-1 group-title="卫视",新品特惠2
-http://live.enai1.cn/playlist/704/9.m3u8
-kdsvod://http://v.91kds.com/b7/ad.m3u8?id=ad19&pwd=jsdecode
-#EXTINF:-1 group-title="卫视",新疆卫视
-kdsvod://http://v.91kds.com/b7/xjtv.m3u8?id=xjws&pwd=jsdecode@@X-Forwarded-For=36.189.232.78@@
-htmlplay://https://m.miguvideo.com/m/liveDetail/738910476?channelId=10010001005
-kdsvod://http://v.91kds.com/b7/xuexi.m3u8?id=xjws&pwd=jsdecode
-kdsvod://http://v.91kds.com/b7/xuexi1.m3u8?id=xjws&pwd=jsdecode
-kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=xjws&pwd=jsdecode
-kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=xjws&pwd=jsdecode
-http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226700/1.m3u8
-#EXTINF:-1 group-title="卫视",日用百货2
-http://live.enai1.cn/playlist/701/9.m3u8
-kdsvod://http://v.91kds.com/b7/ad.m3u8?id=ad12&pwd=jsdecode
-#EXTINF:-1 group-title="卫视",江苏卫视
-http://hebcx.chinashadt.com:2036/live/10006.stream/playlist.m3u8
-http://media.hndyjyfw.gov.cn/live/jz-jiangsuweishi-gq/live.m3u8@@Referer=https://www.hndyjyfw.gov.cn/@@
-htmlplay://https://m.miguvideo.com/m/liveDetail/623899368?channelId=10010001005
-kdsvod://http://v.91kds.com/b7/xuexi.m3u8?id=jsws&pwd=jsdecode
-kdsvod://http://v.91kds.com/b7/xuexi1.m3u8?id=jsws&pwd=jsdecode
-#EXTINF:-1 group-title="卫视",江苏卫视4K
-kdsvod://http://v.91kds.com/b7/jstv2.m3u8?id=jsws4k&pwd=jsdecode@@Referer=https://live.jstv.com/@@
-kdsvod://http://v.91kds.com/c7/jstv.m3u8?id=jsws4k&pwd=jsdecode
-kdsvod://http://v.91kds.com/b7/zgst.m3u8?id=jsws4k&pwd=jsdecode
-#EXTINF:-1 group-title="卫视",江苏卫视HD
-kdsvod://http://v.91kds.com/c7/jsqx.m3u8?id=jswshd&pwd=jsdecode
-kdsvod://http://v.91kds.com/b7/jstv1.m3u8?id=jswshd&pwd=jsdecode@@Referer=https://live.jstv.com/@@
-kdsvod://http://v.91kds.com/c7/jsqx1.m3u8?id=jswshd&pwd=jsdecode
-kdsvod://http://v.91kds.com/b7/migu.m3u8?id=jswshd&pwd=jsdecode
-kdsvod://http://v.91kds.com/c7/jstv.m3u8?id=jswshd&pwd=jsdecode
-kdsvod://http://v.91kds.com/b7/jstv2.m3u8?id=jswshd&pwd=jsdecode@@Referer=https://live.jstv.com/@@
-kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=jswshd&pwd=jsdecode
-kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=jswshd&pwd=jsdecode
-kdsvod://migu://623899368
-kdsvod://http://v.91kds.com/b7/tvzb2.m3u8?id=jswshd&pwd=jsdecode
-kdsvod://http://v.91kds.com/b7/tvzb1.m3u8?id=jswshd&pwd=jsdecode
-kdsvod://http://v.91kds.com/b7/tvzb3.m3u8?id=jswshd&pwd=jsdecode
-kdsvod://http://v.91kds.com/b7/tvzb4.m3u8?id=jswshd&pwd=jsdecode
-kdsvod://http://v.91kds.com/b7/tvzb5.m3u8?id=jswshd&pwd=jsdecode
-kdsvod://http://v.91kds.com/b7/tvzb6.m3u8?id=jswshd&pwd=jsdecode
-kdsvod://http://v.91kds.com/b7/tvzb7.m3u8?id=jswshd&pwd=jsdecode
-http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226692/1.m3u8
-kdsvod://http://v.91kds.com/b7/cdnlive.m3u8?id=jsws-720p&pwd=jsdecode
-#EXTINF:-1 group-title="卫视",江西卫视
-htmlplay://https://m.miguvideo.com/m/liveDetail/783847495?channelId=10010001005
-kdsvod://http://v.91kds.com/b7/xuexi.m3u8?id=jxws&pwd=jsdecode
-kdsvod://http://v.91kds.com/b7/xuexi1.m3u8?id=jxws&pwd=jsdecode
-#EXTINF:-1 group-title="卫视",江西卫视HD
-kdsvod://http://v.91kds.com/c7/jxtv.m3u8?id=jxwshd&pwd=jsdecode
-kdsvod://http://v.91kds.com/b7/migu.m3u8?id=jxwshd&pwd=jsdecode
-kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=jxwshd&pwd=jsdecode
-kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=jxwshd&pwd=jsdecode
-kdsvod://migu://783847495
-http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226682/1.m3u8
-http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226726/1.m3u8
-#EXTINF:-1 group-title="卫视",河北卫视
-http://hbwq.chinashadt.com:2035/live/stream:hbws.stream/playlist.m3u8
-http://tvnew.lnshw.com.cn:58123/live/lntv2.m3u8
-kdsvod://http://v.91kds.com/b7/xuexi.m3u8?id=hews&pwd=jsdecode
-kdsvod://http://v.91kds.com/b7/xuexi1.m3u8?id=hews&pwd=jsdecode
-http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226665/1.m3u8
-#EXTINF:-1 group-title="卫视",河北卫视HD
-kdsvod://http://v.91kds.com/b7/hetv.m3u8?id=hews&pwd=jsdecode
-kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=hewshd&pwd=jsdecode
-kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=hewshd&pwd=jsdecode
-http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226684/1.m3u8
-kdsvod://http://v.91kds.com/b7/cdnlive.m3u8?id=hews-720p&pwd=jsdecode
-#EXTINF:-1 group-title="卫视",河南卫视
-http://hnqf.chinashadt.com:2036/live/2.stream/playlist.m3u8
-http://media.hndyjyfw.gov.cn/live/jz-hnweishi/live.m3u8@@Referer=https://www.hndyjyfw.gov.cn/@@
-kdsvod://http://v.91kds.com/b7/xuexi.m3u8?id=haws&pwd=jsdecode
-kdsvod://http://v.91kds.com/b7/xuexi1.m3u8?id=haws&pwd=jsdecode
-http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226687/1.m3u8
-#EXTINF:-1 group-title="卫视",河南卫视HD
-kdsvod://http://v.91kds.com/b7/hatv.m3u8?id=hawshd&pwd=jsdecode
-kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=hawshd&pwd=jsdecode
-kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=hawshd&pwd=jsdecode
-kdsvod://migu://790187291
-http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226668/1.m3u8
-kdsvod://http://v.91kds.com/b7/cdnlive.m3u8?id=haws-720p&pwd=jsdecode
-#EXTINF:-1 group-title="卫视",浙江卫视
-kdsvod://http://v.91kds.com/b7/zjtv.m3u8?id=zjws&pwd=jsdecode
-http://media.hndyjyfw.gov.cn/live/jz-zhejiangweishi/live.m3u8@@Referer=https://www.hndyjyfw.gov.cn/@@
-kdsvod://http://v.91kds.com/b7/xuexi.m3u8?id=zjws&pwd=jsdecode
-kdsvod://http://v.91kds.com/b7/zjtv1.m3u8?id=zjws&pwd=jsdecode
-kdsvod://http://v.91kds.com/b7/xuexi1.m3u8?id=zjws&pwd=jsdecode
-https://ali-xwl.cztv.com/live/channel01720Plxw.m3u8
-#EXTINF:-1 group-title="卫视",浙江卫视4K
-kdsvod://http://v.91kds.com/b7/zjtv.m3u8?id=zjws4k&pwd=jsdecode
-kdsvod://http://v.91kds.com/b7/zjtv2.m3u8?id=zjws4k&pwd=jsdecode
-kdsvod://http://v.91kds.com/b7/zjtv1.m3u8?id=zjws4k&pwd=jsdecode
-https://play-qukan.cztv.com/live/1758879019692345.m3u8
-kdsvod://http://v.91kds.com/b7/zgst.m3u8?id=zjws4k&pwd=jsdecode
-#EXTINF:-1 group-title="卫视",浙江卫视HD
-kdsvod://http://v.91kds.com/b7/zjtv.m3u8?id=zjwshd&pwd=jsdecode
-kdsvod://http://v.91kds.com/b7/zjtv1.m3u8?id=zjwshd&pwd=jsdecode
-kdsvod://http://v.91kds.com/b7/zjtv2.m3u8?id=zjwshd&pwd=jsdecode
-kdsvod://http://v.91kds.com/b7/migu.m3u8?id=zjwshd&pwd=jsdecode
-kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=zjwshd&pwd=jsdecode
-https://play-qukan.cztv.com/live/1746687468244305.m3u8
-kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=zjwshd&pwd=jsdecode
-kdsvod://http://v.91kds.com/b7/tvzb2.m3u8?id=zjwshd&pwd=jsdecode
-kdsvod://http://v.91kds.com/b7/tvzb1.m3u8?id=zjwshd&pwd=jsdecode
-kdsvod://http://v.91kds.com/b7/tvzb3.m3u8?id=zjwshd&pwd=jsdecode
-kdsvod://http://v.91kds.com/b7/tvzb4.m3u8?id=zjwshd&pwd=jsdecode
-kdsvod://http://v.91kds.com/b7/tvzb5.m3u8?id=zjwshd&pwd=jsdecode
-kdsvod://http://v.91kds.com/b7/tvzb6.m3u8?id=zjwshd&pwd=jsdecode
-kdsvod://http://v.91kds.com/b7/tvzb7.m3u8?id=zjwshd&pwd=jsdecode
-http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226690/1.m3u8
-https://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
-kdsvod://http://v.91kds.com/b7/cdnlive.m3u8?id=zjws-720p&pwd=jsdecode
-tvbus://1SuaPeqBfFXi3iThfdug3zHN2hV4WGt5F7WMaYb68tcjycafR4
-#EXTINF:-1 group-title="卫视",海南卫视
-http://222.203.241.36:5001/nn_live.m3u8?id=sm_hnlyws
-htmlplay://https://m.miguvideo.com/m/liveDetail/738906860?channelId=10010001005
-kdsvod://http://v.91kds.com/b7/xuexi.m3u8?id=lyws&pwd=jsdecode
-kdsvod://http://v.91kds.com/b7/xuexi1.m3u8?id=lyws&pwd=jsdecode
-kdsvod://migu://947472502
-http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226683/1.m3u8
-#EXTINF:-1 group-title="卫视",海南卫视HD
-kdsvod://http://v.91kds.com/b7/hitv.m3u8?id=lyws&pwd=jsdecode
-kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=lywshd&pwd=jsdecode
-http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226679/1.m3u8
-#EXTINF:-1 group-title="卫视",海峡卫视
-kdsvod://http://v.91kds.com/b7/fjtv.m3u8?id=hxws&pwd=jsdecode
-kdsvod://migu://849119120
-kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=hxws&pwd=jsdecode
-kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=hxws&pwd=jsdecode
-#EXTINF:-1 group-title="卫视",深圳卫视
-http://media.hndyjyfw.gov.cn/live/jz-shenzhenweishi/live.m3u8@@Referer=https://www.hndyjyfw.gov.cn/@@
-kdsvod://http://v.91kds.com/b7/xuexi.m3u8?id=szws&pwd=jsdecode
-kdsvod://http://v.91kds.com/b7/xuexi1.m3u8?id=szws&pwd=jsdecode
-#EXTINF:-1 group-title="卫视",深圳卫视4K
-kdsvod://http://v.91kds.com/b7/zgst.m3u8?id=szws4k&pwd=jsdecode@@Referer=https://api.chinaaudiovisual.cn/@@
-#EXTINF:-1 group-title="卫视",深圳卫视HD
-kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=szwshd&pwd=jsdecode
-kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=szwshd&pwd=jsdecode
-kdsvod://http://v.91kds.com/b7/tvzb2.m3u8?id=szwshd&pwd=jsdecode
-kdsvod://http://v.91kds.com/b7/tvzb1.m3u8?id=szwshd&pwd=jsdecode
-kdsvod://http://v.91kds.com/b7/tvzb3.m3u8?id=szwshd&pwd=jsdecode
-kdsvod://http://v.91kds.com/b7/tvzb4.m3u8?id=szwshd&pwd=jsdecode
-kdsvod://http://v.91kds.com/b7/tvzb5.m3u8?id=szwshd&pwd=jsdecode
-kdsvod://http://v.91kds.com/b7/tvzb6.m3u8?id=szwshd&pwd=jsdecode
-kdsvod://http://v.91kds.com/b7/tvzb7.m3u8?id=szwshd&pwd=jsdecode
-http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226688/1.m3u8
-kdsvod://http://v.91kds.com/b7/cdnlive.m3u8?id=szws-720p&pwd=jsdecode
-#EXTINF:-1 group-title="卫视",湖北卫视
-htmlplay://https://m.miguvideo.com/m/liveDetail/738906825?channelId=10010001005
-kdsvod://http://v.91kds.com/b7/xuexi.m3u8?id=hbws&pwd=jsdecode
-kdsvod://http://v.91kds.com/b7/xuexi1.m3u8?id=hbws&pwd=jsdecode
-#EXTINF:-1 group-title="卫视",湖北卫视HD
-kdsvod://http://v.91kds.com/b7/migu.m3u8?id=hbwshd&pwd=jsdecode
-kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=hbwshd&pwd=jsdecode
-kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=hbwshd&pwd=jsdecode
-kdsvod://migu://947472496
-kdsvod://http://v.91kds.com/c7/hbtv.m3u8?id=hbwshd&pwd=jsdecode@@Referer=https://m.hbtv.com.cn/@@
-http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226713/1.m3u8
-#EXTINF:-1 group-title="卫视",湖南卫视
-http://media.hndyjyfw.gov.cn/live/jz-hunanweishi-gq/live.m3u8@@Referer=https://www.hndyjyfw.gov.cn/@@
-#EXTINF:-1 group-title="卫视",湖南卫视4K
-kdsvod://http://v.91kds.com/b7/zgst.m3u8?id=hnws4k&pwd=jsdecode
-#EXTINF:-1 group-title="卫视",湖南卫视HD
-kdsvod://http://v.91kds.com/b7/hoge.m3u8?ip=hnldtv&id=11&pwd=jsdecode@@User-Agent=Mozilla@@
-htmlplay://https://web.guangdianyun.tv/tv/?id=680&uin=1202
-kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=hnwshd&pwd=jsdecode
-kdsvod://http://v.91kds.com/b7/dsdq.m3u8?id=hnwshd&pwd=jsdecode
-kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=hnwshd&pwd=jsdecode
-kdsvod://http://v.91kds.com/b7/tvzb2.m3u8?id=hnwshd&pwd=jsdecode
-kdsvod://http://v.91kds.com/b7/tvzb1.m3u8?id=hnwshd&pwd=jsdecode
-kdsvod://http://v.91kds.com/b7/tvzb3.m3u8?id=hnwshd&pwd=jsdecode
-kdsvod://http://v.91kds.com/b7/tvzb4.m3u8?id=hnwshd&pwd=jsdecode
-kdsvod://http://v.91kds.com/b7/tvzb5.m3u8?id=hnwshd&pwd=jsdecode
-kdsvod://http://v.91kds.com/b7/tvzb6.m3u8?id=hnwshd&pwd=jsdecode
-kdsvod://http://v.91kds.com/b7/tvzb7.m3u8?id=hnwshd&pwd=jsdecode
-http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226698/1.m3u8
-tvbus://12TVKNw89kaBcfQhMYySZtxZUmQV6qapSFxdTdCv1bPAiDXESeT
-kdsvod://http://v.91kds.com/b7/cdnlive.m3u8?id=hnws-720p&pwd=jsdecode
-#EXTINF:-1 group-title="卫视",热门推荐2
-http://live.enai1.cn/playlist/845.m3u8
-kdsvod://http://v.91kds.com/b7/ad.m3u8?id=ad14&pwd=jsdecode
-#EXTINF:-1 group-title="卫视",猜你喜欢2
-http://live.enai1.cn/playlist/844.m3u8
-kdsvod://http://v.91kds.com/b7/ad.m3u8?id=ad17&pwd=jsdecode
-#EXTINF:-1 group-title="卫视",甘肃卫视
-htmlplay://https://m.miguvideo.com/m/liveDetail/738910997?channelId=10010001005
-kdsvod://http://v.91kds.com/b7/xuexi.m3u8?id=gsws&pwd=jsdecode
-https://hls.gstv.com.cn/skt649/1ef20o.m3u8@@Referer=https://www.gstv.com.cn/zxc.jhtml@@
-rtmp://liveout.gstv.com.cn/skt649/1ef20o
-kdsvod://http://v.91kds.com/b7/xuexi1.m3u8?id=gsws&pwd=jsdecode
-http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226662/1.m3u8
-https://live.gstv.com.cn/live/oxfhvoy.m3u8
-#EXTINF:-1 group-title="卫视",甘肃卫视HD
-kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=gswshd&pwd=jsdecode
-kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=gswshd&pwd=jsdecode
-#EXTINF:-1 group-title="卫视",西藏卫视
-kdsvod://http://v.91kds.com/b7/xztv.m3u8?id=xzws&pwd=jsdecode
-htmlplay://https://m.miguvideo.com/m/liveDetail/738910461?channelId=10010001005
-kdsvod://http://v.91kds.com/b7/xuexi.m3u8?id=xzws&pwd=jsdecode
-kdsvod://http://v.91kds.com/b7/xuexi1.m3u8?id=xzws&pwd=jsdecode
-kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=xzws&pwd=jsdecode
-http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226710/1.m3u8
-#EXTINF:-1 group-title="卫视",西藏藏语
-kdsvod://http://v.91kds.com/b7/xztv.m3u8?id=xzzy&pwd=jsdecode
-kdsvod://http://v.91kds.com/b7/xuexi.m3u8?id=xzzy&pwd=jsdecode
-kdsvod://http://v.91kds.com/b7/xuexi1.m3u8?id=xzzy&pwd=jsdecode
-#EXTINF:-1 group-title="卫视",贵州卫视
-kdsvod://http://v.91kds.com/b7/gztv.m3u8?id=gzws&pwd=jsdecode@@Referer=https://www.gzstv.com/@@
-htmlplay://https://m.miguvideo.com/m/liveDetail/783845222?channelId=10010001005
-kdsvod://http://v.91kds.com/b7/xuexi.m3u8?id=gzws&pwd=jsdecode
-kdsvod://http://v.91kds.com/b7/xuexi1.m3u8?id=gzws&pwd=jsdecode
-http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226676/1.m3u8
-https://qnhi-hls.gzstv.com/livegztv-hi/CH01_hd.m3u8
-#EXTINF:-1 group-title="卫视",贵州卫视HD
-kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=gzwshd&pwd=jsdecode
-kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=gzwshd&pwd=jsdecode
-http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226672/1.m3u8
-#EXTINF:-1 group-title="卫视",辽宁卫视
-htmlplay://https://m.miguvideo.com/m/liveDetail/630291707?channelId=10010001005
-kdsvod://http://v.91kds.com/b7/xuexi.m3u8?id=lnws&pwd=jsdecode
-kdsvod://http://v.91kds.com/b7/xuexi1.m3u8?id=lnws&pwd=jsdecode
-#EXTINF:-1 group-title="卫视",辽宁卫视HD
-kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=lnwshd&pwd=jsdecode
-kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=lnwshd&pwd=jsdecode
-kdsvod://migu://630291707
-kdsvod://rtmphtml://http://v.91kds.com/b7/lnbdy.m3u8?id=lnwshd&pwd=jsdecode
-http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226689/1.m3u8
-#EXTINF:-1 group-title="卫视",重庆卫视
-http://media.hndyjyfw.gov.cn/live/jz-chongqingweishi/live.m3u8@@Referer=https://www.hndyjyfw.gov.cn/@@
-htmlplay://https://m.miguvideo.com/m/liveDetail/738910914?channelId=10010001005
-htmlplay://https://m.miguvideo.com/m/liveDetail/738898486?channelId=10010001005
-#EXTINF:-1 group-title="卫视",重庆卫视HD
-kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=cqwshd&pwd=jsdecode
-kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=cqwshd&pwd=jsdecode
-http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226680/1.m3u8
-#EXTINF:-1 group-title="卫视",陕西卫视
-kdsvod://sntv://star
-htmlplay://https://m.miguvideo.com/m/liveDetail/738910838?channelId=10010001005
-kdsvod://http://v.91kds.com/b7/xuexi.m3u8?id=snws&pwd=jsdecode
-kdsvod://http://v.91kds.com/b7/xuexi1.m3u8?id=snws&pwd=jsdecode
-http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226707/1.m3u8
-#EXTINF:-1 group-title="卫视",陕西卫视HD
-kdsvod://http://v.91kds.com/b7/migu.m3u8?id=snws&pwd=jsdecode
-kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=snwshd&pwd=jsdecode
-kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=snwshd&pwd=jsdecode
-kdsvod://migu://738910838
-#EXTINF:-1 group-title="卫视",随心看3
-http://live.enai1.cn/playlist/844.m3u8
-kdsvod://http://v.91kds.com/b7/ad.m3u8?id=ad13&pwd=jsdecode
-#EXTINF:-1 group-title="卫视",随心看4
-http://live.enai1.cn/playlist/845.m3u8
-kdsvod://http://v.91kds.com/b7/ad.m3u8?id=ad18&pwd=jsdecode
-#EXTINF:-1 group-title="卫视",青海卫视
-kdsvod://http://v.91kds.com/b7/xuexi.m3u8?id=qhws&pwd=jsdecode
-kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=qhws&pwd=jsdecode
-kdsvod://http://v.91kds.com/b7/xuexi1.m3u8?id=qhws&pwd=jsdecode
-kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=qhws&pwd=jsdecode
-kdsvod://migu://947472506
-http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226696/1.m3u8
-#EXTINF:-1 group-title="卫视",黑龙江卫视
-kdsvod://http://v.91kds.com/b7/xuexi.m3u8?id=hljws&pwd=jsdecode
-kdsvod://http://v.91kds.com/b7/xuexi1.m3u8?id=hljws&pwd=jsdecode
-#EXTINF:-1 group-title="卫视",黑龙江卫视HD
-https://idclive.hljtv.com:4430/live/hljws_own.m3u8
-kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=hljwshd&pwd=jsdecode
-kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=hljwshd&pwd=jsdecode
-http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226716/1.m3u8
 #EXTINF:-1 group-title="央视",CCTV-1
 http://111.13.111.242/000000001001/3000000010000015470/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000015470&livemode=1&stbId=3&HlsProfileId=
 http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226674/1.m3u8
@@ -1149,30 +627,9 @@ htmlplay://https://m.miguvideo.com/m/liveDetail/884121956?channelId=10010001005
 kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=lgs&pwd=jsdecode
 kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=lgs&pwd=jsdecode
 kdsvod://migu://884121956
-#EXTINF:-1 group-title="央视",乐享好物
-kdsvod://http://v.91kds.com/b7/ad.m3u8?id=ad06&pwd=jsdecode
-http://live.enai1.cn/playlist/703/9.m3u8
-#EXTINF:-1 group-title="央视",今日热销
-http://live.enai1.cn/playlist/702/9.m3u8
-kdsvod://http://v.91kds.com/b7/ad.m3u8?id=ad05&pwd=jsdecode
-#EXTINF:-1 group-title="央视",休闲推荐
-http://live.enai1.cn/playlist/818.m3u8
-kdsvod://http://v.91kds.com/b7/ad.m3u8?id=ad01&pwd=jsdecode
-#EXTINF:-1 group-title="央视",新品特惠
-kdsvod://http://v.91kds.com/b7/ad.m3u8?id=ad09&pwd=jsdecode
-http://live.enai1.cn/playlist/704/9.m3u8
-#EXTINF:-1 group-title="央视",日用百货
-http://live.enai1.cn/playlist/701/9.m3u8
-kdsvod://http://v.91kds.com/b7/ad.m3u8?id=ad02&pwd=jsdecode
 #EXTINF:-1 group-title="央视",早期教育
 kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=zqjy&pwd=jsdecode
 kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=zqjy&pwd=jsdecode
-#EXTINF:-1 group-title="央视",热门推荐
-http://live.enai1.cn/playlist/845.m3u8
-kdsvod://http://v.91kds.com/b7/ad.m3u8?id=ad04&pwd=jsdecode
-#EXTINF:-1 group-title="央视",猜你喜欢
-kdsvod://http://v.91kds.com/b7/ad.m3u8?id=ad07&pwd=jsdecode
-http://live.enai1.cn/playlist/844.m3u8
 #EXTINF:-1 group-title="央视",睛彩青少
 http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226965/1.m3u8
 #EXTINF:-1 group-title="央视",重温经典
@@ -1182,12 +639,501 @@ kdsvod://http://v.91kds.com/b7/dsdq.m3u8?id=cwjd&pwd=jsdecode
 kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=cwjd&pwd=jsdecode
 kdsvod://http://v.91kds.com/b7/cdnlive.m3u8?id=cwjd-720p&pwd=jsdecode
 tvbus://128WHgf92P3pAE9qR4VgEtu88u7JTs7G6w3bp2sWwAMi4A38jcN
-#EXTINF:-1 group-title="央视",随心看
-http://live.enai1.cn/playlist/844.m3u8
-kdsvod://http://v.91kds.com/b7/ad.m3u8?id=ad03&pwd=jsdecode
-#EXTINF:-1 group-title="央视",随心看2
-kdsvod://http://v.91kds.com/b7/ad.m3u8?id=ad08&pwd=jsdecode
-http://live.enai1.cn/playlist/845.m3u8
+#EXTINF:-1 group-title="卫视",三沙卫视
+kdsvod://http://v.91kds.com/b7/hitv.m3u8?id=ssws&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=ssws&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=ssws&pwd=jsdecode
+#EXTINF:-1 group-title="卫视",东南卫视
+kdsvod://http://v.91kds.com/b7/fjtv.m3u8?id=dnws&pwd=jsdecode
+kdsvod://http://v1.91kds.com/live1/xuexi.m3u8?id=dnws&pwd=jsdecode
+kdsvod://http://v1.91kds.com/live1/xuexi1.m3u8?id=dnws&pwd=jsdecode
+http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226675/1.m3u8
+#EXTINF:-1 group-title="卫视",东南卫视HD
+kdsvod://http://v.91kds.com/b7/fjtv.m3u8?id=dnwshd&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=dnwshd&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=dnwshd&pwd=jsdecode
+http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226670/1.m3u8
+#EXTINF:-1 group-title="卫视",东方卫视
+http://media.hndyjyfw.gov.cn/live/jz-shanghaiweishi-gq/live.m3u8@@Referer=https://www.hndyjyfw.gov.cn/@@
+htmlplay://https://m.miguvideo.com/m/liveDetail/651632648?channelId=10010001005
+kdsvod://http://v.91kds.com/b7/xuexi.m3u8?id=dfws&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/xuexi1.m3u8?id=dfws&pwd=jsdecode
+#EXTINF:-1 group-title="卫视",东方卫视4K
+kdsvod://http://v.91kds.com/c7/shkk.m3u8?id=dfws4k&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/zgst.m3u8?id=dfws4k&pwd=jsdecode
+kdsvod://bstv://dongfangweishi21324
+#EXTINF:-1 group-title="卫视",东方卫视HD
+kdsvod://http://v.91kds.com/b7/migu.m3u8?id=dfwshd&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=dfwshd&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/dsdq.m3u8?id=dfwshd&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=dfwshd&pwd=jsdecode
+kdsvod://bstv://Umai:CHAN/111131@BESTV.SMG.SMG
+kdsvod://migu://651632648
+kdsvod://http://v.91kds.com/b7/tvzb2.m3u8?id=dfwshd&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/tvzb1.m3u8?id=dfwshd&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/tvzb3.m3u8?id=dfwshd&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/tvzb4.m3u8?id=dfwshd&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/tvzb5.m3u8?id=dfwshd&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/tvzb6.m3u8?id=dfwshd&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/tvzb7.m3u8?id=dfwshd&pwd=jsdecode
+http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226734/1.m3u8
+kdsvod://http://v.91kds.com/b7/cdnlive.m3u8?id=dfws-720p&pwd=jsdecode
+#EXTINF:-1 group-title="卫视",云南卫视
+https://zhzt.edehong.com:8001/srs1/live/2557455.flv
+htmlplay://https://m.miguvideo.com/m/liveDetail/783846580?channelId=10010001005
+kdsvod://http://v.91kds.com/b7/xuexi.m3u8?id=ynws&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/xuexi1.m3u8?id=ynws&pwd=jsdecode
+http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226709/1.m3u8
+#EXTINF:-1 group-title="卫视",云南卫视HD
+kdsvod://http://v.91kds.com/b7/yntv.m3u8?id=ynws&pwd=jsdecode@@Referer=https://www.yntv.cn/@@
+https://hwapi.yntv.net/62hdvf/nqyn7w.m3u8@@Referer=http://cloudxyapi.yntv.net/@@
+kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=ynwshd&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=ynwshd&pwd=jsdecode
+#EXTINF:-1 group-title="卫视",兵团卫视
+https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
+kdsvod://http://v.91kds.com/b7/xuexi.m3u8?id=btws&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/xuexi1.m3u8?id=btws&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=btws&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=btws&pwd=jsdecode
+kdsvod://migu://956923145
+http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226661/1.m3u8
+#EXTINF:-1 group-title="卫视",内蒙古卫视
+https://livestream-bt.nmtv.cn/nmtv/3208526general.m3u8?txSecret=eb5a3102dd5406c7ffeddf560b024952&txTime=76B2F9A0
+htmlplay://https://m.miguvideo.com/m/liveDetail/738911430?channelId=10010001005
+kdsvod://http://v.91kds.com/b7/xuexi.m3u8?id=nmgws&pwd=jsdecode
+kdsvod://http://v.91kds.com/c7/nmtv.m3u8?id=nmgws&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/migu.m3u8?id=nmgws&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/xuexi1.m3u8?id=nmgws&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=nmgws&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=nmgws&pwd=jsdecode
+http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226685/1.m3u8
+#EXTINF:-1 group-title="卫视",内蒙古蒙语
+kdsvod://http://v.91kds.com/b7/xuexi.m3u8?id=nmmy&pwd=jsdecode
+kdsvod://http://v.91kds.com/c7/nmtv.m3u8?id=nmmy&pwd=jsdecode
+http://play1-qk.nmtv.cn/live/1769652018126032.m3u8
+kdsvod://http://v.91kds.com/b7/xuexi1.m3u8?id=nmmy&pwd=jsdecode
+#EXTINF:-1 group-title="卫视",农林卫视
+kdsvod://sntv://nl
+kdsvod://migu://956904896
+#EXTINF:-1 group-title="卫视",北京卫视
+http://media.hndyjyfw.gov.cn/live/jz-beijingweishi/live.m3u8@@Referer=https://www.hndyjyfw.gov.cn/@@
+kdsvod://http://v.91kds.com/b7/xuexi.m3u8?id=bjws&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/xuexi1.m3u8?id=bjws&pwd=jsdecode
+#EXTINF:-1 group-title="卫视",北京卫视4K
+kdsvod://http://v.91kds.com/c7/btv.m3u8?id=bjws4k&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/zgst.m3u8?id=bjws4k&pwd=jsdecode@@Referer=https://api.chinaaudiovisual.cn/@@
+#EXTINF:-1 group-title="卫视",北京卫视HD
+kdsvod://http://v.91kds.com/c7/btv.m3u8?id=bjwshd&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/dsdq.m3u8?id=bjwshd&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=bjwshd&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=bjwshd&pwd=jsdecode
+http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226719/1.m3u8
+kdsvod://http://v.91kds.com/b7/cdnlive.m3u8?id=bjws-720p&pwd=jsdecode
+#EXTINF:-1 group-title="卫视",厦门卫视
+kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=xmws&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=xmws&pwd=jsdecode
+http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226695/1.m3u8
+#EXTINF:-1 group-title="卫视",吉林卫视
+kdsvod://http://v.91kds.com/b7/hoge.m3u8?ip=jltv&id=351&pwd=jsdecode
+htmlplay://https://m.miguvideo.com/m/liveDetail/738906889?channelId=10010001005
+kdsvod://http://v.91kds.com/b7/xuexi.m3u8?id=jlws&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/xuexi1.m3u8?id=jlws&pwd=jsdecode
+kdsvod://migu://947472500
+http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226671/1.m3u8
+#EXTINF:-1 group-title="卫视",吉林卫视HD
+http://stream4.jlntv.cn/jlwshd/sd/live.m3u8
+kdsvod://http://v.91kds.com/c7/jltv.m3u8?id=jlwshd&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=jlwshd&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=jlwshd&pwd=jsdecode
+#EXTINF:-1 group-title="卫视",四川卫视
+kdsvod://http://v.91kds.com/b7/xuexi.m3u8?id=scws&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/xuexi1.m3u8?id=scws&pwd=jsdecode
+http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226697/1.m3u8
+#EXTINF:-1 group-title="卫视",四川卫视4K
+kdsvod://http://v.91kds.com/b7/zgst.m3u8?id=scws4k&pwd=jsdecode@@Referer=https://api.chinaaudiovisual.cn/@@
+#EXTINF:-1 group-title="卫视",四川卫视HD
+kdsvod://http://v.91kds.com/b7/sctv.m3u8?id=scwshd&pwd=jsdecode@@Referer=https://www.sctv.com/@@
+kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=scwshd&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=scwshd&pwd=jsdecode
+http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226659/1.m3u8
+#EXTINF:-1 group-title="卫视",大湾区卫视
+htmlplay://https://www.gdtv.cn/tvChannelDetail/51@@UA=Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/100.0.4896.75Safari/537.36@@
+htmlplay://https://m.miguvideo.com/m/liveDetail/608917627?channelId=10010001005
+kdsvod://http://v.91kds.com/b7/xuexi.m3u8?id=nfws&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=nfws&pwd=jsdecode
+kdsvod://http://v.91kds.com/c7/gdtv.m3u8?id=nfws&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/xuexi1.m3u8?id=nfws&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=nfws&pwd=jsdecode
+kdsvod://migu://608917627
+#EXTINF:-1 group-title="卫视",大湾区卫视(国际版)
+htmlplay://https://www.gdtv.cn/tvChannelDetail/46@@UA=Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/100.0.4896.75Safari/537.36@@
+https://hc73k3dhwo5gfkt.wcetv.com/hls/gdtv.m3u8
+kdsvod://http://v.91kds.com/c7/gdtv.m3u8?id=gdgj&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=gdgj&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=gdgj&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/cdnlive.m3u8?id=gdgj&pwd=jsdecode
+#EXTINF:-1 group-title="卫视",天津卫视
+kdsvod://http://v.91kds.com/b7/xuexi.m3u8?id=tjws&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/xuexi1.m3u8?id=tjws&pwd=jsdecode
+#EXTINF:-1 group-title="卫视",天津卫视HD
+kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=tjwshd&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=tjwshd&pwd=jsdecode
+http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226686/1.m3u8
+kdsvod://http://v.91kds.com/b7/cdnlive.m3u8?id=tjws-720p&pwd=jsdecode
+#EXTINF:-1 group-title="卫视",宁夏卫视
+https://hls.ningxiahuangheyun.com/live/nxws1M.m3u8@@Referer=https://web.ningxiahuangheyun.com@@
+htmlplay://https://m.miguvideo.com/m/liveDetail/738910535?channelId=10010001005
+kdsvod://http://v.91kds.com/b7/xuexi.m3u8?id=nxws&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/xuexi1.m3u8?id=nxws&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=nxws&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=nxws&pwd=jsdecode
+http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226691/1.m3u8
+#EXTINF:-1 group-title="卫视",安多卫视
+htmlplay://http://www.qhtb.cn/onlin/onlin_tv/
+kdsvod://http://v.91kds.com/b7/xuexi.m3u8?id=qhzy&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/xuexi1.m3u8?id=qhzy&pwd=jsdecode
+#EXTINF:-1 group-title="卫视",安徽卫视
+http://media.hndyjyfw.gov.cn/live/jz-anhuiweishi-gq/live.m3u8@@Referer=https://www.hndyjyfw.gov.cn/@@
+kdsvod://http://v.91kds.com/b7/xuexi.m3u8?id=ahws&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/xuexi1.m3u8?id=ahws&pwd=jsdecode
+#EXTINF:-1 group-title="卫视",安徽卫视HD
+kdsvod://ahtv2://47
+kdsvod://http://v.91kds.com/c7/ahtv2.m3u8?id=ahwshd&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/ahtv2.m3u8?id=ahwshd&kdsplayer=media&pwd=jsdecode@@referer=https://www.ahtv.cn/@user-agent=Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/99.0.4844.84Safari/537.36HBPC/12.1.3.306@@
+kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=ahwshd&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=ahwshd&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/tvzb2.m3u8?id=ahwshd&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/tvzb1.m3u8?id=ahwshd&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/tvzb3.m3u8?id=ahwshd&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/tvzb4.m3u8?id=ahwshd&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/tvzb5.m3u8?id=ahwshd&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/tvzb6.m3u8?id=ahwshd&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/tvzb7.m3u8?id=ahwshd&pwd=jsdecode
+http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226655/1.m3u8
+http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226664/1.m3u8
+kdsvod://http://v.91kds.com/b7/cdnlive.m3u8?id=ahws-720p&pwd=jsdecode
+#EXTINF:-1 group-title="卫视",山东卫视
+http://lives.jnnews.tv/video/s10001-SDTV/index.m3u8
+https://wfrtv-live-tz.wfcmw.cn:5443/live/sdtv.m3u8
+htmlplay://https://m.miguvideo.com/m/liveDetail/738910366?channelId=10010001005
+kdsvod://http://v.91kds.com/b7/xuexi.m3u8?id=sdws&pwd=jsdecode
+http://221.2.36.14/video/s10001-SDTV/index.m3u8
+http://60.211.179.171/video/s10001-SDTV/index.m3u8
+http://111.17.177.164/video/s10001-SDTV/index.m3u8
+kdsvod://sdtv1://24581
+kdsvod://http://v.91kds.com/b7/sdxw.m3u8?id=sdws&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/xuexi1.m3u8?id=sdws&pwd=jsdecode
+#EXTINF:-1 group-title="卫视",山东卫视4K
+kdsvod://http://v.91kds.com/b7/zgst.m3u8?id=sdws4k&pwd=jsdecode
+#EXTINF:-1 group-title="卫视",山东卫视HD
+kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=sdwshd&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=sdwshd&pwd=jsdecode
+http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226693/1.m3u8
+kdsvod://http://v.91kds.com/b7/cdnlive.m3u8?id=sdws-720p&pwd=jsdecode
+#EXTINF:-1 group-title="卫视",山东教育卫视
+http://livewai.sdetv.com.cn/live/da4ebbb91ee8468db5a9d230a535391f_transios/playlist.m3u8
+kdsvod://http://v.91kds.com/b7/xuexi.m3u8?id=sdjy&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/xuexi1.m3u8?id=sdjy&pwd=jsdecode
+kdsvod://migu://609154353
+http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226701/1.m3u8
+#EXTINF:-1 group-title="卫视",山西卫视
+kdsvod://http://v.91kds.com/b7/tidenew.m3u8?id=sxws&pwd=jsdecode@@User-Agent=Mozilla/5.0@@
+kdsvod://http://v.91kds.com/b7/xuexi.m3u8?id=sxws&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/xuexi1.m3u8?id=sxws&pwd=jsdecode
+http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226704/1.m3u8
+#EXTINF:-1 group-title="卫视",山西卫视HD
+kdsvod://http://v.91kds.com/b7/sxtv.m3u8?id=sxws&pwd=jsdecode@@User-Agent=Mozilla/5.0@@
+kdsvod://tide://https://livehhhttps.sxrtv.com/lsdream/q8RVWgs/1000/&q8RVWgs
+kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=sxwshd&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=sxwshd&pwd=jsdecode
+#EXTINF:-1 group-title="卫视",广东卫视
+htmlplay://https://www.gdtv.cn/tvChannelDetail/43@@UA=Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/100.0.4896.75Safari/537.36@@
+kdsvod://http://v.91kds.com/b7/xuexi.m3u8?id=gdws&pwd=jsdecode
+kdsvod://http://v.91kds.com/c7/gdtv.m3u8?id=gdws&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/xuexi1.m3u8?id=gdws&pwd=jsdecode
+#EXTINF:-1 group-title="卫视",广东卫视HD
+kdsvod://http://v.91kds.com/b7/migu.m3u8?id=gdwshd&pwd=jsdecode
+kdsvod://http://v.91kds.com/c7/gdtv.m3u8?id=gdwshd&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=gdwshd&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=gdwshd&pwd=jsdecode
+kdsvod://migu://608831231
+kdsvod://http://v.91kds.com/b7/tvzb2.m3u8?id=gdwshd&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/tvzb1.m3u8?id=gdwshd&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/tvzb3.m3u8?id=gdwshd&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/tvzb4.m3u8?id=gdwshd&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/tvzb5.m3u8?id=gdwshd&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/tvzb6.m3u8?id=gdwshd&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/tvzb7.m3u8?id=gdwshd&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/cdnlive.m3u8?id=gdws-720p&pwd=jsdecode
+#EXTINF:-1 group-title="卫视",广西卫视
+rtmp://live.gxrb.com.cn/hls/a23
+htmlplay://https://m.miguvideo.com/m/liveDetail/783844132?channelId=10010001005
+kdsvod://http://v.91kds.com/b7/xuexi.m3u8?id=gxws&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/xuexi1.m3u8?id=gxws&pwd=jsdecode
+http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226681/1.m3u8
+#EXTINF:-1 group-title="卫视",广西卫视HD
+http://222.216.111.82:8088/flv0
+https://live.gxrb.com.cn/tv/gxtvlive03/index.m3u8&kdsplayer=media
+rtmp://live.gxrb.com.cn/tv/gxtvlive03
+kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=gxwshd&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=gxwshd&pwd=jsdecode
+#EXTINF:-1 group-title="卫视",康巴卫视
+kdsvod://http://v.91kds.com/b7/kbws.m3u8?id=kbws&pwd=jsdecode@@referer=https://www.kangbatv.com/@@
+kdsvod://http://v.91kds.com/b7/sctv.m3u8?id=kbws&pwd=jsdecode@@Referer=https://www.sctv.com/@@
+kdsvod://http://v.91kds.com/b7/xuexi.m3u8?id=kbws&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/xuexi1.m3u8?id=kbws&pwd=jsdecode
+#EXTINF:-1 group-title="卫视",延边卫视
+https://srs.iyb983.cn/video/CYS/index.m3u8
+kdsvod://http://v.91kds.com/b7/xuexi.m3u8?id=ybws&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/xuexi1.m3u8?id=ybws&pwd=jsdecode
+#EXTINF:-1 group-title="卫视",新疆卫视
+kdsvod://http://v.91kds.com/b7/xjtv.m3u8?id=xjws&pwd=jsdecode@@X-Forwarded-For=36.189.232.78@@
+htmlplay://https://m.miguvideo.com/m/liveDetail/738910476?channelId=10010001005
+kdsvod://http://v.91kds.com/b7/xuexi.m3u8?id=xjws&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/xuexi1.m3u8?id=xjws&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=xjws&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=xjws&pwd=jsdecode
+http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226700/1.m3u8
+#EXTINF:-1 group-title="卫视",江苏卫视
+http://hebcx.chinashadt.com:2036/live/10006.stream/playlist.m3u8
+http://media.hndyjyfw.gov.cn/live/jz-jiangsuweishi-gq/live.m3u8@@Referer=https://www.hndyjyfw.gov.cn/@@
+htmlplay://https://m.miguvideo.com/m/liveDetail/623899368?channelId=10010001005
+kdsvod://http://v.91kds.com/b7/xuexi.m3u8?id=jsws&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/xuexi1.m3u8?id=jsws&pwd=jsdecode
+#EXTINF:-1 group-title="卫视",江苏卫视4K
+kdsvod://http://v.91kds.com/b7/jstv2.m3u8?id=jsws4k&pwd=jsdecode@@Referer=https://live.jstv.com/@@
+kdsvod://http://v.91kds.com/c7/jstv.m3u8?id=jsws4k&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/zgst.m3u8?id=jsws4k&pwd=jsdecode
+#EXTINF:-1 group-title="卫视",江苏卫视HD
+kdsvod://http://v.91kds.com/c7/jsqx.m3u8?id=jswshd&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/jstv1.m3u8?id=jswshd&pwd=jsdecode@@Referer=https://live.jstv.com/@@
+kdsvod://http://v.91kds.com/c7/jsqx1.m3u8?id=jswshd&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/migu.m3u8?id=jswshd&pwd=jsdecode
+kdsvod://http://v.91kds.com/c7/jstv.m3u8?id=jswshd&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/jstv2.m3u8?id=jswshd&pwd=jsdecode@@Referer=https://live.jstv.com/@@
+kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=jswshd&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=jswshd&pwd=jsdecode
+kdsvod://migu://623899368
+kdsvod://http://v.91kds.com/b7/tvzb2.m3u8?id=jswshd&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/tvzb1.m3u8?id=jswshd&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/tvzb3.m3u8?id=jswshd&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/tvzb4.m3u8?id=jswshd&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/tvzb5.m3u8?id=jswshd&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/tvzb6.m3u8?id=jswshd&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/tvzb7.m3u8?id=jswshd&pwd=jsdecode
+http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226692/1.m3u8
+kdsvod://http://v.91kds.com/b7/cdnlive.m3u8?id=jsws-720p&pwd=jsdecode
+#EXTINF:-1 group-title="卫视",江西卫视
+htmlplay://https://m.miguvideo.com/m/liveDetail/783847495?channelId=10010001005
+kdsvod://http://v.91kds.com/b7/xuexi.m3u8?id=jxws&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/xuexi1.m3u8?id=jxws&pwd=jsdecode
+#EXTINF:-1 group-title="卫视",江西卫视HD
+kdsvod://http://v.91kds.com/c7/jxtv.m3u8?id=jxwshd&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/migu.m3u8?id=jxwshd&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=jxwshd&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=jxwshd&pwd=jsdecode
+kdsvod://migu://783847495
+http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226682/1.m3u8
+http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226726/1.m3u8
+#EXTINF:-1 group-title="卫视",河北卫视
+http://hbwq.chinashadt.com:2035/live/stream:hbws.stream/playlist.m3u8
+http://tvnew.lnshw.com.cn:58123/live/lntv2.m3u8
+kdsvod://http://v.91kds.com/b7/xuexi.m3u8?id=hews&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/xuexi1.m3u8?id=hews&pwd=jsdecode
+http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226665/1.m3u8
+#EXTINF:-1 group-title="卫视",河北卫视HD
+kdsvod://http://v.91kds.com/b7/hetv.m3u8?id=hews&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=hewshd&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=hewshd&pwd=jsdecode
+http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226684/1.m3u8
+kdsvod://http://v.91kds.com/b7/cdnlive.m3u8?id=hews-720p&pwd=jsdecode
+#EXTINF:-1 group-title="卫视",河南卫视
+http://hnqf.chinashadt.com:2036/live/2.stream/playlist.m3u8
+http://media.hndyjyfw.gov.cn/live/jz-hnweishi/live.m3u8@@Referer=https://www.hndyjyfw.gov.cn/@@
+kdsvod://http://v.91kds.com/b7/xuexi.m3u8?id=haws&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/xuexi1.m3u8?id=haws&pwd=jsdecode
+http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226687/1.m3u8
+#EXTINF:-1 group-title="卫视",河南卫视HD
+kdsvod://http://v.91kds.com/b7/hatv.m3u8?id=hawshd&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=hawshd&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=hawshd&pwd=jsdecode
+kdsvod://migu://790187291
+http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226668/1.m3u8
+kdsvod://http://v.91kds.com/b7/cdnlive.m3u8?id=haws-720p&pwd=jsdecode
+#EXTINF:-1 group-title="卫视",浙江卫视
+kdsvod://http://v.91kds.com/b7/zjtv.m3u8?id=zjws&pwd=jsdecode
+http://media.hndyjyfw.gov.cn/live/jz-zhejiangweishi/live.m3u8@@Referer=https://www.hndyjyfw.gov.cn/@@
+kdsvod://http://v.91kds.com/b7/xuexi.m3u8?id=zjws&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/zjtv1.m3u8?id=zjws&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/xuexi1.m3u8?id=zjws&pwd=jsdecode
+https://ali-xwl.cztv.com/live/channel01720Plxw.m3u8
+#EXTINF:-1 group-title="卫视",浙江卫视4K
+kdsvod://http://v.91kds.com/b7/zjtv.m3u8?id=zjws4k&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/zjtv2.m3u8?id=zjws4k&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/zjtv1.m3u8?id=zjws4k&pwd=jsdecode
+https://play-qukan.cztv.com/live/1758879019692345.m3u8
+kdsvod://http://v.91kds.com/b7/zgst.m3u8?id=zjws4k&pwd=jsdecode
+#EXTINF:-1 group-title="卫视",浙江卫视HD
+kdsvod://http://v.91kds.com/b7/zjtv.m3u8?id=zjwshd&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/zjtv1.m3u8?id=zjwshd&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/zjtv2.m3u8?id=zjwshd&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/migu.m3u8?id=zjwshd&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=zjwshd&pwd=jsdecode
+https://play-qukan.cztv.com/live/1746687468244305.m3u8
+kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=zjwshd&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/tvzb2.m3u8?id=zjwshd&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/tvzb1.m3u8?id=zjwshd&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/tvzb3.m3u8?id=zjwshd&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/tvzb4.m3u8?id=zjwshd&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/tvzb5.m3u8?id=zjwshd&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/tvzb6.m3u8?id=zjwshd&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/tvzb7.m3u8?id=zjwshd&pwd=jsdecode
+http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226690/1.m3u8
+https://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
+kdsvod://http://v.91kds.com/b7/cdnlive.m3u8?id=zjws-720p&pwd=jsdecode
+tvbus://1SuaPeqBfFXi3iThfdug3zHN2hV4WGt5F7WMaYb68tcjycafR4
+#EXTINF:-1 group-title="卫视",海南卫视
+http://222.203.241.36:5001/nn_live.m3u8?id=sm_hnlyws
+htmlplay://https://m.miguvideo.com/m/liveDetail/738906860?channelId=10010001005
+kdsvod://http://v.91kds.com/b7/xuexi.m3u8?id=lyws&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/xuexi1.m3u8?id=lyws&pwd=jsdecode
+kdsvod://migu://947472502
+http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226683/1.m3u8
+#EXTINF:-1 group-title="卫视",海南卫视HD
+kdsvod://http://v.91kds.com/b7/hitv.m3u8?id=lyws&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=lywshd&pwd=jsdecode
+http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226679/1.m3u8
+#EXTINF:-1 group-title="卫视",海峡卫视
+kdsvod://http://v.91kds.com/b7/fjtv.m3u8?id=hxws&pwd=jsdecode
+kdsvod://migu://849119120
+kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=hxws&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=hxws&pwd=jsdecode
+#EXTINF:-1 group-title="卫视",深圳卫视
+http://media.hndyjyfw.gov.cn/live/jz-shenzhenweishi/live.m3u8@@Referer=https://www.hndyjyfw.gov.cn/@@
+kdsvod://http://v.91kds.com/b7/xuexi.m3u8?id=szws&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/xuexi1.m3u8?id=szws&pwd=jsdecode
+#EXTINF:-1 group-title="卫视",深圳卫视4K
+kdsvod://http://v.91kds.com/b7/zgst.m3u8?id=szws4k&pwd=jsdecode@@Referer=https://api.chinaaudiovisual.cn/@@
+#EXTINF:-1 group-title="卫视",深圳卫视HD
+kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=szwshd&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=szwshd&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/tvzb2.m3u8?id=szwshd&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/tvzb1.m3u8?id=szwshd&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/tvzb3.m3u8?id=szwshd&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/tvzb4.m3u8?id=szwshd&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/tvzb5.m3u8?id=szwshd&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/tvzb6.m3u8?id=szwshd&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/tvzb7.m3u8?id=szwshd&pwd=jsdecode
+http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226688/1.m3u8
+kdsvod://http://v.91kds.com/b7/cdnlive.m3u8?id=szws-720p&pwd=jsdecode
+#EXTINF:-1 group-title="卫视",湖北卫视
+htmlplay://https://m.miguvideo.com/m/liveDetail/738906825?channelId=10010001005
+kdsvod://http://v.91kds.com/b7/xuexi.m3u8?id=hbws&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/xuexi1.m3u8?id=hbws&pwd=jsdecode
+#EXTINF:-1 group-title="卫视",湖北卫视HD
+kdsvod://http://v.91kds.com/b7/migu.m3u8?id=hbwshd&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=hbwshd&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=hbwshd&pwd=jsdecode
+kdsvod://migu://947472496
+kdsvod://http://v.91kds.com/c7/hbtv.m3u8?id=hbwshd&pwd=jsdecode@@Referer=https://m.hbtv.com.cn/@@
+http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226713/1.m3u8
+#EXTINF:-1 group-title="卫视",湖南卫视
+http://media.hndyjyfw.gov.cn/live/jz-hunanweishi-gq/live.m3u8@@Referer=https://www.hndyjyfw.gov.cn/@@
+#EXTINF:-1 group-title="卫视",湖南卫视4K
+kdsvod://http://v.91kds.com/b7/zgst.m3u8?id=hnws4k&pwd=jsdecode
+#EXTINF:-1 group-title="卫视",湖南卫视HD
+kdsvod://http://v.91kds.com/b7/hoge.m3u8?ip=hnldtv&id=11&pwd=jsdecode@@User-Agent=Mozilla@@
+htmlplay://https://web.guangdianyun.tv/tv/?id=680&uin=1202
+kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=hnwshd&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/dsdq.m3u8?id=hnwshd&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=hnwshd&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/tvzb2.m3u8?id=hnwshd&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/tvzb1.m3u8?id=hnwshd&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/tvzb3.m3u8?id=hnwshd&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/tvzb4.m3u8?id=hnwshd&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/tvzb5.m3u8?id=hnwshd&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/tvzb6.m3u8?id=hnwshd&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/tvzb7.m3u8?id=hnwshd&pwd=jsdecode
+http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226698/1.m3u8
+tvbus://12TVKNw89kaBcfQhMYySZtxZUmQV6qapSFxdTdCv1bPAiDXESeT
+kdsvod://http://v.91kds.com/b7/cdnlive.m3u8?id=hnws-720p&pwd=jsdecode
+#EXTINF:-1 group-title="卫视",甘肃卫视
+htmlplay://https://m.miguvideo.com/m/liveDetail/738910997?channelId=10010001005
+kdsvod://http://v.91kds.com/b7/xuexi.m3u8?id=gsws&pwd=jsdecode
+https://hls.gstv.com.cn/skt649/1ef20o.m3u8@@Referer=https://www.gstv.com.cn/zxc.jhtml@@
+rtmp://liveout.gstv.com.cn/skt649/1ef20o
+kdsvod://http://v.91kds.com/b7/xuexi1.m3u8?id=gsws&pwd=jsdecode
+http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226662/1.m3u8
+https://live.gstv.com.cn/live/oxfhvoy.m3u8
+#EXTINF:-1 group-title="卫视",甘肃卫视HD
+kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=gswshd&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=gswshd&pwd=jsdecode
+#EXTINF:-1 group-title="卫视",西藏卫视
+kdsvod://http://v.91kds.com/b7/xztv.m3u8?id=xzws&pwd=jsdecode
+htmlplay://https://m.miguvideo.com/m/liveDetail/738910461?channelId=10010001005
+kdsvod://http://v.91kds.com/b7/xuexi.m3u8?id=xzws&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/xuexi1.m3u8?id=xzws&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=xzws&pwd=jsdecode
+http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226710/1.m3u8
+#EXTINF:-1 group-title="卫视",西藏藏语
+kdsvod://http://v.91kds.com/b7/xztv.m3u8?id=xzzy&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/xuexi.m3u8?id=xzzy&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/xuexi1.m3u8?id=xzzy&pwd=jsdecode
+#EXTINF:-1 group-title="卫视",贵州卫视
+kdsvod://http://v.91kds.com/b7/gztv.m3u8?id=gzws&pwd=jsdecode@@Referer=https://www.gzstv.com/@@
+htmlplay://https://m.miguvideo.com/m/liveDetail/783845222?channelId=10010001005
+kdsvod://http://v.91kds.com/b7/xuexi.m3u8?id=gzws&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/xuexi1.m3u8?id=gzws&pwd=jsdecode
+http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226676/1.m3u8
+https://qnhi-hls.gzstv.com/livegztv-hi/CH01_hd.m3u8
+#EXTINF:-1 group-title="卫视",贵州卫视HD
+kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=gzwshd&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=gzwshd&pwd=jsdecode
+http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226672/1.m3u8
+#EXTINF:-1 group-title="卫视",辽宁卫视
+htmlplay://https://m.miguvideo.com/m/liveDetail/630291707?channelId=10010001005
+kdsvod://http://v.91kds.com/b7/xuexi.m3u8?id=lnws&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/xuexi1.m3u8?id=lnws&pwd=jsdecode
+#EXTINF:-1 group-title="卫视",辽宁卫视HD
+kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=lnwshd&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=lnwshd&pwd=jsdecode
+kdsvod://migu://630291707
+kdsvod://rtmphtml://http://v.91kds.com/b7/lnbdy.m3u8?id=lnwshd&pwd=jsdecode
+http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226689/1.m3u8
+#EXTINF:-1 group-title="卫视",重庆卫视
+http://media.hndyjyfw.gov.cn/live/jz-chongqingweishi/live.m3u8@@Referer=https://www.hndyjyfw.gov.cn/@@
+htmlplay://https://m.miguvideo.com/m/liveDetail/738910914?channelId=10010001005
+htmlplay://https://m.miguvideo.com/m/liveDetail/738898486?channelId=10010001005
+#EXTINF:-1 group-title="卫视",重庆卫视HD
+kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=cqwshd&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=cqwshd&pwd=jsdecode
+http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226680/1.m3u8
+#EXTINF:-1 group-title="卫视",陕西卫视
+kdsvod://sntv://star
+htmlplay://https://m.miguvideo.com/m/liveDetail/738910838?channelId=10010001005
+kdsvod://http://v.91kds.com/b7/xuexi.m3u8?id=snws&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/xuexi1.m3u8?id=snws&pwd=jsdecode
+http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226707/1.m3u8
+#EXTINF:-1 group-title="卫视",陕西卫视HD
+kdsvod://http://v.91kds.com/b7/migu.m3u8?id=snws&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=snwshd&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=snwshd&pwd=jsdecode
+kdsvod://migu://738910838
+#EXTINF:-1 group-title="卫视",青海卫视
+kdsvod://http://v.91kds.com/b7/xuexi.m3u8?id=qhws&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=qhws&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/xuexi1.m3u8?id=qhws&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=qhws&pwd=jsdecode
+kdsvod://migu://947472506
+http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226696/1.m3u8
+#EXTINF:-1 group-title="卫视",黑龙江卫视
+kdsvod://http://v.91kds.com/b7/xuexi.m3u8?id=hljws&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/xuexi1.m3u8?id=hljws&pwd=jsdecode
+#EXTINF:-1 group-title="卫视",黑龙江卫视HD
+https://idclive.hljtv.com:4430/live/hljws_own.m3u8
+kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=hljwshd&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=hljwshd&pwd=jsdecode
+http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226716/1.m3u8
 #EXTINF:-1 group-title="上海",上海教育
 https://live2018.setv.sh.cn/setv/programme10_ud.m3u8?auth_key=4794048378-0-0-06e60dd476e18047abd3be7701993ee8@@Referer=https://www.setv.sh.cn/@@
 #EXTINF:-1 group-title="上海",上海新闻HD
@@ -1213,9 +1159,6 @@ kdsvod://migu://617290047
 #EXTINF:-1 group-title="上海",东方财经
 kdsvod://http://v.91kds.com/b7/yicai.m3u8?id=dfcj&pwd=jsdecode
 kdsvod://http://v.91kds.com/b7/yicai.m3u8?id=dfcja&pwd=jsdecode
-#EXTINF:-1 group-title="上海",东方购物
-http://ocj2.kksmg.com/ocj1/ocj1.m3u8
-http://ocj2.kksmg.com/ocj2/ocj2.m3u8
 #EXTINF:-1 group-title="上海",乐游频道
 htmlplay://https://m.miguvideo.com/m/liveDetail/796070452?channelId=10010001005
 #EXTINF:-1 group-title="上海",乐游频道HD
@@ -2623,8 +2566,6 @@ http://live.funhillrm.com/5/sd/live.m3u8
 #EXTINF:-1 group-title="北京",昌平综合
 kdsvod://http://v.91kds.com/b7/ady.m3u8?id=bjcptv1&pwd=jsdecode
 htmlplay://https://web.guangdianyun.tv/tv/?id=3341&uin=3698
-#EXTINF:-1 group-title="北京",爱家购物
-http://tvlive.siqiangame.com/ugotvlive/aijiatv.m3u8?auth_key=1860547259-0-0-77940e9d27746d1ae88f7d31e81191d0
 #EXTINF:-1 group-title="北京",环球旅游
 http://v.voosite.com/AppName/StreamName.m3u8
 kdsvod://migu://958475356
@@ -2857,8 +2798,6 @@ kdsvod://http://v.91kds.com/b7/sctv.m3u8?id=sctv5&pwd=jsdecode@@Referer=https://
 kdsvod://http://v.91kds.com/b7/sctv.m3u8?id=sctv3&pwd=jsdecode@@Referer=https://www.sctv.com/@@
 #EXTINF:-1 group-title="四川",四川新闻频道
 kdsvod://http://v.91kds.com/b7/sctv.m3u8?id=sctv4&pwd=jsdecode@@Referer=https://www.sctv.com/@@
-#EXTINF:-1 group-title="四川",四川星空购物
-kdsvod://http://v.91kds.com/b7/sctv.m3u8?id=sctv6&pwd=jsdecode@@Referer=https://www.sctv.com/@@
 #EXTINF:-1 group-title="四川",四川科教频道
 http://182.150.115.21:8030/pcgacg/pcgacg_0.m3u8
 #EXTINF:-1 group-title="四川",四川经济频道
@@ -2978,9 +2917,6 @@ kdsvod://sccdtv://https://cdn1.cditv.cn/cdtv1high/CDTV1High.flv/playlist.m3u8
 kdsvod://sccdtv://https://cdn1.cditv.cn/cdtv1/CDTV1.flv/playlist.m3u8
 kdsvod://sccdtv://https://cdn1.cditv.cn/cdtv1high/CDTV1High.flv
 kdsvod://sccdtv://https://cdn1.cditv.cn/cdtv1/CDTV1.flv
-#EXTINF:-1 group-title="四川",成都每日购物
-kdsvod://sccdtv://https://cdn1.cditv.cn/cdtv8high/CDTV8High.flv/playlist.m3u8
-kdsvod://sccdtv://https://cdn1.cditv.cn/cdtv8high/CDTV8High.flv
 #EXTINF:-1 group-title="四川",成都经济资讯
 kdsvod://sccdtv://https://cdn1.cditv.cn/cdtv2high/CDTV2High.flv/playlist.m3u8
 kdsvod://sccdtv://https://cdn1.cditv.cn/cdtv2/CDTV2.flv/playlist.m3u8
@@ -3738,8 +3674,6 @@ kdsvod://http://v.91kds.com/b7/sdxw.m3u8?id=sdnk&pwd=jsdecode
 #EXTINF:-1 group-title="山东",山东少儿
 kdsvod://sdtv1://24605
 kdsvod://http://v.91kds.com/b7/sdxw.m3u8?id=sdse&pwd=jsdecode
-#EXTINF:-1 group-title="山东",山东居家购物
-http://vod.51lepai.com/live/live.m3u8
 #EXTINF:-1 group-title="山东",山东文旅
 kdsvod://sdtv1://24590
 kdsvod://http://v.91kds.com/b7/sdxw.m3u8?id=sdys&pwd=jsdecode
@@ -4499,9 +4433,6 @@ htmlplay://https://web.guangdianyun.tv/tv/?id=3406&uin=1779
 http://p2hs.vzan.com/235832/448981620783516053/live.m3u8
 #EXTINF:-1 group-title="山西",代县综合
 kdsvod://http://v.91kds.com/c7/sxy.m3u8?id=sxxzdx1&pwd=jsdecode
-#EXTINF:-1 group-title="山西",优购物
-http://live.ksy.17ugo.com/live/u15.m3u8
-http://tvliveapp.ugoshop.com/ugotvlive/ugotv01.m3u8?auth_key=2274934552-0-0-dc8c9301c2face6c71c0851709bfac61
 #EXTINF:-1 group-title="山西",侯马新闻
 htmlplay://https://web.guangdianyun.tv/tv/?id=2125&uin=2556
 #EXTINF:-1 group-title="山西",保德综合
@@ -4764,9 +4695,6 @@ kdsvod://http://v.91kds.com/b7/gdfstv.m3u8?id=gdfstv1&pwd=jsdecode
 kdsvod://http://v.91kds.com/b7/gdfstv.m3u8?id=gdfstv4&pwd=jsdecode
 #EXTINF:-1 group-title="广东",信宜综合
 htmlplay://https://web.guangdianyun.tv/tv/?id=643&uin=1629
-#EXTINF:-1 group-title="广东",南方购物
-htmlplay://https://www.gdtv.cn/tvChannelDetail/42@@UA=Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/100.0.4896.75Safari/537.36@@
-kdsvod://http://v.91kds.com/c7/gdtv.m3u8?id=gdnfgw&pwd=jsdecode
 #EXTINF:-1 group-title="广东",嘉佳卡通
 htmlplay://https://www.gdtv.cn/tvChannelDetail/66@@UA=Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/100.0.4896.75Safari/537.36@@
 htmlplay://https://m.miguvideo.com/m/liveDetail/614952364?channelId=10010001005
@@ -6088,8 +6016,6 @@ http://czlive.czgd.tv:8091/live/czet_czetzm.m3u8
 http://czlive.czgd.tv:8091/live/czst_czstzm.m3u8
 #EXTINF:-1 group-title="河北",沧州新闻综合
 http://czlive.czgd.tv:8091/live/czyt_czytzm.m3u8
-#EXTINF:-1 group-title="河北",河北三佳购物
-kdsvod://http://v.91kds.com/b7/hetv.m3u8?id=hegw&pwd=jsdecode
 #EXTINF:-1 group-title="河北",河北三农
 kdsvod://http://v.91kds.com/b7/hetv.m3u8?id=henm&pwd=jsdecode
 #EXTINF:-1 group-title="河北",河北少儿科教
@@ -6301,9 +6227,6 @@ kdsvod://http://v.91kds.com/b7/vzan.m3u8?id=hasqtv1&pwd=jsdecode
 https://play-txgz.vzan.com/slowlive/899859453853342540/live.m3u8?vzsign=78e240ea59b810c3c10dec31e596b56f&uid=0&uuid=fc4e2687f5d841368572baa013ac6dbe&vzsign2=293ec699aa14e821e8683b550bd77365
 https://p2.vzan.com/slowlive/899859453853342540/live.m3u8
 kdsvod://http://v.91kds.com/b7/hatv.m3u8?id=hasqtv1&pwd=jsdecode
-#EXTINF:-1 group-title="河南",商城新闻频道
-http://live.dxhmt.cn:9081/tv/11524-1.m3u8
-http://tvpull.dxhmt.cn:9081/tv/11524-1.m3u8
 #EXTINF:-1 group-title="河南",固始综合频道
 http://live.dxhmt.cn:9081/tv/11525-1.m3u8
 http://tvpull.dxhmt.cn:9081/tv/11525-1.m3u8
@@ -6485,8 +6408,6 @@ http://media.hndyjyfw.gov.cn/live/jz-henanwenwu/live.m3u8@@Referer=https://www.h
 #EXTINF:-1 group-title="河南",河南新闻
 kdsvod://http://v.91kds.com/b7/hatv.m3u8?id=hatv6&pwd=jsdecode
 https://hngd-cdn-hls-pull-tx-1.hntv.tv/saas_live/6b74358e0b514f8bbe95640403a91445/playlist.m3u8?wsSecret=f0f60173cd9c52c693cc5aec0f98138d&wsTime=1978133090
-#EXTINF:-1 group-title="河南",河南欢腾购物
-kdsvod://http://v.91kds.com/b7/hatv.m3u8?id=hatv7&pwd=jsdecode
 #EXTINF:-1 group-title="河南",河南民生
 kdsvod://http://v.91kds.com/b7/hatv.m3u8?id=hatv3&pwd=jsdecode
 http://media.hndyjyfw.gov.cn/live/jz-henanminsheng/live.m3u8@@Referer=https://www.hndyjyfw.gov.cn/@@
@@ -7818,9 +7739,6 @@ kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=gztywq&pwd=jsdecode
 kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=gztywq&pwd=jsdecode
 #EXTINF:-1 group-title="贵州",安顺新闻频道
 http://hplayer1.juyun.tv/camera/197226150.m3u8
-#EXTINF:-1 group-title="贵州",家有购物
-kdsvod://http://v.91kds.com/b7/hoge.m3u8?ip=jltv&id=14&pwd=jsdecode
-kdsvod://http://v.91kds.com/b7/gztv.m3u8?id=gzjygw&pwd=jsdecode@@Referer=https://www.gzstv.com/@@
 #EXTINF:-1 group-title="贵州",望谟综合
 http://cmsrtmp.todcy.cn/live/167/64df598530b044a68632460c53cffb09/64df598530b044a68632460c53cffb09.m3u8
 #EXTINF:-1 group-title="贵州",松桃新闻
@@ -7998,8 +7916,6 @@ kdsvod://http://v.91kds.com/b7/cdnlive.m3u8?id=lnbf&pwd=jsdecode
 kdsvod://http://v.91kds.com/b7/cdnlive.m3u8?id=lnbf-3m&pwd=jsdecode
 kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=lnbf3m&pwd=jsdecode
 kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=lnbf3m&pwd=jsdecode
-#EXTINF:-1 group-title="辽宁",辽宁宜佳购物
-kdsvod://rtmphtml://http://v.91kds.com/b7/lnbdy.m3u8?id=lngw&pwd=jsdecode
 #EXTINF:-1 group-title="辽宁",辽宁影视剧
 kdsvod://rtmphtml://http://v.91kds.com/b7/lnbdy.m3u8?id=lnys&pwd=jsdecode
 kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=lnys&pwd=jsdecode
