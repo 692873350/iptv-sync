@@ -2898,9 +2898,9 @@ kdsvod://http://v.91kds.com/b7/gdjytv.m3u8?id=gdjytv1&pwd=jsdecode
 #EXTINF:-1 group-title="广东",揭阳综合
 http://hls-jyrtv.jyrtv.tv/stjy2020/zhpd.m3u8
 #EXTINF:-1 group-title="广东",汕头新闻综合
-kdsvod://http://v.91kds.com/b7/gdsttv.m3u8?id=gdsttv1&pwd=jsdecode
+http://live.enail.cn/playlist/818.m3u8
 #EXTINF:-1 group-title="广东",汕头经济生活
-kdsvod://http://v.91kds.com/b7/gdsttv.m3u8?id=gdsttv2&pwd=jsdecode
+https://www.sgmsw.cn/videos/tv/201805/1308/SB85RIYZOU8JR418AUQOF62CAJQ08DeE/hls/live.m3u8
 #EXTINF:-1 group-title="广东",汕尾文化生活
 kdsvod://http://v.91kds.com/b7/tianma.m3u8?ip=gdswtv&id=36&pwd=jsdecode
 #EXTINF:-1 group-title="广东",汕尾综合
