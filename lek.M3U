@@ -88,13 +88,29 @@ tvbus://128z6qatpQtSdQZEFKrKuQa2EWNuC5wDEdmUBmPzYFPNeCitayT
 #EXTINF:-1 group-title="央视",CCTV-1
 kdsvod://http://v.91kds.com/b7/cdnlive.m3u8?id=cctv1-720p&pwd=jsdecode
 #EXTINF:-1 group-title="央视",CCTV-2
+kdsvod://http://v.91kds.com/c7/sxy.m3u8?id=cctv2&pwd=jsdecode
+#EXTINF:-1 group-title="央视",CCTV-2
+htmlplay://https://m.miguvideo.com/m/liveDetail/631780532?channelId=10010001005
+#EXTINF:-1 group-title="央视",CCTV-2
+kdsvod://http://v.91kds.com/b7/xuexi.m3u8?id=cctv2&pwd=jsdecode
+#EXTINF:-1 group-title="央视",CCTV-2
+rtmp://play.kankanlive.com/live/1698234898628961
+#EXTINF:-1 group-title="央视",CCTV-2
+http://play.kankanlive.com/live/1698234898628961.m3u8
+#EXTINF:-1 group-title="央视",CCTV-2
 kdsvod://http://v.91kds.com/b7/cctvxw.m3u8?bt=2&id=cctv2hd&pwd=jsdecode@@Referer=https://m-live.cctvnews.cctv.com/@@
+#EXTINF:-1 group-title="央视",CCTV-2
+kdsvod://http://v.91kds.com/b7/cctvxw.m3u8?bt=1&id=cctv2hd&pwd=jsdecode@@Referer=https://m-live.cctvnews.cctv.com/@@
+#EXTINF:-1 group-title="央视",CCTV-2
+kdsvod://http://v.91kds.com/b7/cctvxw.m3u8?bt=0&id=cctv2hd&pwd=jsdecode@@Referer=https://m-live.cctvnews.cctv.com/@@
 #EXTINF:-1 group-title="央视",CCTV-2
 kdsvod://http://v.91kds.com/b7/migu.m3u8?id=cctv2hd&pwd=jsdecode
 #EXTINF:-1 group-title="央视",CCTV-2
 kdsvod://http://v.91kds.com/c7/cctvxw.m3u8?bt=2&id=cctv2hd&pwd=jsdecode
 #EXTINF:-1 group-title="央视",CCTV-2
 kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=cctv2hd&pwd=jsdecode
+#EXTINF:-1 group-title="央视",CCTV-2
+kdsvod://http://v.91kds.com/b7/xuexi1.m3u8?id=cctv2&pwd=jsdecode
 #EXTINF:-1 group-title="央视",CCTV-2
 kdsvod://http://v.91kds.com/b7/dsdq.m3u8?id=cctv2hd&pwd=jsdecode
 #EXTINF:-1 group-title="央视",CCTV-2
@@ -121,22 +137,10 @@ http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226739/1.m3u8
 tvbus://12Dae14aJhf5ZLntD1YNrAsJJpyx73X7hPY1urDH6Wn67dYgkxv
 #EXTINF:-1 group-title="央视",CCTV-2
 kdsvod://http://v.91kds.com/b7/cdnlive.m3u8?id=cctv2-720p&pwd=jsdecode
-#EXTINF:-1 group-title="央视",CCTV-2财经
-kdsvod://http://v.91kds.com/c7/sxy.m3u8?id=cctv2&pwd=jsdecode
-#EXTINF:-1 group-title="央视",CCTV-2财经
-htmlplay://https://m.miguvideo.com/m/liveDetail/631780532?channelId=10010001005
-#EXTINF:-1 group-title="央视",CCTV-2财经
-kdsvod://http://v.91kds.com/b7/xuexi.m3u8?id=cctv2&pwd=jsdecode
-#EXTINF:-1 group-title="央视",CCTV-2财经
-rtmp://play.kankanlive.com/live/1698234898628961
-#EXTINF:-1 group-title="央视",CCTV-2财经
-http://play.kankanlive.com/live/1698234898628961.m3u8
-#EXTINF:-1 group-title="央视",CCTV-2财经
-kdsvod://http://v.91kds.com/b7/cctvxw.m3u8?bt=1&id=cctv2hd&pwd=jsdecode@@Referer=https://m-live.cctvnews.cctv.com/@@
-#EXTINF:-1 group-title="央视",CCTV-2财经
-kdsvod://http://v.91kds.com/b7/cctvxw.m3u8?bt=0&id=cctv2hd&pwd=jsdecode@@Referer=https://m-live.cctvnews.cctv.com/@@
-#EXTINF:-1 group-title="央视",CCTV-2财经
-kdsvod://http://v.91kds.com/b7/xuexi1.m3u8?id=cctv2&pwd=jsdecode
+#EXTINF:-1 group-title="央视",CCTV-3
+http://media.hndyjyfw.gov.cn/live/jz-cctv-3/live.m3u8@@Referer=https://www.hndyjyfw.gov.cn/@@
+#EXTINF:-1 group-title="央视",CCTV-3
+htmlplay://https://m.miguvideo.com/m/liveDetail/624878271?channelId=10010001005
 #EXTINF:-1 group-title="央视",CCTV-3
 kdsvod://http://v.91kds.com/b7/migu.m3u8?id=cctv3hd&pwd=jsdecode
 #EXTINF:-1 group-title="央视",CCTV-3
@@ -167,10 +171,6 @@ http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226720/1.m3u8
 tvbus://12qgUDAmnrrdtTQqRzkZzowyyzsnVEv3m88Rnj8V8UdhSRydPVm
 #EXTINF:-1 group-title="央视",CCTV-3
 kdsvod://http://v.91kds.com/b7/cdnlive.m3u8?id=cctv3-720p&pwd=jsdecode
-#EXTINF:-1 group-title="央视",CCTV-3综艺
-http://media.hndyjyfw.gov.cn/live/jz-cctv-3/live.m3u8@@Referer=https://www.hndyjyfw.gov.cn/@@
-#EXTINF:-1 group-title="央视",CCTV-3综艺
-htmlplay://https://m.miguvideo.com/m/liveDetail/624878271?channelId=10010001005
 #EXTINF:-1 group-title="央视",CCTV-4
 kdsvod://http://v.91kds.com/b7/cctvxw.m3u8?bt=2&id=cctv4hd&pwd=jsdecode@@Referer=https://m-live.cctvnews.cctv.com/@@
 #EXTINF:-1 group-title="央视",CCTV-4
@@ -250,6 +250,12 @@ https://hc73k3dhwo5gfkt.wcetv.com/hls/wcetv318.m3u8
 #EXTINF:-1 group-title="央视",CCTV-4中文国际美洲
 kdsvod://migu://608807416
 #EXTINF:-1 group-title="央视",CCTV-5
+http://hebcx.chinashadt.com:2036/live/10007.stream/playlist.m3u8
+#EXTINF:-1 group-title="央视",CCTV-5
+http://media.hndyjyfw.gov.cn/live/jz-cctv-5/live.m3u8@@Referer=https://www.hndyjyfw.gov.cn/@@
+#EXTINF:-1 group-title="央视",CCTV-5
+htmlplay://https://m.miguvideo.com/m/liveDetail/641886683?channelId=10010001005
+#EXTINF:-1 group-title="央视",CCTV-5
 kdsvod://http://v.91kds.com/b7/migu.m3u8?id=cctv5hd&pwd=jsdecode
 #EXTINF:-1 group-title="央视",CCTV-5
 kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=cctv5hd&pwd=jsdecode
@@ -313,16 +319,18 @@ http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226711/1.m3u8
 kdsvod://http://v.91kds.com/b7/cdnlive.m3u8?id=cctv5p-720p&pwd=jsdecode
 #EXTINF:-1 group-title="央视",CCTV-5+
 tvbus://12ju1k33nc1A5LVgFaqFk9xMxmGCCLah4fCV9y9VJqwbW2sMoKP
-#EXTINF:-1 group-title="央视",CCTV-5体育
-http://hebcx.chinashadt.com:2036/live/10007.stream/playlist.m3u8
-#EXTINF:-1 group-title="央视",CCTV-5体育
-http://media.hndyjyfw.gov.cn/live/jz-cctv-5/live.m3u8@@Referer=https://www.hndyjyfw.gov.cn/@@
-#EXTINF:-1 group-title="央视",CCTV-5体育
-htmlplay://https://m.miguvideo.com/m/liveDetail/641886683?channelId=10010001005
+#EXTINF:-1 group-title="央视",CCTV-6
+http://media.hndyjyfw.gov.cn/live/jz-cctv-6/live.m3u8@@Referer=https://www.hndyjyfw.gov.cn/@@
+#EXTINF:-1 group-title="央视",CCTV-6
+htmlplay://https://m.miguvideo.com/m/liveDetail/624878396?channelId=10010001005
+#EXTINF:-1 group-title="央视",CCTV-6
+kdsvod://http://v.91kds.com/b7/xuexi.m3u8?id=cctv6&pwd=jsdecode
 #EXTINF:-1 group-title="央视",CCTV-6
 kdsvod://http://v.91kds.com/b7/migu.m3u8?id=cctv6hd&pwd=jsdecode
 #EXTINF:-1 group-title="央视",CCTV-6
 kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=cctv6hd&pwd=jsdecode
+#EXTINF:-1 group-title="央视",CCTV-6
+kdsvod://http://v.91kds.com/b7/xuexi1.m3u8?id=cctv6&pwd=jsdecode
 #EXTINF:-1 group-title="央视",CCTV-6
 kdsvod://http://v.91kds.com/b7/dsdq.m3u8?id=cctv6hd&pwd=jsdecode
 #EXTINF:-1 group-title="央视",CCTV-6
@@ -349,14 +357,12 @@ http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226699/1.m3u8
 tvbus://1zC4YCmVAwP2isG1rW1BbFRCJkrm4Ecsaq2uMe8e9eNVmggm2w
 #EXTINF:-1 group-title="央视",CCTV-6
 kdsvod://http://v.91kds.com/b7/cdnlive.m3u8?id=cctv6-720p&pwd=jsdecode
-#EXTINF:-1 group-title="央视",CCTV-6电影
-http://media.hndyjyfw.gov.cn/live/jz-cctv-6/live.m3u8@@Referer=https://www.hndyjyfw.gov.cn/@@
-#EXTINF:-1 group-title="央视",CCTV-6电影
-htmlplay://https://m.miguvideo.com/m/liveDetail/624878396?channelId=10010001005
-#EXTINF:-1 group-title="央视",CCTV-6电影
-kdsvod://http://v.91kds.com/b7/xuexi.m3u8?id=cctv6&pwd=jsdecode
-#EXTINF:-1 group-title="央视",CCTV-6电影
-kdsvod://http://v.91kds.com/b7/xuexi1.m3u8?id=cctv6&pwd=jsdecode
+#EXTINF:-1 group-title="央视",CCTV-7
+http://media.hndyjyfw.gov.cn/live/jz-cctv-7/live.m3u8@@Referer=https://www.hndyjyfw.gov.cn/@@
+#EXTINF:-1 group-title="央视",CCTV-7
+htmlplay://https://m.miguvideo.com/m/liveDetail/673168121?channelId=10010001005
+#EXTINF:-1 group-title="央视",CCTV-7
+kdsvod://http://v.91kds.com/b7/xuexi.m3u8?id=cctv7&pwd=jsdecode
 #EXTINF:-1 group-title="央视",CCTV-7
 https://live.junhao.mil.cn/rmt9502/3e6e7c5477314ec38f5e58e2a5c70024.m3u8?txSecret=57978fafb9c19880afa5c8687e8241d8&txTime=7A42BAFF
 #EXTINF:-1 group-title="央视",CCTV-7
@@ -364,9 +370,15 @@ kdsvod://http://v.91kds.com/b7/migu.m3u8?id=cctv7hd&pwd=jsdecode
 #EXTINF:-1 group-title="央视",CCTV-7
 kdsvod://http://v.91kds.com/b7/cctvxw.m3u8?bt=2&id=cctv7hd&pwd=jsdecode@@Referer=https://m-live.cctvnews.cctv.com/@@
 #EXTINF:-1 group-title="央视",CCTV-7
+kdsvod://http://v.91kds.com/b7/cctvxw.m3u8?bt=1&id=cctv7hd&pwd=jsdecode@@Referer=https://m-live.cctvnews.cctv.com/@@
+#EXTINF:-1 group-title="央视",CCTV-7
+kdsvod://http://v.91kds.com/b7/cctvxw.m3u8?bt=0&id=cctv7hd&pwd=jsdecode@@Referer=https://m-live.cctvnews.cctv.com/@@
+#EXTINF:-1 group-title="央视",CCTV-7
 kdsvod://http://v.91kds.com/c7/cctvxw.m3u8?bt=2&id=cctv7hd&pwd=jsdecode
 #EXTINF:-1 group-title="央视",CCTV-7
 kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=cctv7hd&pwd=jsdecode
+#EXTINF:-1 group-title="央视",CCTV-7
+kdsvod://http://v.91kds.com/b7/xuexi1.m3u8?id=cctv7&pwd=jsdecode
 #EXTINF:-1 group-title="央视",CCTV-7
 kdsvod://http://v.91kds.com/b7/dsdq.m3u8?id=cctv7hd&pwd=jsdecode
 #EXTINF:-1 group-title="央视",CCTV-7
@@ -393,18 +405,10 @@ http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226721/1.m3u8
 tvbus://1Ctr5mLCFV5v4zfYxGx4xvsjQszFcf1F4NoXakwErgKHdtNG7J
 #EXTINF:-1 group-title="央视",CCTV-7
 kdsvod://http://v.91kds.com/b7/cdnlive.m3u8?id=cctv7-720p&pwd=jsdecode
-#EXTINF:-1 group-title="央视",CCTV-7国防军事
-http://media.hndyjyfw.gov.cn/live/jz-cctv-7/live.m3u8@@Referer=https://www.hndyjyfw.gov.cn/@@
-#EXTINF:-1 group-title="央视",CCTV-7国防军事
-htmlplay://https://m.miguvideo.com/m/liveDetail/673168121?channelId=10010001005
-#EXTINF:-1 group-title="央视",CCTV-7国防军事
-kdsvod://http://v.91kds.com/b7/xuexi.m3u8?id=cctv7&pwd=jsdecode
-#EXTINF:-1 group-title="央视",CCTV-7国防军事
-kdsvod://http://v.91kds.com/b7/cctvxw.m3u8?bt=1&id=cctv7hd&pwd=jsdecode@@Referer=https://m-live.cctvnews.cctv.com/@@
-#EXTINF:-1 group-title="央视",CCTV-7国防军事
-kdsvod://http://v.91kds.com/b7/cctvxw.m3u8?bt=0&id=cctv7hd&pwd=jsdecode@@Referer=https://m-live.cctvnews.cctv.com/@@
-#EXTINF:-1 group-title="央视",CCTV-7国防军事
-kdsvod://http://v.91kds.com/b7/xuexi1.m3u8?id=cctv7&pwd=jsdecode
+#EXTINF:-1 group-title="央视",CCTV-8
+kdsvod://http://v.91kds.com/c7/sxy.m3u8?id=cctv8&pwd=jsdecode
+#EXTINF:-1 group-title="央视",CCTV-8
+htmlplay://https://m.miguvideo.com/m/liveDetail/624878356?channelId=10010001005
 #EXTINF:-1 group-title="央视",CCTV-8
 kdsvod://http://v.91kds.com/b7/migu.m3u8?id=cctv8hd&pwd=jsdecode
 #EXTINF:-1 group-title="央视",CCTV-8
@@ -441,14 +445,22 @@ kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=cctv8k&pwd=jsdecode
 kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=cctv8k&pwd=jsdecode
 #EXTINF:-1 group-title="央视",CCTV-8K超
 kdsvod://http://v.91kds.com/b7/cdnlive.m3u8?id=cctv8k-720p&pwd=jsdecode
-#EXTINF:-1 group-title="央视",CCTV-8电视剧
-kdsvod://http://v.91kds.com/c7/sxy.m3u8?id=cctv8&pwd=jsdecode
-#EXTINF:-1 group-title="央视",CCTV-8电视剧
-htmlplay://https://m.miguvideo.com/m/liveDetail/624878356?channelId=10010001005
+#EXTINF:-1 group-title="央视",CCTV-9
+http://media.hndyjyfw.gov.cn/live/jz-cctv-9/live.m3u8@@Referer=https://www.hndyjyfw.gov.cn/@@
+#EXTINF:-1 group-title="央视",CCTV-9
+htmlplay://https://m.miguvideo.com/m/liveDetail/673168140?channelId=10010001005
+#EXTINF:-1 group-title="央视",CCTV-9
+rtmp://play.kankanlive.com/live/1698423397390920
+#EXTINF:-1 group-title="央视",CCTV-9
+http://play.kankanlive.com/live/1698423397390920.m3u8
 #EXTINF:-1 group-title="央视",CCTV-9
 kdsvod://http://v.91kds.com/b7/migu.m3u8?id=cctv9hd&pwd=jsdecode
 #EXTINF:-1 group-title="央视",CCTV-9
 kdsvod://http://v.91kds.com/b7/cctvxw.m3u8?bt=2&id=cctv9hd&pwd=jsdecode@@Referer=https://m-live.cctvnews.cctv.com/@@
+#EXTINF:-1 group-title="央视",CCTV-9
+kdsvod://http://v.91kds.com/b7/cctvxw.m3u8?bt=1&id=cctv9hd&pwd=jsdecode@@Referer=https://m-live.cctvnews.cctv.com/@@
+#EXTINF:-1 group-title="央视",CCTV-9
+kdsvod://http://v.91kds.com/b7/cctvxw.m3u8?bt=0&id=cctv9hd&pwd=jsdecode@@Referer=https://m-live.cctvnews.cctv.com/@@
 #EXTINF:-1 group-title="央视",CCTV-9
 kdsvod://http://v.91kds.com/c7/cctvxw.m3u8?bt=2&id=cctv9hd&pwd=jsdecode
 #EXTINF:-1 group-title="央视",CCTV-9
@@ -481,26 +493,32 @@ http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226657/1.m3u8
 tvbus://1UzS2UhXx5vCsB25j4w6Snt841ZzGkXBvmn55LLx2tgoDFKCNc
 #EXTINF:-1 group-title="央视",CCTV-9
 kdsvod://http://v.91kds.com/b7/cdnlive.m3u8?id=cctv9-720p&pwd=jsdecode
-#EXTINF:-1 group-title="央视",CCTV-9纪录
-http://media.hndyjyfw.gov.cn/live/jz-cctv-9/live.m3u8@@Referer=https://www.hndyjyfw.gov.cn/@@
-#EXTINF:-1 group-title="央视",CCTV-9纪录
-htmlplay://https://m.miguvideo.com/m/liveDetail/673168140?channelId=10010001005
-#EXTINF:-1 group-title="央视",CCTV-9纪录
-rtmp://play.kankanlive.com/live/1698423397390920
-#EXTINF:-1 group-title="央视",CCTV-9纪录
-http://play.kankanlive.com/live/1698423397390920.m3u8
-#EXTINF:-1 group-title="央视",CCTV-9纪录
-kdsvod://http://v.91kds.com/b7/cctvxw.m3u8?bt=1&id=cctv9hd&pwd=jsdecode@@Referer=https://m-live.cctvnews.cctv.com/@@
-#EXTINF:-1 group-title="央视",CCTV-9纪录
-kdsvod://http://v.91kds.com/b7/cctvxw.m3u8?bt=0&id=cctv9hd&pwd=jsdecode@@Referer=https://m-live.cctvnews.cctv.com/@@
+#EXTINF:-1 group-title="央视",CCTV-10
+http://media.hndyjyfw.gov.cn/live/jz-cctv-10/live.m3u8@@Referer=https://www.hndyjyfw.gov.cn/@@
+#EXTINF:-1 group-title="央视",CCTV-10
+kdsvod://http://v.91kds.com/c7/sxy.m3u8?id=cctv10&pwd=jsdecode
+#EXTINF:-1 group-title="央视",CCTV-10
+htmlplay://https://m.miguvideo.com/m/liveDetail/624878405?channelId=10010001005
+#EXTINF:-1 group-title="央视",CCTV-10
+kdsvod://http://v.91kds.com/b7/xuexi.m3u8?id=cctv10&pwd=jsdecode
+#EXTINF:-1 group-title="央视",CCTV-10
+rtmp://play.kankanlive.com/live/1698423445959919
+#EXTINF:-1 group-title="央视",CCTV-10
+http://play.kankanlive.com/live/1698423445959919.m3u8
 #EXTINF:-1 group-title="央视",CCTV-10
 kdsvod://http://v.91kds.com/b7/migu.m3u8?id=cctv10hd&pwd=jsdecode
 #EXTINF:-1 group-title="央视",CCTV-10
 kdsvod://http://v.91kds.com/b7/cctvxw.m3u8?bt=2&id=cctv10hd&pwd=jsdecode@@Referer=https://m-live.cctvnews.cctv.com/@@
 #EXTINF:-1 group-title="央视",CCTV-10
+kdsvod://http://v.91kds.com/b7/cctvxw.m3u8?bt=1&id=cctv10hd&pwd=jsdecode@@Referer=https://m-live.cctvnews.cctv.com/@@
+#EXTINF:-1 group-title="央视",CCTV-10
+kdsvod://http://v.91kds.com/b7/cctvxw.m3u8?bt=0&id=cctv10hd&pwd=jsdecode@@Referer=https://m-live.cctvnews.cctv.com/@@
+#EXTINF:-1 group-title="央视",CCTV-10
 kdsvod://http://v.91kds.com/c7/cctvxw.m3u8?bt=2&id=cctv10hd&pwd=jsdecode
 #EXTINF:-1 group-title="央视",CCTV-10
 kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=cctv10hd&pwd=jsdecode
+#EXTINF:-1 group-title="央视",CCTV-10
+kdsvod://http://v.91kds.com/b7/xuexi1.m3u8?id=cctv10&pwd=jsdecode
 #EXTINF:-1 group-title="央视",CCTV-10
 kdsvod://http://v.91kds.com/b7/dsdq.m3u8?id=cctv10hd&pwd=jsdecode
 #EXTINF:-1 group-title="央视",CCTV-10
@@ -527,24 +545,14 @@ http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226708/1.m3u8
 tvbus://1293wgehjUf46cWiWqwxdUR4jkgoJXoRKnALJMPQNxUaLH4vg7S
 #EXTINF:-1 group-title="央视",CCTV-10
 kdsvod://http://v.91kds.com/b7/cdnlive.m3u8?id=cctv10-720p&pwd=jsdecode
-#EXTINF:-1 group-title="央视",CCTV-10科教
-http://media.hndyjyfw.gov.cn/live/jz-cctv-10/live.m3u8@@Referer=https://www.hndyjyfw.gov.cn/@@
-#EXTINF:-1 group-title="央视",CCTV-10科教
-kdsvod://http://v.91kds.com/c7/sxy.m3u8?id=cctv10&pwd=jsdecode
-#EXTINF:-1 group-title="央视",CCTV-10科教
-htmlplay://https://m.miguvideo.com/m/liveDetail/624878405?channelId=10010001005
-#EXTINF:-1 group-title="央视",CCTV-10科教
-kdsvod://http://v.91kds.com/b7/xuexi.m3u8?id=cctv10&pwd=jsdecode
-#EXTINF:-1 group-title="央视",CCTV-10科教
-rtmp://play.kankanlive.com/live/1698423445959919
-#EXTINF:-1 group-title="央视",CCTV-10科教
-http://play.kankanlive.com/live/1698423445959919.m3u8
-#EXTINF:-1 group-title="央视",CCTV-10科教
-kdsvod://http://v.91kds.com/b7/cctvxw.m3u8?bt=1&id=cctv10hd&pwd=jsdecode@@Referer=https://m-live.cctvnews.cctv.com/@@
-#EXTINF:-1 group-title="央视",CCTV-10科教
-kdsvod://http://v.91kds.com/b7/cctvxw.m3u8?bt=0&id=cctv10hd&pwd=jsdecode@@Referer=https://m-live.cctvnews.cctv.com/@@
-#EXTINF:-1 group-title="央视",CCTV-10科教
-kdsvod://http://v.91kds.com/b7/xuexi1.m3u8?id=cctv10&pwd=jsdecode
+#EXTINF:-1 group-title="央视",CCTV-11
+http://media.hndyjyfw.gov.cn/live/jz-cctv-11/live.m3u8@@Referer=https://www.hndyjyfw.gov.cn/@@
+#EXTINF:-1 group-title="央视",CCTV-11
+htmlplay://https://m.miguvideo.com/m/liveDetail/667987558?channelId=10010001005
+#EXTINF:-1 group-title="央视",CCTV-11
+rtmp://play.kankanlive.com/live/1698423476198918
+#EXTINF:-1 group-title="央视",CCTV-11
+http://play.kankanlive.com/live/1698423476198918.m3u8
 #EXTINF:-1 group-title="央视",CCTV-11
 kdsvod://http://v.91kds.com/b7/migu.m3u8?id=cctv11hd&pwd=jsdecode
 #EXTINF:-1 group-title="央视",CCTV-11
@@ -575,20 +583,24 @@ http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226714/1.m3u8
 tvbus://1hq72BV96BBWyf8coy5dBDtUwBbioMWrWzPkiVnzAoTvCwjVdW
 #EXTINF:-1 group-title="央视",CCTV-11
 kdsvod://http://v.91kds.com/b7/cdnlive.m3u8?id=cctv11-720p&pwd=jsdecode
-#EXTINF:-1 group-title="央视",CCTV-11戏曲
-http://media.hndyjyfw.gov.cn/live/jz-cctv-11/live.m3u8@@Referer=https://www.hndyjyfw.gov.cn/@@
-#EXTINF:-1 group-title="央视",CCTV-11戏曲
-htmlplay://https://m.miguvideo.com/m/liveDetail/667987558?channelId=10010001005
-#EXTINF:-1 group-title="央视",CCTV-11戏曲
-rtmp://play.kankanlive.com/live/1698423476198918
-#EXTINF:-1 group-title="央视",CCTV-11戏曲
-http://play.kankanlive.com/live/1698423476198918.m3u8
+#EXTINF:-1 group-title="央视",CCTV-12
+http://media.hndyjyfw.gov.cn/live/jz-cctv-12/live.m3u8@@Referer=https://www.hndyjyfw.gov.cn/@@
+#EXTINF:-1 group-title="央视",CCTV-12
+htmlplay://https://m.miguvideo.com/m/liveDetail/673168185?channelId=10010001005
+#EXTINF:-1 group-title="央视",CCTV-12
+kdsvod://http://v.91kds.com/b7/xuexi.m3u8?id=cctv12&pwd=jsdecode
+#EXTINF:-1 group-title="央视",CCTV-12
+rtmp://play.kankanlive.com/live/1698423511884917
+#EXTINF:-1 group-title="央视",CCTV-12
+http://play.kankanlive.com/live/1698423511884917.m3u8
 #EXTINF:-1 group-title="央视",CCTV-12
 kdsvod://http://v.91kds.com/b7/migu.m3u8?id=cctv12hd&pwd=jsdecode
 #EXTINF:-1 group-title="央视",CCTV-12
 kdsvod://http://v.91kds.com/c7/cctvxw.m3u8?bt=2&id=cctv12hd&pwd=jsdecode
 #EXTINF:-1 group-title="央视",CCTV-12
 kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=cctv12hd&pwd=jsdecode
+#EXTINF:-1 group-title="央视",CCTV-12
+kdsvod://http://v.91kds.com/b7/xuexi1.m3u8?id=cctv12&pwd=jsdecode
 #EXTINF:-1 group-title="央视",CCTV-12
 kdsvod://http://v.91kds.com/b7/dsdq.m3u8?id=cctv12hd&pwd=jsdecode
 #EXTINF:-1 group-title="央视",CCTV-12
@@ -617,26 +629,44 @@ http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226748/1.m3u8
 tvbus://1W3YH3RFS46dnW6HKgYfgrh4SMYHrV7MStL6HkiWm5sQSJ7nSi
 #EXTINF:-1 group-title="央视",CCTV-12
 kdsvod://http://v.91kds.com/b7/cdnlive.m3u8?id=cctv12-720p&pwd=jsdecode
-#EXTINF:-1 group-title="央视",CCTV-12社会与法
-http://media.hndyjyfw.gov.cn/live/jz-cctv-12/live.m3u8@@Referer=https://www.hndyjyfw.gov.cn/@@
-#EXTINF:-1 group-title="央视",CCTV-12社会与法
-htmlplay://https://m.miguvideo.com/m/liveDetail/673168185?channelId=10010001005
-#EXTINF:-1 group-title="央视",CCTV-12社会与法
-kdsvod://http://v.91kds.com/b7/xuexi.m3u8?id=cctv12&pwd=jsdecode
-#EXTINF:-1 group-title="央视",CCTV-12社会与法
-rtmp://play.kankanlive.com/live/1698423511884917
-#EXTINF:-1 group-title="央视",CCTV-12社会与法
-http://play.kankanlive.com/live/1698423511884917.m3u8
-#EXTINF:-1 group-title="央视",CCTV-12社会与法
-kdsvod://http://v.91kds.com/b7/xuexi1.m3u8?id=cctv12&pwd=jsdecode
+#EXTINF:-1 group-title="央视",CCTV-13
+https://tvfile.hscmw.cn/live/hsyouxian.m3u8
+#EXTINF:-1 group-title="央视",CCTV-13
+http://fjnhdb.chinashadt.com:2036/live/stream:fjds.stream/playlist.m3u8
+#EXTINF:-1 group-title="央视",CCTV-13
+https://lives.jnnews.tv/video/s10001-cctv/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV-13
+http://media.hndyjyfw.gov.cn/live/jz-cctv-13/live.m3u8@@Referer=https://www.hndyjyfw.gov.cn/@@
+#EXTINF:-1 group-title="央视",CCTV-13
+kdsvod://http://v.91kds.com/c7/sxy.m3u8?id=cctv13&pwd=jsdecode
 #EXTINF:-1 group-title="央视",CCTV-13
 kdsvod://http://v.91kds.com/b7/cctvxw.m3u8?bt=2&id=cctv13hd&pwd=jsdecode@@Referer=https://m-live.cctvnews.cctv.com/@@
+#EXTINF:-1 group-title="央视",CCTV-13
+kdsvod://http://v.91kds.com/b7/cctvxw.m3u8?bt=1&id=cctv13hd&pwd=jsdecode@@Referer=https://m-live.cctvnews.cctv.com/@@
+#EXTINF:-1 group-title="央视",CCTV-13
+kdsvod://http://v.91kds.com/b7/cctvxw.m3u8?bt=0&id=cctv13hd&pwd=jsdecode@@Referer=https://m-live.cctvnews.cctv.com/@@
+#EXTINF:-1 group-title="央视",CCTV-13
+htmlplay://https://m.miguvideo.com/m/liveDetail/608807423?channelId=10010001005
+#EXTINF:-1 group-title="央视",CCTV-13
+kdsvod://http://v.91kds.com/b7/xuexi.m3u8?id=cctv13&pwd=jsdecode
+#EXTINF:-1 group-title="央视",CCTV-13
+https://221.2.36.14/video/s10001-cctv/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV-13
+https://60.211.179.171/video/s10001-cctv/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV-13
+https://111.17.177.164/video/s10001-cctv/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV-13
+rtmp://play.kankanlive.com/live/1698423543275916
+#EXTINF:-1 group-title="央视",CCTV-13
+http://play.kankanlive.com/live/1698423543275916.m3u8
 #EXTINF:-1 group-title="央视",CCTV-13
 kdsvod://http://v.91kds.com/b7/migu.m3u8?id=cctv13hd&pwd=jsdecode
 #EXTINF:-1 group-title="央视",CCTV-13
 kdsvod://http://v.91kds.com/c7/cctvxw.m3u8?bt=2&id=cctv14hd&pwd=jsdecode
 #EXTINF:-1 group-title="央视",CCTV-13
 kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=cctv13hd&pwd=jsdecode
+#EXTINF:-1 group-title="央视",CCTV-13
+kdsvod://http://v.91kds.com/b7/xuexi1.m3u8?id=cctv13&pwd=jsdecode
 #EXTINF:-1 group-title="央视",CCTV-13
 kdsvod://http://v.91kds.com/b7/dsdq.m3u8?id=cctv13hd&pwd=jsdecode
 #EXTINF:-1 group-title="央视",CCTV-13
@@ -663,36 +693,14 @@ http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226717/1.m3u8
 tvbus://12DTZPEKexr8LYLmMk8tzGWViAVhXBRiQu7m3dSDyME2TaVnhfR
 #EXTINF:-1 group-title="央视",CCTV-13
 kdsvod://http://v.91kds.com/b7/cdnlive.m3u8?id=cctv13-720p&pwd=jsdecode
-#EXTINF:-1 group-title="央视",CCTV-13新闻
-https://tvfile.hscmw.cn/live/hsyouxian.m3u8
-#EXTINF:-1 group-title="央视",CCTV-13新闻
-http://fjnhdb.chinashadt.com:2036/live/stream:fjds.stream/playlist.m3u8
-#EXTINF:-1 group-title="央视",CCTV-13新闻
-https://lives.jnnews.tv/video/s10001-cctv/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV-13新闻
-http://media.hndyjyfw.gov.cn/live/jz-cctv-13/live.m3u8@@Referer=https://www.hndyjyfw.gov.cn/@@
-#EXTINF:-1 group-title="央视",CCTV-13新闻
-kdsvod://http://v.91kds.com/c7/sxy.m3u8?id=cctv13&pwd=jsdecode
-#EXTINF:-1 group-title="央视",CCTV-13新闻
-kdsvod://http://v.91kds.com/b7/cctvxw.m3u8?bt=1&id=cctv13hd&pwd=jsdecode@@Referer=https://m-live.cctvnews.cctv.com/@@
-#EXTINF:-1 group-title="央视",CCTV-13新闻
-kdsvod://http://v.91kds.com/b7/cctvxw.m3u8?bt=0&id=cctv13hd&pwd=jsdecode@@Referer=https://m-live.cctvnews.cctv.com/@@
-#EXTINF:-1 group-title="央视",CCTV-13新闻
-htmlplay://https://m.miguvideo.com/m/liveDetail/608807423?channelId=10010001005
-#EXTINF:-1 group-title="央视",CCTV-13新闻
-kdsvod://http://v.91kds.com/b7/xuexi.m3u8?id=cctv13&pwd=jsdecode
-#EXTINF:-1 group-title="央视",CCTV-13新闻
-https://221.2.36.14/video/s10001-cctv/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV-13新闻
-https://60.211.179.171/video/s10001-cctv/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV-13新闻
-https://111.17.177.164/video/s10001-cctv/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV-13新闻
-rtmp://play.kankanlive.com/live/1698423543275916
-#EXTINF:-1 group-title="央视",CCTV-13新闻
-http://play.kankanlive.com/live/1698423543275916.m3u8
-#EXTINF:-1 group-title="央视",CCTV-13新闻
-kdsvod://http://v.91kds.com/b7/xuexi1.m3u8?id=cctv13&pwd=jsdecode
+#EXTINF:-1 group-title="央视",CCTV-14
+http://media.hndyjyfw.gov.cn/live/jz-cctv-14/live.m3u8@@Referer=https://www.hndyjyfw.gov.cn/@@
+#EXTINF:-1 group-title="央视",CCTV-14
+htmlplay://https://m.miguvideo.com/m/liveDetail/624878440?channelId=10010001005
+#EXTINF:-1 group-title="央视",CCTV-14
+rtmp://play.kankanlive.com/live/1698423575756915
+#EXTINF:-1 group-title="央视",CCTV-14
+http://play.kankanlive.com/live/1698423575756915.m3u8
 #EXTINF:-1 group-title="央视",CCTV-14
 kdsvod://http://v.91kds.com/b7/migu.m3u8?id=cctv14hd&pwd=jsdecode
 #EXTINF:-1 group-title="央视",CCTV-14
@@ -725,14 +733,14 @@ http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226663/1.m3u8
 kdsvod://http://v.91kds.com/b7/cdnlive.m3u8?id=cctv14-720p&pwd=jsdecode
 #EXTINF:-1 group-title="央视",CCTV-14
 tvbus://1CbrY3HitusHMmB8pxXYDxd6Wiog1gh98UwgJz3CVjpq5wiyjP
-#EXTINF:-1 group-title="央视",CCTV-14少儿
-http://media.hndyjyfw.gov.cn/live/jz-cctv-14/live.m3u8@@Referer=https://www.hndyjyfw.gov.cn/@@
-#EXTINF:-1 group-title="央视",CCTV-14少儿
-htmlplay://https://m.miguvideo.com/m/liveDetail/624878440?channelId=10010001005
-#EXTINF:-1 group-title="央视",CCTV-14少儿
-rtmp://play.kankanlive.com/live/1698423575756915
-#EXTINF:-1 group-title="央视",CCTV-14少儿
-http://play.kankanlive.com/live/1698423575756915.m3u8
+#EXTINF:-1 group-title="央视",CCTV-15
+http://hbhh.chinashadt.com:2111/live/hbhhys.stream/playlist.m3u8
+#EXTINF:-1 group-title="央视",CCTV-15
+htmlplay://https://m.miguvideo.com/m/liveDetail/673168223?channelId=10010001005
+#EXTINF:-1 group-title="央视",CCTV-15
+rtmp://play.kankanlive.com/live/1698423607826914
+#EXTINF:-1 group-title="央视",CCTV-15
+http://play.kankanlive.com/live/1698423607826914.m3u8
 #EXTINF:-1 group-title="央视",CCTV-15
 kdsvod://http://v.91kds.com/b7/migu.m3u8?id=cctv15hd&pwd=jsdecode
 #EXTINF:-1 group-title="央视",CCTV-15
@@ -763,14 +771,6 @@ http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226648/1.m3u8
 kdsvod://http://v.91kds.com/b7/cdnlive.m3u8?id=cctv15-720p&pwd=jsdecode
 #EXTINF:-1 group-title="央视",CCTV-15
 tvbus://12wTU9GSeaYQG576Kw6MyyyeHPJnwS5QZjVdJdXV6KPRJNLNQDd
-#EXTINF:-1 group-title="央视",CCTV-15音乐
-http://hbhh.chinashadt.com:2111/live/hbhhys.stream/playlist.m3u8
-#EXTINF:-1 group-title="央视",CCTV-15音乐
-htmlplay://https://m.miguvideo.com/m/liveDetail/673168223?channelId=10010001005
-#EXTINF:-1 group-title="央视",CCTV-15音乐
-rtmp://play.kankanlive.com/live/1698423607826914
-#EXTINF:-1 group-title="央视",CCTV-15音乐
-http://play.kankanlive.com/live/1698423607826914.m3u8
 #EXTINF:-1 group-title="央视",CCTV-16
 kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=cctv16hd&pwd=jsdecode
 #EXTINF:-1 group-title="央视",CCTV-16
@@ -798,11 +798,21 @@ kdsvod://http://v.91kds.com/b7/cdnlive.m3u8?id=cctv16-720p&pwd=jsdecode
 #EXTINF:-1 group-title="央视",CCTV-16
 tvbus://12N99qDA8hejWyxWQGBQmGK947eoYTqzKuRmm7XLknxNQ5L33Kn
 #EXTINF:-1 group-title="央视",CCTV-17
+htmlplay://https://m.miguvideo.com/m/liveDetail/673168256?channelId=10010001005
+#EXTINF:-1 group-title="央视",CCTV-17
+kdsvod://http://v.91kds.com/b7/xuexi.m3u8?id=cctv17&pwd=jsdecode
+#EXTINF:-1 group-title="央视",CCTV-17
+rtmp://play.kankanlive.com/live/1698423272597921
+#EXTINF:-1 group-title="央视",CCTV-17
+http://play.kankanlive.com/live/1698423272597921.m3u8
+#EXTINF:-1 group-title="央视",CCTV-17
 kdsvod://http://v.91kds.com/b7/migu.m3u8?id=cctv17hd&pwd=jsdecode
 #EXTINF:-1 group-title="央视",CCTV-17
 kdsvod://http://v.91kds.com/c7/cctvxw.m3u8?bt=2&id=cctv17hd&pwd=jsdecode
 #EXTINF:-1 group-title="央视",CCTV-17
 kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=cctv17hd&pwd=jsdecode
+#EXTINF:-1 group-title="央视",CCTV-17
+kdsvod://http://v.91kds.com/b7/xuexi1.m3u8?id=cctv17&pwd=jsdecode
 #EXTINF:-1 group-title="央视",CCTV-17
 kdsvod://http://v.91kds.com/b7/dsdq.m3u8?id=cctv17hd&pwd=jsdecode
 #EXTINF:-1 group-title="央视",CCTV-17
@@ -828,19 +838,9 @@ http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226660/1.m3u8
 #EXTINF:-1 group-title="央视",CCTV-17
 http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226727/1.m3u8
 #EXTINF:-1 group-title="央视",CCTV-17
-tvbus://1yazjkDkf5tbb3kr6bUGDyjU3yVQKhzKVqdDhCHVnhkqFfShjm
-#EXTINF:-1 group-title="央视",CCTV-17农业农村
-htmlplay://https://m.miguvideo.com/m/liveDetail/673168256?channelId=10010001005
-#EXTINF:-1 group-title="央视",CCTV-17农业农村
-kdsvod://http://v.91kds.com/b7/xuexi.m3u8?id=cctv17&pwd=jsdecode
-#EXTINF:-1 group-title="央视",CCTV-17农业农村
-rtmp://play.kankanlive.com/live/1698423272597921
-#EXTINF:-1 group-title="央视",CCTV-17农业农村
-http://play.kankanlive.com/live/1698423272597921.m3u8
-#EXTINF:-1 group-title="央视",CCTV-17农业农村
-kdsvod://http://v.91kds.com/b7/xuexi1.m3u8?id=cctv17&pwd=jsdecode
-#EXTINF:-1 group-title="央视",CCTV-17农业农村
 kdsvod://http://v.91kds.com/b7/cdnlive.m3u8?id=cctv17-720p&pwd=jsdecode
+#EXTINF:-1 group-title="央视",CCTV-17
+tvbus://1yazjkDkf5tbb3kr6bUGDyjU3yVQKhzKVqdDhCHVnhkqFfShjm
 #EXTINF:-1 group-title="央视",CCTV-世界地理
 kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=sjdl&pwd=jsdecode
 #EXTINF:-1 group-title="央视",CCTV-世界地理
