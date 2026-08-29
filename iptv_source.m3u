@@ -433,6 +433,9 @@ http://45.192.97.170:8880/play/4199.m3u8
 http://45.192.97.170:8880/play/4200.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="湖南卫视" tvg-logo="",group-title="卫视",湖南卫视
+http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1038
+
+#EXTINF:-1 tvg-id="" tvg-name="湖南卫视" tvg-logo="",group-title="卫视",湖南卫视
 http://111.29.9.33:6610/000000001000/1000000001000009115/index.m3u8?channel-id=bestzb&Contentid=1000000001000009115&livemode=1&stbId=3
 
 #EXTINF:-1 tvg-id="" tvg-name="湖南卫视" tvg-logo="",group-title="卫视",湖南卫视
@@ -1560,6 +1563,9 @@ http://by4.nty.tv189.cn/live/tm-ysgdws-4000k.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="凤凰资詢" tvg-logo="",group-title="港澳台频道",凤凰资詢
 http://r.jdshipin.com/0Rp07
 
+#EXTINF:-1 tvg-id="" tvg-name="凤凰中文" tvg-logo="",group-title="港澳台频道",凤凰中文
+http://r.jdshipin.com/cCCzW
+
 #EXTINF:-1 tvg-id="" tvg-name="凤凰香港" tvg-logo="",group-title="港澳台频道",凤凰香港
 http://r.jdshipin.com/yDoTN
 
@@ -1571,6 +1577,9 @@ http://r.jdshipin.com/CkuBd
 
 #EXTINF:-1 tvg-id="" tvg-name="翡翠台" tvg-logo="",group-title="港澳台频道",翡翠台
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
+
+#EXTINF:-1 tvg-id="" tvg-name="翡翠台" tvg-logo="",group-title="港澳台频道",翡翠台
+https://10.fast.hidns.vip/163189/fct/
 
 #EXTINF:-1 tvg-id="" tvg-name="翡翠台" tvg-logo="",group-title="港澳台频道",翡翠台
 http://r.jdshipin.com/62WM7
@@ -1617,9 +1626,6 @@ http://r.jdshipin.com/vSJvl
 #EXTINF:-1 tvg-id="" tvg-name="ViuTV" tvg-logo="",group-title="港澳台频道",ViuTV
 http://r.jdshipin.com/TcKr2
 
-#EXTINF:-1 tvg-id="" tvg-name="凤凰中文" tvg-logo="",group-title="港澳台频道",凤凰中文
-http://r.jdshipin.com/cCCzW
-
 #EXTINF:-1 tvg-id="" tvg-name="澳视澳门" tvg-logo="",group-title="港澳台频道",澳视澳门
 http://r.jdshipin.com/n2YZI
 
@@ -1664,6 +1670,9 @@ https://cdn.qd.je/163189.php?id=tvb1
 
 #EXTINF:-1 tvg-id="" tvg-name="TVB1US综合" tvg-logo="",group-title="港澳台频道",TVB1US综合
 http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476199.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="无线新闻" tvg-logo="",group-title="港澳台频道",无线新闻
+http://cdn6.123.rr.kg/163189/wxxw
 
 #EXTINF:-1 tvg-id="" tvg-name="澳门体育" tvg-logo="",group-title="港澳台频道",澳门体育
 http://cdn6.123.rr.kg/163189/amty
@@ -1773,6 +1782,18 @@ http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="香港D100PBS新闻時事" tvg-logo="",group-title="港澳台频道",香港D100PBS新闻時事
 http://59.152.232.108:8000/Channel1-128AAC
 
+#EXTINF:-1 tvg-id="" tvg-name="民视第一台" tvg-logo="",group-title="港澳台频道",民视第一台
+http://4gtv.cnlive.club/channel/nc56ba28/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="民视台湾台" tvg-logo="",group-title="港澳台频道",民视台湾台
+http://4gtv.cnlive.club/channel/nce5d867/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="民视" tvg-logo="",group-title="港澳台频道",民视
+http://4gtv.cnlive.club/channel/n7222a63c/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="华视" tvg-logo="",group-title="港澳台频道",华视
+http://4gtv.cnlive.club/channel/n721fc25a/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="三立综合台" tvg-logo="",group-title="港澳台频道",三立综合台
 http://4gtv.cnlive.club/channel/45c7d3e3/index.m3u8
 
@@ -1791,11 +1812,23 @@ http://4gtv.cnlive.club/channel/3f1816f7/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="靖天卡通台" tvg-logo="",group-title="港澳台频道",靖天卡通台
 http://4gtv.cnlive.club/channel/3ed78a45/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="东森新闻台" tvg-logo="",group-title="港澳台频道",东森新闻台
+http://4gtv.cnlive.club/channel/n5ca63a3a/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="华视新闻" tvg-logo="",group-title="港澳台频道",华视新闻
+http://4gtv.cnlive.club/channel/n692bc32c/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="民视新闻台" tvg-logo="",group-title="港澳台频道",民视新闻台
+http://4gtv.cnlive.club/channel/nca14742/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="三立新闻iNEWS" tvg-logo="",group-title="港澳台频道",三立新闻iNEWS
 http://4gtv.cnlive.club/channel/4fa717ad/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TVBS新闻" tvg-logo="",group-title="港澳台频道",TVBS新闻
 http://4gtv.cnlive.club/channel/n1ea96b20/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="东森財经新闻台" tvg-logo="",group-title="港澳台频道",东森財经新闻台
+http://4gtv.cnlive.club/channel/57ce2e74/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="中天新闻台" tvg-logo="",group-title="港澳台频道",中天新闻台
 http://4gtv.cnlive.club/channel/3824d067/index.m3u8
@@ -1808,6 +1841,9 @@ http://4gtv.cnlive.club/channel/n37458587/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TVBS" tvg-logo="",group-title="港澳台频道",TVBS
 http://4gtv.cnlive.club/channel/58f128b2/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="民视综藝台" tvg-logo="",group-title="港澳台频道",民视综藝台
+http://4gtv.cnlive.club/channel/nc46cff5/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="靖天育樂台" tvg-logo="",group-title="港澳台频道",靖天育樂台
 http://4gtv.cnlive.club/channel/3f7d0a6e/index.m3u8
@@ -1823,6 +1859,9 @@ http://4gtv.cnlive.club/channel/3fae463b/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TVBS歡樂台" tvg-logo="",group-title="港澳台频道",TVBS歡樂台
 http://4gtv.cnlive.club/channel/498f035d/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="公视戲剧" tvg-logo="",group-title="港澳台频道",公视戲剧
+http://4gtv.cnlive.club/channel/7fdd881e/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="八大精彩台" tvg-logo="",group-title="港澳台频道",八大精彩台
 http://4gtv.cnlive.club/channel/6626a9ca/index.m3u8
@@ -1869,14 +1908,29 @@ http://45.192.97.170:8880/play/1044.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TVB翡翠剧集" tvg-logo="",group-title="港澳台频道",TVB翡翠剧集
 http://45.192.97.170:8880/play/1049.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="澳视澳门" tvg-logo="",group-title="港澳台频道",澳视澳门
+http://45.192.97.170:8880/play/1050.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="TVBS新闻" tvg-logo="",group-title="港澳台频道",TVBS新闻
 http://45.192.97.170:8880/play/1052.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="民视" tvg-logo="",group-title="港澳台频道",民视
+http://45.192.97.170:8880/play/1053.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="靖天电影" tvg-logo="",group-title="港澳台频道",靖天电影
 http://45.192.97.170:8880/play/1056.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="东森电影" tvg-logo="",group-title="港澳台频道",东森电影
+http://45.192.97.170:8880/play/1057.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="纬来电影" tvg-logo="",group-title="港澳台频道",纬来电影
 http://45.192.97.170:8880/play/1058.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="民视综藝" tvg-logo="",group-title="港澳台频道",民视综藝
+http://45.192.97.170:8880/play/1066.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="民视影剧" tvg-logo="",group-title="港澳台频道",民视影剧
+http://45.192.97.170:8880/play/1067.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TVBS精采" tvg-logo="",group-title="港澳台频道",TVBS精采
 http://45.192.97.170:8880/play/1068.m3u8
@@ -2007,6 +2061,18 @@ http://45.192.97.170:8880/play/1165.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="东森洋片" tvg-logo="",group-title="港澳台频道",东森洋片
 http://45.192.97.170:8880/play/1166.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="民视第一台" tvg-logo="",group-title="港澳台频道",民视第一台
+http://45.192.97.170:8880/play/1167.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="民视台湾台" tvg-logo="",group-title="港澳台频道",民视台湾台
+http://45.192.97.170:8880/play/1168.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="民视" tvg-logo="",group-title="港澳台频道",民视
+http://45.192.97.170:8880/play/1169.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="华视" tvg-logo="",group-title="港澳台频道",华视
+http://45.192.97.170:8880/play/1172.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="三立综合台" tvg-logo="",group-title="港澳台频道",三立综合台
 http://45.192.97.170:8880/play/1173.m3u8
 
@@ -2025,11 +2091,23 @@ http://45.192.97.170:8880/play/1178.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="靖天卡通台" tvg-logo="",group-title="港澳台频道",靖天卡通台
 http://45.192.97.170:8880/play/1185.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="东森新闻台" tvg-logo="",group-title="港澳台频道",东森新闻台
+http://45.192.97.170:8880/play/1189.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="华视新闻" tvg-logo="",group-title="港澳台频道",华视新闻
+http://45.192.97.170:8880/play/1190.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="民视新闻台" tvg-logo="",group-title="港澳台频道",民视新闻台
+http://45.192.97.170:8880/play/1191.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="三立新闻iNEWS" tvg-logo="",group-title="港澳台频道",三立新闻iNEWS
 http://45.192.97.170:8880/play/1192.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TVBS新闻" tvg-logo="",group-title="港澳台频道",TVBS新闻
 http://45.192.97.170:8880/play/1193.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="东森財经新闻台" tvg-logo="",group-title="港澳台频道",东森財经新闻台
+http://45.192.97.170:8880/play/1194.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="中天新闻台" tvg-logo="",group-title="港澳台频道",中天新闻台
 http://45.192.97.170:8880/play/1196.m3u8
@@ -2042,6 +2120,9 @@ http://45.192.97.170:8880/play/1198.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TVBS" tvg-logo="",group-title="港澳台频道",TVBS
 http://45.192.97.170:8880/play/1199.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="民视综藝台" tvg-logo="",group-title="港澳台频道",民视综藝台
+http://45.192.97.170:8880/play/1200.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="靖天育樂台" tvg-logo="",group-title="港澳台频道",靖天育樂台
 http://45.192.97.170:8880/play/1202.m3u8
@@ -2058,6 +2139,9 @@ http://45.192.97.170:8880/play/1205.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TVBS歡樂台" tvg-logo="",group-title="港澳台频道",TVBS歡樂台
 http://45.192.97.170:8880/play/1206.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="公视戲剧" tvg-logo="",group-title="港澳台频道",公视戲剧
+http://45.192.97.170:8880/play/1207.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="八大精彩台" tvg-logo="",group-title="港澳台频道",八大精彩台
 http://45.192.97.170:8880/play/1208.m3u8
 
@@ -2072,6 +2156,18 @@ http://45.192.97.170:8880/play/1215.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TVBS台剧台" tvg-logo="",group-title="港澳台频道",TVBS台剧台
 http://45.192.97.170:8880/play/1222.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="民视第一台" tvg-logo="",group-title="港澳台频道",民视第一台
+http://45.192.97.170:8880/play/1226.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="民视台湾台" tvg-logo="",group-title="港澳台频道",民视台湾台
+http://45.192.97.170:8880/play/1227.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="民视" tvg-logo="",group-title="港澳台频道",民视
+http://45.192.97.170:8880/play/1228.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="华视" tvg-logo="",group-title="港澳台频道",华视
+http://45.192.97.170:8880/play/1231.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="三立综合台" tvg-logo="",group-title="港澳台频道",三立综合台
 http://45.192.97.170:8880/play/1232.m3u8
@@ -2091,6 +2187,9 @@ http://45.192.97.170:8880/play/1238.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="靖天日本台" tvg-logo="",group-title="港澳台频道",靖天日本台
 http://45.192.97.170:8880/play/1242.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="民视综藝台" tvg-logo="",group-title="港澳台频道",民视综藝台
+http://45.192.97.170:8880/play/1243.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="靖天育樂台" tvg-logo="",group-title="港澳台频道",靖天育樂台
 http://45.192.97.170:8880/play/1245.m3u8
 
@@ -2106,11 +2205,23 @@ http://45.192.97.170:8880/play/1248.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="靖天卡通台" tvg-logo="",group-title="港澳台频道",靖天卡通台
 http://45.192.97.170:8880/play/1254.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="东森新闻台" tvg-logo="",group-title="港澳台频道",东森新闻台
+http://45.192.97.170:8880/play/1260.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="华视新闻" tvg-logo="",group-title="港澳台频道",华视新闻
+http://45.192.97.170:8880/play/1261.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="民视新闻台" tvg-logo="",group-title="港澳台频道",民视新闻台
+http://45.192.97.170:8880/play/1262.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="三立新闻iNEWS" tvg-logo="",group-title="港澳台频道",三立新闻iNEWS
 http://45.192.97.170:8880/play/1263.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TVBS新闻" tvg-logo="",group-title="港澳台频道",TVBS新闻
 http://45.192.97.170:8880/play/1264.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="东森財经新闻台" tvg-logo="",group-title="港澳台频道",东森財经新闻台
+http://45.192.97.170:8880/play/1265.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="中天新闻台" tvg-logo="",group-title="港澳台频道",中天新闻台
 http://45.192.97.170:8880/play/1267.m3u8
@@ -2123,6 +2234,9 @@ http://45.192.97.170:8880/play/1269.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TVBS" tvg-logo="",group-title="港澳台频道",TVBS
 http://45.192.97.170:8880/play/1270.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="公视戲剧" tvg-logo="",group-title="港澳台频道",公视戲剧
+http://45.192.97.170:8880/play/1271.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="八大精彩台" tvg-logo="",group-title="港澳台频道",八大精彩台
 http://45.192.97.170:8880/play/1272.m3u8
@@ -2169,10 +2283,10 @@ http://45.192.97.170:8880/play/6117.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="香港古典音乐" tvg-logo="",group-title="港澳台频道",香港古典音乐
 http://45.192.97.170:8880/play/6122.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="惠灵顿凤凰后备队vs上哈特市|赛场原声" tvg-logo="",group-title="港澳台频道",惠灵顿凤凰后备队vs上哈特市|赛场原声
+#EXTINF:-1 tvg-id="" tvg-name="惠灵顿凤凰后备队vs上哈特市" tvg-logo="",group-title="港澳台频道",惠灵顿凤凰后备队vs上哈特市
 http://45.192.97.170:8880/play/6790.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="惠灵顿凤凰后备队vs上哈特市|" tvg-logo="",group-title="港澳台频道",惠灵顿凤凰后备队vs上哈特市|
+#EXTINF:-1 tvg-id="" tvg-name="惠灵顿凤凰后备队vs上哈特市" tvg-logo="",group-title="港澳台频道",惠灵顿凤凰后备队vs上哈特市
 http://45.192.97.170:8880/play/6791.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="翡翠台" tvg-logo="",group-title="港澳台频道",翡翠台
@@ -2288,9 +2402,6 @@ https://cdn3.indevs.in/stream/live/ccm/
 
 #EXTINF:-1 tvg-id="" tvg-name="千禧经典台" tvg-logo="",group-title="港澳台频道",千禧经典台
 https://cdn3.indevs.in/stream/live/tvbc/
-
-#EXTINF:-1 tvg-id="" tvg-name="翡翠台" tvg-logo="",group-title="港澳台频道",翡翠台
-https://10.fast.hidns.vip/163189/fct/
 
 #EXTINF:-1 tvg-id="" tvg-name="明珠台" tvg-logo="",group-title="港澳台频道",明珠台
 https://10.fast.hidns.vip/163189/mzt/
@@ -2418,9 +2529,6 @@ http://iptv.4666888.xyz/iptv2A.php?id=4
 #EXTINF:-1 tvg-id="" tvg-name="TntSports1" tvg-logo="",group-title="港澳台频道",TntSports1
 http://iptv.4666888.xyz/iptv2A.php?id=3
 
-#EXTINF:-1 tvg-id="" tvg-name="智林体育" tvg-logo="",group-title="港澳台频道",智林体育
-http://iptv.4666888.xyz/iptv2A.php?id=5
-
 #EXTINF:-1 tvg-id="" tvg-name="JSPORTS1" tvg-logo="",group-title="港澳台频道",JSPORTS1
 http://iptv.4666888.xyz/iptv2A.php?id=6
 
@@ -2499,7 +2607,7 @@ http://iptv.4666888.xyz/iptv2A.php?id=45
 #EXTINF:-1 tvg-id="" tvg-name="龙华洋片" tvg-logo="",group-title="港澳台频道",龙华洋片
 http://iptv.4666888.xyz/iptv2A.php?id=60
 
-#EXTINF:-1 tvg-id="" tvg-name="風雲恐怖电影" tvg-logo="",group-title="港澳台频道",風雲恐怖电影
+#EXTINF:-1 tvg-id="" tvg-name="风雲恐怖电影" tvg-logo="",group-title="港澳台频道",风雲恐怖电影
 http://iptv.4666888.xyz/iptv2A.php?id=59
 
 #EXTINF:-1 tvg-id="" tvg-name="ROCKAction" tvg-logo="",group-title="港澳台频道",ROCKAction
@@ -2679,9 +2787,6 @@ http://220.135.241.47:8317/0.ts
 #EXTINF:-1 tvg-id="" tvg-name="华视新闻资讯" tvg-logo="",group-title="港澳台频道",华视新闻资讯
 http://220.135.241.47:8319/0.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="华视教育体育文化" tvg-logo="",group-title="港澳台频道",华视教育体育文化
-http://220.135.241.47:8318/0.ts
-
 #EXTINF:-1 tvg-id="" tvg-name="tvbs" tvg-logo="",group-title="港澳台频道",tvbs
 http://61.221.215.25:8800/hls/9/index.m3u8
 
@@ -2730,7 +2835,7 @@ http://4gtv.cnlive.club/channel/2a571abf/index.m3u8?q=1782639885837
 #EXTINF:-1 tvg-id="" tvg-name="達文西频道" tvg-logo="",group-title="港澳台频道",達文西频道
 http://4gtv.cnlive.club/channel/n1d7d9ddb/index.m3u8?q=1782639885837
 
-#EXTINF:-1 tvg-id="" tvg-name="NickJr.儿童频道" tvg-logo="",group-title="港澳台频道",NickJr.儿童频道
+#EXTINF:-1 tvg-id="" tvg-name="NickJr" tvg-logo="",group-title="港澳台频道",NickJr
 http://4gtv.cnlive.club/channel/23ac0723/index.m3u8?q=1782639885837
 
 #EXTINF:-1 tvg-id="" tvg-name="镜电视新闻台" tvg-logo="",group-title="港澳台频道",镜电视新闻台
@@ -2828,9 +2933,6 @@ http://4gtv.cnlive.club/channel/n7815b83e/index.m3u8?q=1782639885837
 
 #EXTINF:-1 tvg-id="" tvg-name="大愛二台" tvg-logo="",group-title="港澳台频道",大愛二台
 http://4gtv.cnlive.club/channel/n7d3932e9/index.m3u8?q=1782639885837
-
-#EXTINF:-1 tvg-id="" tvg-name="人間卫视" tvg-logo="",group-title="港澳台频道",人間卫视
-http://4gtv.cnlive.club/channel/7ed5b6d3/index.m3u8?q=1782639885837
 
 #EXTINF:-1 tvg-id="" tvg-name="TVBS台剧台" tvg-logo="",group-title="港澳台频道",TVBS台剧台
 http://4gtv.cnlive.club/channel/49342c47/index.m3u8?q=1782639885837
@@ -3128,6 +3230,15 @@ https://cdn15.163189.xyz/163189/wxty
 
 #EXTINF:-1 tvg-id="" tvg-name="纬来体育台" tvg-logo="",group-title="运动频道",纬来体育台
 https://smt.1678520.xyz/163189/wlty
+
+#EXTINF:-1 tvg-id="" tvg-name="智林体育" tvg-logo="",group-title="运动频道",智林体育
+http://iptv.4666888.xyz/iptv2A.php?id=5
+
+#EXTINF:-1 tvg-id="" tvg-name="华视教育体育文化" tvg-logo="",group-title="运动频道",华视教育体育文化
+http://220.135.241.47:8318/0.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="纬来体育" tvg-logo="",group-title="运动频道",纬来体育
+http://mqitv.magicluweibo1.hz.cz:11601/php/mmm/tw.php?host=123.51.149.68:1888&proxy=true&id=live1011
 
 #EXTINF:-1 tvg-id="" tvg-name="广东体育2" tvg-logo="",group-title="运动频道",广东体育2
 http://m.061899.xyz/mg/gdty
