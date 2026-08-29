@@ -1957,294 +1957,254 @@ kdsvod://http://v.91kds.com/b7/xuexi1.m3u8?id=hljws&pwd=jsdecode
 kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=hljwshd&pwd=jsdecode
 #EXTINF:-1 group-title="卫视",黑龙江卫视
 http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226716/1.m3u8
-#EXTINF:-1 group-title="安徽",五河新闻综合
-https://file.wuhermt.cn/hls/wuhe2/playlist.m3u8
-#EXTINF:-1 group-title="安徽",亳州农村频道
-kdsvod://http://v.91kds.com/b7/ahbztv.m3u8?id=ahbztv2&pwd=jsdecode
-#EXTINF:-1 group-title="安徽",亳州农村频道
-kdsvod://http://v.91kds.com/b7/ahbztv.m3u8?fmt=flv&id=ahbztv2&pwd=jsdecode
-#EXTINF:-1 group-title="安徽",亳州农村频道
-http://zbbf2.ahbztv.com/live/418.m3u8
-#EXTINF:-1 group-title="安徽",亳州新闻频道
-kdsvod://http://v.91kds.com/b7/ahbztv.m3u8?fmt=flv&id=ahbztv1&pwd=jsdecode
-#EXTINF:-1 group-title="安徽",亳州新闻频道
-kdsvod://http://v.91kds.com/b7/ahbztv.m3u8?id=ahbztv1&pwd=jsdecode
-#EXTINF:-1 group-title="安徽",亳州新闻频道
-http://zbbf2.ahbztv.com/live/416.m3u8
-#EXTINF:-1 group-title="安徽",亳州新闻频道
-kdsvod://http://v.91kds.com/b7/ahqx.m3u8?id=ahbztv1&pwd=jsdecode
-#EXTINF:-1 group-title="安徽",六安新闻综合
-kdsvod://http://v.91kds.com/c7/ahtv2.m3u8?id=ahlatv1&pwd=jsdecode
-#EXTINF:-1 group-title="安徽",六安新闻综合
-kdsvod://http://v.91kds.com/c7/ahtv3.m3u8?id=ahlatv1&pwd=jsdecode
-#EXTINF:-1 group-title="安徽",南陵新闻综合
-kdsvod://http://v.91kds.com/b7/hoge.m3u8?ip=ahwhtv&id=40&pwd=jsdecode
-#EXTINF:-1 group-title="安徽",合肥教育法制
-htmlplay://https://app.hfbtc.cn/shows/2/4.html@@action=play@@
-#EXTINF:-1 group-title="安徽",合肥新闻
-htmlplay://https://app.hfbtc.cn/shows/2/1.html@@action=play@@
-#EXTINF:-1 group-title="安徽",合肥生活
-htmlplay://https://app.hfbtc.cn/shows/2/2.html@@action=play@@
-#EXTINF:-1 group-title="安徽",合肥科创
-htmlplay://https://app.hfbtc.cn/shows/2/3.html@@action=play@@
-#EXTINF:-1 group-title="安徽",含山新闻综合
-https://newfiles.hswltv.com/hls/hanshanzh/playlist.m3u8
-#EXTINF:-1 group-title="安徽",和县新闻综合
-https://live.hxrmt.cn/hls/hexianzh/index.m3u8
-#EXTINF:-1 group-title="安徽",固镇新闻频道
-http://www.guzhenm.com:7001/hls/hd-live.m3u8
-#EXTINF:-1 group-title="安徽",太和新闻综合
-https://play-hsbj-static-bgp.vzan.com/1110366022/109031811546416830/live.m3u8
-#EXTINF:-1 group-title="安徽",宁国新闻综合
-htmlplay://https://web.guangdianyun.tv/tv/?id=1588&uin=2465
-#EXTINF:-1 group-title="安徽",安庆新闻综合
-http://48535.hlsplay.aodianyun.com/tv_radio_48535/tv_channel_2969.m3u8
-#EXTINF:-1 group-title="安徽",安庆新闻综合
-http://52223.hlsplay.aodianyun.com/tv_radio_52223/tv_channel_3214.m3u8?auth_key=4840160301-0-0-378c5d20acdfb32e54fe2f61b057ecff&extra_key=qj4e5_Ej_mtN2cbGJEcXXjgw_HVomOse5m7vYzTTZ4M3tRajimjfp6N0QpS7g3ceGHkR7LqT0Kxj8Tn2sRlk7RwZ0GaWLs_CkzOYAF6IHwgf6Lbta-F7B_2g6wO7mYGIamz4w7or8NkNjGhC4MExW4sdqzTUSoe9cXN-snl9s9OhN0PIDv0lxTbXYIJ7fSDU
-#EXTINF:-1 group-title="安徽",安庆新闻综合
-kdsvod://http://v.91kds.com/c7/ahtv2.m3u8?id=ahaqtv1&pwd=jsdecode
-#EXTINF:-1 group-title="安徽",安庆新闻综合
-kdsvod://http://v.91kds.com/c7/ahtv3.m3u8?id=ahaqtv1&pwd=jsdecode
-#EXTINF:-1 group-title="安徽",安庆新闻综合
-https://aq-live.media.xinhuamm.net/r/252b77197b104e1aa2456481204fb656.m3u8?auth_key=2341308330-0-0-4e8ffbdb0c0dcfab23e1b8962730f59d
-#EXTINF:-1 group-title="安徽",安庆经济生活
-http://52223.hlsplay.aodianyun.com/tv_radio_52223/tv_channel_3215.m3u8?auth_key=4840160247-0-0-09f173f08ee665e4b1b65aa69a5ee46d&extra_key=9Gv-6hfRrMAaAuD7AYFdmB969naxPovqhZHAkcCYJSb1EAOCXARnqb8CUtO3J79-DQBGs-_55m2odXUh9cAecLDbz52sbpGw9b0f7umLy91QXS1P_Ueiz0_24GvOOdDugwSYLDZBUq-Ia5AZgi3CDUtTcex5hgsjrgkpwyXJnQH37tIiCpZY3zrNbW0tiDDU
-#EXTINF:-1 group-title="安徽",安庆经济生活
-https://aq-live.media.xinhuamm.net/r/ed093a3514bd4174b1dbd5af8a8e0a9c.m3u8?auth_key=2341308528-0-0-1d8df1d541b495f33875e247c9300fc1
-#EXTINF:-1 group-title="安徽",安徽公共
-kdsvod://ahtv2://50
-#EXTINF:-1 group-title="安徽",安徽公共
-kdsvod://http://v.91kds.com/c7/ahtv2.m3u8?id=ahgg&pwd=jsdecode
-#EXTINF:-1 group-title="安徽",安徽公共
-kdsvod://http://v.91kds.com/b7/ahtv2.m3u8?id=ahgg&kdsplayer=media&pwd=jsdecode@@referer=https://www.ahtv.cn/@user-agent=Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/99.0.4844.84Safari/537.36HBPC/12.1.3.306@@
-#EXTINF:-1 group-title="安徽",安徽公共
-kdsvod://http://v.91kds.com/c7/ahtv3.m3u8?id=ahgg&pwd=jsdecode
-#EXTINF:-1 group-title="安徽",安徽农业科教
-kdsvod://ahtv2://51
-#EXTINF:-1 group-title="安徽",安徽农业科教
-kdsvod://http://v.91kds.com/c7/ahtv2.m3u8?id=ahkj&pwd=jsdecode
-#EXTINF:-1 group-title="安徽",安徽农业科教
-kdsvod://http://v.91kds.com/b7/ahtv2.m3u8?id=ahkj&kdsplayer=media&pwd=jsdecode@@referer=https://www.ahtv.cn/@user-agent=Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/99.0.4844.84Safari/537.36HBPC/12.1.3.306@@
-#EXTINF:-1 group-title="安徽",安徽农业科教
-kdsvod://http://v.91kds.com/c7/ahtv3.m3u8?id=ahkj&pwd=jsdecode
-#EXTINF:-1 group-title="安徽",安徽国际
-kdsvod://ahtv2://70
-#EXTINF:-1 group-title="安徽",安徽国际
-kdsvod://http://v.91kds.com/c7/ahtv2.m3u8?id=ahgj&pwd=jsdecode
-#EXTINF:-1 group-title="安徽",安徽国际
-kdsvod://http://v.91kds.com/b7/ahtv2.m3u8?id=ahgj&kdsplayer=media&pwd=jsdecode@@referer=https://www.ahtv.cn/@user-agent=Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/99.0.4844.84Safari/537.36HBPC/12.1.3.306@@
-#EXTINF:-1 group-title="安徽",安徽国际
-kdsvod://http://v.91kds.com/c7/ahtv3.m3u8?id=ahgj&pwd=jsdecode
-#EXTINF:-1 group-title="安徽",安徽导视
-http://dspdhls.appcoo.com:8888/live/dspd/index.m3u8
-#EXTINF:-1 group-title="安徽",安徽影视
-kdsvod://ahtv2://72
-#EXTINF:-1 group-title="安徽",安徽影视
-https://ahlive.ahwanyun.cn/live/8534e69a9af14e41a362bcef71d7896f/hls.m3u8
-#EXTINF:-1 group-title="安徽",安徽影视
-kdsvod://http://v.91kds.com/c7/ahtv2.m3u8?id=ahys&pwd=jsdecode
-#EXTINF:-1 group-title="安徽",安徽影视
-kdsvod://http://v.91kds.com/b7/ahtv2.m3u8?id=ahys&kdsplayer=media&pwd=jsdecode@@referer=https://www.ahtv.cn/@user-agent=Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/99.0.4844.84Safari/537.36HBPC/12.1.3.306@@
-#EXTINF:-1 group-title="安徽",安徽影视
-kdsvod://http://v.91kds.com/c7/ahtv3.m3u8?id=ahys&pwd=jsdecode
-#EXTINF:-1 group-title="安徽",安徽移动电视
-kdsvod://ahtv2://68
-#EXTINF:-1 group-title="安徽",安徽经济生活
-kdsvod://ahtv2://71
-#EXTINF:-1 group-title="安徽",安徽经济生活
-https://ahlive.ahwanyun.cn/live/5c6207583a334b048f77dddf370bd840/hls.m3u8
-#EXTINF:-1 group-title="安徽",安徽经济生活
-kdsvod://http://v.91kds.com/c7/ahtv2.m3u8?id=ahjj&pwd=jsdecode
-#EXTINF:-1 group-title="安徽",安徽经济生活
-kdsvod://http://v.91kds.com/b7/ahtv2.m3u8?id=ahjj&kdsplayer=media&pwd=jsdecode@@referer=https://www.ahtv.cn/@user-agent=Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/99.0.4844.84Safari/537.36HBPC/12.1.3.306@@
-#EXTINF:-1 group-title="安徽",安徽经济生活
-kdsvod://http://v.91kds.com/c7/ahtv3.m3u8?id=ahjj&pwd=jsdecode
-#EXTINF:-1 group-title="安徽",安徽综艺体育
-kdsvod://ahtv2://73
-#EXTINF:-1 group-title="安徽",安徽综艺体育
-http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8
-#EXTINF:-1 group-title="安徽",安徽综艺体育
-http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3.flv
-#EXTINF:-1 group-title="安徽",安徽综艺体育
-kdsvod://http://v.91kds.com/c7/ahtv2.m3u8?id=ahzy&pwd=jsdecode
-#EXTINF:-1 group-title="安徽",安徽综艺体育
-kdsvod://http://v.91kds.com/b7/ahtv2.m3u8?id=ahzy&kdsplayer=media&pwd=jsdecode@@referer=https://www.ahtv.cn/@user-agent=Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/99.0.4844.84Safari/537.36HBPC/12.1.3.306@@
-#EXTINF:-1 group-title="安徽",安徽综艺体育
-kdsvod://http://v.91kds.com/c7/ahtv3.m3u8?id=ahzy&pwd=jsdecode
-#EXTINF:-1 group-title="安徽",宣城综合频道
-kdsvod://http://v.91kds.com/c7/ahtv2.m3u8?id=ahxctv1&pwd=jsdecode
-#EXTINF:-1 group-title="安徽",宣城综合频道
-kdsvod://http://v.91kds.com/c7/ahtv3.m3u8?id=ahxctv1&pwd=jsdecode
-#EXTINF:-1 group-title="安徽",宿州新闻综合
-http://live.ahsz.tv/video/s10001-szzh/index.m3u8
-#EXTINF:-1 group-title="安徽",宿州新闻综合
-rtmp://live.ahsz.tv/video/s10001-szzh
-#EXTINF:-1 group-title="安徽",宿州新闻综合
-kdsvod://http://v.91kds.com/c7/ahtv2.m3u8?id=ahsztv1&pwd=jsdecode
-#EXTINF:-1 group-title="安徽",宿州科教生活
-http://live.ahsz.tv/video/s10001-kxjy/index.m3u8
-#EXTINF:-1 group-title="安徽",宿州科教生活
-rtmp://live.ahsz.tv/video/s10001-kxjy
-#EXTINF:-1 group-title="安徽",宿松戏曲文艺
-rtmp://52181.lssplay.aodianyun.com/tv_radio_52181/tv_channel_3389?auth_key=4849469668-0-0-a08583749fce624e9ff690c859fcf8ae
-#EXTINF:-1 group-title="安徽",宿松戏曲文艺
-htmlplay://https://web.guangdianyun.tv/tv/?id=3389&uin=4180
-#EXTINF:-1 group-title="安徽",宿松新闻综合
-rtmp://52181.lssplay.aodianyun.com/tv_radio_52181/tv_channel_3390?auth_key=4849469644-0-0-4ebac1aa7b06c07197e6a43bb43b3fa7
-#EXTINF:-1 group-title="安徽",宿松新闻综合
-htmlplay://https://web.guangdianyun.tv/tv/?id=3390&uin=4180
-#EXTINF:-1 group-title="安徽",岳西综合频道
-http://112.27.49.135:8090/hls/main0/playlist.m3u8
-#EXTINF:-1 group-title="安徽",岳西综合频道
-https://ahlive.ahwanyun.cn/live/7e6dc3845c124c85999bcb4ae2eeddf7/hls.m3u8
-#EXTINF:-1 group-title="安徽",广德新闻综合
-https://live.gdtv.ah.cn/live/newsTV.m3u8
-#EXTINF:-1 group-title="安徽",广德生活频道
-https://live.gdtv.ah.cn/live/shenghuoTV.m3u8
-#EXTINF:-1 group-title="安徽",当涂新闻综合
-http://112.30.194.221:20080/live/4f38ef59c79e4d4bac1a995681102573/hls.m3u8
-#EXTINF:-1 group-title="安徽",无为新闻综合
-https://ahlive.ahwanyun.cn/live/3065a7fde2f9429fb63898670bec988e/hls.m3u8
-#EXTINF:-1 group-title="安徽",无为新闻综合
-https://ahlive.ahwanyun.cn/live/3065a7fde2f9429fb63898670bec988e.flv
-#EXTINF:-1 group-title="安徽",望江新闻综合
-https://gnhls.qingmei.tv/live/wjxw.m3u8?volcTime=1753081769&volcSecret=417e16d73e15903fc21a4491f761a3e5
-#EXTINF:-1 group-title="安徽",望江黄梅戏
-https://gnhls.qingmei.tv/live/wjhmx.m3u8?volcTime=1753081769&volcSecret=cd51a83cfe531c6d73edf45b7ad32154
-#EXTINF:-1 group-title="安徽",桐城新闻频道
-htmlplay://https://web.guangdianyun.tv/tv/?id=3350&uin=4104
-#EXTINF:-1 group-title="安徽",歙县综合频道
-http://wyflv.ahwanyun.cn/live/4b3024127d1c472986ccdcb454f81a9f.m3u8
-#EXTINF:-1 group-title="安徽",歙县综合频道
-http://wyflv.ahwanyun.cn/live/4b3024127d1c472986ccdcb454f81a9f.flv
-#EXTINF:-1 group-title="安徽",池州新闻综合
-http://gbds.chiznews.com:8037/live/xwzh.flv
-#EXTINF:-1 group-title="安徽",池州新闻综合
-http://gbds.chiznews.com:8037/live/xwzh.m3u8
-#EXTINF:-1 group-title="安徽",泾县文化旅游
-https://apisave.jxnn.cn/hls/wenlv/playlist.m3u8
-#EXTINF:-1 group-title="安徽",泾县新闻综合
-https://apisave.jxnn.cn/hls/xwzonhe/playlist.m3u8
-#EXTINF:-1 group-title="安徽",涡阳新闻综合
-http://220.180.124.18:888/live/ch0.m3u8
-#EXTINF:-1 group-title="安徽",涡阳新闻综合
-http://220.180.124.18:888/live/ch2.m3u8
-#EXTINF:-1 group-title="安徽",淮北新闻频道
-https://live.hbnews.net/video/xwzh/index.m3u8
-#EXTINF:-1 group-title="安徽",淮北新闻频道
-https://vms-x.hbnews.net/video/xwzh/index.m3u8
-#EXTINF:-1 group-title="安徽",淮北新闻频道
-kdsvod://http://v.91kds.com/c7/ahtv2.m3u8?id=ahhbtv1&pwd=jsdecode
-#EXTINF:-1 group-title="安徽",淮北新闻频道
-kdsvod://http://v.91kds.com/c7/ahtv3.m3u8?id=ahhbtv1&pwd=jsdecode
-#EXTINF:-1 group-title="安徽",淮北矿业新闻综合
-http://xcblive.hbcoal.com/3/sd/live.m3u8
-#EXTINF:-1 group-title="安徽",淮北经济生活
-https://live.hbnews.net/video/ggpd/index.m3u8
-#EXTINF:-1 group-title="安徽",淮北经济生活
-https://vms-x.hbnews.net/video/JJSH/index.m3u8
-#EXTINF:-1 group-title="安徽",淮南新闻综合
-https://ahlive.ahwanyun.cn/live/8f025f302a3441f4b5a45ad4f06b42cb/hls.m3u8
-#EXTINF:-1 group-title="安徽",淮南新闻综合
-kdsvod://http://v.91kds.com/b7/ahqx.m3u8?id=ahhntv1&pwd=jsdecode
-#EXTINF:-1 group-title="安徽",淮河能源综合
-http://play.hhnynews.com/huaihe/online.m3u8?auth_key=1720572937-0-0-ebd6c35757d0771723a94f37aa4b3b99
-#EXTINF:-1 group-title="安徽",滁州新闻综合
-http://live.cztv.cc:85/live/xwpd.m3u8
-#EXTINF:-1 group-title="安徽",滁州新闻综合
-kdsvod://http://v.91kds.com/b7/ahqx.m3u8?id=ahcutv1&pwd=jsdecode
-#EXTINF:-1 group-title="安徽",滁州科教频道
-http://live.cztv.cc:85/live/sjpd.m3u8
-#EXTINF:-1 group-title="安徽",潜山新闻综合
-http://60.171.171.101:8278/rtmp_export/video22.m3u8
-#EXTINF:-1 group-title="安徽",濉溪电视二套
-http://112.30.194.221:20080/live/b4bd9bfcda3b467d8f358db687750226/hls.m3u8
-#EXTINF:-1 group-title="安徽",濉溪综合频道
-http://112.30.194.221:20080/live/7f6926bc79174b03a212fe2aad0b62b6/hls.m3u8
-#EXTINF:-1 group-title="安徽",灵璧综合频道
-http://live.cms.anhuinews.com/video/s10003-lbtv/index.m3u8
-#EXTINF:-1 group-title="安徽",睛彩安徽
-kdsvod://http://v.91kds.com/b7/ahtv2.m3u8?id=ahjc&kdsplayer=media&pwd=jsdecode@@referer=https://www.ahtv.cn/@user-agent=Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/99.0.4844.84Safari/537.36HBPC/12.1.3.306@@
-#EXTINF:-1 group-title="安徽",砀山新闻综合
-htmlplay://https://web.guangdianyun.tv/tv/?id=2334&uin=1364
-#EXTINF:-1 group-title="安徽",祁门综合频道
-http://file.qmxrmt.com/nmip-media/channellive/channel108622/playlist.m3u8
-#EXTINF:-1 group-title="安徽",祁门综合频道
-rtmp://tv.qmxrmt.com/chan/ch1
-#EXTINF:-1 group-title="安徽",绩溪新闻频道
-http://xzbf.fst1994.cn/jxtv/jxzh.m3u8
-#EXTINF:-1 group-title="安徽",肥东新闻综合
-http://l-live.feidongtv.com/live/xwzh.m3u8?volcTime=1750068555&volcSecret=9965f9cd3a8867f0ccafabf0abed15b1@@Referer=http://wxfx.feidongtv.com/@@
-#EXTINF:-1 group-title="安徽",肥东新闻综合
-htmlplay://https://web.guangdianyun.tv/tv/?id=3780&uin=1167
-#EXTINF:-1 group-title="安徽",肥东经济生活
-https://l-live.feidongtv.com/live/jjsh.m3u8?volcTime=1750068555&volcSecret=7a68bbd796855691ff668e5127bedb76@@Referer=http://wxfx.feidongtv.com/@@
-#EXTINF:-1 group-title="安徽",肥西综合频道
-http://112.30.194.221:20080/live/7210e3a27cc64ac4a3f7aba2e2b683d5/hls.m3u8
-#EXTINF:-1 group-title="安徽",肥西综合频道
-http://112.30.194.221:20080/live/7210e3a27cc64ac4a3f7aba2e2b683d5.flv
-#EXTINF:-1 group-title="安徽",芜湖新闻综合
-kdsvod://http://v.91kds.com/b7/hoge.m3u8?ip=ahwhtv&id=7&pwd=jsdecode
-#EXTINF:-1 group-title="安徽",芜湖新闻综合
-kdsvod://http://v.91kds.com/c7/ahtv2.m3u8?id=ahwhtv1&pwd=jsdecode
-#EXTINF:-1 group-title="安徽",芜湖生活频道
-kdsvod://http://v.91kds.com/b7/hoge.m3u8?ip=ahwhtv&id=9&pwd=jsdecode
-#EXTINF:-1 group-title="安徽",萧县新闻综合
-http://60.171.239.216:9080/hls/stream1.m3u8
-#EXTINF:-1 group-title="安徽",萧县新闻综合
-http://60.171.239.216:5000/hls/stream1.m3u8
-#EXTINF:-1 group-title="安徽",蒙城新闻频道
-https://play-hsbj.vzan.com/200263/698384284379943742/live.m3u8
-#EXTINF:-1 group-title="安徽",蒙城新闻频道
-https://p2hs.vzan.com/200263/698384284379943742/live.m3u8?zbid=200263&tpid=1914190744
-#EXTINF:-1 group-title="安徽",蚌埠新闻综合
-kdsvod://http://v.91kds.com/c7/ahtv2.m3u8?id=ahbbtv1&pwd=jsdecode
-#EXTINF:-1 group-title="安徽",蚌埠新闻综合
-kdsvod://http://v.91kds.com/c7/ahtv3.m3u8?id=ahbbtv1&pwd=jsdecode
-#EXTINF:-1 group-title="安徽",金寨综合频道
-http://file.kanjinzhai.cn/hls/jinzhaixw/playlist.m3u8
-#EXTINF:-1 group-title="安徽",铜陵公共频道
-https://gnhls.qingmei.tv/live/tl2.m3u8?volcTime=1743149289&volcSecret=b3e463bef22d0b3352940f54f606a74d
-#EXTINF:-1 group-title="安徽",铜陵教育科技
-https://gnhls.qingmei.tv/live/tl3.m3u8?volcTime=1743149289&volcSecret=cfb0dd1559ee04df1eb1ce0de3e98d8f
-#EXTINF:-1 group-title="安徽",铜陵新闻综合
-https://gnhls.qingmei.tv/live/tlxw.m3u8?volcTime=1753081509&volcSecret=10999ac48fb965e95cd8ac9bbbf625ef
-#EXTINF:-1 group-title="安徽",铜陵新闻综合
-kdsvod://http://v.91kds.com/b7/ahqx.m3u8?id=ahtltv1&pwd=jsdecode
-#EXTINF:-1 group-title="安徽",阜南新闻综合
-https://xhmm-new-live.media.xinhuamm.net/liveNoRecord/a42bf9ee9c224a44a393aafc33990c78_111ae5a842ff4b32ab277ed1d9e216c5.m3u8?auth_key=2017017629-3866c768f70a4b47a2352f7b746e7bc1-0-1470ba4cbd641cbe479da8838d3396da
-#EXTINF:-1 group-title="安徽",阜阳教育频道
-htmlplay://https://web.guangdianyun.tv/tv/?id=2852&uin=2577
-#EXTINF:-1 group-title="安徽",阜阳教育频道
-http://41007.hlsplay.aodianyun.com/tv_radio_41007/tv_channel_2852.m3u8?auth_key=4835990057-0-0-017419faa93529a4aa5fc283632732ca&extra_key=vQshsQkSOG1FT9Mb763SReA_ScJbWZE1GdTHuMtghVIye3UhXJWOF-WqFU3cuQ-uD1nO3QrpvlmEGnULzFj7L_nbUOgIFmahrvO-Mu8U3Rx4MRBSMj7QUjXKdwK-4_tfiHF9qHU4TLF_9Q9bpL7Sk2xp6AMy4uMlD3O5Hmrnu1w2QzhRwTPxeTmKO9iTZamR
-#EXTINF:-1 group-title="安徽",阜阳新闻综合
-htmlplay://https://web.guangdianyun.tv/tv/?id=2851&uin=2577
-#EXTINF:-1 group-title="安徽",阜阳生活频道
-htmlplay://https://web.guangdianyun.tv/tv/?id=2853&uin=2577
-#EXTINF:-1 group-title="安徽",阜阳生活频道
-http://41007.hlsplay.aodianyun.com/tv_radio_41007/tv_channel_2853.m3u8?auth_key=4835990486-0-0-dcdb6cc0aee871a664044ee7a3e83308&extra_key=jiEx28IYtuWJ1_w9kBTIOKIb4qAj8AdUpC907-3A-1heP_ZkcC9shKy2LFM4R9AiQLgQILrQJL1arILWCMAAizwLLRfZ5JckaokxNmuSv2KZs6SyYxsEki45eCNOFysmPiq_XKQRYYjgnOQiBte9knM20QVSjr7_kfGY0ZMQJoKWXhwFqOC7MaahYRl6X9Bv
-#EXTINF:-1 group-title="安徽",阜阳都市文艺
-htmlplay://https://web.guangdianyun.tv/tv/?id=2854&uin=2577
-#EXTINF:-1 group-title="安徽",阜阳都市文艺
-http://41007.hlsplay.aodianyun.com/tv_radio_41007/tv_channel_2854.m3u8?auth_key=4835990545-0-0-80a02249988a1cd7a605401bb3a97442&extra_key=ohSJKJdeEa3QQlgmBxpudi6ezxha2e0nc6NZj3SHRORmaEFCgqd6yS2lGW3j-QQf56tTLDfQMDwAAnYcmDicXDRhX7-vqQx3Y2n2ERhE5FWfT3X--ob2iuEq3JtYdHC_ndaPCeOBQdXbH--HpXp2yu84RkSRTHg6mejJ52Qu7did-D4rWp9iydThnLbjeQ_1
-#EXTINF:-1 group-title="安徽",霍邱新闻综合
-http://112.30.194.221:20080/live/186d03e65fd64d33b033c31da5a4a5a0/hls.m3u8
-#EXTINF:-1 group-title="安徽",霍邱新闻综合
-http://112.30.194.221:20080/live/186d03e65fd64d33b033c31da5a4a5a0.flv
-#EXTINF:-1 group-title="安徽",马鞍山科教生活
-https://live.masbcx.cn/fe60c7f6a746404590186208394ceb43/935bce782af148c18a8048eabb0d7afa.m3u8?auth_key=2334657804-859d6a4ae6094480b20ff635612cd14d-0-8151ea4280c5f6a71fad438456ffa6df
-#EXTINF:-1 group-title="安徽",马鞍山综合频道
-https://live.masbcx.cn/37da93f77452420d8990a9e91d865b81/94a165a5a7104676b7c68e39b4917d20.m3u8?auth_key=2334657789-9dd6b0079eb842f3a29bba1254dfedc3-0-2175f4b991c6e69d890d998237654a14
-#EXTINF:-1 group-title="安徽",黄山文旅频道
-http://hslive.hsnewsnet.com/lsdream/iY92ady/1000/live.m3u8
-#EXTINF:-1 group-title="安徽",黄山新闻综合
-http://hslive.hsnewsnet.com/lsdream/hve9Wjs/1000/live.m3u8
-#EXTINF:-1 group-title="安徽",黄山新闻综合
-kdsvod://http://v.91kds.com/b7/ahqx.m3u8?id=ahhstv1&pwd=jsdecode
-#EXTINF:-1 group-title="安徽",黟县综合频道
-http://114.104.147.15:1935/live/yixian/playlist.m3u8
-#EXTINF:-1 group-title="安徽",黟县综合频道
-http://app.yixianfabu.com:1935/live/yixian/playlist.m3u8
+#EXTINF:-1 group-title="广东",GRTN健康频道
+htmlplay://https://www.gdtv.cn/tvChannelDetail/99@@UA=Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/100.0.4896.75Safari/537.36@@
+#EXTINF:-1 group-title="广东",GRTN健康频道
+https://tplaylive.grtn.cn/live/health.m3u8
+#EXTINF:-1 group-title="广东",GRTN教育频道
+htmlplay://https://www.gdtv.cn/tvChannelDetail/104@@UA=Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/100.0.4896.75Safari/537.36@@
+#EXTINF:-1 group-title="广东",GRTN教育频道
+https://tplaylive.grtn.cn/live/jiaoyu.m3u8
+#EXTINF:-1 group-title="广东",GRTN文化频道
+https://tplaylive.grtn.cn/live/wenhua_test0203.m3u8
+#EXTINF:-1 group-title="广东",GRTN文化频道
+htmlplay://https://www.gdtv.cn/tvChannelDetail/75@@UA=Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/100.0.4896.75Safari/537.36@@
+#EXTINF:-1 group-title="广东",GRTN生活频道
+htmlplay://https://www.gdtv.cn/tvChannelDetail/102@@UA=Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/100.0.4896.75Safari/537.36@@
+#EXTINF:-1 group-title="广东",GRTN生活频道
+https://tplaylive.grtn.cn/live/life.m3u8
+#EXTINF:-1 group-title="广东",GRTN纪录片
+htmlplay://https://www.gdtv.cn/tvChannelDetail/94@@UA=Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/100.0.4896.75Safari/537.36@@
+#EXTINF:-1 group-title="广东",GRTN纪录片
+https://tplaylive.grtn.cn/live/jilupian.m3u8
+#EXTINF:-1 group-title="广东",GRTN荔枝台
+htmlplay://https://www.gdtv.cn/tvChannelDetail/100@@UA=Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/100.0.4896.75Safari/537.36@@
+#EXTINF:-1 group-title="广东",GRTN荔枝台
+https://tplaylive.grtn.cn/live/lizhi.m3u8
+#EXTINF:-1 group-title="广东",东莞生活资讯
+kdsvod://http://v.91kds.com/b7/gddgtv.m3u8?id=gddgtv2&pwd=jsdecode
+#EXTINF:-1 group-title="广东",东莞生活资讯
+https://stream.sun0769.com/dgrtv1/mp4tv2_1500/index.m3u8
+#EXTINF:-1 group-title="广东",东莞综合
+kdsvod://http://v.91kds.com/b7/gddgtv.m3u8?id=gddgtv1&pwd=jsdecode
+#EXTINF:-1 group-title="广东",东莞综合
+https://stream.sun0769.com/dgrtv1/mp4tv1_1500/index.m3u8
+#EXTINF:-1 group-title="广东",中山综合
+http://v.zsbtv.com.cn/lsdream/qTl38me/1000/live.m3u8
+#EXTINF:-1 group-title="广东",丰顺综合
+https://p2.vzan.com/701678271/024926084736123670/live.m3u8
+#EXTINF:-1 group-title="广东",云浮文旅
+https://livestream.oeeee.com/slive/28284.m3u8
+#EXTINF:-1 group-title="广东",云浮综合
+https://livestream.oeeee.com/slive/28283.m3u8
+#EXTINF:-1 group-title="广东",五华综合
+http://p2.vzan.com/slowlive/985282647660143081/live.m3u8
+#EXTINF:-1 group-title="广东",佛冈综合
+http://p2.vzan.com/slowlive/763398745742339271/live.m3u8
+#EXTINF:-1 group-title="广东",佛山公共
+kdsvod://http://v.91kds.com/b7/gdfstv.m3u8?id=gdfstv2&pwd=jsdecode
+#EXTINF:-1 group-title="广东",佛山南海
+kdsvod://http://v.91kds.com/b7/gdfstv.m3u8?id=gdfstv5&pwd=jsdecode
+#EXTINF:-1 group-title="广东",佛山综合
+kdsvod://http://v.91kds.com/b7/gdfstv.m3u8?id=gdfstv1&pwd=jsdecode
+#EXTINF:-1 group-title="广东",佛山顺德
+kdsvod://http://v.91kds.com/b7/gdfstv.m3u8?id=gdfstv4&pwd=jsdecode
+#EXTINF:-1 group-title="广东",信宜综合
+htmlplay://https://web.guangdianyun.tv/tv/?id=643&uin=1629
+#EXTINF:-1 group-title="广东",增城综合
+http://44372.hlsplay.aodianyun.com/tv_radio_44372/tv_channel_3454.m3u8?auth_key=4854916743-0-0-8196893fc2147c56352b0ddb0525f16d&extra_key=vkUSpksttitWglBm27s62bcuJ-YJmyMIAGiFuyXXx91bl57LjabQZa6sW-66IokqwcwVpy-ddrwxPiZ1nhEhgxcn6s-4JFmtwgTAN_05P0rI0iArPfhZhUefgOC-7UXS_CV6g9XuKzXRXbzUIFDT7zDXGcRE3yaS1pRMbsdGQIs
+#EXTINF:-1 group-title="广东",增城综合
+htmlplay://https://web.guangdianyun.tv/tv/?id=3454&uin=3047
+#EXTINF:-1 group-title="广东",岭南戏曲
+htmlplay://https://www.gdtv.cn/tvChannelDetail/15@@UA=Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/100.0.4896.75Safari/537.36@@
+#EXTINF:-1 group-title="广东",岭南戏曲
+kdsvod://http://v.91kds.com/c7/gdtv.m3u8?id=gdlnxq&pwd=jsdecode
+#EXTINF:-1 group-title="广东",岭南戏曲
+kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=gdlnxq&pwd=jsdecode
+#EXTINF:-1 group-title="广东",岭南戏曲
+kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=gdlnxq&pwd=jsdecode
+#EXTINF:-1 group-title="广东",岭南戏曲
+kdsvod://http://v.91kds.com/b7/cdnlive.m3u8?id=gdlnxq&pwd=jsdecode
+#EXTINF:-1 group-title="广东",平远综合
+http://p2.vzan.com/slowlive/738135449685137104/live.m3u8
+#EXTINF:-1 group-title="广东",广东4K超
+htmlplay://https://www.gdtv.cn/tvChannelDetail/16@@UA=Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/100.0.4896.75Safari/537.36@@
+#EXTINF:-1 group-title="广东",广东4K超
+kdsvod://http://v.91kds.com/c7/gdtv.m3u8?id=gdtvs3&pwd=jsdecode
+#EXTINF:-1 group-title="广东",广东4K超
+kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=gdtvs3&pwd=jsdecode
+#EXTINF:-1 group-title="广东",广东4K超
+kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=gdtvs3&pwd=jsdecode
+#EXTINF:-1 group-title="广东",广东4K超
+kdsvod://http://v.91kds.com/b7/cdnlive.m3u8?id=gdtvs3&pwd=jsdecode
+#EXTINF:-1 group-title="广东",广东体育
+htmlplay://https://www.gdtv.cn/tvChannelDetail/47@@UA=Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/100.0.4896.75Safari/537.36@@
+#EXTINF:-1 group-title="广东",广东体育
+kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=gdty&pwd=jsdecode
+#EXTINF:-1 group-title="广东",广东体育
+kdsvod://http://v.91kds.com/c7/gdtv.m3u8?id=gdty&pwd=jsdecode
+#EXTINF:-1 group-title="广东",广东体育
+kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=gdty&pwd=jsdecode
+#EXTINF:-1 group-title="广东",广东影视
+htmlplay://https://www.gdtv.cn/tvChannelDetail/53@@UA=Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/100.0.4896.75Safari/537.36@@
+#EXTINF:-1 group-title="广东",广东影视
+htmlplay://https://m.miguvideo.com/m/liveDetail/614961829?channelId=10010001005
+#EXTINF:-1 group-title="广东",广东影视
+kdsvod://http://v.91kds.com/c7/gdtv.m3u8?id=gdtvs4&pwd=jsdecode
+#EXTINF:-1 group-title="广东",广东影视
+kdsvod://migu://614961829
+#EXTINF:-1 group-title="广东",广东新闻
+htmlplay://https://www.gdtv.cn/tvChannelDetail/45@@UA=Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/100.0.4896.75Safari/537.36@@
+#EXTINF:-1 group-title="广东",广东新闻
+kdsvod://http://v.91kds.com/c7/gdtv.m3u8?id=gdxw&pwd=jsdecode
+#EXTINF:-1 group-title="广东",广东新闻
+kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=gdxw&pwd=jsdecode
+#EXTINF:-1 group-title="广东",广东新闻
+kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=gdxw&pwd=jsdecode
+#EXTINF:-1 group-title="广东",广东新闻
+kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=gdxwa&pwd=jsdecode
+#EXTINF:-1 group-title="广东",广东新闻
+kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=gdxwa&pwd=jsdecode
+#EXTINF:-1 group-title="广东",广东民生
+htmlplay://https://www.gdtv.cn/tvChannelDetail/48@@UA=Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/100.0.4896.75Safari/537.36@@
+#EXTINF:-1 group-title="广东",广东民生
+kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=gdgg&pwd=jsdecode
+#EXTINF:-1 group-title="广东",广东民生
+kdsvod://http://v.91kds.com/c7/gdtv.m3u8?id=gdgg&pwd=jsdecode
+#EXTINF:-1 group-title="广东",广东民生
+kdsvod://http://v.91kds.com/b7/cdnlive.m3u8?id=gdgg&pwd=jsdecode
+#EXTINF:-1 group-title="广东",广东珠江
+htmlplay://https://www.gdtv.cn/tvChannelDetail/44@@UA=Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/100.0.4896.75Safari/537.36@@
+#EXTINF:-1 group-title="广东",广东珠江
+kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=gdzj&pwd=jsdecode
+#EXTINF:-1 group-title="广东",广东珠江
+kdsvod://http://v.91kds.com/c7/gdtv.m3u8?id=gdzj&pwd=jsdecode
+#EXTINF:-1 group-title="广东",广东珠江
+kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=gdzj&pwd=jsdecode
+#EXTINF:-1 group-title="广东",广东珠江
+kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=gdzja&pwd=jsdecode
+#EXTINF:-1 group-title="广东",广东珠江
+kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=gdzja&pwd=jsdecode
+#EXTINF:-1 group-title="广东",广东珠江
+https://gx.484947.xyz/PLTV/77777777/224/3221225717/index.m3u8?servicetype=1&IASHttpSessionId=RR778520250111113355399717&ispcode=1108
+#EXTINF:-1 group-title="广东",广东移动
+htmlplay://https://www.gdtv.cn/tvChannelDetail/74@@UA=Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/100.0.4896.75Safari/537.36@@
+#EXTINF:-1 group-title="广东",广东移动
+kdsvod://http://v.91kds.com/c7/gdtv.m3u8?id=gdyd&pwd=jsdecode
+#EXTINF:-1 group-title="广东",广东移动
+kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=gdyd&pwd=jsdecode
+#EXTINF:-1 group-title="广东",广东移动
+kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=gdyd&pwd=jsdecode
+#EXTINF:-1 group-title="广东",广东移动
+kdsvod://http://v.91kds.com/b7/cdnlive.m3u8?id=gdyd&pwd=jsdecode
+#EXTINF:-1 group-title="广东",广东经济科教
+https://pili-live-hls.kingsmedia.cn/metoo-live/e06829f1a4374c4cb7f72cd99c7c636d.m3u8
+#EXTINF:-1 group-title="广东",广东经济科教
+htmlplay://https://www.gdtv.cn/tvChannelDetail/49@@UA=Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/100.0.4896.75Safari/537.36@@
+#EXTINF:-1 group-title="广东",广州南国都市4K
+kdsvod://http://v.91kds.com/b7/gdgztv.m3u8?id=gdgzsh&pwd=jsdecode
+#EXTINF:-1 group-title="广东",广州南国都市4K
+kdsvod://http://v.91kds.com/c7/gdgztv.m3u8?id=gdgzsh&pwd=jsdecode
+#EXTINF:-1 group-title="广东",广州新闻
+kdsvod://http://v.91kds.com/b7/gdgztv.m3u8?id=gdgzxw&pwd=jsdecode
+#EXTINF:-1 group-title="广东",广州新闻
+kdsvod://http://v.91kds.com/c7/gdgztv.m3u8?id=gdgzxw&pwd=jsdecode
+#EXTINF:-1 group-title="广东",广州综合
+kdsvod://http://v.91kds.com/b7/gdgztv.m3u8?id=gdgzzh&pwd=jsdecode
+#EXTINF:-1 group-title="广东",广州综合
+kdsvod://http://v.91kds.com/c7/gdgztv.m3u8?id=gdgzzh&pwd=jsdecode
+#EXTINF:-1 group-title="广东",开平生活
+htmlplay://https://web.guangdianyun.tv/tv/?id=1435&uin=1132
+#EXTINF:-1 group-title="广东",开平综合
+htmlplay://https://web.guangdianyun.tv/tv/?id=1434&uin=1132
+#EXTINF:-1 group-title="广东",惠州综合
+http://b.ds2.hztvmg.com/AppName/StreamName.m3u8
+#EXTINF:-1 group-title="广东",揭阳生活
+kdsvod://http://v.91kds.com/b7/gdjytv.m3u8?id=gdjytv2&pwd=jsdecode
+#EXTINF:-1 group-title="广东",揭阳生活
+http://hls-jyrtv.jyrtv.tv/stjy2020/ggpd.m3u8
+#EXTINF:-1 group-title="广东",揭阳综合
+kdsvod://http://v.91kds.com/b7/gdjytv.m3u8?id=gdjytv1&pwd=jsdecode
+#EXTINF:-1 group-title="广东",揭阳综合
+http://hls-jyrtv.jyrtv.tv/stjy2020/zhpd.m3u8
+#EXTINF:-1 group-title="广东",汕头新闻综合
+kdsvod://http://v.91kds.com/b7/gdsttv.m3u8?id=gdsttv1&pwd=jsdecode
+#EXTINF:-1 group-title="广东",汕头经济生活
+kdsvod://http://v.91kds.com/b7/gdsttv.m3u8?id=gdsttv2&pwd=jsdecode
+#EXTINF:-1 group-title="广东",汕尾文化生活
+kdsvod://http://v.91kds.com/b7/tianma.m3u8?ip=gdswtv&id=36&pwd=jsdecode
+#EXTINF:-1 group-title="广东",汕尾综合
+kdsvod://http://v.91kds.com/b7/tianma.m3u8?ip=gdswtv&id=35&pwd=jsdecode
+#EXTINF:-1 group-title="广东",汕尾综合
+https://iswtv.swrtv.com/live/xwzhpd.m3u8
+#EXTINF:-1 group-title="广东",江门综合
+kdsvod://tide://http://tidelive.jmtv.cn/lsdream/4x3T0dO/993/&4x3T0dO
+#EXTINF:-1 group-title="广东",河源公共
+http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
+#EXTINF:-1 group-title="广东",河源综合
+http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
+#EXTINF:-1 group-title="广东",深圳国际
+kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=gdszgj&pwd=jsdecode
+#EXTINF:-1 group-title="广东",深圳国际
+kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=gdszgj&pwd=jsdecode
+#EXTINF:-1 group-title="广东",深圳电视剧
+kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=gdszdsj&pwd=jsdecode
+#EXTINF:-1 group-title="广东",深圳电视剧
+kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=gdszdsj&pwd=jsdecode
+#EXTINF:-1 group-title="广东",深圳移动电视
+kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=gdszyd&pwd=jsdecode
+#EXTINF:-1 group-title="广东",深圳移动电视
+kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=gdszyd&pwd=jsdecode
+#EXTINF:-1 group-title="广东",深圳都市
+http://livepull-dyxc.sztv.com.cn/live/szdushi_live.m3u8?txSecret=491dcb72366fa4cebe8141cffa123275&txTime=6B43225C@@Referer=https://www.sztv.com.cn/ysz/5/5mrgrgklm/80569467.shtml@@
+#EXTINF:-1 group-title="广东",深圳都市
+kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=gdszds&pwd=jsdecode
+#EXTINF:-1 group-title="广东",深圳都市
+kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=gdszds&pwd=jsdecode
+#EXTINF:-1 group-title="广东",清新公共
+http://hls.wiseqx.com/live/qxgg.m3u8
+#EXTINF:-1 group-title="广东",清新综合
+http://hls.wiseqx.com/live/qxzh.m3u8
+#EXTINF:-1 group-title="广东",清远新闻综合
+https://vlivestream.qyrb.cn/qyLiveSlow/74.m3u8
+#EXTINF:-1 group-title="广东",湛江综合
+https://tvlive.zjwtv.com/live/sobeystream_1782377327.m3u8
+#EXTINF:-1 group-title="广东",潮安综合
+http://chaoan.chaoantv.com:8278/zongyi_1028/playlist.m3u8
+#EXTINF:-1 group-title="广东",潮安综合
+http://chaoan.chaoantv.com:8278/live/chaoanzongyi.m3u8
+#EXTINF:-1 group-title="广东",潮安综合
+http://chaoan.chaoantv.com:8278/zongyi_728/playlist.m3u8
+#EXTINF:-1 group-title="广东",潮州民生
+http://livezhpd.czbtv.com:38880/live/ggpd.m3u8?secret=czbtv20250301
+#EXTINF:-1 group-title="广东",潮州综合
+http://livezhpd.czbtv.com:38880/live/ctvzhpd.m3u8?secret=czbtv20250301
+#EXTINF:-1 group-title="广东",现代教育
+htmlplay://https://www.gdtv.cn/tvChannelDetail/13@@UA=Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/100.0.4896.75Safari/537.36@@
+#EXTINF:-1 group-title="广东",珠海新闻
+kdsvod://http://v.91kds.com/b7/cutv2.m3u8?id=gdzhtv1&pwd=jsdecode
+#EXTINF:-1 group-title="广东",珠海新闻
+https://publive.zhrct.com/zhtv1/zhtv1.m3u8?auth_key=1697183630-0-0-237458bc86c8bc697f92b9525a090953
+#EXTINF:-1 group-title="广东",电白综合
+http://gddb.chinashadt.com:1935/live/video1.stream_360p/playlist.m3u8
+#EXTINF:-1 group-title="广东",电白综合
+http://gddb.chinashadt.com:1935/live/video1.stream/playlist.m3u8
+#EXTINF:-1 group-title="广东",电白视窗
+http://gddb.chinashadt.com:1935/live/video2.stream/playlist.m3u8
+#EXTINF:-1 group-title="广东",电白视窗
+http://gddb.chinashadt.com:1935/live/video2.stream_360p/playlist.m3u8
+#EXTINF:-1 group-title="广东",番禺综合
+http://video.epaper.pybtv.cn:8080/live/rtmp_live_demo.flv
+#EXTINF:-1 group-title="广东",肇庆生活服务
+http://zqvlivestream.xjrb.com/zqtlive_slow/eed84230447e4eed917191d72b5d8b73_786.m3u8
+#EXTINF:-1 group-title="广东",肇庆综合
+http://zqvlivestream.xjrb.com/zqtlive_slow/eed84230447e4eed917191d72b5d8b73_779.m3u8
+#EXTINF:-1 group-title="广东",连州综合
+kdsvod://http://v.91kds.com/b7/gdwx.m3u8?id=gdqylz1&pwd=jsdecode
+#EXTINF:-1 group-title="广东",韶关综合
+https://www.sgmsw.cn/videos/tv/201805/1308/SB05RIYZOU8JR418AUQOF62CAJQ08D0E/hls/live.m3u8
+#EXTINF:-1 group-title="广东",韶关综合
+https://live.sgmsw.cn/hls/lhx1FUeZg/playlist.m3u8
 #EXTINF:-1 group-title="北京",中华特产
 kdsvod://http://v.91kds.com/b7/hatv.m3u8?id=hatv11&pwd=jsdecode
 #EXTINF:-1 group-title="北京",中华特产
@@ -2727,254 +2687,294 @@ rtmp://play.kankanlive.com/live/1709171819929902
 https://play.kankanlive.com/live/1733904632183369.m3u8
 #EXTINF:-1 group-title="甘肃",陇西综合频道
 rtmp://play.kankanlive.com/live/1733904632183369
-#EXTINF:-1 group-title="广东",GRTN健康频道
-htmlplay://https://www.gdtv.cn/tvChannelDetail/99@@UA=Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/100.0.4896.75Safari/537.36@@
-#EXTINF:-1 group-title="广东",GRTN健康频道
-https://tplaylive.grtn.cn/live/health.m3u8
-#EXTINF:-1 group-title="广东",GRTN教育频道
-htmlplay://https://www.gdtv.cn/tvChannelDetail/104@@UA=Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/100.0.4896.75Safari/537.36@@
-#EXTINF:-1 group-title="广东",GRTN教育频道
-https://tplaylive.grtn.cn/live/jiaoyu.m3u8
-#EXTINF:-1 group-title="广东",GRTN文化频道
-https://tplaylive.grtn.cn/live/wenhua_test0203.m3u8
-#EXTINF:-1 group-title="广东",GRTN文化频道
-htmlplay://https://www.gdtv.cn/tvChannelDetail/75@@UA=Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/100.0.4896.75Safari/537.36@@
-#EXTINF:-1 group-title="广东",GRTN生活频道
-htmlplay://https://www.gdtv.cn/tvChannelDetail/102@@UA=Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/100.0.4896.75Safari/537.36@@
-#EXTINF:-1 group-title="广东",GRTN生活频道
-https://tplaylive.grtn.cn/live/life.m3u8
-#EXTINF:-1 group-title="广东",GRTN纪录片
-htmlplay://https://www.gdtv.cn/tvChannelDetail/94@@UA=Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/100.0.4896.75Safari/537.36@@
-#EXTINF:-1 group-title="广东",GRTN纪录片
-https://tplaylive.grtn.cn/live/jilupian.m3u8
-#EXTINF:-1 group-title="广东",GRTN荔枝台
-htmlplay://https://www.gdtv.cn/tvChannelDetail/100@@UA=Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/100.0.4896.75Safari/537.36@@
-#EXTINF:-1 group-title="广东",GRTN荔枝台
-https://tplaylive.grtn.cn/live/lizhi.m3u8
-#EXTINF:-1 group-title="广东",东莞生活资讯
-kdsvod://http://v.91kds.com/b7/gddgtv.m3u8?id=gddgtv2&pwd=jsdecode
-#EXTINF:-1 group-title="广东",东莞生活资讯
-https://stream.sun0769.com/dgrtv1/mp4tv2_1500/index.m3u8
-#EXTINF:-1 group-title="广东",东莞综合
-kdsvod://http://v.91kds.com/b7/gddgtv.m3u8?id=gddgtv1&pwd=jsdecode
-#EXTINF:-1 group-title="广东",东莞综合
-https://stream.sun0769.com/dgrtv1/mp4tv1_1500/index.m3u8
-#EXTINF:-1 group-title="广东",中山综合
-http://v.zsbtv.com.cn/lsdream/qTl38me/1000/live.m3u8
-#EXTINF:-1 group-title="广东",丰顺综合
-https://p2.vzan.com/701678271/024926084736123670/live.m3u8
-#EXTINF:-1 group-title="广东",云浮文旅
-https://livestream.oeeee.com/slive/28284.m3u8
-#EXTINF:-1 group-title="广东",云浮综合
-https://livestream.oeeee.com/slive/28283.m3u8
-#EXTINF:-1 group-title="广东",五华综合
-http://p2.vzan.com/slowlive/985282647660143081/live.m3u8
-#EXTINF:-1 group-title="广东",佛冈综合
-http://p2.vzan.com/slowlive/763398745742339271/live.m3u8
-#EXTINF:-1 group-title="广东",佛山公共
-kdsvod://http://v.91kds.com/b7/gdfstv.m3u8?id=gdfstv2&pwd=jsdecode
-#EXTINF:-1 group-title="广东",佛山南海
-kdsvod://http://v.91kds.com/b7/gdfstv.m3u8?id=gdfstv5&pwd=jsdecode
-#EXTINF:-1 group-title="广东",佛山综合
-kdsvod://http://v.91kds.com/b7/gdfstv.m3u8?id=gdfstv1&pwd=jsdecode
-#EXTINF:-1 group-title="广东",佛山顺德
-kdsvod://http://v.91kds.com/b7/gdfstv.m3u8?id=gdfstv4&pwd=jsdecode
-#EXTINF:-1 group-title="广东",信宜综合
-htmlplay://https://web.guangdianyun.tv/tv/?id=643&uin=1629
-#EXTINF:-1 group-title="广东",增城综合
-http://44372.hlsplay.aodianyun.com/tv_radio_44372/tv_channel_3454.m3u8?auth_key=4854916743-0-0-8196893fc2147c56352b0ddb0525f16d&extra_key=vkUSpksttitWglBm27s62bcuJ-YJmyMIAGiFuyXXx91bl57LjabQZa6sW-66IokqwcwVpy-ddrwxPiZ1nhEhgxcn6s-4JFmtwgTAN_05P0rI0iArPfhZhUefgOC-7UXS_CV6g9XuKzXRXbzUIFDT7zDXGcRE3yaS1pRMbsdGQIs
-#EXTINF:-1 group-title="广东",增城综合
-htmlplay://https://web.guangdianyun.tv/tv/?id=3454&uin=3047
-#EXTINF:-1 group-title="广东",岭南戏曲
-htmlplay://https://www.gdtv.cn/tvChannelDetail/15@@UA=Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/100.0.4896.75Safari/537.36@@
-#EXTINF:-1 group-title="广东",岭南戏曲
-kdsvod://http://v.91kds.com/c7/gdtv.m3u8?id=gdlnxq&pwd=jsdecode
-#EXTINF:-1 group-title="广东",岭南戏曲
-kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=gdlnxq&pwd=jsdecode
-#EXTINF:-1 group-title="广东",岭南戏曲
-kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=gdlnxq&pwd=jsdecode
-#EXTINF:-1 group-title="广东",岭南戏曲
-kdsvod://http://v.91kds.com/b7/cdnlive.m3u8?id=gdlnxq&pwd=jsdecode
-#EXTINF:-1 group-title="广东",平远综合
-http://p2.vzan.com/slowlive/738135449685137104/live.m3u8
-#EXTINF:-1 group-title="广东",广东4K超
-htmlplay://https://www.gdtv.cn/tvChannelDetail/16@@UA=Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/100.0.4896.75Safari/537.36@@
-#EXTINF:-1 group-title="广东",广东4K超
-kdsvod://http://v.91kds.com/c7/gdtv.m3u8?id=gdtvs3&pwd=jsdecode
-#EXTINF:-1 group-title="广东",广东4K超
-kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=gdtvs3&pwd=jsdecode
-#EXTINF:-1 group-title="广东",广东4K超
-kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=gdtvs3&pwd=jsdecode
-#EXTINF:-1 group-title="广东",广东4K超
-kdsvod://http://v.91kds.com/b7/cdnlive.m3u8?id=gdtvs3&pwd=jsdecode
-#EXTINF:-1 group-title="广东",广东体育
-htmlplay://https://www.gdtv.cn/tvChannelDetail/47@@UA=Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/100.0.4896.75Safari/537.36@@
-#EXTINF:-1 group-title="广东",广东体育
-kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=gdty&pwd=jsdecode
-#EXTINF:-1 group-title="广东",广东体育
-kdsvod://http://v.91kds.com/c7/gdtv.m3u8?id=gdty&pwd=jsdecode
-#EXTINF:-1 group-title="广东",广东体育
-kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=gdty&pwd=jsdecode
-#EXTINF:-1 group-title="广东",广东影视
-htmlplay://https://www.gdtv.cn/tvChannelDetail/53@@UA=Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/100.0.4896.75Safari/537.36@@
-#EXTINF:-1 group-title="广东",广东影视
-htmlplay://https://m.miguvideo.com/m/liveDetail/614961829?channelId=10010001005
-#EXTINF:-1 group-title="广东",广东影视
-kdsvod://http://v.91kds.com/c7/gdtv.m3u8?id=gdtvs4&pwd=jsdecode
-#EXTINF:-1 group-title="广东",广东影视
-kdsvod://migu://614961829
-#EXTINF:-1 group-title="广东",广东新闻
-htmlplay://https://www.gdtv.cn/tvChannelDetail/45@@UA=Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/100.0.4896.75Safari/537.36@@
-#EXTINF:-1 group-title="广东",广东新闻
-kdsvod://http://v.91kds.com/c7/gdtv.m3u8?id=gdxw&pwd=jsdecode
-#EXTINF:-1 group-title="广东",广东新闻
-kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=gdxw&pwd=jsdecode
-#EXTINF:-1 group-title="广东",广东新闻
-kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=gdxw&pwd=jsdecode
-#EXTINF:-1 group-title="广东",广东新闻
-kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=gdxwa&pwd=jsdecode
-#EXTINF:-1 group-title="广东",广东新闻
-kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=gdxwa&pwd=jsdecode
-#EXTINF:-1 group-title="广东",广东民生
-htmlplay://https://www.gdtv.cn/tvChannelDetail/48@@UA=Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/100.0.4896.75Safari/537.36@@
-#EXTINF:-1 group-title="广东",广东民生
-kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=gdgg&pwd=jsdecode
-#EXTINF:-1 group-title="广东",广东民生
-kdsvod://http://v.91kds.com/c7/gdtv.m3u8?id=gdgg&pwd=jsdecode
-#EXTINF:-1 group-title="广东",广东民生
-kdsvod://http://v.91kds.com/b7/cdnlive.m3u8?id=gdgg&pwd=jsdecode
-#EXTINF:-1 group-title="广东",广东珠江
-htmlplay://https://www.gdtv.cn/tvChannelDetail/44@@UA=Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/100.0.4896.75Safari/537.36@@
-#EXTINF:-1 group-title="广东",广东珠江
-kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=gdzj&pwd=jsdecode
-#EXTINF:-1 group-title="广东",广东珠江
-kdsvod://http://v.91kds.com/c7/gdtv.m3u8?id=gdzj&pwd=jsdecode
-#EXTINF:-1 group-title="广东",广东珠江
-kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=gdzj&pwd=jsdecode
-#EXTINF:-1 group-title="广东",广东珠江
-kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=gdzja&pwd=jsdecode
-#EXTINF:-1 group-title="广东",广东珠江
-kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=gdzja&pwd=jsdecode
-#EXTINF:-1 group-title="广东",广东珠江
-https://gx.484947.xyz/PLTV/77777777/224/3221225717/index.m3u8?servicetype=1&IASHttpSessionId=RR778520250111113355399717&ispcode=1108
-#EXTINF:-1 group-title="广东",广东移动
-htmlplay://https://www.gdtv.cn/tvChannelDetail/74@@UA=Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/100.0.4896.75Safari/537.36@@
-#EXTINF:-1 group-title="广东",广东移动
-kdsvod://http://v.91kds.com/c7/gdtv.m3u8?id=gdyd&pwd=jsdecode
-#EXTINF:-1 group-title="广东",广东移动
-kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=gdyd&pwd=jsdecode
-#EXTINF:-1 group-title="广东",广东移动
-kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=gdyd&pwd=jsdecode
-#EXTINF:-1 group-title="广东",广东移动
-kdsvod://http://v.91kds.com/b7/cdnlive.m3u8?id=gdyd&pwd=jsdecode
-#EXTINF:-1 group-title="广东",广东经济科教
-https://pili-live-hls.kingsmedia.cn/metoo-live/e06829f1a4374c4cb7f72cd99c7c636d.m3u8
-#EXTINF:-1 group-title="广东",广东经济科教
-htmlplay://https://www.gdtv.cn/tvChannelDetail/49@@UA=Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/100.0.4896.75Safari/537.36@@
-#EXTINF:-1 group-title="广东",广州南国都市4K
-kdsvod://http://v.91kds.com/b7/gdgztv.m3u8?id=gdgzsh&pwd=jsdecode
-#EXTINF:-1 group-title="广东",广州南国都市4K
-kdsvod://http://v.91kds.com/c7/gdgztv.m3u8?id=gdgzsh&pwd=jsdecode
-#EXTINF:-1 group-title="广东",广州新闻
-kdsvod://http://v.91kds.com/b7/gdgztv.m3u8?id=gdgzxw&pwd=jsdecode
-#EXTINF:-1 group-title="广东",广州新闻
-kdsvod://http://v.91kds.com/c7/gdgztv.m3u8?id=gdgzxw&pwd=jsdecode
-#EXTINF:-1 group-title="广东",广州综合
-kdsvod://http://v.91kds.com/b7/gdgztv.m3u8?id=gdgzzh&pwd=jsdecode
-#EXTINF:-1 group-title="广东",广州综合
-kdsvod://http://v.91kds.com/c7/gdgztv.m3u8?id=gdgzzh&pwd=jsdecode
-#EXTINF:-1 group-title="广东",开平生活
-htmlplay://https://web.guangdianyun.tv/tv/?id=1435&uin=1132
-#EXTINF:-1 group-title="广东",开平综合
-htmlplay://https://web.guangdianyun.tv/tv/?id=1434&uin=1132
-#EXTINF:-1 group-title="广东",惠州综合
-http://b.ds2.hztvmg.com/AppName/StreamName.m3u8
-#EXTINF:-1 group-title="广东",揭阳生活
-kdsvod://http://v.91kds.com/b7/gdjytv.m3u8?id=gdjytv2&pwd=jsdecode
-#EXTINF:-1 group-title="广东",揭阳生活
-http://hls-jyrtv.jyrtv.tv/stjy2020/ggpd.m3u8
-#EXTINF:-1 group-title="广东",揭阳综合
-kdsvod://http://v.91kds.com/b7/gdjytv.m3u8?id=gdjytv1&pwd=jsdecode
-#EXTINF:-1 group-title="广东",揭阳综合
-http://hls-jyrtv.jyrtv.tv/stjy2020/zhpd.m3u8
-#EXTINF:-1 group-title="广东",汕头新闻综合
-kdsvod://http://v.91kds.com/b7/gdsttv.m3u8?id=gdsttv1&pwd=jsdecode
-#EXTINF:-1 group-title="广东",汕头经济生活
-kdsvod://http://v.91kds.com/b7/gdsttv.m3u8?id=gdsttv2&pwd=jsdecode
-#EXTINF:-1 group-title="广东",汕尾文化生活
-kdsvod://http://v.91kds.com/b7/tianma.m3u8?ip=gdswtv&id=36&pwd=jsdecode
-#EXTINF:-1 group-title="广东",汕尾综合
-kdsvod://http://v.91kds.com/b7/tianma.m3u8?ip=gdswtv&id=35&pwd=jsdecode
-#EXTINF:-1 group-title="广东",汕尾综合
-https://iswtv.swrtv.com/live/xwzhpd.m3u8
-#EXTINF:-1 group-title="广东",江门综合
-kdsvod://tide://http://tidelive.jmtv.cn/lsdream/4x3T0dO/993/&4x3T0dO
-#EXTINF:-1 group-title="广东",河源公共
-http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
-#EXTINF:-1 group-title="广东",河源综合
-http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
-#EXTINF:-1 group-title="广东",深圳国际
-kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=gdszgj&pwd=jsdecode
-#EXTINF:-1 group-title="广东",深圳国际
-kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=gdszgj&pwd=jsdecode
-#EXTINF:-1 group-title="广东",深圳电视剧
-kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=gdszdsj&pwd=jsdecode
-#EXTINF:-1 group-title="广东",深圳电视剧
-kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=gdszdsj&pwd=jsdecode
-#EXTINF:-1 group-title="广东",深圳移动电视
-kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=gdszyd&pwd=jsdecode
-#EXTINF:-1 group-title="广东",深圳移动电视
-kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=gdszyd&pwd=jsdecode
-#EXTINF:-1 group-title="广东",深圳都市
-http://livepull-dyxc.sztv.com.cn/live/szdushi_live.m3u8?txSecret=491dcb72366fa4cebe8141cffa123275&txTime=6B43225C@@Referer=https://www.sztv.com.cn/ysz/5/5mrgrgklm/80569467.shtml@@
-#EXTINF:-1 group-title="广东",深圳都市
-kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=gdszds&pwd=jsdecode
-#EXTINF:-1 group-title="广东",深圳都市
-kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=gdszds&pwd=jsdecode
-#EXTINF:-1 group-title="广东",清新公共
-http://hls.wiseqx.com/live/qxgg.m3u8
-#EXTINF:-1 group-title="广东",清新综合
-http://hls.wiseqx.com/live/qxzh.m3u8
-#EXTINF:-1 group-title="广东",清远新闻综合
-https://vlivestream.qyrb.cn/qyLiveSlow/74.m3u8
-#EXTINF:-1 group-title="广东",湛江综合
-https://tvlive.zjwtv.com/live/sobeystream_1782377327.m3u8
-#EXTINF:-1 group-title="广东",潮安综合
-http://chaoan.chaoantv.com:8278/zongyi_1028/playlist.m3u8
-#EXTINF:-1 group-title="广东",潮安综合
-http://chaoan.chaoantv.com:8278/live/chaoanzongyi.m3u8
-#EXTINF:-1 group-title="广东",潮安综合
-http://chaoan.chaoantv.com:8278/zongyi_728/playlist.m3u8
-#EXTINF:-1 group-title="广东",潮州民生
-http://livezhpd.czbtv.com:38880/live/ggpd.m3u8?secret=czbtv20250301
-#EXTINF:-1 group-title="广东",潮州综合
-http://livezhpd.czbtv.com:38880/live/ctvzhpd.m3u8?secret=czbtv20250301
-#EXTINF:-1 group-title="广东",现代教育
-htmlplay://https://www.gdtv.cn/tvChannelDetail/13@@UA=Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/100.0.4896.75Safari/537.36@@
-#EXTINF:-1 group-title="广东",珠海新闻
-kdsvod://http://v.91kds.com/b7/cutv2.m3u8?id=gdzhtv1&pwd=jsdecode
-#EXTINF:-1 group-title="广东",珠海新闻
-https://publive.zhrct.com/zhtv1/zhtv1.m3u8?auth_key=1697183630-0-0-237458bc86c8bc697f92b9525a090953
-#EXTINF:-1 group-title="广东",电白综合
-http://gddb.chinashadt.com:1935/live/video1.stream_360p/playlist.m3u8
-#EXTINF:-1 group-title="广东",电白综合
-http://gddb.chinashadt.com:1935/live/video1.stream/playlist.m3u8
-#EXTINF:-1 group-title="广东",电白视窗
-http://gddb.chinashadt.com:1935/live/video2.stream/playlist.m3u8
-#EXTINF:-1 group-title="广东",电白视窗
-http://gddb.chinashadt.com:1935/live/video2.stream_360p/playlist.m3u8
-#EXTINF:-1 group-title="广东",番禺综合
-http://video.epaper.pybtv.cn:8080/live/rtmp_live_demo.flv
-#EXTINF:-1 group-title="广东",肇庆生活服务
-http://zqvlivestream.xjrb.com/zqtlive_slow/eed84230447e4eed917191d72b5d8b73_786.m3u8
-#EXTINF:-1 group-title="广东",肇庆综合
-http://zqvlivestream.xjrb.com/zqtlive_slow/eed84230447e4eed917191d72b5d8b73_779.m3u8
-#EXTINF:-1 group-title="广东",连州综合
-kdsvod://http://v.91kds.com/b7/gdwx.m3u8?id=gdqylz1&pwd=jsdecode
-#EXTINF:-1 group-title="广东",韶关综合
-https://www.sgmsw.cn/videos/tv/201805/1308/SB05RIYZOU8JR418AUQOF62CAJQ08D0E/hls/live.m3u8
-#EXTINF:-1 group-title="广东",韶关综合
-https://live.sgmsw.cn/hls/lhx1FUeZg/playlist.m3u8
+#EXTINF:-1 group-title="安徽",五河新闻综合
+https://file.wuhermt.cn/hls/wuhe2/playlist.m3u8
+#EXTINF:-1 group-title="安徽",亳州农村频道
+kdsvod://http://v.91kds.com/b7/ahbztv.m3u8?id=ahbztv2&pwd=jsdecode
+#EXTINF:-1 group-title="安徽",亳州农村频道
+kdsvod://http://v.91kds.com/b7/ahbztv.m3u8?fmt=flv&id=ahbztv2&pwd=jsdecode
+#EXTINF:-1 group-title="安徽",亳州农村频道
+http://zbbf2.ahbztv.com/live/418.m3u8
+#EXTINF:-1 group-title="安徽",亳州新闻频道
+kdsvod://http://v.91kds.com/b7/ahbztv.m3u8?fmt=flv&id=ahbztv1&pwd=jsdecode
+#EXTINF:-1 group-title="安徽",亳州新闻频道
+kdsvod://http://v.91kds.com/b7/ahbztv.m3u8?id=ahbztv1&pwd=jsdecode
+#EXTINF:-1 group-title="安徽",亳州新闻频道
+http://zbbf2.ahbztv.com/live/416.m3u8
+#EXTINF:-1 group-title="安徽",亳州新闻频道
+kdsvod://http://v.91kds.com/b7/ahqx.m3u8?id=ahbztv1&pwd=jsdecode
+#EXTINF:-1 group-title="安徽",六安新闻综合
+kdsvod://http://v.91kds.com/c7/ahtv2.m3u8?id=ahlatv1&pwd=jsdecode
+#EXTINF:-1 group-title="安徽",六安新闻综合
+kdsvod://http://v.91kds.com/c7/ahtv3.m3u8?id=ahlatv1&pwd=jsdecode
+#EXTINF:-1 group-title="安徽",南陵新闻综合
+kdsvod://http://v.91kds.com/b7/hoge.m3u8?ip=ahwhtv&id=40&pwd=jsdecode
+#EXTINF:-1 group-title="安徽",合肥教育法制
+htmlplay://https://app.hfbtc.cn/shows/2/4.html@@action=play@@
+#EXTINF:-1 group-title="安徽",合肥新闻
+htmlplay://https://app.hfbtc.cn/shows/2/1.html@@action=play@@
+#EXTINF:-1 group-title="安徽",合肥生活
+htmlplay://https://app.hfbtc.cn/shows/2/2.html@@action=play@@
+#EXTINF:-1 group-title="安徽",合肥科创
+htmlplay://https://app.hfbtc.cn/shows/2/3.html@@action=play@@
+#EXTINF:-1 group-title="安徽",含山新闻综合
+https://newfiles.hswltv.com/hls/hanshanzh/playlist.m3u8
+#EXTINF:-1 group-title="安徽",和县新闻综合
+https://live.hxrmt.cn/hls/hexianzh/index.m3u8
+#EXTINF:-1 group-title="安徽",固镇新闻频道
+http://www.guzhenm.com:7001/hls/hd-live.m3u8
+#EXTINF:-1 group-title="安徽",太和新闻综合
+https://play-hsbj-static-bgp.vzan.com/1110366022/109031811546416830/live.m3u8
+#EXTINF:-1 group-title="安徽",宁国新闻综合
+htmlplay://https://web.guangdianyun.tv/tv/?id=1588&uin=2465
+#EXTINF:-1 group-title="安徽",安庆新闻综合
+http://48535.hlsplay.aodianyun.com/tv_radio_48535/tv_channel_2969.m3u8
+#EXTINF:-1 group-title="安徽",安庆新闻综合
+http://52223.hlsplay.aodianyun.com/tv_radio_52223/tv_channel_3214.m3u8?auth_key=4840160301-0-0-378c5d20acdfb32e54fe2f61b057ecff&extra_key=qj4e5_Ej_mtN2cbGJEcXXjgw_HVomOse5m7vYzTTZ4M3tRajimjfp6N0QpS7g3ceGHkR7LqT0Kxj8Tn2sRlk7RwZ0GaWLs_CkzOYAF6IHwgf6Lbta-F7B_2g6wO7mYGIamz4w7or8NkNjGhC4MExW4sdqzTUSoe9cXN-snl9s9OhN0PIDv0lxTbXYIJ7fSDU
+#EXTINF:-1 group-title="安徽",安庆新闻综合
+kdsvod://http://v.91kds.com/c7/ahtv2.m3u8?id=ahaqtv1&pwd=jsdecode
+#EXTINF:-1 group-title="安徽",安庆新闻综合
+kdsvod://http://v.91kds.com/c7/ahtv3.m3u8?id=ahaqtv1&pwd=jsdecode
+#EXTINF:-1 group-title="安徽",安庆新闻综合
+https://aq-live.media.xinhuamm.net/r/252b77197b104e1aa2456481204fb656.m3u8?auth_key=2341308330-0-0-4e8ffbdb0c0dcfab23e1b8962730f59d
+#EXTINF:-1 group-title="安徽",安庆经济生活
+http://52223.hlsplay.aodianyun.com/tv_radio_52223/tv_channel_3215.m3u8?auth_key=4840160247-0-0-09f173f08ee665e4b1b65aa69a5ee46d&extra_key=9Gv-6hfRrMAaAuD7AYFdmB969naxPovqhZHAkcCYJSb1EAOCXARnqb8CUtO3J79-DQBGs-_55m2odXUh9cAecLDbz52sbpGw9b0f7umLy91QXS1P_Ueiz0_24GvOOdDugwSYLDZBUq-Ia5AZgi3CDUtTcex5hgsjrgkpwyXJnQH37tIiCpZY3zrNbW0tiDDU
+#EXTINF:-1 group-title="安徽",安庆经济生活
+https://aq-live.media.xinhuamm.net/r/ed093a3514bd4174b1dbd5af8a8e0a9c.m3u8?auth_key=2341308528-0-0-1d8df1d541b495f33875e247c9300fc1
+#EXTINF:-1 group-title="安徽",安徽公共
+kdsvod://ahtv2://50
+#EXTINF:-1 group-title="安徽",安徽公共
+kdsvod://http://v.91kds.com/c7/ahtv2.m3u8?id=ahgg&pwd=jsdecode
+#EXTINF:-1 group-title="安徽",安徽公共
+kdsvod://http://v.91kds.com/b7/ahtv2.m3u8?id=ahgg&kdsplayer=media&pwd=jsdecode@@referer=https://www.ahtv.cn/@user-agent=Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/99.0.4844.84Safari/537.36HBPC/12.1.3.306@@
+#EXTINF:-1 group-title="安徽",安徽公共
+kdsvod://http://v.91kds.com/c7/ahtv3.m3u8?id=ahgg&pwd=jsdecode
+#EXTINF:-1 group-title="安徽",安徽农业科教
+kdsvod://ahtv2://51
+#EXTINF:-1 group-title="安徽",安徽农业科教
+kdsvod://http://v.91kds.com/c7/ahtv2.m3u8?id=ahkj&pwd=jsdecode
+#EXTINF:-1 group-title="安徽",安徽农业科教
+kdsvod://http://v.91kds.com/b7/ahtv2.m3u8?id=ahkj&kdsplayer=media&pwd=jsdecode@@referer=https://www.ahtv.cn/@user-agent=Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/99.0.4844.84Safari/537.36HBPC/12.1.3.306@@
+#EXTINF:-1 group-title="安徽",安徽农业科教
+kdsvod://http://v.91kds.com/c7/ahtv3.m3u8?id=ahkj&pwd=jsdecode
+#EXTINF:-1 group-title="安徽",安徽国际
+kdsvod://ahtv2://70
+#EXTINF:-1 group-title="安徽",安徽国际
+kdsvod://http://v.91kds.com/c7/ahtv2.m3u8?id=ahgj&pwd=jsdecode
+#EXTINF:-1 group-title="安徽",安徽国际
+kdsvod://http://v.91kds.com/b7/ahtv2.m3u8?id=ahgj&kdsplayer=media&pwd=jsdecode@@referer=https://www.ahtv.cn/@user-agent=Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/99.0.4844.84Safari/537.36HBPC/12.1.3.306@@
+#EXTINF:-1 group-title="安徽",安徽国际
+kdsvod://http://v.91kds.com/c7/ahtv3.m3u8?id=ahgj&pwd=jsdecode
+#EXTINF:-1 group-title="安徽",安徽导视
+http://dspdhls.appcoo.com:8888/live/dspd/index.m3u8
+#EXTINF:-1 group-title="安徽",安徽影视
+kdsvod://ahtv2://72
+#EXTINF:-1 group-title="安徽",安徽影视
+https://ahlive.ahwanyun.cn/live/8534e69a9af14e41a362bcef71d7896f/hls.m3u8
+#EXTINF:-1 group-title="安徽",安徽影视
+kdsvod://http://v.91kds.com/c7/ahtv2.m3u8?id=ahys&pwd=jsdecode
+#EXTINF:-1 group-title="安徽",安徽影视
+kdsvod://http://v.91kds.com/b7/ahtv2.m3u8?id=ahys&kdsplayer=media&pwd=jsdecode@@referer=https://www.ahtv.cn/@user-agent=Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/99.0.4844.84Safari/537.36HBPC/12.1.3.306@@
+#EXTINF:-1 group-title="安徽",安徽影视
+kdsvod://http://v.91kds.com/c7/ahtv3.m3u8?id=ahys&pwd=jsdecode
+#EXTINF:-1 group-title="安徽",安徽移动电视
+kdsvod://ahtv2://68
+#EXTINF:-1 group-title="安徽",安徽经济生活
+kdsvod://ahtv2://71
+#EXTINF:-1 group-title="安徽",安徽经济生活
+https://ahlive.ahwanyun.cn/live/5c6207583a334b048f77dddf370bd840/hls.m3u8
+#EXTINF:-1 group-title="安徽",安徽经济生活
+kdsvod://http://v.91kds.com/c7/ahtv2.m3u8?id=ahjj&pwd=jsdecode
+#EXTINF:-1 group-title="安徽",安徽经济生活
+kdsvod://http://v.91kds.com/b7/ahtv2.m3u8?id=ahjj&kdsplayer=media&pwd=jsdecode@@referer=https://www.ahtv.cn/@user-agent=Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/99.0.4844.84Safari/537.36HBPC/12.1.3.306@@
+#EXTINF:-1 group-title="安徽",安徽经济生活
+kdsvod://http://v.91kds.com/c7/ahtv3.m3u8?id=ahjj&pwd=jsdecode
+#EXTINF:-1 group-title="安徽",安徽综艺体育
+kdsvod://ahtv2://73
+#EXTINF:-1 group-title="安徽",安徽综艺体育
+http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8
+#EXTINF:-1 group-title="安徽",安徽综艺体育
+http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3.flv
+#EXTINF:-1 group-title="安徽",安徽综艺体育
+kdsvod://http://v.91kds.com/c7/ahtv2.m3u8?id=ahzy&pwd=jsdecode
+#EXTINF:-1 group-title="安徽",安徽综艺体育
+kdsvod://http://v.91kds.com/b7/ahtv2.m3u8?id=ahzy&kdsplayer=media&pwd=jsdecode@@referer=https://www.ahtv.cn/@user-agent=Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/99.0.4844.84Safari/537.36HBPC/12.1.3.306@@
+#EXTINF:-1 group-title="安徽",安徽综艺体育
+kdsvod://http://v.91kds.com/c7/ahtv3.m3u8?id=ahzy&pwd=jsdecode
+#EXTINF:-1 group-title="安徽",宣城综合频道
+kdsvod://http://v.91kds.com/c7/ahtv2.m3u8?id=ahxctv1&pwd=jsdecode
+#EXTINF:-1 group-title="安徽",宣城综合频道
+kdsvod://http://v.91kds.com/c7/ahtv3.m3u8?id=ahxctv1&pwd=jsdecode
+#EXTINF:-1 group-title="安徽",宿州新闻综合
+http://live.ahsz.tv/video/s10001-szzh/index.m3u8
+#EXTINF:-1 group-title="安徽",宿州新闻综合
+rtmp://live.ahsz.tv/video/s10001-szzh
+#EXTINF:-1 group-title="安徽",宿州新闻综合
+kdsvod://http://v.91kds.com/c7/ahtv2.m3u8?id=ahsztv1&pwd=jsdecode
+#EXTINF:-1 group-title="安徽",宿州科教生活
+http://live.ahsz.tv/video/s10001-kxjy/index.m3u8
+#EXTINF:-1 group-title="安徽",宿州科教生活
+rtmp://live.ahsz.tv/video/s10001-kxjy
+#EXTINF:-1 group-title="安徽",宿松戏曲文艺
+rtmp://52181.lssplay.aodianyun.com/tv_radio_52181/tv_channel_3389?auth_key=4849469668-0-0-a08583749fce624e9ff690c859fcf8ae
+#EXTINF:-1 group-title="安徽",宿松戏曲文艺
+htmlplay://https://web.guangdianyun.tv/tv/?id=3389&uin=4180
+#EXTINF:-1 group-title="安徽",宿松新闻综合
+rtmp://52181.lssplay.aodianyun.com/tv_radio_52181/tv_channel_3390?auth_key=4849469644-0-0-4ebac1aa7b06c07197e6a43bb43b3fa7
+#EXTINF:-1 group-title="安徽",宿松新闻综合
+htmlplay://https://web.guangdianyun.tv/tv/?id=3390&uin=4180
+#EXTINF:-1 group-title="安徽",岳西综合频道
+http://112.27.49.135:8090/hls/main0/playlist.m3u8
+#EXTINF:-1 group-title="安徽",岳西综合频道
+https://ahlive.ahwanyun.cn/live/7e6dc3845c124c85999bcb4ae2eeddf7/hls.m3u8
+#EXTINF:-1 group-title="安徽",广德新闻综合
+https://live.gdtv.ah.cn/live/newsTV.m3u8
+#EXTINF:-1 group-title="安徽",广德生活频道
+https://live.gdtv.ah.cn/live/shenghuoTV.m3u8
+#EXTINF:-1 group-title="安徽",当涂新闻综合
+http://112.30.194.221:20080/live/4f38ef59c79e4d4bac1a995681102573/hls.m3u8
+#EXTINF:-1 group-title="安徽",无为新闻综合
+https://ahlive.ahwanyun.cn/live/3065a7fde2f9429fb63898670bec988e/hls.m3u8
+#EXTINF:-1 group-title="安徽",无为新闻综合
+https://ahlive.ahwanyun.cn/live/3065a7fde2f9429fb63898670bec988e.flv
+#EXTINF:-1 group-title="安徽",望江新闻综合
+https://gnhls.qingmei.tv/live/wjxw.m3u8?volcTime=1753081769&volcSecret=417e16d73e15903fc21a4491f761a3e5
+#EXTINF:-1 group-title="安徽",望江黄梅戏
+https://gnhls.qingmei.tv/live/wjhmx.m3u8?volcTime=1753081769&volcSecret=cd51a83cfe531c6d73edf45b7ad32154
+#EXTINF:-1 group-title="安徽",桐城新闻频道
+htmlplay://https://web.guangdianyun.tv/tv/?id=3350&uin=4104
+#EXTINF:-1 group-title="安徽",歙县综合频道
+http://wyflv.ahwanyun.cn/live/4b3024127d1c472986ccdcb454f81a9f.m3u8
+#EXTINF:-1 group-title="安徽",歙县综合频道
+http://wyflv.ahwanyun.cn/live/4b3024127d1c472986ccdcb454f81a9f.flv
+#EXTINF:-1 group-title="安徽",池州新闻综合
+http://gbds.chiznews.com:8037/live/xwzh.flv
+#EXTINF:-1 group-title="安徽",池州新闻综合
+http://gbds.chiznews.com:8037/live/xwzh.m3u8
+#EXTINF:-1 group-title="安徽",泾县文化旅游
+https://apisave.jxnn.cn/hls/wenlv/playlist.m3u8
+#EXTINF:-1 group-title="安徽",泾县新闻综合
+https://apisave.jxnn.cn/hls/xwzonhe/playlist.m3u8
+#EXTINF:-1 group-title="安徽",涡阳新闻综合
+http://220.180.124.18:888/live/ch0.m3u8
+#EXTINF:-1 group-title="安徽",涡阳新闻综合
+http://220.180.124.18:888/live/ch2.m3u8
+#EXTINF:-1 group-title="安徽",淮北新闻频道
+https://live.hbnews.net/video/xwzh/index.m3u8
+#EXTINF:-1 group-title="安徽",淮北新闻频道
+https://vms-x.hbnews.net/video/xwzh/index.m3u8
+#EXTINF:-1 group-title="安徽",淮北新闻频道
+kdsvod://http://v.91kds.com/c7/ahtv2.m3u8?id=ahhbtv1&pwd=jsdecode
+#EXTINF:-1 group-title="安徽",淮北新闻频道
+kdsvod://http://v.91kds.com/c7/ahtv3.m3u8?id=ahhbtv1&pwd=jsdecode
+#EXTINF:-1 group-title="安徽",淮北矿业新闻综合
+http://xcblive.hbcoal.com/3/sd/live.m3u8
+#EXTINF:-1 group-title="安徽",淮北经济生活
+https://live.hbnews.net/video/ggpd/index.m3u8
+#EXTINF:-1 group-title="安徽",淮北经济生活
+https://vms-x.hbnews.net/video/JJSH/index.m3u8
+#EXTINF:-1 group-title="安徽",淮南新闻综合
+https://ahlive.ahwanyun.cn/live/8f025f302a3441f4b5a45ad4f06b42cb/hls.m3u8
+#EXTINF:-1 group-title="安徽",淮南新闻综合
+kdsvod://http://v.91kds.com/b7/ahqx.m3u8?id=ahhntv1&pwd=jsdecode
+#EXTINF:-1 group-title="安徽",淮河能源综合
+http://play.hhnynews.com/huaihe/online.m3u8?auth_key=1720572937-0-0-ebd6c35757d0771723a94f37aa4b3b99
+#EXTINF:-1 group-title="安徽",滁州新闻综合
+http://live.cztv.cc:85/live/xwpd.m3u8
+#EXTINF:-1 group-title="安徽",滁州新闻综合
+kdsvod://http://v.91kds.com/b7/ahqx.m3u8?id=ahcutv1&pwd=jsdecode
+#EXTINF:-1 group-title="安徽",滁州科教频道
+http://live.cztv.cc:85/live/sjpd.m3u8
+#EXTINF:-1 group-title="安徽",潜山新闻综合
+http://60.171.171.101:8278/rtmp_export/video22.m3u8
+#EXTINF:-1 group-title="安徽",濉溪电视二套
+http://112.30.194.221:20080/live/b4bd9bfcda3b467d8f358db687750226/hls.m3u8
+#EXTINF:-1 group-title="安徽",濉溪综合频道
+http://112.30.194.221:20080/live/7f6926bc79174b03a212fe2aad0b62b6/hls.m3u8
+#EXTINF:-1 group-title="安徽",灵璧综合频道
+http://live.cms.anhuinews.com/video/s10003-lbtv/index.m3u8
+#EXTINF:-1 group-title="安徽",睛彩安徽
+kdsvod://http://v.91kds.com/b7/ahtv2.m3u8?id=ahjc&kdsplayer=media&pwd=jsdecode@@referer=https://www.ahtv.cn/@user-agent=Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/99.0.4844.84Safari/537.36HBPC/12.1.3.306@@
+#EXTINF:-1 group-title="安徽",砀山新闻综合
+htmlplay://https://web.guangdianyun.tv/tv/?id=2334&uin=1364
+#EXTINF:-1 group-title="安徽",祁门综合频道
+http://file.qmxrmt.com/nmip-media/channellive/channel108622/playlist.m3u8
+#EXTINF:-1 group-title="安徽",祁门综合频道
+rtmp://tv.qmxrmt.com/chan/ch1
+#EXTINF:-1 group-title="安徽",绩溪新闻频道
+http://xzbf.fst1994.cn/jxtv/jxzh.m3u8
+#EXTINF:-1 group-title="安徽",肥东新闻综合
+http://l-live.feidongtv.com/live/xwzh.m3u8?volcTime=1750068555&volcSecret=9965f9cd3a8867f0ccafabf0abed15b1@@Referer=http://wxfx.feidongtv.com/@@
+#EXTINF:-1 group-title="安徽",肥东新闻综合
+htmlplay://https://web.guangdianyun.tv/tv/?id=3780&uin=1167
+#EXTINF:-1 group-title="安徽",肥东经济生活
+https://l-live.feidongtv.com/live/jjsh.m3u8?volcTime=1750068555&volcSecret=7a68bbd796855691ff668e5127bedb76@@Referer=http://wxfx.feidongtv.com/@@
+#EXTINF:-1 group-title="安徽",肥西综合频道
+http://112.30.194.221:20080/live/7210e3a27cc64ac4a3f7aba2e2b683d5/hls.m3u8
+#EXTINF:-1 group-title="安徽",肥西综合频道
+http://112.30.194.221:20080/live/7210e3a27cc64ac4a3f7aba2e2b683d5.flv
+#EXTINF:-1 group-title="安徽",芜湖新闻综合
+kdsvod://http://v.91kds.com/b7/hoge.m3u8?ip=ahwhtv&id=7&pwd=jsdecode
+#EXTINF:-1 group-title="安徽",芜湖新闻综合
+kdsvod://http://v.91kds.com/c7/ahtv2.m3u8?id=ahwhtv1&pwd=jsdecode
+#EXTINF:-1 group-title="安徽",芜湖生活频道
+kdsvod://http://v.91kds.com/b7/hoge.m3u8?ip=ahwhtv&id=9&pwd=jsdecode
+#EXTINF:-1 group-title="安徽",萧县新闻综合
+http://60.171.239.216:9080/hls/stream1.m3u8
+#EXTINF:-1 group-title="安徽",萧县新闻综合
+http://60.171.239.216:5000/hls/stream1.m3u8
+#EXTINF:-1 group-title="安徽",蒙城新闻频道
+https://play-hsbj.vzan.com/200263/698384284379943742/live.m3u8
+#EXTINF:-1 group-title="安徽",蒙城新闻频道
+https://p2hs.vzan.com/200263/698384284379943742/live.m3u8?zbid=200263&tpid=1914190744
+#EXTINF:-1 group-title="安徽",蚌埠新闻综合
+kdsvod://http://v.91kds.com/c7/ahtv2.m3u8?id=ahbbtv1&pwd=jsdecode
+#EXTINF:-1 group-title="安徽",蚌埠新闻综合
+kdsvod://http://v.91kds.com/c7/ahtv3.m3u8?id=ahbbtv1&pwd=jsdecode
+#EXTINF:-1 group-title="安徽",金寨综合频道
+http://file.kanjinzhai.cn/hls/jinzhaixw/playlist.m3u8
+#EXTINF:-1 group-title="安徽",铜陵公共频道
+https://gnhls.qingmei.tv/live/tl2.m3u8?volcTime=1743149289&volcSecret=b3e463bef22d0b3352940f54f606a74d
+#EXTINF:-1 group-title="安徽",铜陵教育科技
+https://gnhls.qingmei.tv/live/tl3.m3u8?volcTime=1743149289&volcSecret=cfb0dd1559ee04df1eb1ce0de3e98d8f
+#EXTINF:-1 group-title="安徽",铜陵新闻综合
+https://gnhls.qingmei.tv/live/tlxw.m3u8?volcTime=1753081509&volcSecret=10999ac48fb965e95cd8ac9bbbf625ef
+#EXTINF:-1 group-title="安徽",铜陵新闻综合
+kdsvod://http://v.91kds.com/b7/ahqx.m3u8?id=ahtltv1&pwd=jsdecode
+#EXTINF:-1 group-title="安徽",阜南新闻综合
+https://xhmm-new-live.media.xinhuamm.net/liveNoRecord/a42bf9ee9c224a44a393aafc33990c78_111ae5a842ff4b32ab277ed1d9e216c5.m3u8?auth_key=2017017629-3866c768f70a4b47a2352f7b746e7bc1-0-1470ba4cbd641cbe479da8838d3396da
+#EXTINF:-1 group-title="安徽",阜阳教育频道
+htmlplay://https://web.guangdianyun.tv/tv/?id=2852&uin=2577
+#EXTINF:-1 group-title="安徽",阜阳教育频道
+http://41007.hlsplay.aodianyun.com/tv_radio_41007/tv_channel_2852.m3u8?auth_key=4835990057-0-0-017419faa93529a4aa5fc283632732ca&extra_key=vQshsQkSOG1FT9Mb763SReA_ScJbWZE1GdTHuMtghVIye3UhXJWOF-WqFU3cuQ-uD1nO3QrpvlmEGnULzFj7L_nbUOgIFmahrvO-Mu8U3Rx4MRBSMj7QUjXKdwK-4_tfiHF9qHU4TLF_9Q9bpL7Sk2xp6AMy4uMlD3O5Hmrnu1w2QzhRwTPxeTmKO9iTZamR
+#EXTINF:-1 group-title="安徽",阜阳新闻综合
+htmlplay://https://web.guangdianyun.tv/tv/?id=2851&uin=2577
+#EXTINF:-1 group-title="安徽",阜阳生活频道
+htmlplay://https://web.guangdianyun.tv/tv/?id=2853&uin=2577
+#EXTINF:-1 group-title="安徽",阜阳生活频道
+http://41007.hlsplay.aodianyun.com/tv_radio_41007/tv_channel_2853.m3u8?auth_key=4835990486-0-0-dcdb6cc0aee871a664044ee7a3e83308&extra_key=jiEx28IYtuWJ1_w9kBTIOKIb4qAj8AdUpC907-3A-1heP_ZkcC9shKy2LFM4R9AiQLgQILrQJL1arILWCMAAizwLLRfZ5JckaokxNmuSv2KZs6SyYxsEki45eCNOFysmPiq_XKQRYYjgnOQiBte9knM20QVSjr7_kfGY0ZMQJoKWXhwFqOC7MaahYRl6X9Bv
+#EXTINF:-1 group-title="安徽",阜阳都市文艺
+htmlplay://https://web.guangdianyun.tv/tv/?id=2854&uin=2577
+#EXTINF:-1 group-title="安徽",阜阳都市文艺
+http://41007.hlsplay.aodianyun.com/tv_radio_41007/tv_channel_2854.m3u8?auth_key=4835990545-0-0-80a02249988a1cd7a605401bb3a97442&extra_key=ohSJKJdeEa3QQlgmBxpudi6ezxha2e0nc6NZj3SHRORmaEFCgqd6yS2lGW3j-QQf56tTLDfQMDwAAnYcmDicXDRhX7-vqQx3Y2n2ERhE5FWfT3X--ob2iuEq3JtYdHC_ndaPCeOBQdXbH--HpXp2yu84RkSRTHg6mejJ52Qu7did-D4rWp9iydThnLbjeQ_1
+#EXTINF:-1 group-title="安徽",霍邱新闻综合
+http://112.30.194.221:20080/live/186d03e65fd64d33b033c31da5a4a5a0/hls.m3u8
+#EXTINF:-1 group-title="安徽",霍邱新闻综合
+http://112.30.194.221:20080/live/186d03e65fd64d33b033c31da5a4a5a0.flv
+#EXTINF:-1 group-title="安徽",马鞍山科教生活
+https://live.masbcx.cn/fe60c7f6a746404590186208394ceb43/935bce782af148c18a8048eabb0d7afa.m3u8?auth_key=2334657804-859d6a4ae6094480b20ff635612cd14d-0-8151ea4280c5f6a71fad438456ffa6df
+#EXTINF:-1 group-title="安徽",马鞍山综合频道
+https://live.masbcx.cn/37da93f77452420d8990a9e91d865b81/94a165a5a7104676b7c68e39b4917d20.m3u8?auth_key=2334657789-9dd6b0079eb842f3a29bba1254dfedc3-0-2175f4b991c6e69d890d998237654a14
+#EXTINF:-1 group-title="安徽",黄山文旅频道
+http://hslive.hsnewsnet.com/lsdream/iY92ady/1000/live.m3u8
+#EXTINF:-1 group-title="安徽",黄山新闻综合
+http://hslive.hsnewsnet.com/lsdream/hve9Wjs/1000/live.m3u8
+#EXTINF:-1 group-title="安徽",黄山新闻综合
+kdsvod://http://v.91kds.com/b7/ahqx.m3u8?id=ahhstv1&pwd=jsdecode
+#EXTINF:-1 group-title="安徽",黟县综合频道
+http://114.104.147.15:1935/live/yixian/playlist.m3u8
+#EXTINF:-1 group-title="安徽",黟县综合频道
+http://app.yixianfabu.com:1935/live/yixian/playlist.m3u8
 #EXTINF:-1 group-title="广西",东兰综合
 https://rtmp.gdlive.gdmain.com/live/02924925.m3u8
 #EXTINF:-1 group-title="广西",东兰综合
