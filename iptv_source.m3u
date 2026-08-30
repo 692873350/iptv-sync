@@ -484,6 +484,9 @@ http://by4.nty.tv189.cn/live/tm-yshnws-4000k.m3u8
 # ===== 广东频道 =====
 
 #EXTINF:-1 tvg-id="" tvg-name="汕头新闻综合频道" tvg-logo="",group-title="广东频道",汕头新闻综合频道
+kdsvod://http://v.91kds.com/b7/gdsttv.m3u8?id=gdsttv1&pwd=jsdecode
+
+#EXTINF:-1 tvg-id="" tvg-name="汕头新闻综合频道" tvg-logo="",group-title="广东频道",汕头新闻综合频道
 http://45.192.97.170:8880/play/728.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="汕头新闻综合频道" tvg-logo="",group-title="广东频道",汕头新闻综合频道
@@ -533,6 +536,9 @@ http://www.maomizi.cn:9527/udp/239.253.43.45:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="汕头新闻综合频道" tvg-logo="",group-title="广东频道",汕头新闻综合频道
 http://61.145.188.90:50055/udp/239.253.43.45:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="汕头经济生活频道" tvg-logo="",group-title="广东频道",汕头经济生活频道
+kdsvod://http://v.91kds.com/b7/gdsttv.m3u8?id=gdsttv2&pwd=jsdecode
 
 #EXTINF:-1 tvg-id="" tvg-name="汕头经济生活频道" tvg-logo="",group-title="广东频道",汕头经济生活频道
 http://45.192.97.170:8880/play/729.m3u8
@@ -586,6 +592,9 @@ http://www.maomizi.cn:9527/udp/239.253.43.46:5146
 http://61.145.188.90:50055/udp/239.253.43.46:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="揭阳综合" tvg-logo="",group-title="广东频道",揭阳综合
+kdsvod://http://v.91kds.com/b7/gdjytv.m3u8?id=gdjytv1&pwd=jsdecode
+
+#EXTINF:-1 tvg-id="" tvg-name="揭阳综合" tvg-logo="",group-title="广东频道",揭阳综合
 http://hls-jyrtv.jyrtv.tv/stjy2020/zhpd.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="揭阳综合" tvg-logo="",group-title="广东频道",揭阳综合
@@ -635,6 +644,9 @@ http://www.maomizi.cn:9527/udp/239.77.0.229:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="揭阳综合" tvg-logo="",group-title="广东频道",揭阳综合
 http://61.145.188.90:50055/udp/239.77.0.229:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="揭阳生活" tvg-logo="",group-title="广东频道",揭阳生活
+kdsvod://http://v.91kds.com/b7/gdjytv.m3u8?id=gdjytv2&pwd=jsdecode
 
 #EXTINF:-1 tvg-id="" tvg-name="揭阳生活" tvg-logo="",group-title="广东频道",揭阳生活
 http://hls-jyrtv.jyrtv.tv/stjy2020/ggpd.m3u8
@@ -784,7 +796,46 @@ http://61.145.188.90:50055/udp/239.253.43.75:5146
 http://media.hndyjyfw.gov.cn/live/jz-shenzhenweishi/live.m3u8@@Referer=https://www.hndyjyfw.gov.cn/@@
 
 #EXTINF:-1 tvg-id="" tvg-name="深圳卫视" tvg-logo="",group-title="广东频道",深圳卫视
+kdsvod://http://v.91kds.com/b7/xuexi.m3u8?id=szws&pwd=jsdecode
+
+#EXTINF:-1 tvg-id="" tvg-name="深圳卫视" tvg-logo="",group-title="广东频道",深圳卫视
+kdsvod://http://v.91kds.com/b7/xuexi1.m3u8?id=szws&pwd=jsdecode
+
+#EXTINF:-1 tvg-id="" tvg-name="深圳卫视" tvg-logo="",group-title="广东频道",深圳卫视
+kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=szwshd&pwd=jsdecode
+
+#EXTINF:-1 tvg-id="" tvg-name="深圳卫视" tvg-logo="",group-title="广东频道",深圳卫视
+kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=szwshd&pwd=jsdecode
+
+#EXTINF:-1 tvg-id="" tvg-name="深圳卫视" tvg-logo="",group-title="广东频道",深圳卫视
+kdsvod://http://v.91kds.com/b7/tvzb2.m3u8?id=szwshd&pwd=jsdecode
+
+#EXTINF:-1 tvg-id="" tvg-name="深圳卫视" tvg-logo="",group-title="广东频道",深圳卫视
+kdsvod://http://v.91kds.com/b7/tvzb1.m3u8?id=szwshd&pwd=jsdecode
+
+#EXTINF:-1 tvg-id="" tvg-name="深圳卫视" tvg-logo="",group-title="广东频道",深圳卫视
+kdsvod://http://v.91kds.com/b7/tvzb3.m3u8?id=szwshd&pwd=jsdecode
+
+#EXTINF:-1 tvg-id="" tvg-name="深圳卫视" tvg-logo="",group-title="广东频道",深圳卫视
+kdsvod://http://v.91kds.com/b7/tvzb4.m3u8?id=szwshd&pwd=jsdecode
+
+#EXTINF:-1 tvg-id="" tvg-name="深圳卫视" tvg-logo="",group-title="广东频道",深圳卫视
+kdsvod://http://v.91kds.com/b7/tvzb5.m3u8?id=szwshd&pwd=jsdecode
+
+#EXTINF:-1 tvg-id="" tvg-name="深圳卫视" tvg-logo="",group-title="广东频道",深圳卫视
+kdsvod://http://v.91kds.com/b7/tvzb6.m3u8?id=szwshd&pwd=jsdecode
+
+#EXTINF:-1 tvg-id="" tvg-name="深圳卫视" tvg-logo="",group-title="广东频道",深圳卫视
+kdsvod://http://v.91kds.com/b7/tvzb7.m3u8?id=szwshd&pwd=jsdecode
+
+#EXTINF:-1 tvg-id="" tvg-name="深圳卫视" tvg-logo="",group-title="广东频道",深圳卫视
 http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226688/1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="深圳卫视" tvg-logo="",group-title="广东频道",深圳卫视
+kdsvod://http://v.91kds.com/b7/cdnlive.m3u8?id=szws-720p&pwd=jsdecode
+
+#EXTINF:-1 tvg-id="" tvg-name="深圳卫视" tvg-logo="",group-title="广东频道",深圳卫视
+kdsvod://http://v.91kds.com/b7/zgst.m3u8?id=szws4k&pwd=jsdecode@@Referer=https://api.chinaaudiovisual.cn/@@
 
 #EXTINF:-1 tvg-id="" tvg-name="深圳卫视" tvg-logo="",group-title="广东频道",深圳卫视
 http://192.151.150.154/live/szwshd.m3u8
@@ -937,6 +988,12 @@ http://112.30.73.119:9901/tsfile/live/1272_1.m3u8?key=txiptv&playlive=0&authid=0
 http://livepull-dyxc.sztv.com.cn/live/szdushi_live.m3u8?txSecret=491dcb72366fa4cebe8141cffa123275&txTime=6B43225C@@Referer=https://www.sztv.com.cn/ysz/5/5mrgrgklm/80569467.shtml@@
 
 #EXTINF:-1 tvg-id="" tvg-name="深圳都市" tvg-logo="",group-title="广东频道",深圳都市
+kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=gdszds&pwd=jsdecode
+
+#EXTINF:-1 tvg-id="" tvg-name="深圳都市" tvg-logo="",group-title="广东频道",深圳都市
+kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=gdszds&pwd=jsdecode
+
+#EXTINF:-1 tvg-id="" tvg-name="深圳都市" tvg-logo="",group-title="广东频道",深圳都市
 http://45.192.97.170:8880/play/774.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="深圳都市" tvg-logo="",group-title="广东频道",深圳都市
@@ -944,6 +1001,12 @@ http://livepull-tcms.sztv.com.cn/live/dslive.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="深圳都市" tvg-logo="",group-title="广东频道",深圳都市
 http://nn.7x9d.cn/深圳最新.php?id=szds
+
+#EXTINF:-1 tvg-id="" tvg-name="深圳电视剧" tvg-logo="",group-title="广东频道",深圳电视剧
+kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=gdszdsj&pwd=jsdecode
+
+#EXTINF:-1 tvg-id="" tvg-name="深圳电视剧" tvg-logo="",group-title="广东频道",深圳电视剧
+kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=gdszdsj&pwd=jsdecode
 
 #EXTINF:-1 tvg-id="" tvg-name="深圳电视剧" tvg-logo="",group-title="广东频道",深圳电视剧
 http://45.192.97.170:8880/play/776.m3u8
@@ -954,8 +1017,26 @@ http://nn.7x9d.cn/深圳最新.php?id=szdsj
 #EXTINF:-1 tvg-id="" tvg-name="深圳财经生活" tvg-logo="",group-title="广东频道",深圳财经生活
 http://nn.7x9d.cn/深圳最新.php?id=szcjsh
 
+#EXTINF:-1 tvg-id="" tvg-name="深圳少儿" tvg-logo="",group-title="广东频道",深圳少儿
+kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=gdszse&pwd=jsdecode
+
+#EXTINF:-1 tvg-id="" tvg-name="深圳少儿" tvg-logo="",group-title="广东频道",深圳少儿
+kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=gdszse&pwd=jsdecode
+
+#EXTINF:-1 tvg-id="" tvg-name="深圳国际" tvg-logo="",group-title="广东频道",深圳国际
+kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=gdszgj&pwd=jsdecode
+
+#EXTINF:-1 tvg-id="" tvg-name="深圳国际" tvg-logo="",group-title="广东频道",深圳国际
+kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=gdszgj&pwd=jsdecode
+
 #EXTINF:-1 tvg-id="" tvg-name="深圳国际" tvg-logo="",group-title="广东频道",深圳国际
 http://nn.7x9d.cn/深圳最新.php?id=szgj
+
+#EXTINF:-1 tvg-id="" tvg-name="广州综合" tvg-logo="",group-title="广东频道",广州综合
+kdsvod://http://v.91kds.com/b7/gdgztv.m3u8?id=gdgzzh&pwd=jsdecode
+
+#EXTINF:-1 tvg-id="" tvg-name="广州综合" tvg-logo="",group-title="广东频道",广州综合
+kdsvod://http://v.91kds.com/c7/gdgztv.m3u8?id=gdgzzh&pwd=jsdecode
 
 #EXTINF:-1 tvg-id="" tvg-name="广州综合" tvg-logo="",group-title="广东频道",广州综合
 http://r.jdshipin.com/iR6Gq
@@ -985,6 +1066,12 @@ https://168.sryze.cc/163189/gzzh
 https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=f0147ae6453a80f5989f382368b72aad&txTime=18d00acf487
 
 #EXTINF:-1 tvg-id="" tvg-name="广州新闻" tvg-logo="",group-title="广东频道",广州新闻
+kdsvod://http://v.91kds.com/b7/gdgztv.m3u8?id=gdgzxw&pwd=jsdecode
+
+#EXTINF:-1 tvg-id="" tvg-name="广州新闻" tvg-logo="",group-title="广东频道",广州新闻
+kdsvod://http://v.91kds.com/c7/gdgztv.m3u8?id=gdgzxw&pwd=jsdecode
+
+#EXTINF:-1 tvg-id="" tvg-name="广州新闻" tvg-logo="",group-title="广东频道",广州新闻
 https://tencentplaygsm.gztv.com/live/xinwen.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="广州新闻" tvg-logo="",group-title="广东频道",广州新闻
@@ -1004,6 +1091,21 @@ https://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=6f73647cae387d01a3c213207
 
 #EXTINF:-1 tvg-id="" tvg-name="广州法治" tvg-logo="",group-title="广东频道",广州法治
 https://tencentplay.gztv.com/live/fazhi.m3u8?txSecret=4400d75d2114b2db07d86eda8f8218ee&txTime=191b60ce0f6
+
+#EXTINF:-1 tvg-id="" tvg-name="广东珠江" tvg-logo="",group-title="广东频道",广东珠江
+kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=gdzj&pwd=jsdecode
+
+#EXTINF:-1 tvg-id="" tvg-name="广东珠江" tvg-logo="",group-title="广东频道",广东珠江
+kdsvod://http://v.91kds.com/c7/gdtv.m3u8?id=gdzj&pwd=jsdecode
+
+#EXTINF:-1 tvg-id="" tvg-name="广东珠江" tvg-logo="",group-title="广东频道",广东珠江
+kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=gdzj&pwd=jsdecode
+
+#EXTINF:-1 tvg-id="" tvg-name="广东珠江" tvg-logo="",group-title="广东频道",广东珠江
+kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=gdzja&pwd=jsdecode
+
+#EXTINF:-1 tvg-id="" tvg-name="广东珠江" tvg-logo="",group-title="广东频道",广东珠江
+kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=gdzja&pwd=jsdecode
 
 #EXTINF:-1 tvg-id="" tvg-name="广东珠江" tvg-logo="",group-title="广东频道",广东珠江
 https://gx.484947.xyz/PLTV/77777777/224/3221225717/index.m3u8?servicetype=1&IASHttpSessionId=RR778520250111113355399717&ispcode=1108
@@ -1144,6 +1246,15 @@ http://198.204.228.26/live/gdzja.m3u8
 http://198.204.228.26/live/gdzj.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="广东民生" tvg-logo="",group-title="广东频道",广东民生
+kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=gdgg&pwd=jsdecode
+
+#EXTINF:-1 tvg-id="" tvg-name="广东民生" tvg-logo="",group-title="广东频道",广东民生
+kdsvod://http://v.91kds.com/c7/gdtv.m3u8?id=gdgg&pwd=jsdecode
+
+#EXTINF:-1 tvg-id="" tvg-name="广东民生" tvg-logo="",group-title="广东频道",广东民生
+kdsvod://http://v.91kds.com/b7/cdnlive.m3u8?id=gdgg&pwd=jsdecode
+
+#EXTINF:-1 tvg-id="" tvg-name="广东民生" tvg-logo="",group-title="广东频道",广东民生
 http://45.192.97.170:8880/play/451.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="广东民生" tvg-logo="",group-title="广东频道",广东民生
@@ -1217,6 +1328,21 @@ http://192.151.150.154/live/gdgg.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="广东民生" tvg-logo="",group-title="广东频道",广东民生
 http://198.204.228.26/live/gdgg.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="广东新闻" tvg-logo="",group-title="广东频道",广东新闻
+kdsvod://http://v.91kds.com/c7/gdtv.m3u8?id=gdxw&pwd=jsdecode
+
+#EXTINF:-1 tvg-id="" tvg-name="广东新闻" tvg-logo="",group-title="广东频道",广东新闻
+kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=gdxw&pwd=jsdecode
+
+#EXTINF:-1 tvg-id="" tvg-name="广东新闻" tvg-logo="",group-title="广东频道",广东新闻
+kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=gdxw&pwd=jsdecode
+
+#EXTINF:-1 tvg-id="" tvg-name="广东新闻" tvg-logo="",group-title="广东频道",广东新闻
+kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=gdxwa&pwd=jsdecode
+
+#EXTINF:-1 tvg-id="" tvg-name="广东新闻" tvg-logo="",group-title="广东频道",广东新闻
+kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=gdxwa&pwd=jsdecode
 
 #EXTINF:-1 tvg-id="" tvg-name="广东新闻" tvg-logo="",group-title="广东频道",广东新闻
 http://45.192.97.170:8880/play/449.m3u8
@@ -1312,6 +1438,15 @@ http://198.204.228.26/live/gdxw.m3u8
 http://198.204.228.26/live/gdxwa.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="广东体育" tvg-logo="",group-title="广东频道",广东体育
+kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=gdty&pwd=jsdecode
+
+#EXTINF:-1 tvg-id="" tvg-name="广东体育" tvg-logo="",group-title="广东频道",广东体育
+kdsvod://http://v.91kds.com/c7/gdtv.m3u8?id=gdty&pwd=jsdecode
+
+#EXTINF:-1 tvg-id="" tvg-name="广东体育" tvg-logo="",group-title="广东频道",广东体育
+kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=gdty&pwd=jsdecode
+
+#EXTINF:-1 tvg-id="" tvg-name="广东体育" tvg-logo="",group-title="广东频道",广东体育
 http://198.204.228.26/live/gdty.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="广东体育" tvg-logo="",group-title="广东频道",广东体育
@@ -1358,6 +1493,54 @@ http://120.87.19.109:80/PLTV/88888973/224/3221225752/100001000000000600000000003
 
 #EXTINF:-1 tvg-id="" tvg-name="广东经济" tvg-logo="",group-title="广东频道",广东经济
 https://jsv-live-play.sfccn.com/live/jsv_3920_fhd.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-logo="",group-title="广东频道",广东卫视
+kdsvod://http://v.91kds.com/b7/xuexi.m3u8?id=gdws&pwd=jsdecode
+
+#EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-logo="",group-title="广东频道",广东卫视
+kdsvod://http://v.91kds.com/b7/migu.m3u8?id=gdwshd&pwd=jsdecode
+
+#EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-logo="",group-title="广东频道",广东卫视
+kdsvod://http://v.91kds.com/c7/gdtv.m3u8?id=gdws&pwd=jsdecode
+
+#EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-logo="",group-title="广东频道",广东卫视
+kdsvod://http://v.91kds.com/c7/gdtv.m3u8?id=gdwshd&pwd=jsdecode
+
+#EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-logo="",group-title="广东频道",广东卫视
+kdsvod://http://v.91kds.com/b7/xuexi1.m3u8?id=gdws&pwd=jsdecode
+
+#EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-logo="",group-title="广东频道",广东卫视
+kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=gdwshd&pwd=jsdecode
+
+#EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-logo="",group-title="广东频道",广东卫视
+kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=gdwshd&pwd=jsdecode
+
+#EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-logo="",group-title="广东频道",广东卫视
+kdsvod://migu://608831231
+
+#EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-logo="",group-title="广东频道",广东卫视
+kdsvod://http://v.91kds.com/b7/tvzb2.m3u8?id=gdwshd&pwd=jsdecode
+
+#EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-logo="",group-title="广东频道",广东卫视
+kdsvod://http://v.91kds.com/b7/tvzb1.m3u8?id=gdwshd&pwd=jsdecode
+
+#EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-logo="",group-title="广东频道",广东卫视
+kdsvod://http://v.91kds.com/b7/tvzb3.m3u8?id=gdwshd&pwd=jsdecode
+
+#EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-logo="",group-title="广东频道",广东卫视
+kdsvod://http://v.91kds.com/b7/tvzb4.m3u8?id=gdwshd&pwd=jsdecode
+
+#EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-logo="",group-title="广东频道",广东卫视
+kdsvod://http://v.91kds.com/b7/tvzb5.m3u8?id=gdwshd&pwd=jsdecode
+
+#EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-logo="",group-title="广东频道",广东卫视
+kdsvod://http://v.91kds.com/b7/tvzb6.m3u8?id=gdwshd&pwd=jsdecode
+
+#EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-logo="",group-title="广东频道",广东卫视
+kdsvod://http://v.91kds.com/b7/tvzb7.m3u8?id=gdwshd&pwd=jsdecode
+
+#EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-logo="",group-title="广东频道",广东卫视
+kdsvod://http://v.91kds.com/b7/cdnlive.m3u8?id=gdws-720p&pwd=jsdecode
 
 #EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-logo="",group-title="广东频道",广东卫视
 http://192.151.150.154/live/gdwshd.m3u8
