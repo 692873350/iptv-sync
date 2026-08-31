@@ -817,9 +817,6 @@ http://www.maomizi.cn:9527/udp/239.253.43.75:5146
 http://61.145.188.90:50055/udp/239.253.43.75:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="广东珠江" tvg-logo="",group-title="广东频道",广东珠江
-http://r.jdshipin.com/sE5vO
-
-#EXTINF:-1 tvg-id="" tvg-name="广东珠江" tvg-logo="",group-title="广东频道",广东珠江
 http://rihou.cc:555/tv/[At|]广东珠江
 
 #EXTINF:-1 tvg-id="" tvg-name="广东珠江" tvg-logo="",group-title="广东频道",广东珠江
@@ -827,9 +824,6 @@ http://rihou.cc:555/tv/[Cx]广东珠江
 
 #EXTINF:-1 tvg-id="" tvg-name="广东珠江" tvg-logo="",group-title="广东频道",广东珠江
 http://rihou.cc:555/tv/[AtI]广东珠江
-
-#EXTINF:-1 tvg-id="" tvg-name="广东珠江" tvg-logo="",group-title="广东频道",广东珠江
-htmlplay://https://www.gdtv.cn/tvChannelDetail/44@@UA=Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/100.0.4896.75Safari/537.36@@
 
 #EXTINF:-1 tvg-id="" tvg-name="广东珠江" tvg-logo="",group-title="广东频道",广东珠江
 kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=gdzj&pwd=jsdecode
@@ -973,9 +967,6 @@ http://198.204.228.26/live/gdzja.m3u8
 http://198.204.228.26/live/gdzj.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="广东民生" tvg-logo="",group-title="广东频道",广东民生
-htmlplay://https://www.gdtv.cn/tvChannelDetail/48@@UA=Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/100.0.4896.75Safari/537.36@@
-
-#EXTINF:-1 tvg-id="" tvg-name="广东民生" tvg-logo="",group-title="广东频道",广东民生
 kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=gdgg&pwd=jsdecode
 
 #EXTINF:-1 tvg-id="" tvg-name="广东民生" tvg-logo="",group-title="广东频道",广东民生
@@ -1058,9 +1049,6 @@ http://192.151.150.154/live/gdgg.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="广东民生" tvg-logo="",group-title="广东频道",广东民生
 http://198.204.228.26/live/gdgg.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="广东新闻" tvg-logo="",group-title="广东频道",广东新闻
-htmlplay://https://www.gdtv.cn/tvChannelDetail/45@@UA=Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/100.0.4896.75Safari/537.36@@
 
 #EXTINF:-1 tvg-id="" tvg-name="广东新闻" tvg-logo="",group-title="广东频道",广东新闻
 kdsvod://http://v.91kds.com/c7/gdtv.m3u8?id=gdxw&pwd=jsdecode
@@ -1177,12 +1165,6 @@ http://198.204.228.26/live/gdty.m3u8
 http://38.75.136.137:98/gslb/dsdqpub/gdty.m3u8?auth=testpub
 
 #EXTINF:-1 tvg-id="" tvg-name="广东体育" tvg-logo="",group-title="广东频道",广东体育
-http://r.jdshipin.com/LiYdg
-
-#EXTINF:-1 tvg-id="" tvg-name="广东体育" tvg-logo="",group-title="广东频道",广东体育
-htmlplay://https://www.gdtv.cn/tvChannelDetail/47@@UA=Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/100.0.4896.75Safari/537.36@@
-
-#EXTINF:-1 tvg-id="" tvg-name="广东体育" tvg-logo="",group-title="广东频道",广东体育
 kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=gdty&pwd=jsdecode
 
 #EXTINF:-1 tvg-id="" tvg-name="广东体育" tvg-logo="",group-title="广东频道",广东体育
@@ -1216,9 +1198,6 @@ http://45.192.97.170:8880/play/2654.m3u8
 https://pili-live-hls.kingsmedia.cn/metoo-live/e06829f1a4374c4cb7f72cd99c7c636d.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="广东经济科教" tvg-logo="",group-title="广东频道",广东经济科教
-htmlplay://https://www.gdtv.cn/tvChannelDetail/49@@UA=Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/100.0.4896.75Safari/537.36@@
-
-#EXTINF:-1 tvg-id="" tvg-name="广东经济科教" tvg-logo="",group-title="广东频道",广东经济科教
 http://45.192.97.170:8880/play/2628.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="广东经济科教" tvg-logo="",group-title="广东频道",广东经济科教
@@ -1235,9 +1214,6 @@ http://120.87.19.109:80/PLTV/88888973/224/3221225752/100001000000000600000000003
 
 #EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-logo="",group-title="广东频道",广东卫视
 http://192.151.150.154/live/gdwshd.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-logo="",group-title="广东频道",广东卫视
-htmlplay://https://www.gdtv.cn/tvChannelDetail/43@@UA=Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/100.0.4896.75Safari/537.36@@
 
 #EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-logo="",group-title="广东频道",广东卫视
 kdsvod://http://v.91kds.com/b7/xuexi.m3u8?id=gdws&pwd=jsdecode
@@ -1259,9 +1235,6 @@ kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=gdwshd&pwd=jsdecode
 
 #EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-logo="",group-title="广东频道",广东卫视
 kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=gdwshd&pwd=jsdecode
-
-#EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-logo="",group-title="广东频道",广东卫视
-kdsvod://migu://608831231
 
 #EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-logo="",group-title="广东频道",广东卫视
 kdsvod://http://v.91kds.com/b7/tvzb2.m3u8?id=gdwshd&pwd=jsdecode
@@ -1753,12 +1726,6 @@ kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=gdszgj&pwd=jsdecode
 http://nn.7x9d.cn/深圳最新.php?id=szgj
 
 #EXTINF:-1 tvg-id="" tvg-name="广州综合" tvg-logo="",group-title="广东频道",广州综合
-http://r.jdshipin.com/iR6Gq
-
-#EXTINF:-1 tvg-id="" tvg-name="广州综合" tvg-logo="",group-title="广东频道",广州综合
-http://r.jdshipin.com/snhya
-
-#EXTINF:-1 tvg-id="" tvg-name="广州综合" tvg-logo="",group-title="广东频道",广州综合
 kdsvod://http://v.91kds.com/b7/gdgztv.m3u8?id=gdgzzh&pwd=jsdecode
 
 #EXTINF:-1 tvg-id="" tvg-name="广州综合" tvg-logo="",group-title="广东频道",广州综合
@@ -1815,125 +1782,17 @@ https://tencentplay.gztv.com/live/fazhi.m3u8?txSecret=4400d75d2114b2db07d86eda8f
 
 # ===== 港澳台频道 =====
 
-#EXTINF:-1 tvg-id="" tvg-name="凤凰资讯" tvg-logo="",group-title="港澳台频道",凤凰资讯
-http://r.jdshipin.com/0Rp07
-
-#EXTINF:-1 tvg-id="" tvg-name="凤凰中文" tvg-logo="",group-title="港澳台频道",凤凰中文
-http://r.jdshipin.com/cCCzW
-
-#EXTINF:-1 tvg-id="" tvg-name="凤凰香港" tvg-logo="",group-title="港澳台频道",凤凰香港
-http://r.jdshipin.com/yDoTN
-
-#EXTINF:-1 tvg-id="" tvg-name="无线新闻台" tvg-logo="",group-title="港澳台频道",无线新闻台
-https://cdn6.cc.cd/163189/wxxw
-
-#EXTINF:-1 tvg-id="" tvg-name="无线新闻台" tvg-logo="",group-title="港澳台频道",无线新闻台
-http://cdn6.123.rr.kg/163189/wxxw
-
-#EXTINF:-1 tvg-id="" tvg-name="无线新闻台" tvg-logo="",group-title="港澳台频道",无线新闻台
-http://r.jdshipin.com/CkuBd
-
 #EXTINF:-1 tvg-id="" tvg-name="翡翠台" tvg-logo="",group-title="港澳台频道",翡翠台
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
 
-#EXTINF:-1 tvg-id="" tvg-name="翡翠台" tvg-logo="",group-title="港澳台频道",翡翠台
-https://10.fast.hidns.vip/163189/fct/
-
-#EXTINF:-1 tvg-id="" tvg-name="翡翠台" tvg-logo="",group-title="港澳台频道",翡翠台
-http://r.jdshipin.com/62WM7
-
-#EXTINF:-1 tvg-id="" tvg-name="翡翠台2" tvg-logo="",group-title="港澳台频道",翡翠台2
-http://r.jdshipin.com/qrfbg
-
-#EXTINF:-1 tvg-id="" tvg-name="翡翠台" tvg-logo="",group-title="港澳台频道",翡翠台
-https://cdn6.cc.cd/163189/fct
-
-#EXTINF:-1 tvg-id="" tvg-name="HOYTV" tvg-logo="",group-title="港澳台频道",HOYTV
-https://cdn6.cc.cd/163189/hoy
-
-#EXTINF:-1 tvg-id="" tvg-name="HOY资讯台" tvg-logo="",group-title="港澳台频道",HOY资讯台
-https://fast.hidns.vip/163189/hoy78
-
-#EXTINF:-1 tvg-id="" tvg-name="Now新闻台" tvg-logo="",group-title="港澳台频道",Now新闻台
-https://cdn.123.rr.kg/163189/now
-
 #EXTINF:-1 tvg-id="" tvg-name="Now新闻台" tvg-logo="",group-title="港澳台频道",Now新闻台
 http://www.kaniptv.cn/uadl.php?etoken=O7GBbnRGS8E5uqFmeA%2FpP9pZDUEBbOoltluzysQAUOkT%2BhwMgy6MU75MO4AruwnS235INLwQddWjtZBrZQWLn9b4LPgOw9QOsQs0GRI%2F92MR2ttOBfJnbowWCIb6PEM2vBUsMgNz6wryek3GN9z9VENRf6K2qOGycU3zE0LqeJ5i9U7q0VTXq6ypTcB%2BX0wy%2FF6ykpJz%2BgM4yyo5YyCDh7AjNli8CofYp7Djy9MBTvVq9BTu8KmoYmRhH%2Bf1ltF2XOTHepCtClG1Ux%2Bt8VNCxkhI8GgLw8SVhzvzBo9mJVjLm1ABJPOCT4rh5JfCgcsgh8UbskKhcRgKSluTMQm8oA%3D%3D
-
-#EXTINF:-1 tvg-id="" tvg-name="明珠台" tvg-logo="",group-title="港澳台频道",明珠台
-http://r.jdshipin.com/ZQ4kN
-
-#EXTINF:-1 tvg-id="" tvg-name="TVBPlus" tvg-logo="",group-title="港澳台频道",TVBPlus
-http://r.jdshipin.com/ndGgS
-
-#EXTINF:-1 tvg-id="" tvg-name="TVBPlus" tvg-logo="",group-title="港澳台频道",TVBPlus
-http://r.jdshipin.com/Nr5jq
-
-#EXTINF:-1 tvg-id="" tvg-name="TVB星河" tvg-logo="",group-title="港澳台频道",TVB星河
-http://r.jdshipin.com/Voac4
-
-#EXTINF:-1 tvg-id="" tvg-name="TVB星河" tvg-logo="",group-title="港澳台频道",TVB星河
-http://r.jdshipin.com/sXuuD
-
-#EXTINF:-1 tvg-id="" tvg-name="华丽翡翠台" tvg-logo="",group-title="港澳台频道",华丽翡翠台
-http://r.jdshipin.com/thuYX
-
-#EXTINF:-1 tvg-id="" tvg-name="ViuTV" tvg-logo="",group-title="港澳台频道",ViuTV
-http://r.jdshipin.com/vSJvl
-
-#EXTINF:-1 tvg-id="" tvg-name="ViuTV" tvg-logo="",group-title="港澳台频道",ViuTV
-http://r.jdshipin.com/TcKr2
-
-#EXTINF:-1 tvg-id="" tvg-name="澳视澳门" tvg-logo="",group-title="港澳台频道",澳视澳门
-http://r.jdshipin.com/n2YZI
-
-#EXTINF:-1 tvg-id="" tvg-name="HOY77" tvg-logo="",group-title="港澳台频道",HOY77
-http://r.jdshipin.com/sFw4S
-
-#EXTINF:-1 tvg-id="" tvg-name="凤凰中文" tvg-logo="",group-title="港澳台频道",凤凰中文
-https://cdn6.cc.cd/163189/fhzw
-
-#EXTINF:-1 tvg-id="" tvg-name="凤凰香港" tvg-logo="",group-title="港澳台频道",凤凰香港
-https://cdn6.cc.cd/163189/fhhk
-
-#EXTINF:-1 tvg-id="" tvg-name="凤凰资讯" tvg-logo="",group-title="港澳台频道",凤凰资讯
-https://cdn6.cc.cd/163189/fhzx
-
-#EXTINF:-1 tvg-id="" tvg-name="翡翠台" tvg-logo="",group-title="港澳台频道",翡翠台
-https://o11.163189.xyz/stream/tvb/fct4k/
-
-#EXTINF:-1 tvg-id="" tvg-name="TVBPlus" tvg-logo="",group-title="港澳台频道",TVBPlus
-http://cdn3.123.rr.kg/stream/tvb/tvbp/
-
-#EXTINF:-1 tvg-id="" tvg-name="明珠台" tvg-logo="",group-title="港澳台频道",明珠台
-http://cdn3.123.rr.kg/stream/tvb/mzt/
-
-#EXTINF:-1 tvg-id="" tvg-name="翡翠台" tvg-logo="",group-title="港澳台频道",翡翠台
-http://cdn6.123.rr.kg/163189/fct
-
-#EXTINF:-1 tvg-id="" tvg-name="翡翠台" tvg-logo="",group-title="港澳台频道",翡翠台
-http://o11.163189.xyz/stream/tvb/fct4k/
-
-#EXTINF:-1 tvg-id="" tvg-name="华丽翡翠台" tvg-logo="",group-title="港澳台频道",华丽翡翠台
-http://cdn6.123.rr.kg/163189/jade
-
-#EXTINF:-1 tvg-id="" tvg-name="TVB1" tvg-logo="",group-title="港澳台频道",TVB1
-http://cdn6.123.rr.kg/163189/tvb1
-
-#EXTINF:-1 tvg-id="" tvg-name="TVBJ1" tvg-logo="",group-title="港澳台频道",TVBJ1
-http://cdn6.123.rr.kg/163189/j1
 
 #EXTINF:-1 tvg-id="" tvg-name="TVB1US" tvg-logo="",group-title="港澳台频道",TVB1US
 https://cdn.qd.je/163189.php?id=tvb1
 
 #EXTINF:-1 tvg-id="" tvg-name="TVB1US综合" tvg-logo="",group-title="港澳台频道",TVB1US综合
 http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476199.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="澳门体育" tvg-logo="",group-title="港澳台频道",澳门体育
-http://cdn6.123.rr.kg/163189/amty
-
-#EXTINF:-1 tvg-id="" tvg-name="澳门莲花" tvg-logo="",group-title="港澳台频道",澳门莲花
-http://cdn6.123.rr.kg/163189/amlh
 
 #EXTINF:-1 tvg-id="" tvg-name="NOW星影台" tvg-logo="",group-title="港澳台频道",NOW星影台
 http://173.208.234.146/live/nowxy.m3u8
@@ -1944,35 +1803,11 @@ http://173.208.234.146/live/nowbg.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ViuTV" tvg-logo="",group-title="港澳台频道",ViuTV
 https://cdn.qd.je/163189.php?id=viu
 
-#EXTINF:-1 tvg-id="" tvg-name="TVB1" tvg-logo="",group-title="港澳台频道",TVB1
-https://cdn6.cc.cd/163189/tvb1
-
-#EXTINF:-1 tvg-id="" tvg-name="TVBJ1" tvg-logo="",group-title="港澳台频道",TVBJ1
-https://cdn6.cc.cd/163189/j1
-
 #EXTINF:-1 tvg-id="" tvg-name="TVBJ1" tvg-logo="",group-title="港澳台频道",TVBJ1
 https://cdn.qd.je/163189.php?id=j1
 
-#EXTINF:-1 tvg-id="" tvg-name="TVBPlus" tvg-logo="",group-title="港澳台频道",TVBPlus
-https://cdn3.indevs.in/stream/tvb/tvbp/
-
 #EXTINF:-1 tvg-id="" tvg-name="TVB星河" tvg-logo="",group-title="港澳台频道",TVB星河
 https://cdn3.indevs.in/stream/live/tvbxh/
-
-#EXTINF:-1 tvg-id="" tvg-name="TVB娱乐新闻台" tvg-logo="",group-title="港澳台频道",TVB娱乐新闻台
-https://cdn6.cc.cd/163189/ylxw
-
-#EXTINF:-1 tvg-id="" tvg-name="华丽翡翠台" tvg-logo="",group-title="港澳台频道",华丽翡翠台
-https://cdn6.cc.cd/163189/hlfct
-
-#EXTINF:-1 tvg-id="" tvg-name="华丽翡翠台" tvg-logo="",group-title="港澳台频道",华丽翡翠台
-https://cdn6.cc.cd/163189/jade
-
-#EXTINF:-1 tvg-id="" tvg-name="TVB亚洲武侠" tvg-logo="",group-title="港澳台频道",TVB亚洲武侠
-https://cdn6.cc.cd/163189/yzwx
-
-#EXTINF:-1 tvg-id="" tvg-name="澳门莲花" tvg-logo="",group-title="港澳台频道",澳门莲花
-https://cdn6.cc.cd/163189/amlh
 
 #EXTINF:-1 tvg-id="" tvg-name="澳门资讯" tvg-logo="",group-title="港澳台频道",澳门资讯
 https://live5.tdm.com.mo/ch5/info_ch5.live/chunklist_w929410396.m3u8
@@ -1991,9 +1826,6 @@ http://38.64.72.148/hls/modn/list/4027/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TVBS新闻台" tvg-logo="",group-title="港澳台频道",TVBS新闻台
 http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="TVBSH新闻台" tvg-logo="",group-title="港澳台频道",TVBSH新闻台
-https://tv.iill.top/4gtv/media-live073
 
 #EXTINF:-1 tvg-id="" tvg-name="中视新闻" tvg-logo="",group-title="港澳台频道",中视新闻
 http://74.91.26.218:82/live/ctvnews.m3u8
@@ -2775,8 +2607,20 @@ http://45.192.97.170:8880/play/6253.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="翡翠台" tvg-logo="",group-title="港澳台频道",翡翠台
 https://cdn3.indevs.in/stream/tvb/fct4k/
 
+#EXTINF:-1 tvg-id="" tvg-name="凤凰中文" tvg-logo="",group-title="港澳台频道",凤凰中文
+https://cdn6.cc.cd/163189/fhzw
+
+#EXTINF:-1 tvg-id="" tvg-name="TVBPlus" tvg-logo="",group-title="港澳台频道",TVBPlus
+https://cdn3.indevs.in/stream/tvb/tvbp/
+
+#EXTINF:-1 tvg-id="" tvg-name="HOYTV" tvg-logo="",group-title="港澳台频道",HOYTV
+https://cdn6.cc.cd/163189/hoy
+
 #EXTINF:-1 tvg-id="" tvg-name="HOYTV" tvg-logo="",group-title="港澳台频道",HOYTV
 https://fast.hidns.vip/163189/hoy
+
+#EXTINF:-1 tvg-id="" tvg-name="HOY资讯台" tvg-logo="",group-title="港澳台频道",HOY资讯台
+https://fast.hidns.vip/163189/hoy78
 
 #EXTINF:-1 tvg-id="" tvg-name="HOY国际财经台" tvg-logo="",group-title="港澳台频道",HOY国际财经台
 https://cdn11.163189.xyz/163189/hoy76
@@ -2805,14 +2649,35 @@ https://cdn6.cc.cd/163189/as
 #EXTINF:-1 tvg-id="" tvg-name="澳门综艺" tvg-logo="",group-title="港澳台频道",澳门综艺
 https://cdn6.cc.cd/163189/amzy
 
+#EXTINF:-1 tvg-id="" tvg-name="澳门莲花" tvg-logo="",group-title="港澳台频道",澳门莲花
+https://cdn6.cc.cd/163189/amlh
+
+#EXTINF:-1 tvg-id="" tvg-name="凤凰资讯" tvg-logo="",group-title="港澳台频道",凤凰资讯
+https://cdn6.cc.cd/163189/fhzx
+
+#EXTINF:-1 tvg-id="" tvg-name="凤凰香港" tvg-logo="",group-title="港澳台频道",凤凰香港
+https://cdn6.cc.cd/163189/fhhk
+
+#EXTINF:-1 tvg-id="" tvg-name="TVB1" tvg-logo="",group-title="港澳台频道",TVB1
+https://cdn6.cc.cd/163189/tvb1
+
+#EXTINF:-1 tvg-id="" tvg-name="TVBJ1" tvg-logo="",group-title="港澳台频道",TVBJ1
+https://cdn6.cc.cd/163189/j1
+
 #EXTINF:-1 tvg-id="" tvg-name="翡翠剧集台" tvg-logo="",group-title="港澳台频道",翡翠剧集台
 https://cdn6.cc.cd/163189/tvbd
+
+#EXTINF:-1 tvg-id="" tvg-name="翡翠台" tvg-logo="",group-title="港澳台频道",翡翠台
+https://cdn6.cc.cd/163189/fct
 
 #EXTINF:-1 tvg-id="" tvg-name="翡翠台" tvg-logo="",group-title="港澳台频道",翡翠台
 https://cdn3.indevs.in/stream/tvb/fct/
 
 #EXTINF:-1 tvg-id="" tvg-name="明珠台" tvg-logo="",group-title="港澳台频道",明珠台
 https://cdn3.indevs.in/stream/tvb/mzt/
+
+#EXTINF:-1 tvg-id="" tvg-name="无线新闻台" tvg-logo="",group-title="港澳台频道",无线新闻台
+https://cdn6.cc.cd/163189/wxxw
 
 #EXTINF:-1 tvg-id="" tvg-name="八度空间" tvg-logo="",group-title="港澳台频道",八度空间
 https://cdn6.cc.cd/163189/8tv
@@ -2847,6 +2712,15 @@ https://8.fast.hidns.vip/163189/lhyp
 #EXTINF:-1 tvg-id="" tvg-name="金光布袋戏" tvg-logo="",group-title="港澳台频道",金光布袋戏
 https://cdn3.indevs.in/stream/live/jgbdx/
 
+#EXTINF:-1 tvg-id="" tvg-name="华丽翡翠台" tvg-logo="",group-title="港澳台频道",华丽翡翠台
+https://cdn6.cc.cd/163189/hlfct
+
+#EXTINF:-1 tvg-id="" tvg-name="TVB亚洲武侠" tvg-logo="",group-title="港澳台频道",TVB亚洲武侠
+https://cdn6.cc.cd/163189/yzwx
+
+#EXTINF:-1 tvg-id="" tvg-name="TVB娱乐新闻台" tvg-logo="",group-title="港澳台频道",TVB娱乐新闻台
+https://cdn6.cc.cd/163189/ylxw
+
 #EXTINF:-1 tvg-id="" tvg-name="无线新闻台" tvg-logo="",group-title="港澳台频道",无线新闻台
 https://cdn6.cc.cd/163189/wxxwt
 
@@ -2861,6 +2735,9 @@ https://10.fast.hidns.vip/163189/ccm/
 
 #EXTINF:-1 tvg-id="" tvg-name="华丽翡翠台" tvg-logo="",group-title="港澳台频道",华丽翡翠台
 https://cdn3.indevs.in/stream/live/hlt/
+
+#EXTINF:-1 tvg-id="" tvg-name="华丽翡翠台" tvg-logo="",group-title="港澳台频道",华丽翡翠台
+https://cdn6.cc.cd/163189/jade
 
 #EXTINF:-1 tvg-id="" tvg-name="AstroAOD" tvg-logo="",group-title="港澳台频道",AstroAOD
 https://cdn3.indevs.in/stream/live/aod/
@@ -2885,6 +2762,9 @@ https://cdn3.indevs.in/stream/live/ccm/
 
 #EXTINF:-1 tvg-id="" tvg-name="千禧经典台" tvg-logo="",group-title="港澳台频道",千禧经典台
 https://cdn3.indevs.in/stream/live/tvbc/
+
+#EXTINF:-1 tvg-id="" tvg-name="翡翠台" tvg-logo="",group-title="港澳台频道",翡翠台
+https://10.fast.hidns.vip/163189/fct/
 
 #EXTINF:-1 tvg-id="" tvg-name="明珠台" tvg-logo="",group-title="港澳台频道",明珠台
 https://10.fast.hidns.vip/163189/mzt/
