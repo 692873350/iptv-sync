@@ -2850,6 +2850,12 @@ http://173.208.234.146/live/mymovie.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="天映频道" tvg-logo="",group-title="港澳台频道",天映频道
 http://173.208.234.146/live/typd.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="Now星影台" tvg-logo="",group-title="港澳台频道",Now星影台
+http://iptv.852851.xyz/l/5gC9h6XtL1X3bJoC55t2qVlMPysmpR1MOrEigXzD1If0rc4moQDCzruuZ2JwV18A/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Now爆谷台" tvg-logo="",group-title="港澳台频道",Now爆谷台
+http://iptv.852851.xyz/l/xymz3CGYlMrfo9JW4yleXnZvlU8Q2uy0jRAohSOLl-N6DgSxzX4rvm6JAA14_eLl/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="NOW新闻台" tvg-logo="",group-title="港澳台频道",NOW新闻台
 http://psyl11.dyndns.tv:35451/live/axdynowtream/fSlawNmh15/23.ts
 
