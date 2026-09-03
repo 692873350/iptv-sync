@@ -1377,9 +1377,6 @@ https://cdn.qd.je/163189.php?id=j1
 #EXTINF:-1 tvg-id="" tvg-name="TVB星河" tvg-logo="",group-title="港澳台频道",TVB星河
 https://cdn3.indevs.in/stream/live/tvbxh/
 
-#EXTINF:-1 tvg-id="" tvg-name="中天新闻" tvg-logo="",group-title="港澳台频道",中天新闻
-http://jnzq.ohoyee.com:9080/live/xingjiaoge-ztxw2.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="中视新闻" tvg-logo="",group-title="港澳台频道",中视新闻
 http://74.91.26.218:82/live/ctvnews.m3u8
 
