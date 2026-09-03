@@ -388,6 +388,9 @@ http://173.208.212.130:8181/720p/hnws.m3u8
 http://173.208.212.130:8181/1080p/hnws.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="湖南卫视" tvg-logo="",group-title="卫视",湖南卫视
+http://103.236.97.114:44493/ysp/hnws/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="湖南卫视" tvg-logo="",group-title="卫视",湖南卫视
 http://by4.nty.tv189.cn/live/tm-yshnws-4000k.m3u8
 
 
@@ -796,7 +799,7 @@ http://120.87.19.109:80/PLTV/88888973/224/3221226219/100001000000000600000000013
 http://120.87.19.109:80/PLTV/88888973/224/3221226220/10000100000000060000000001339130_0.smil/01.m3u8?fmt=ts2hls,244,01.m3u8&accountinfo=UoQbCSdhOfs+Fhzpjb+WON1faRQ9pU15SBx6EULzJM/q63EjPL5/UXSVfEKzDq3x1QloRSpR2tmk4KRoCuDmyQWZ1F4+6A1eDkDeh5XZlpvpn23wIF+ldb6dnBPa8zHj,END&tenantId=8601
 
 #EXTINF:-1 tvg-id="" tvg-name="广东珠江" tvg-logo="",group-title="广东频道",广东珠江
-http://smartzhu.cn:1234/639731952
+http://mg.cttv.vip/639731952
 
 #EXTINF:-1 tvg-id="" tvg-name="广东珠江" tvg-logo="",group-title="广东频道",广东珠江
 http://chen.ccwu.cc:1234/639731952
@@ -1174,7 +1177,7 @@ http://j.s.bkpcp.top/jj/gdws
 http://cdn6.bkpcp.top/tl/tuiliu.php?id=gdws
 
 #EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-logo="",group-title="广东频道",广东卫视
-http://smartzhu.cn:1234/608831231
+http://mg.cttv.vip/608831231
 
 #EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-logo="",group-title="广东频道",广东卫视
 http://chen.ccwu.cc:1234/608831231
@@ -1199,6 +1202,9 @@ http://bztv.tvbus.cc:8081/cdnlive/gdws.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-logo="",group-title="广东频道",广东卫视
 http://173.208.212.130:8181/720p/gdws.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-logo="",group-title="广东频道",广东卫视
+http://103.236.97.114:44493/ysp/gdws/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-logo="",group-title="广东频道",广东卫视
 http://112.30.73.119:9901/tsfile/live/1068_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -1316,6 +1322,9 @@ http://bztv.tvbus.cc:8081/cdnlive/szws.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="深圳卫视" tvg-logo="",group-title="广东频道",深圳卫视
 http://173.208.212.130:8181/720p/szws.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="深圳卫视" tvg-logo="",group-title="广东频道",深圳卫视
+http://103.236.97.114:44493/ysp/szws/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="深圳卫视" tvg-logo="",group-title="广东频道",深圳卫视
 http://112.30.73.119:9901/tsfile/live/1272_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -1917,6 +1926,12 @@ http://173.208.234.146/live/mymovie.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="天映频道" tvg-logo="",group-title="港澳台频道",天映频道
 http://173.208.234.146/live/typd.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="爆谷台" tvg-logo="",group-title="港澳台频道",爆谷台
+http://173.208.234.146/live/nowbg.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="星影台" tvg-logo="",group-title="港澳台频道",星影台
+http://173.208.234.146/live/nowxy.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Now星影台" tvg-logo="",group-title="港澳台频道",Now星影台
 http://iptv.852851.xyz/l/5gC9h6XtL1X3bJoC55t2qVlMPysmpR1MOrEigXzD1If0rc4moQDCzruuZ2JwV18A/index.m3u8
 
@@ -2173,151 +2188,151 @@ http://220.135.241.47:8317/0.ts
 http://220.135.241.47:8319/0.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="民视第一台" tvg-logo="",group-title="港澳台频道",民视第一台
-http://4gtv.cnlive.club/channel/nc56ba28/index.m3u8?q=1782639885837
+http://las.aptv168.com:8084/channel/nc56ba28/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="民视台湾台" tvg-logo="",group-title="港澳台频道",民视台湾台
-http://4gtv.cnlive.club/channel/nce5d867/index.m3u8?q=1782639885837
+http://las.aptv168.com:8084/channel/nce5d867/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="民视" tvg-logo="",group-title="港澳台频道",民视
-http://4gtv.cnlive.club/channel/n7222a63c/index.m3u8?q=1782639885837
+http://las.aptv168.com:8084/channel/n7222a63c/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="大爱电视" tvg-logo="",group-title="港澳台频道",大爱电视
-http://4gtv.cnlive.club/channel/n7d3037d2/index.m3u8?q=1782639885837
+http://las.aptv168.com:8084/channel/n7d3037d2/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="中视" tvg-logo="",group-title="港澳台频道",中视
-http://4gtv.cnlive.club/channel/n722644d8/index.m3u8?q=1782639885837
+http://las.aptv168.com:8084/channel/n722644d8/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="华视" tvg-logo="",group-title="港澳台频道",华视
-http://4gtv.cnlive.club/channel/n721fc25a/index.m3u8?q=1782639885837
+http://las.aptv168.com:8084/channel/n721fc25a/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="三立综合台" tvg-logo="",group-title="港澳台频道",三立综合台
-http://4gtv.cnlive.club/channel/45c7d3e3/index.m3u8?q=1782639885837
+http://las.aptv168.com:8084/channel/45c7d3e3/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="客家电视台" tvg-logo="",group-title="港澳台频道",客家电视台
-http://4gtv.cnlive.club/channel/n855e5fe/index.m3u8?q=1782639885837
+http://las.aptv168.com:8084/channel/n855e5fe/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="八大综艺台" tvg-logo="",group-title="港澳台频道",八大综艺台
-http://4gtv.cnlive.club/channel/662e9334/index.m3u8?q=1782639885837
+http://las.aptv168.com:8084/channel/662e9334/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TVBS精采台" tvg-logo="",group-title="港澳台频道",TVBS精采台
-http://4gtv.cnlive.club/channel/49d50255/index.m3u8?q=1782639885837
+http://las.aptv168.com:8084/channel/49d50255/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="靖天综合台" tvg-logo="",group-title="港澳台频道",靖天综合台
-http://4gtv.cnlive.club/channel/3f6ecb92/index.m3u8?q=1782639885837
+http://las.aptv168.com:8084/channel/3f6ecb92/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="靖天日本台" tvg-logo="",group-title="港澳台频道",靖天日本台
-http://4gtv.cnlive.club/channel/3f1816f7/index.m3u8?q=1782639885837
+http://las.aptv168.com:8084/channel/3f1816f7/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="原住民族电视台" tvg-logo="",group-title="港澳台频道",原住民族电视台
-http://4gtv.cnlive.club/channel/4f20dc68/index.m3u8?q=1782639885837
+http://las.aptv168.com:8084/channel/4f20dc68/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="LiveABC互动英语频道" tvg-logo="",group-title="港澳台频道",LiveABC互动英语频道
-http://4gtv.cnlive.club/channel/2a571abf/index.m3u8?q=1782639885837
+http://las.aptv168.com:8084/channel/2a571abf/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="达文西频道" tvg-logo="",group-title="港澳台频道",达文西频道
-http://4gtv.cnlive.club/channel/n1d7d9ddb/index.m3u8?q=1782639885837
+http://las.aptv168.com:8084/channel/n1d7d9ddb/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="NickJr" tvg-logo="",group-title="港澳台频道",NickJr
-http://4gtv.cnlive.club/channel/23ac0723/index.m3u8?q=1782639885837
+http://las.aptv168.com:8084/channel/23ac0723/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="镜电视新闻台" tvg-logo="",group-title="港澳台频道",镜电视新闻台
-http://4gtv.cnlive.club/channel/351c8485/index.m3u8?q=1782639885837
+http://las.aptv168.com:8084/channel/351c8485/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="东森新闻台" tvg-logo="",group-title="港澳台频道",东森新闻台
-http://4gtv.cnlive.club/channel/n5ca63a3a/index.m3u8?q=1782639885837
+http://las.aptv168.com:8084/channel/n5ca63a3a/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="华视新闻" tvg-logo="",group-title="港澳台频道",华视新闻
-http://4gtv.cnlive.club/channel/n692bc32c/index.m3u8?q=1782639885837
+http://las.aptv168.com:8084/channel/n692bc32c/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="民视新闻台" tvg-logo="",group-title="港澳台频道",民视新闻台
-http://4gtv.cnlive.club/channel/nca14742/index.m3u8?q=1782639885837
+http://las.aptv168.com:8084/channel/nca14742/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="三立新闻iNEWS" tvg-logo="",group-title="港澳台频道",三立新闻iNEWS
-http://4gtv.cnlive.club/channel/4fa717ad/index.m3u8?q=1782639885837
+http://las.aptv168.com:8084/channel/4fa717ad/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TVBS新闻" tvg-logo="",group-title="港澳台频道",TVBS新闻
-http://4gtv.cnlive.club/channel/n1ea96b20/index.m3u8?q=1782639885837
+http://las.aptv168.com:8084/channel/n1ea96b20/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="东森财经新闻台" tvg-logo="",group-title="港澳台频道",东森财经新闻台
-http://4gtv.cnlive.club/channel/57ce2e74/index.m3u8?q=1782639885837
+http://las.aptv168.com:8084/channel/57ce2e74/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="中视新闻" tvg-logo="",group-title="港澳台频道",中视新闻
-http://4gtv.cnlive.club/channel/7e6461d6/index.m3u8?q=1782639885837
+http://las.aptv168.com:8084/channel/7e6461d6/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="中天新闻台" tvg-logo="",group-title="港澳台频道",中天新闻台
-http://4gtv.cnlive.club/channel/3824d067/index.m3u8?q=1782639885837
+http://las.aptv168.com:8084/channel/3824d067/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="寰宇新闻台" tvg-logo="",group-title="港澳台频道",寰宇新闻台
-http://4gtv.cnlive.club/channel/n4da4274/index.m3u8?q=1782639885837
+http://las.aptv168.com:8084/channel/n4da4274/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="寰宇新闻台湾台" tvg-logo="",group-title="港澳台频道",寰宇新闻台湾台
-http://4gtv.cnlive.club/channel/n37458587/index.m3u8?q=1782639885837
+http://las.aptv168.com:8084/channel/n37458587/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TVBS" tvg-logo="",group-title="港澳台频道",TVBS
-http://4gtv.cnlive.club/channel/58f128b2/index.m3u8?q=1782639885837
+http://las.aptv168.com:8084/channel/58f128b2/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="民视综艺台" tvg-logo="",group-title="港澳台频道",民视综艺台
-http://4gtv.cnlive.club/channel/nc46cff5/index.m3u8?q=1782639885837
+http://las.aptv168.com:8084/channel/nc46cff5/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="靖天育乐台" tvg-logo="",group-title="港澳台频道",靖天育乐台
-http://4gtv.cnlive.club/channel/3f7d0a6e/index.m3u8?q=1782639885837
+http://las.aptv168.com:8084/channel/3f7d0a6e/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="KLT靖天国际台" tvg-logo="",group-title="港澳台频道",KLT靖天国际台
-http://4gtv.cnlive.club/channel/n481b36ac/index.m3u8?q=1782639885837
+http://las.aptv168.com:8084/channel/n481b36ac/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="NiceTV靖天欢乐台" tvg-logo="",group-title="港澳台频道",NiceTV靖天欢乐台
-http://4gtv.cnlive.club/channel/n122ce57e/index.m3u8?q=1782639885837
+http://las.aptv168.com:8084/channel/n122ce57e/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="靖天资讯台" tvg-logo="",group-title="港澳台频道",靖天资讯台
-http://4gtv.cnlive.club/channel/3fae463b/index.m3u8?q=1782639885837
+http://las.aptv168.com:8084/channel/3fae463b/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TVBS欢乐台" tvg-logo="",group-title="港澳台频道",TVBS欢乐台
-http://4gtv.cnlive.club/channel/498f035d/index.m3u8?q=1782639885837
+http://las.aptv168.com:8084/channel/498f035d/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="公视戏剧" tvg-logo="",group-title="港澳台频道",公视戏剧
-http://4gtv.cnlive.club/channel/7fdd881e/index.m3u8?q=1782639885837
+http://las.aptv168.com:8084/channel/7fdd881e/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="八大精彩台" tvg-logo="",group-title="港澳台频道",八大精彩台
-http://4gtv.cnlive.club/channel/6626a9ca/index.m3u8?q=1782639885837
+http://las.aptv168.com:8084/channel/6626a9ca/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="靖天戏剧台" tvg-logo="",group-title="港澳台频道",靖天戏剧台
-http://4gtv.cnlive.club/channel/3f07b409/index.m3u8?q=1782639885837
+http://las.aptv168.com:8084/channel/3f07b409/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="靖洋戏剧台" tvg-logo="",group-title="港澳台频道",靖洋戏剧台
-http://4gtv.cnlive.club/channel/48117ce7/index.m3u8?q=1782639885837
+http://las.aptv168.com:8084/channel/48117ce7/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ROCKAction" tvg-logo="",group-title="港澳台频道",ROCKAction
-http://4gtv.cnlive.club/channel/n21b197ce/index.m3u8?q=1782639885837
+http://las.aptv168.com:8084/channel/n21b197ce/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="采昌影剧台" tvg-logo="",group-title="港澳台频道",采昌影剧台
-http://4gtv.cnlive.club/channel/n97ba44a/index.m3u8?q=1782639885837
+http://las.aptv168.com:8084/channel/n97ba44a/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="靖天映画" tvg-logo="",group-title="港澳台频道",靖天映画
-http://4gtv.cnlive.club/channel/n610faa83/index.m3u8?q=1782639885837
+http://las.aptv168.com:8084/channel/n610faa83/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="靖天电影台" tvg-logo="",group-title="港澳台频道",靖天电影台
-http://4gtv.cnlive.club/channel/3fcf6ae8/index.m3u8?q=1782639885837
+http://las.aptv168.com:8084/channel/3fcf6ae8/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="影迷数位电影台" tvg-logo="",group-title="港澳台频道",影迷数位电影台
-http://4gtv.cnlive.club/channel/n79da43c0/index.m3u8?q=1782639885837
+http://las.aptv168.com:8084/channel/n79da43c0/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="amc电影台" tvg-logo="",group-title="港澳台频道",amc电影台
-http://4gtv.cnlive.club/channel/n4f2af9e/index.m3u8?q=1782639885837
+http://las.aptv168.com:8084/channel/n4f2af9e/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CinemaWorld" tvg-logo="",group-title="港澳台频道",CinemaWorld
-http://4gtv.cnlive.club/channel/n7815b83e/index.m3u8?q=1782639885837
+http://las.aptv168.com:8084/channel/n7815b83e/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="大爱二台" tvg-logo="",group-title="港澳台频道",大爱二台
-http://4gtv.cnlive.club/channel/n7d3932e9/index.m3u8?q=1782639885837
+http://las.aptv168.com:8084/channel/n7d3932e9/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="人间卫视" tvg-logo="",group-title="港澳台频道",人间卫视
-http://4gtv.cnlive.club/channel/7ed5b6d3/index.m3u8?q=1782639885837
+http://las.aptv168.com:8084/channel/7ed5b6d3/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TVBS台剧台" tvg-logo="",group-title="港澳台频道",TVBS台剧台
-http://4gtv.cnlive.club/channel/49342c47/index.m3u8?q=1782639885837
+http://las.aptv168.com:8084/channel/49342c47/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="经典电影台" tvg-logo="",group-title="港澳台频道",经典电影台
-http://4gtv.cnlive.club/channel/n2eb7240a/index.m3u8?q=1782639885837
+http://las.aptv168.com:8084/channel/n2eb7240a/index.m3u8
 
 
 # ===== 少儿频道 =====
@@ -2338,22 +2353,22 @@ http://iptv.4666888.xyz/iptv2A.php?id=40
 http://iptv.4666888.xyz/iptv2A.php?id=39
 
 #EXTINF:-1 tvg-id="" tvg-name="尼克儿童频道" tvg-logo="",group-title="少儿频道",尼克儿童频道
-http://4gtv.cnlive.club/channel/51bbda39/index.m3u8?q=1782639885837
+http://las.aptv168.com:8084/channel/51bbda39/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="DreamWorks梦工厂动画" tvg-logo="",group-title="少儿频道",DreamWorks梦工厂动画
-http://4gtv.cnlive.club/channel/n451655ef/index.m3u8?q=1782639885837
+http://las.aptv168.com:8084/channel/n451655ef/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="靖天卡通台" tvg-logo="",group-title="少儿频道",靖天卡通台
-http://4gtv.cnlive.club/channel/3ed78a45/index.m3u8?q=1782639885837
+http://las.aptv168.com:8084/channel/3ed78a45/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="靖洋卡通NiceBingo" tvg-logo="",group-title="少儿频道",靖洋卡通NiceBingo
-http://4gtv.cnlive.club/channel/n15c65427/index.m3u8?q=1782639885837
+http://las.aptv168.com:8084/channel/n15c65427/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="经典卡通台" tvg-logo="",group-title="少儿频道",经典卡通台
-http://4gtv.cnlive.club/channel/n2faf04ad/index.m3u8?q=1782639885837
+http://las.aptv168.com:8084/channel/n2faf04ad/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="精选动漫台" tvg-logo="",group-title="少儿频道",精选动漫台
-http://4gtv.cnlive.club/channel/n1ecb3c7f/index.m3u8?q=1782639885837
+http://las.aptv168.com:8084/channel/n1ecb3c7f/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="深圳少儿" tvg-logo="",group-title="少儿频道",深圳少儿
 http://nn.7x9d.cn/深圳最新.php?id=szse
@@ -2476,19 +2491,19 @@ http://k.061899.xyz/k.php?id=dhdjh
 http://j.s.bkpcp.top/jj/cctv14
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV14少儿" tvg-logo="",group-title="少儿频道",CCTV14少儿
-http://smartzhu.cn:1234/624878440
+http://mg.cttv.vip/624878440
 
 #EXTINF:-1 tvg-id="" tvg-name="优漫卡通频道" tvg-logo="",group-title="少儿频道",优漫卡通频道
-http://smartzhu.cn:1234/626064703
+http://mg.cttv.vip/626064703
 
 #EXTINF:-1 tvg-id="" tvg-name="嘉佳卡通" tvg-logo="",group-title="少儿频道",嘉佳卡通
-http://smartzhu.cn:1234/614952364
+http://mg.cttv.vip/614952364
 
 #EXTINF:-1 tvg-id="" tvg-name="经典动画大集合" tvg-logo="",group-title="少儿频道",经典动画大集合
-http://smartzhu.cn:1234/629942219
+http://mg.cttv.vip/629942219
 
 #EXTINF:-1 tvg-id="" tvg-name="新动漫" tvg-logo="",group-title="少儿频道",新动漫
-http://smartzhu.cn:1234/961930269
+http://mg.cttv.vip/961930269
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV14少儿" tvg-logo="",group-title="少儿频道",CCTV14少儿
 http://chen.ccwu.cc:1234/624878440
@@ -2591,6 +2606,9 @@ http://173.208.212.130:8181/720p/cctv14.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV14少儿" tvg-logo="",group-title="少儿频道",CCTV14少儿
 http://173.208.212.130:8181/1080p/cctv14.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="CCTV14少儿" tvg-logo="",group-title="少儿频道",CCTV14少儿
+http://103.236.97.114:44493/ysp/cctv14/index.m3u8
 
 
 # ===== 运动频道 =====
@@ -2758,25 +2776,25 @@ http://j.s.bkpcp.top/jj/cctv5
 http://j.s.bkpcp.top/jj/cctv5p
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV5体育" tvg-logo="",group-title="运动频道",CCTV5体育
-http://smartzhu.cn:1234/641886683
+http://mg.cttv.vip/641886683
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV5+体育赛事" tvg-logo="",group-title="运动频道",CCTV5+体育赛事
-http://smartzhu.cn:1234/641886773
+http://mg.cttv.vip/641886773
 
 #EXTINF:-1 tvg-id="" tvg-name="体育休闲频道" tvg-logo="",group-title="运动频道",体育休闲频道
-http://smartzhu.cn:1234/626064707
+http://mg.cttv.vip/626064707
 
 #EXTINF:-1 tvg-id="" tvg-name="赛事最经典" tvg-logo="",group-title="运动频道",赛事最经典
-http://smartzhu.cn:1234/646596895
+http://mg.cttv.vip/646596895
 
 #EXTINF:-1 tvg-id="" tvg-name="四海钓鱼" tvg-logo="",group-title="运动频道",四海钓鱼
-http://smartzhu.cn:1234/637444975
+http://mg.cttv.vip/637444975
 
 #EXTINF:-1 tvg-id="" tvg-name="陕西体育休闲频道" tvg-logo="",group-title="运动频道",陕西体育休闲频道
-http://smartzhu.cn:1234/956909356
+http://mg.cttv.vip/956909356
 
 #EXTINF:-1 tvg-id="" tvg-name="快乐垂钓" tvg-logo="",group-title="运动频道",快乐垂钓
-http://smartzhu.cn:1234/961930263
+http://mg.cttv.vip/961930263
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV5体育" tvg-logo="",group-title="运动频道",CCTV5体育
 http://chen.ccwu.cc:1234/641886683
@@ -2906,5 +2924,11 @@ http://173.208.212.130:8181/720p/gefwq.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV5体育" tvg-logo="",group-title="运动频道",CCTV5体育
 http://173.208.212.130:8181/1080p/cctv5.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="CCTV5体育" tvg-logo="",group-title="运动频道",CCTV5体育
+http://103.236.97.114:44493/ysp/cctv5/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="CCTV5+体育赛事" tvg-logo="",group-title="运动频道",CCTV5+体育赛事
+http://103.236.97.114:44493/ysp/cctv5p/index.m3u8
 
 
