@@ -1566,9 +1566,6 @@ http://4gtv.cnlive.club/channel/58f128b2/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="民视综艺台" tvg-logo="",group-title="港澳台频道",民视综艺台
 http://4gtv.cnlive.club/channel/nc46cff5/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="猪哥亮歌厅秀" tvg-logo="",group-title="港澳台频道",猪哥亮歌厅秀
-http://4gtv.cnlive.club/channel/n4271efdd/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="靖天育乐台" tvg-logo="",group-title="港澳台频道",靖天育乐台
 http://4gtv.cnlive.club/channel/3f7d0a6e/index.m3u8
 
@@ -1592,9 +1589,6 @@ http://4gtv.cnlive.club/channel/6626a9ca/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="靖天戏剧台" tvg-logo="",group-title="港澳台频道",靖天戏剧台
 http://4gtv.cnlive.club/channel/3f07b409/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="金光布袋戏" tvg-logo="",group-title="港澳台频道",金光布袋戏
-http://4gtv.cnlive.club/channel/n125d8ecd/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ROCKAction" tvg-logo="",group-title="港澳台频道",ROCKAction
 http://4gtv.cnlive.club/channel/n21b197ce/index.m3u8
@@ -1638,9 +1632,6 @@ http://45.192.97.170:8880/play/385.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="八大娱乐" tvg-logo="",group-title="港澳台频道",八大娱乐
 http://45.192.97.170:8880/play/387.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="刀郎经典歌曲精选" tvg-logo="",group-title="港澳台频道",刀郎经典歌曲精选
-http://45.192.97.170:8880/play/513.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="几首绝美情歌DJ精选" tvg-logo="",group-title="港澳台频道",几首绝美情歌DJ精选
 http://45.192.97.170:8880/play/514.m3u8
 
@@ -1652,15 +1643,6 @@ http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 
 #EXTINF:-1 tvg-id="" tvg-name="凤凰电影" tvg-logo="",group-title="港澳台频道",凤凰电影
 http://221.7.175.154:85/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
-
-#EXTINF:-1 tvg-id="" tvg-name="凤凰卫视台" tvg-logo="",group-title="港澳台频道",凤凰卫视台
-http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-
-#EXTINF:-1 tvg-id="" tvg-name="无线新闻台" tvg-logo="",group-title="港澳台频道",无线新闻台
-http://php.jdshipin.com:8880/smt.php?id=inews_twn
-
-#EXTINF:-1 tvg-id="" tvg-name="TVB无线星河" tvg-logo="",group-title="港澳台频道",TVB无线星河
-http://php.jdshipin.com:8880/smt.php?id=Xinhe
 
 #EXTINF:-1 tvg-id="" tvg-name="TVB翡翠台" tvg-logo="",group-title="港澳台频道",TVB翡翠台
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
@@ -1755,9 +1737,6 @@ https://cdn3.indevs.in/stream/tvb/fct/
 #EXTINF:-1 tvg-id="" tvg-name="明珠台" tvg-logo="",group-title="港澳台频道",明珠台
 https://cdn3.indevs.in/stream/tvb/mzt/
 
-#EXTINF:-1 tvg-id="" tvg-name="无线新闻台" tvg-logo="",group-title="港澳台频道",无线新闻台
-https://cdn6.cc.cd/163189/wxxw
-
 #EXTINF:-1 tvg-id="" tvg-name="八度空间" tvg-logo="",group-title="港澳台频道",八度空间
 https://cdn6.cc.cd/163189/8tv
 
@@ -1788,9 +1767,6 @@ https://8.fast.hidns.vip/163189/lhxj
 #EXTINF:-1 tvg-id="" tvg-name="龙华洋片" tvg-logo="",group-title="港澳台频道",龙华洋片
 https://8.fast.hidns.vip/163189/lhyp
 
-#EXTINF:-1 tvg-id="" tvg-name="金光布袋戏" tvg-logo="",group-title="港澳台频道",金光布袋戏
-https://cdn3.indevs.in/stream/live/jgbdx/
-
 #EXTINF:-1 tvg-id="" tvg-name="华丽翡翠台" tvg-logo="",group-title="港澳台频道",华丽翡翠台
 https://cdn6.cc.cd/163189/hlfct
 
@@ -1799,9 +1775,6 @@ https://cdn6.cc.cd/163189/yzwx
 
 #EXTINF:-1 tvg-id="" tvg-name="TVB娱乐新闻台" tvg-logo="",group-title="港澳台频道",TVB娱乐新闻台
 https://cdn6.cc.cd/163189/ylxw
-
-#EXTINF:-1 tvg-id="" tvg-name="无线新闻台" tvg-logo="",group-title="港澳台频道",无线新闻台
-https://cdn6.cc.cd/163189/wxxwt
 
 #EXTINF:-1 tvg-id="" tvg-name="TVB星河" tvg-logo="",group-title="港澳台频道",TVB星河
 https://cdn6.cc.cd/163189/tvbxh
@@ -1898,9 +1871,6 @@ https://cdn12.178.indevs.in/163189/jddyt
 
 #EXTINF:-1 tvg-id="" tvg-name="CMusic" tvg-logo="",group-title="港澳台频道",CMusic
 https://cdn12.178.indevs.in/163189/cmusic
-
-#EXTINF:-1 tvg-id="" tvg-name="金光布袋戏" tvg-logo="",group-title="港澳台频道",金光布袋戏
-https://cdn12.178.indevs.in/163189/jgbdx
 
 #EXTINF:-1 tvg-id="" tvg-name="TVBPlus" tvg-logo="",group-title="港澳台频道",TVBPlus
 https://smt.1678520.xyz/163189/tvbp
@@ -2051,9 +2021,6 @@ http://iptv.4666888.xyz/iptv2A.php?id=59
 
 #EXTINF:-1 tvg-id="" tvg-name="ROCKAction" tvg-logo="",group-title="港澳台频道",ROCKAction
 http://iptv.4666888.xyz/iptv2A.php?id=50
-
-#EXTINF:-1 tvg-id="" tvg-name="金光布袋戏" tvg-logo="",group-title="港澳台频道",金光布袋戏
-http://iptv.4666888.xyz/iptv2A.php?id=38
 
 #EXTINF:-1 tvg-id="" tvg-name="民视综艺" tvg-logo="",group-title="港澳台频道",民视综艺
 http://iptv.4666888.xyz/iptv2A.php?id=46
@@ -2298,9 +2265,6 @@ http://4gtv.cnlive.club/channel/58f128b2/index.m3u8?q=1782639885837
 #EXTINF:-1 tvg-id="" tvg-name="民视综艺台" tvg-logo="",group-title="港澳台频道",民视综艺台
 http://4gtv.cnlive.club/channel/nc46cff5/index.m3u8?q=1782639885837
 
-#EXTINF:-1 tvg-id="" tvg-name="猪哥亮歌厅秀" tvg-logo="",group-title="港澳台频道",猪哥亮歌厅秀
-http://4gtv.cnlive.club/channel/n4271efdd/index.m3u8?q=1782639885837
-
 #EXTINF:-1 tvg-id="" tvg-name="靖天育乐台" tvg-logo="",group-title="港澳台频道",靖天育乐台
 http://4gtv.cnlive.club/channel/3f7d0a6e/index.m3u8?q=1782639885837
 
@@ -2327,9 +2291,6 @@ http://4gtv.cnlive.club/channel/3f07b409/index.m3u8?q=1782639885837
 
 #EXTINF:-1 tvg-id="" tvg-name="靖洋戏剧台" tvg-logo="",group-title="港澳台频道",靖洋戏剧台
 http://4gtv.cnlive.club/channel/48117ce7/index.m3u8?q=1782639885837
-
-#EXTINF:-1 tvg-id="" tvg-name="金光布袋戏" tvg-logo="",group-title="港澳台频道",金光布袋戏
-http://4gtv.cnlive.club/channel/n125d8ecd/index.m3u8?q=1782639885837
 
 #EXTINF:-1 tvg-id="" tvg-name="ROCKAction" tvg-logo="",group-title="港澳台频道",ROCKAction
 http://4gtv.cnlive.club/channel/n21b197ce/index.m3u8?q=1782639885837
