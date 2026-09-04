@@ -1147,9 +1147,6 @@ http://bztv.tvbus.cc:8081/cdnlive/gdws.m3u8
 http://173.208.212.130:8181/720p/gdws.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-logo="",group-title="广东频道",广东卫视
-http://103.236.97.114:44493/ysp/gdws/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-logo="",group-title="广东频道",广东卫视
 http://112.30.73.119:9901/tsfile/live/1068_1.m3u8?key=txiptv&playlive=0&authid=0
 
 #EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-logo="",group-title="广东频道",广东卫视
@@ -1259,9 +1256,6 @@ http://bztv.tvbus.cc:8081/cdnlive/szws.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="深圳卫视" tvg-logo="",group-title="广东频道",深圳卫视
 http://173.208.212.130:8181/720p/szws.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="深圳卫视" tvg-logo="",group-title="广东频道",深圳卫视
-http://103.236.97.114:44493/ysp/szws/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="深圳卫视" tvg-logo="",group-title="广东频道",深圳卫视
 http://112.30.73.119:9901/tsfile/live/1272_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -2175,9 +2169,6 @@ http://173.208.212.130:8181/720p/cctv14.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV14少儿" tvg-logo="",group-title="少儿频道",CCTV14少儿
 http://173.208.212.130:8181/1080p/cctv14.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="CCTV14少儿" tvg-logo="",group-title="少儿频道",CCTV14少儿
-http://103.236.97.114:44493/ysp/cctv14/index.m3u8
-
 
 # ===== 运动频道 =====
 
@@ -2492,11 +2483,5 @@ http://173.208.212.130:8181/720p/gefwq.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV5体育" tvg-logo="",group-title="运动频道",CCTV5体育
 http://173.208.212.130:8181/1080p/cctv5.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="CCTV5体育" tvg-logo="",group-title="运动频道",CCTV5体育
-http://103.236.97.114:44493/ysp/cctv5/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="CCTV5+体育赛事" tvg-logo="",group-title="运动频道",CCTV5+体育赛事
-http://103.236.97.114:44493/ysp/cctv5p/index.m3u8
 
 
