@@ -448,9 +448,6 @@ http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009
 http://107.150.60.122/live/cctv5p.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV5+体育赛事" tvg-logo="",group-title="央视",CCTV5+体育赛事
-http://74.91.26.218:82/live/cctv5p.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="CCTV5+体育赛事" tvg-logo="",group-title="央视",CCTV5+体育赛事
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv5p
 
 #EXTINF:-1 tvg-id="" tvg-name="cctv5hd" tvg-logo="",group-title="央视",cctv5hd
@@ -658,9 +655,6 @@ http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv10hd
 http://38.75.136.137:98/gslb/dsdqbv/cctv11hd.m3u8?auth=test20251009
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV12社会与法" tvg-logo="",group-title="央视",CCTV12社会与法
-http://74.91.26.218:82/live/cctv12hd.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="CCTV12社会与法" tvg-logo="",group-title="央视",CCTV12社会与法
 http://112.123.243.37:50085/tsfile/live/0013_1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="cctv13md" tvg-logo="",group-title="央视",cctv13md
@@ -668,9 +662,6 @@ http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv13md
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV13新闻" tvg-logo="",group-title="央视",CCTV13新闻
 http://39.152.103.17:8089/tsfile/live/1012_1.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="CCTV13新闻" tvg-logo="",group-title="央视",CCTV13新闻
-http://74.91.26.218:82/live/cctv13hd.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV14少儿" tvg-logo="",group-title="央视",CCTV14少儿
 http://38.75.136.137:98/gslb/dsdqbv/cctv14hd.m3u8?auth=test20251009
@@ -690,14 +681,8 @@ http://38.75.136.137:98/gslb/dsdqbv/cctv16hd.m3u8?auth=test20251009
 #EXTINF:-1 tvg-id="" tvg-name="cctv16hd" tvg-logo="",group-title="央视",cctv16hd
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv16hd
 
-#EXTINF:-1 tvg-id="" tvg-name="CCTV16奥林匹克" tvg-logo="",group-title="央视",CCTV16奥林匹克
-http://74.91.26.218:82/live/cctv16hd.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="cctv17hd" tvg-logo="",group-title="央视",cctv17hd
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv17hd
-
-#EXTINF:-1 tvg-id="" tvg-name="CCTV17农业农村" tvg-logo="",group-title="央视",CCTV17农业农村
-http://74.91.26.218:82/live/cctv17hd.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV世界地理" tvg-logo="",group-title="央视",CCTV世界地理
 http://hmfs.f3322.net:3388/hls/28/index.m3u8
@@ -2044,19 +2029,7 @@ https://tencentplay.gztv.com/live/fazhi.m3u8?txSecret=4400d75d2114b2db07d86eda8f
 https://cdn3.indevs.in/stream/live/tvbxh/
 
 #EXTINF:-1 tvg-id="" tvg-name="中视新闻" tvg-logo="",group-title="港澳台频道",中视新闻
-http://74.91.26.218:82/live/ctvnews.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="中视新闻" tvg-logo="",group-title="港澳台频道",中视新闻
 http://220.135.64.124:5050/of-4gtv-4gtv074/index.m3u8?proxy=true
-
-#EXTINF:-1 tvg-id="" tvg-name="台视新闻" tvg-logo="",group-title="港澳台频道",台视新闻
-http://74.91.26.218:82/live/ttvnews.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="华视新闻" tvg-logo="",group-title="港澳台频道",华视新闻
-http://74.91.26.218:82/live/ctsnews.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="民视新闻台" tvg-logo="",group-title="港澳台频道",民视新闻台
-http://74.91.26.218:82/live/ftvnews.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="民视新闻台" tvg-logo="",group-title="港澳台频道",民视新闻台
 http://tv.redrainl.site:9500/live.m3u8?c=01
