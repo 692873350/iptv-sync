@@ -871,16 +871,13 @@ kdsvod://http://v.91kds.com/b7/zgst.m3u8?id=hnws4k&pwd=jsdecode
 http://222.128.55.152:9080/live/dwq.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="大湾区卫视2" tvg-logo="",group-title="卫视",大湾区卫视2
-http://www.maomizi.cn:9527/udp/239.77.0.215:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="大湾区卫视2" tvg-logo="",group-title="卫视",大湾区卫视2
 https://hc9lby9bzw8zcar.wcetv.com/hls/wcetv318.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="大湾区卫视3" tvg-logo="",group-title="卫视",大湾区卫视3
-http://192.151.150.154/live/nfws.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="人间卫视" tvg-logo="",group-title="卫视",人间卫视
 http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="大湾区卫视2" tvg-logo="",group-title="卫视",大湾区卫视2
+http://192.151.150.154/live/nfws.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="湖南卫视" tvg-logo="",group-title="卫视",湖南卫视
 http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
@@ -1096,9 +1093,6 @@ http://ikuai.cyruslee.top:8888/udp/239.253.43.45:5146
 http://yanshifen.top:8889/udp/239.253.43.45:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="汕头新闻综合频道" tvg-logo="",group-title="广东频道",汕头新闻综合频道
-http://www.maomizi.cn:9527/udp/239.253.43.45:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="汕头新闻综合频道" tvg-logo="",group-title="广东频道",汕头新闻综合频道
 http://61.145.188.90:50055/udp/239.253.43.45:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="汕头经济生活频道" tvg-logo="",group-title="广东频道",汕头经济生活频道
@@ -1145,9 +1139,6 @@ http://ikuai.cyruslee.top:8888/udp/239.253.43.46:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="汕头经济生活频道" tvg-logo="",group-title="广东频道",汕头经济生活频道
 http://yanshifen.top:8889/udp/239.253.43.46:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="汕头经济生活频道" tvg-logo="",group-title="广东频道",汕头经济生活频道
-http://www.maomizi.cn:9527/udp/239.253.43.46:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="汕头经济生活频道" tvg-logo="",group-title="广东频道",汕头经济生活频道
 http://61.145.188.90:50055/udp/239.253.43.46:5146
@@ -1198,9 +1189,6 @@ http://ikuai.cyruslee.top:8888/udp/239.77.0.229:5146
 http://yanshifen.top:8889/udp/239.77.0.229:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="揭阳综合" tvg-logo="",group-title="广东频道",揭阳综合
-http://www.maomizi.cn:9527/udp/239.77.0.229:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="揭阳综合" tvg-logo="",group-title="广东频道",揭阳综合
 http://61.145.188.90:50055/udp/239.77.0.229:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="揭阳生活" tvg-logo="",group-title="广东频道",揭阳生活
@@ -1249,9 +1237,6 @@ http://ikuai.cyruslee.top:8888/udp/239.77.0.251:5146
 http://yanshifen.top:8889/udp/239.77.0.251:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="揭阳生活" tvg-logo="",group-title="广东频道",揭阳生活
-http://www.maomizi.cn:9527/udp/239.77.0.251:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="揭阳生活" tvg-logo="",group-title="广东频道",揭阳生活
 http://61.145.188.90:50055/udp/239.77.0.251:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="潮州综合" tvg-logo="",group-title="广东频道",潮州综合
@@ -1297,9 +1282,6 @@ http://ikuai.cyruslee.top:8888/udp/239.253.43.70:5146
 http://yanshifen.top:8889/udp/239.253.43.70:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="潮州综合" tvg-logo="",group-title="广东频道",潮州综合
-http://www.maomizi.cn:9527/udp/239.253.43.70:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="潮州综合" tvg-logo="",group-title="广东频道",潮州综合
 http://61.145.188.90:50055/udp/239.253.43.70:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="潮州民生" tvg-logo="",group-title="广东频道",潮州民生
@@ -1343,9 +1325,6 @@ http://ikuai.cyruslee.top:8888/udp/239.253.43.75:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="潮州民生" tvg-logo="",group-title="广东频道",潮州民生
 http://yanshifen.top:8889/udp/239.253.43.75:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="潮州民生" tvg-logo="",group-title="广东频道",潮州民生
-http://www.maomizi.cn:9527/udp/239.253.43.75:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="潮州民生" tvg-logo="",group-title="广东频道",潮州民生
 http://61.145.188.90:50055/udp/239.253.43.75:5146
@@ -1433,9 +1412,6 @@ http://ikuai.cyruslee.top:8888/udp/239.77.0.1:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="广东珠江" tvg-logo="",group-title="广东频道",广东珠江
 http://yanshifen.top:8889/udp/239.77.0.1:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="广东珠江" tvg-logo="",group-title="广东频道",广东珠江
-http://www.maomizi.cn:9527/udp/239.77.0.1:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="广东珠江" tvg-logo="",group-title="广东频道",广东珠江
 http://61.145.188.90:50055/udp/239.77.0.1:5146
@@ -1540,9 +1516,6 @@ http://ikuai.cyruslee.top:8888/udp/239.77.0.225:5146
 http://yanshifen.top:8889/udp/239.77.0.225:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="广东民生" tvg-logo="",group-title="广东频道",广东民生
-http://www.maomizi.cn:9527/udp/239.77.0.225:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="广东民生" tvg-logo="",group-title="广东频道",广东民生
 http://61.145.188.90:50055/udp/239.77.0.225:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="广东民生" tvg-logo="",group-title="广东频道",广东民生
@@ -1622,9 +1595,6 @@ http://ikuai.cyruslee.top:8888/udp/239.77.0.173:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="广东新闻" tvg-logo="",group-title="广东频道",广东新闻
 http://yanshifen.top:8889/udp/239.77.0.173:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="广东新闻" tvg-logo="",group-title="广东频道",广东新闻
-http://www.maomizi.cn:9527/udp/239.77.0.173:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="广东新闻" tvg-logo="",group-title="广东频道",广东新闻
 http://61.145.188.90:50055/udp/239.77.0.173:5146
@@ -1775,9 +1745,6 @@ http://ikuai.cyruslee.top:8888/udp/239.77.0.84:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-logo="",group-title="广东频道",广东卫视
 http://yanshifen.top:8889/udp/239.77.0.84:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-logo="",group-title="广东频道",广东卫视
-http://www.maomizi.cn:9527/udp/239.77.0.84:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-logo="",group-title="广东频道",广东卫视
 http://61.145.188.90:50055/udp/239.77.0.84:5146
@@ -2027,6 +1994,9 @@ https://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=6f73647cae387d01a3c213207
 
 #EXTINF:-1 tvg-id="" tvg-name="广州法治" tvg-logo="",group-title="广东频道",广州法治
 https://tencentplay.gztv.com/live/fazhi.m3u8?txSecret=4400d75d2114b2db07d86eda8f8218ee&txTime=191b60ce0f6
+
+#EXTINF:-1 tvg-id="" tvg-name="大湾区卫视" tvg-logo="",group-title="广东频道",大湾区卫视
+http://192.151.150.154/live/nfws.m3u8
 
 
 # ===== 港澳台频道 =====
@@ -2638,9 +2608,6 @@ http://ikuai.cyruslee.top:8888/udp/239.77.0.250:5146
 http://yanshifen.top:8889/udp/239.77.0.250:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="广东少儿" tvg-logo="",group-title="少儿频道",广东少儿
-http://www.maomizi.cn:9527/udp/239.77.0.250:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="广东少儿" tvg-logo="",group-title="少儿频道",广东少儿
 http://61.145.188.90:50055/udp/239.77.0.250:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="金鹰卡通" tvg-logo="",group-title="少儿频道",金鹰卡通
@@ -2894,9 +2861,6 @@ http://ikuai.cyruslee.top:8888/udp/239.77.0.112:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="广东体育" tvg-logo="",group-title="运动频道",广东体育
 http://yanshifen.top:8889/udp/239.77.0.112:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="广东体育" tvg-logo="",group-title="运动频道",广东体育
-http://www.maomizi.cn:9527/udp/239.77.0.112:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="广东体育" tvg-logo="",group-title="运动频道",广东体育
 http://61.145.188.90:50055/udp/239.77.0.112:5146
