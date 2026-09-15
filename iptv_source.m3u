@@ -769,6 +769,9 @@ http://media.hndyjyfw.gov.cn/live/jz-hunanweishi-gq/live.m3u8@@Referer=https://w
 kdsvod://http://v.91kds.com/b7/hoge.m3u8?ip=hnldtv&id=11&pwd=jsdecode@@User-Agent=Mozilla@@
 
 #EXTINF:-1 tvg-id="" tvg-name="湖南卫视" tvg-logo="",group-title="卫视",湖南卫视
+htmlplay://https://web.guangdianyun.tv/tv/?id=680&uin=1202
+
+#EXTINF:-1 tvg-id="" tvg-name="湖南卫视" tvg-logo="",group-title="卫视",湖南卫视
 kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=hnwshd&pwd=jsdecode
 
 #EXTINF:-1 tvg-id="" tvg-name="湖南卫视" tvg-logo="",group-title="卫视",湖南卫视
@@ -1249,6 +1252,9 @@ http://yanshifen.top:8889/udp/239.253.43.75:5146
 http://61.145.188.90:50055/udp/239.253.43.75:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="广东珠江" tvg-logo="",group-title="广东频道",广东珠江
+htmlplay://https://www.gdtv.cn/tvChannelDetail/44@@UA=Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/100.0.4896.75Safari/537.36@@
+
+#EXTINF:-1 tvg-id="" tvg-name="广东珠江" tvg-logo="",group-title="广东频道",广东珠江
 kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=gdzj&pwd=jsdecode
 
 #EXTINF:-1 tvg-id="" tvg-name="广东珠江" tvg-logo="",group-title="广东频道",广东珠江
@@ -1369,6 +1375,9 @@ http://198.204.228.26/live/gdzja.m3u8
 http://198.204.228.26/live/gdzj.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="广东民生" tvg-logo="",group-title="广东频道",广东民生
+htmlplay://https://www.gdtv.cn/tvChannelDetail/48@@UA=Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/100.0.4896.75Safari/537.36@@
+
+#EXTINF:-1 tvg-id="" tvg-name="广东民生" tvg-logo="",group-title="广东频道",广东民生
 kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=gdgg&pwd=jsdecode
 
 #EXTINF:-1 tvg-id="" tvg-name="广东民生" tvg-logo="",group-title="广东频道",广东民生
@@ -1436,6 +1445,9 @@ http://192.151.150.154/live/gdgg.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="广东民生" tvg-logo="",group-title="广东频道",广东民生
 http://198.204.228.26/live/gdgg.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="广东新闻" tvg-logo="",group-title="广东频道",广东新闻
+htmlplay://https://www.gdtv.cn/tvChannelDetail/45@@UA=Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/100.0.4896.75Safari/537.36@@
 
 #EXTINF:-1 tvg-id="" tvg-name="广东新闻" tvg-logo="",group-title="广东频道",广东新闻
 kdsvod://http://v.91kds.com/c7/gdtv.m3u8?id=gdxw&pwd=jsdecode
@@ -1522,6 +1534,9 @@ http://198.204.228.26/live/gdxw.m3u8
 http://198.204.228.26/live/gdxwa.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="广东体育" tvg-logo="",group-title="广东频道",广东体育
+htmlplay://https://www.gdtv.cn/tvChannelDetail/47@@UA=Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/100.0.4896.75Safari/537.36@@
+
+#EXTINF:-1 tvg-id="" tvg-name="广东体育" tvg-logo="",group-title="广东频道",广东体育
 kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=gdty&pwd=jsdecode
 
 #EXTINF:-1 tvg-id="" tvg-name="广东体育" tvg-logo="",group-title="广东频道",广东体育
@@ -1540,7 +1555,22 @@ http://38.75.136.137:98/gslb/dsdqpub/gdty.m3u8?auth=testpub
 https://pili-live-hls.kingsmedia.cn/metoo-live/e06829f1a4374c4cb7f72cd99c7c636d.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="广东经济科教" tvg-logo="",group-title="广东频道",广东经济科教
+htmlplay://https://www.gdtv.cn/tvChannelDetail/49@@UA=Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/100.0.4896.75Safari/537.36@@
+
+#EXTINF:-1 tvg-id="" tvg-name="广东经济科教" tvg-logo="",group-title="广东频道",广东经济科教
+https://play-a2.quklive.com/live/1727311690820146.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="广东经济科教" tvg-logo="",group-title="广东频道",广东经济科教
+https://tvfile.hscmw.cn/live/hshstv2.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="广东经济科教" tvg-logo="",group-title="广东频道",广东经济科教
+http://hls.hsrtv.cn/live/hshstv2.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="广东经济科教" tvg-logo="",group-title="广东频道",广东经济科教
 https://jsv-live-play.sfccn.com/live/jsv_3920_fhd.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-logo="",group-title="广东频道",广东卫视
+htmlplay://https://www.gdtv.cn/tvChannelDetail/43@@UA=Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/100.0.4896.75Safari/537.36@@
 
 #EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-logo="",group-title="广东频道",广东卫视
 kdsvod://http://v.91kds.com/b7/xuexi.m3u8?id=gdws&pwd=jsdecode
@@ -1562,6 +1592,9 @@ kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=gdwshd&pwd=jsdecode
 
 #EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-logo="",group-title="广东频道",广东卫视
 kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=gdwshd&pwd=jsdecode
+
+#EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-logo="",group-title="广东频道",广东卫视
+kdsvod://migu://608831231
 
 #EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-logo="",group-title="广东频道",广东卫视
 kdsvod://http://v.91kds.com/b7/tvzb2.m3u8?id=gdwshd&pwd=jsdecode
