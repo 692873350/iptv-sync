@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 group-title="央视",CCTV16-4K超
+kdsvod://ysp://cctv164k&fmt=ip
+#EXTINF:-1 group-title="央视",CCTV16-4K超
+kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=cctv164k&pwd=jsdecode
+#EXTINF:-1 group-title="央视",CCTV16-4K超
+kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=cctv164k&pwd=jsdecode
 #EXTINF:-1 group-title="央视",CCTV-1
 kdsvod://http://v.91kds.com/b7/hoge.m3u8?ip=hnldtv&id=8&pwd=jsdecode@@User-Agent=Mozilla@@
 #EXTINF:-1 group-title="央视",CCTV-1
@@ -20,8 +26,6 @@ http://media.hndyjyfw.gov.cn/live/jz-cctv-1/live.m3u8@@Referer=https://www.hndyj
 #EXTINF:-1 group-title="央视",CCTV-1
 kdsvod://http://v.91kds.com/c7/sxy.m3u8?id=cctv1&pwd=jsdecode
 #EXTINF:-1 group-title="央视",CCTV-1
-https://wfrtv-live-tz.wfcmw.cn:5443/live/cctv.m3u8
-#EXTINF:-1 group-title="央视",CCTV-1
 rtmp://play.kankanlive.com/live/1720408280309109
 #EXTINF:-1 group-title="央视",CCTV-1
 http://play.kankanlive.com/live/1720408280309109.m3u8
@@ -41,8 +45,6 @@ kdsvod://http://v.91kds.com/b7/cctvxw.m3u8?bt=1&id=cctv1hd&pwd=jsdecode@@Referer
 kdsvod://http://v.91kds.com/b7/cctvxw.m3u8?bt=0&id=cctv1hd&pwd=jsdecode@@Referer=https://m-live.cctvnews.cctv.com/@@
 #EXTINF:-1 group-title="央视",CCTV-1
 http://111.13.111.242/000000001001/3000000010000015470/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000015470&livemode=1&stbId=3&HlsProfileId=
-#EXTINF:-1 group-title="央视",CCTV-1
-kdsvod://http://v.91kds.com/b7/migu.m3u8?id=cctv1hd&pwd=jsdecode
 #EXTINF:-1 group-title="央视",CCTV-1
 kdsvod://http://v.91kds.com/c7/cctvxw.m3u8?bt=2&id=cctv1hd&pwd=jsdecode
 #EXTINF:-1 group-title="央视",CCTV-1
@@ -70,25 +72,15 @@ kdsvod://http://v.91kds.com/b7/tvzb6.m3u8?id=cctv1hd&pwd=jsdecode
 #EXTINF:-1 group-title="央视",CCTV-1
 kdsvod://http://v.91kds.com/b7/tvzb7.m3u8?id=cctv1hd&pwd=jsdecode
 #EXTINF:-1 group-title="央视",CCTV-1
-http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226635/1.m3u8
-#EXTINF:-1 group-title="央视",CCTV-1
-http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226674/1.m3u8
-#EXTINF:-1 group-title="央视",CCTV-1
-http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226703/1.m3u8
-#EXTINF:-1 group-title="央视",CCTV-1
-http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226736/1.m3u8
-#EXTINF:-1 group-title="央视",CCTV-1
-http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226737/1.m3u8
-#EXTINF:-1 group-title="央视",CCTV-1
-http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226776/1.m3u8
-#EXTINF:-1 group-title="央视",CCTV-1
-http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226823/1.m3u8
-#EXTINF:-1 group-title="央视",CCTV-1
 tvbus://128z6qatpQtSdQZEFKrKuQa2EWNuC5wDEdmUBmPzYFPNeCitayT
 #EXTINF:-1 group-title="央视",CCTV-1
-kdsvod://http://v.91kds.com/b7/cdnlive.m3u8?id=cctv1-720p&pwd=jsdecode
+kdsvod://rtmphtml://http://47.97.252.137:8099/api/cctv1hd.m3u8?&pwd=jsdecode
+#EXTINF:-1 group-title="央视",CCTV-1
+kdsvod://ysp://cctv1hd&fmt=ip
 #EXTINF:-1 group-title="央视",CCTV-2
 kdsvod://http://v.91kds.com/c7/sxy.m3u8?id=cctv2&pwd=jsdecode
+#EXTINF:-1 group-title="央视",CCTV-2
+kdsvod://http://v.91kds.com/b7/cctv2.m3u8?id=cctv2hd&pwd=jsdecode@@referer=https://vod.cctv.cn/@@
 #EXTINF:-1 group-title="央视",CCTV-2
 htmlplay://https://m.miguvideo.com/m/liveDetail/631780532?channelId=10010001005
 #EXTINF:-1 group-title="央视",CCTV-2
@@ -103,8 +95,6 @@ kdsvod://http://v.91kds.com/b7/cctvxw.m3u8?bt=2&id=cctv2hd&pwd=jsdecode@@Referer
 kdsvod://http://v.91kds.com/b7/cctvxw.m3u8?bt=1&id=cctv2hd&pwd=jsdecode@@Referer=https://m-live.cctvnews.cctv.com/@@
 #EXTINF:-1 group-title="央视",CCTV-2
 kdsvod://http://v.91kds.com/b7/cctvxw.m3u8?bt=0&id=cctv2hd&pwd=jsdecode@@Referer=https://m-live.cctvnews.cctv.com/@@
-#EXTINF:-1 group-title="央视",CCTV-2
-kdsvod://http://v.91kds.com/b7/migu.m3u8?id=cctv2hd&pwd=jsdecode
 #EXTINF:-1 group-title="央视",CCTV-2
 kdsvod://http://v.91kds.com/c7/cctvxw.m3u8?bt=2&id=cctv2hd&pwd=jsdecode
 #EXTINF:-1 group-title="央视",CCTV-2
@@ -132,17 +122,17 @@ kdsvod://http://v.91kds.com/b7/tvzb6.m3u8?id=cctv2hd&pwd=jsdecode
 #EXTINF:-1 group-title="央视",CCTV-2
 kdsvod://http://v.91kds.com/b7/tvzb7.m3u8?id=cctv2hd&pwd=jsdecode
 #EXTINF:-1 group-title="央视",CCTV-2
-http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226739/1.m3u8
-#EXTINF:-1 group-title="央视",CCTV-2
 tvbus://12Dae14aJhf5ZLntD1YNrAsJJpyx73X7hPY1urDH6Wn67dYgkxv
 #EXTINF:-1 group-title="央视",CCTV-2
-kdsvod://http://v.91kds.com/b7/cdnlive.m3u8?id=cctv2-720p&pwd=jsdecode
+kdsvod://rtmphtml://http://47.97.252.137:8099/api/cctv2hd.m3u8?&pwd=jsdecode
+#EXTINF:-1 group-title="央视",CCTV-2
+https://livealiop-finance.cctv.cn/hls/CCTV28bee868714f04ea2af79947bb9b46fc3H/playlist.m3u8@@referer=https://vod.cctv.cn/@@
+#EXTINF:-1 group-title="央视",CCTV-2
+kdsvod://ysp://cctv2hd&fmt=ip
 #EXTINF:-1 group-title="央视",CCTV-3
 http://media.hndyjyfw.gov.cn/live/jz-cctv-3/live.m3u8@@Referer=https://www.hndyjyfw.gov.cn/@@
 #EXTINF:-1 group-title="央视",CCTV-3
 htmlplay://https://m.miguvideo.com/m/liveDetail/624878271?channelId=10010001005
-#EXTINF:-1 group-title="央视",CCTV-3
-kdsvod://http://v.91kds.com/b7/migu.m3u8?id=cctv3hd&pwd=jsdecode
 #EXTINF:-1 group-title="央视",CCTV-3
 kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=cctv3hd&pwd=jsdecode
 #EXTINF:-1 group-title="央视",CCTV-3
@@ -166,15 +156,13 @@ kdsvod://http://v.91kds.com/b7/tvzb6.m3u8?id=cctv3hd&pwd=jsdecode
 #EXTINF:-1 group-title="央视",CCTV-3
 kdsvod://http://v.91kds.com/b7/tvzb7.m3u8?id=cctv3hd&pwd=jsdecode
 #EXTINF:-1 group-title="央视",CCTV-3
-http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226720/1.m3u8
-#EXTINF:-1 group-title="央视",CCTV-3
 tvbus://12qgUDAmnrrdtTQqRzkZzowyyzsnVEv3m88Rnj8V8UdhSRydPVm
 #EXTINF:-1 group-title="央视",CCTV-3
-kdsvod://http://v.91kds.com/b7/cdnlive.m3u8?id=cctv3-720p&pwd=jsdecode
+kdsvod://rtmphtml://http://47.97.252.137:8099/api/cctv3hd.m3u8?&pwd=jsdecode
+#EXTINF:-1 group-title="央视",CCTV-3
+kdsvod://ysp://cctv3hd&fmt=ip
 #EXTINF:-1 group-title="央视",CCTV-4
 kdsvod://http://v.91kds.com/b7/cctvxw.m3u8?bt=2&id=cctv4hd&pwd=jsdecode@@Referer=https://m-live.cctvnews.cctv.com/@@
-#EXTINF:-1 group-title="央视",CCTV-4
-kdsvod://http://v.91kds.com/b7/migu.m3u8?id=cctv4hd&pwd=jsdecode
 #EXTINF:-1 group-title="央视",CCTV-4
 kdsvod://http://v.91kds.com/c7/cctvxw.m3u8?bt=2&id=cctv4hd&pwd=jsdecode
 #EXTINF:-1 group-title="央视",CCTV-4
@@ -200,11 +188,11 @@ kdsvod://http://v.91kds.com/b7/tvzb6.m3u8?id=cctv4hd&pwd=jsdecode
 #EXTINF:-1 group-title="央视",CCTV-4
 kdsvod://http://v.91kds.com/b7/tvzb7.m3u8?id=cctv4hd&pwd=jsdecode
 #EXTINF:-1 group-title="央视",CCTV-4
-http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226725/1.m3u8
-#EXTINF:-1 group-title="央视",CCTV-4
 tvbus://19SUs8jtNsS5ZQRTPR4STF3ymz4DQas8C4P4P35EjsKsc2ZFkE
 #EXTINF:-1 group-title="央视",CCTV-4
-kdsvod://http://v.91kds.com/b7/cdnlive.m3u8?id=cctv4-720p&pwd=jsdecode
+kdsvod://rtmphtml://http://47.97.252.137:8099/api/cctv4hd.m3u8?&pwd=jsdecode
+#EXTINF:-1 group-title="央视",CCTV-4
+kdsvod://ysp://cctv4hd&fmt=ip
 #EXTINF:-1 group-title="央视",CCTV-4K超
 kdsvod://http://v.91kds.com/b7/cctvxw.m3u8?bt=2&id=cctv4k&pwd=jsdecode@@Referer=https://m-live.cctvnews.cctv.com/@@
 #EXTINF:-1 group-title="央视",CCTV-4K超
@@ -218,7 +206,11 @@ kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=cctv4k&pwd=jsdecode
 #EXTINF:-1 group-title="央视",CCTV-4K超
 kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=cctv4k&pwd=jsdecode
 #EXTINF:-1 group-title="央视",CCTV-4K超
-kdsvod://http://v.91kds.com/b7/cdnlive.m3u8?id=cctv4k-720p&pwd=jsdecode
+kdsvod://ysp://cctv4k&fmt=ip
+#EXTINF:-1 group-title="央视",CCTV-4K超
+kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=cctv4ka&pwd=jsdecode
+#EXTINF:-1 group-title="央视",CCTV-4K超
+kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=cctv4ka&pwd=jsdecode
 #EXTINF:-1 group-title="央视",CCTV-4中文国际
 htmlplay://https://m.miguvideo.com/m/liveDetail/631780421?channelId=10010001005
 #EXTINF:-1 group-title="央视",CCTV-4中文国际
@@ -244,10 +236,6 @@ kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=cctv4o&pwd=jsdecode
 #EXTINF:-1 group-title="央视",CCTV-4中文国际美洲
 htmlplay://https://m.miguvideo.com/m/liveDetail/608807416?channelId=10010001005
 #EXTINF:-1 group-title="央视",CCTV-4中文国际美洲
-https://hc73k3dhwo5gfkt.wcetv.com/hls/cctv4.m3u8
-#EXTINF:-1 group-title="央视",CCTV-4中文国际美洲
-https://hc73k3dhwo5gfkt.wcetv.com/hls/wcetv318.m3u8
-#EXTINF:-1 group-title="央视",CCTV-4中文国际美洲
 kdsvod://migu://608807416
 #EXTINF:-1 group-title="央视",CCTV-5
 http://hebcx.chinashadt.com:2036/live/10007.stream/playlist.m3u8
@@ -255,8 +243,6 @@ http://hebcx.chinashadt.com:2036/live/10007.stream/playlist.m3u8
 http://media.hndyjyfw.gov.cn/live/jz-cctv-5/live.m3u8@@Referer=https://www.hndyjyfw.gov.cn/@@
 #EXTINF:-1 group-title="央视",CCTV-5
 htmlplay://https://m.miguvideo.com/m/liveDetail/641886683?channelId=10010001005
-#EXTINF:-1 group-title="央视",CCTV-5
-kdsvod://http://v.91kds.com/b7/migu.m3u8?id=cctv5hd&pwd=jsdecode
 #EXTINF:-1 group-title="央视",CCTV-5
 kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=cctv5hd&pwd=jsdecode
 #EXTINF:-1 group-title="央视",CCTV-5
@@ -280,17 +266,15 @@ kdsvod://http://v.91kds.com/b7/tvzb6.m3u8?id=cctv5hd&pwd=jsdecode
 #EXTINF:-1 group-title="央视",CCTV-5
 kdsvod://http://v.91kds.com/b7/tvzb7.m3u8?id=cctv5hd&pwd=jsdecode
 #EXTINF:-1 group-title="央视",CCTV-5
-http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226731/1.m3u8
-#EXTINF:-1 group-title="央视",CCTV-5
 tvbus://1D8faY7KbPVt44CXE2uYKAwxfEnoPvVwiYQd6j6GMHHg19ywFG
 #EXTINF:-1 group-title="央视",CCTV-5
-kdsvod://http://v.91kds.com/b7/cdnlive.m3u8?id=cctv5-720p&pwd=jsdecode
+kdsvod://rtmphtml://http://47.97.252.137:8099/api/cctv5hd.m3u8?&pwd=jsdecode
+#EXTINF:-1 group-title="央视",CCTV-5
+kdsvod://ysp://cctv5hd&fmt=ip
 #EXTINF:-1 group-title="央视",CCTV-5+
 http://media.hndyjyfw.gov.cn/live/jz-cctv-5-plus/live.m3u8@@Referer=https://www.hndyjyfw.gov.cn/@@
 #EXTINF:-1 group-title="央视",CCTV-5+
 htmlplay://https://m.miguvideo.com/m/liveDetail/641886773?channelId=10010001005
-#EXTINF:-1 group-title="央视",CCTV-5+
-kdsvod://http://v.91kds.com/b7/migu.m3u8?id=cctv5p&pwd=jsdecode
 #EXTINF:-1 group-title="央视",CCTV-5+
 kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=cctv5p&pwd=jsdecode
 #EXTINF:-1 group-title="央视",CCTV-5+
@@ -314,19 +298,17 @@ kdsvod://http://v.91kds.com/b7/tvzb6.m3u8?id=cctv5p&pwd=jsdecode
 #EXTINF:-1 group-title="央视",CCTV-5+
 kdsvod://http://v.91kds.com/b7/tvzb7.m3u8?id=cctv5p&pwd=jsdecode
 #EXTINF:-1 group-title="央视",CCTV-5+
-http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226711/1.m3u8
-#EXTINF:-1 group-title="央视",CCTV-5+
-kdsvod://http://v.91kds.com/b7/cdnlive.m3u8?id=cctv5p-720p&pwd=jsdecode
+kdsvod://rtmphtml://http://47.97.252.137:8099/api/cctv5p.m3u8?&pwd=jsdecode
 #EXTINF:-1 group-title="央视",CCTV-5+
 tvbus://12ju1k33nc1A5LVgFaqFk9xMxmGCCLah4fCV9y9VJqwbW2sMoKP
+#EXTINF:-1 group-title="央视",CCTV-5+
+kdsvod://ysp://cctv5p&fmt=ip
 #EXTINF:-1 group-title="央视",CCTV-6
 http://media.hndyjyfw.gov.cn/live/jz-cctv-6/live.m3u8@@Referer=https://www.hndyjyfw.gov.cn/@@
 #EXTINF:-1 group-title="央视",CCTV-6
 htmlplay://https://m.miguvideo.com/m/liveDetail/624878396?channelId=10010001005
 #EXTINF:-1 group-title="央视",CCTV-6
 kdsvod://http://v.91kds.com/b7/xuexi.m3u8?id=cctv6&pwd=jsdecode
-#EXTINF:-1 group-title="央视",CCTV-6
-kdsvod://http://v.91kds.com/b7/migu.m3u8?id=cctv6hd&pwd=jsdecode
 #EXTINF:-1 group-title="央视",CCTV-6
 kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=cctv6hd&pwd=jsdecode
 #EXTINF:-1 group-title="央视",CCTV-6
@@ -352,21 +334,17 @@ kdsvod://http://v.91kds.com/b7/tvzb6.m3u8?id=cctv6hd&pwd=jsdecode
 #EXTINF:-1 group-title="央视",CCTV-6
 kdsvod://http://v.91kds.com/b7/tvzb7.m3u8?id=cctv6hd&pwd=jsdecode
 #EXTINF:-1 group-title="央视",CCTV-6
-http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226699/1.m3u8
-#EXTINF:-1 group-title="央视",CCTV-6
 tvbus://1zC4YCmVAwP2isG1rW1BbFRCJkrm4Ecsaq2uMe8e9eNVmggm2w
 #EXTINF:-1 group-title="央视",CCTV-6
-kdsvod://http://v.91kds.com/b7/cdnlive.m3u8?id=cctv6-720p&pwd=jsdecode
+kdsvod://rtmphtml://http://47.97.252.137:8099/api/cctv6hd.m3u8?&pwd=jsdecode
+#EXTINF:-1 group-title="央视",CCTV-6
+kdsvod://ysp://cctv6hd&fmt=ip
 #EXTINF:-1 group-title="央视",CCTV-7
 http://media.hndyjyfw.gov.cn/live/jz-cctv-7/live.m3u8@@Referer=https://www.hndyjyfw.gov.cn/@@
 #EXTINF:-1 group-title="央视",CCTV-7
 htmlplay://https://m.miguvideo.com/m/liveDetail/673168121?channelId=10010001005
 #EXTINF:-1 group-title="央视",CCTV-7
 kdsvod://http://v.91kds.com/b7/xuexi.m3u8?id=cctv7&pwd=jsdecode
-#EXTINF:-1 group-title="央视",CCTV-7
-https://live.junhao.mil.cn/rmt9502/3e6e7c5477314ec38f5e58e2a5c70024.m3u8?txSecret=57978fafb9c19880afa5c8687e8241d8&txTime=7A42BAFF
-#EXTINF:-1 group-title="央视",CCTV-7
-kdsvod://http://v.91kds.com/b7/migu.m3u8?id=cctv7hd&pwd=jsdecode
 #EXTINF:-1 group-title="央视",CCTV-7
 kdsvod://http://v.91kds.com/b7/cctvxw.m3u8?bt=2&id=cctv7hd&pwd=jsdecode@@Referer=https://m-live.cctvnews.cctv.com/@@
 #EXTINF:-1 group-title="央视",CCTV-7
@@ -400,17 +378,15 @@ kdsvod://http://v.91kds.com/b7/tvzb6.m3u8?id=cctv7hd&pwd=jsdecode
 #EXTINF:-1 group-title="央视",CCTV-7
 kdsvod://http://v.91kds.com/b7/tvzb7.m3u8?id=cctv7hd&pwd=jsdecode
 #EXTINF:-1 group-title="央视",CCTV-7
-http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226721/1.m3u8
-#EXTINF:-1 group-title="央视",CCTV-7
 tvbus://1Ctr5mLCFV5v4zfYxGx4xvsjQszFcf1F4NoXakwErgKHdtNG7J
 #EXTINF:-1 group-title="央视",CCTV-7
-kdsvod://http://v.91kds.com/b7/cdnlive.m3u8?id=cctv7-720p&pwd=jsdecode
+kdsvod://rtmphtml://http://47.97.252.137:8099/api/cctv7hd.m3u8?&pwd=jsdecode
+#EXTINF:-1 group-title="央视",CCTV-7
+kdsvod://ysp://cctv7hd&fmt=ip
 #EXTINF:-1 group-title="央视",CCTV-8
 kdsvod://http://v.91kds.com/c7/sxy.m3u8?id=cctv8&pwd=jsdecode
 #EXTINF:-1 group-title="央视",CCTV-8
 htmlplay://https://m.miguvideo.com/m/liveDetail/624878356?channelId=10010001005
-#EXTINF:-1 group-title="央视",CCTV-8
-kdsvod://http://v.91kds.com/b7/migu.m3u8?id=cctv8hd&pwd=jsdecode
 #EXTINF:-1 group-title="央视",CCTV-8
 kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=cctv8hd&pwd=jsdecode
 #EXTINF:-1 group-title="央视",CCTV-8
@@ -434,17 +410,17 @@ kdsvod://http://v.91kds.com/b7/tvzb6.m3u8?id=cctv8hd&pwd=jsdecode
 #EXTINF:-1 group-title="央视",CCTV-8
 kdsvod://http://v.91kds.com/b7/tvzb7.m3u8?id=cctv8hd&pwd=jsdecode
 #EXTINF:-1 group-title="央视",CCTV-8
-http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226715/1.m3u8
-#EXTINF:-1 group-title="央视",CCTV-8
 tvbus://12eT8YJKrEtSGZYRddxP3agfMKiemfWdfyRU2taoRAX2Y55Lc5o
 #EXTINF:-1 group-title="央视",CCTV-8
-kdsvod://http://v.91kds.com/b7/cdnlive.m3u8?id=cctv8-720p&pwd=jsdecode
+kdsvod://rtmphtml://http://47.97.252.137:8099/api/cctv8hd.m3u8?&pwd=jsdecode
+#EXTINF:-1 group-title="央视",CCTV-8
+kdsvod://ysp://cctv8hd&fmt=ip
 #EXTINF:-1 group-title="央视",CCTV-8K超
 kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=cctv8k&pwd=jsdecode
 #EXTINF:-1 group-title="央视",CCTV-8K超
 kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=cctv8k&pwd=jsdecode
 #EXTINF:-1 group-title="央视",CCTV-8K超
-kdsvod://http://v.91kds.com/b7/cdnlive.m3u8?id=cctv8k-720p&pwd=jsdecode
+kdsvod://ysp://cctv8k&fmt=ip
 #EXTINF:-1 group-title="央视",CCTV-9
 http://media.hndyjyfw.gov.cn/live/jz-cctv-9/live.m3u8@@Referer=https://www.hndyjyfw.gov.cn/@@
 #EXTINF:-1 group-title="央视",CCTV-9
@@ -453,8 +429,6 @@ htmlplay://https://m.miguvideo.com/m/liveDetail/673168140?channelId=10010001005
 rtmp://play.kankanlive.com/live/1698423397390920
 #EXTINF:-1 group-title="央视",CCTV-9
 http://play.kankanlive.com/live/1698423397390920.m3u8
-#EXTINF:-1 group-title="央视",CCTV-9
-kdsvod://http://v.91kds.com/b7/migu.m3u8?id=cctv9hd&pwd=jsdecode
 #EXTINF:-1 group-title="央视",CCTV-9
 kdsvod://http://v.91kds.com/b7/cctvxw.m3u8?bt=2&id=cctv9hd&pwd=jsdecode@@Referer=https://m-live.cctvnews.cctv.com/@@
 #EXTINF:-1 group-title="央视",CCTV-9
@@ -486,13 +460,11 @@ kdsvod://http://v.91kds.com/b7/tvzb6.m3u8?id=cctv9hd&pwd=jsdecode
 #EXTINF:-1 group-title="央视",CCTV-9
 kdsvod://http://v.91kds.com/b7/tvzb7.m3u8?id=cctv9hd&pwd=jsdecode
 #EXTINF:-1 group-title="央视",CCTV-9
-http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226651/1.m3u8
-#EXTINF:-1 group-title="央视",CCTV-9
-http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226657/1.m3u8
-#EXTINF:-1 group-title="央视",CCTV-9
 tvbus://1UzS2UhXx5vCsB25j4w6Snt841ZzGkXBvmn55LLx2tgoDFKCNc
 #EXTINF:-1 group-title="央视",CCTV-9
-kdsvod://http://v.91kds.com/b7/cdnlive.m3u8?id=cctv9-720p&pwd=jsdecode
+kdsvod://rtmphtml://http://47.97.252.137:8099/api/cctv9hd.m3u8?&pwd=jsdecode
+#EXTINF:-1 group-title="央视",CCTV-9
+kdsvod://ysp://cctv9hd&fmt=ip
 #EXTINF:-1 group-title="央视",CCTV-10
 http://media.hndyjyfw.gov.cn/live/jz-cctv-10/live.m3u8@@Referer=https://www.hndyjyfw.gov.cn/@@
 #EXTINF:-1 group-title="央视",CCTV-10
@@ -505,8 +477,6 @@ kdsvod://http://v.91kds.com/b7/xuexi.m3u8?id=cctv10&pwd=jsdecode
 rtmp://play.kankanlive.com/live/1698423445959919
 #EXTINF:-1 group-title="央视",CCTV-10
 http://play.kankanlive.com/live/1698423445959919.m3u8
-#EXTINF:-1 group-title="央视",CCTV-10
-kdsvod://http://v.91kds.com/b7/migu.m3u8?id=cctv10hd&pwd=jsdecode
 #EXTINF:-1 group-title="央视",CCTV-10
 kdsvod://http://v.91kds.com/b7/cctvxw.m3u8?bt=2&id=cctv10hd&pwd=jsdecode@@Referer=https://m-live.cctvnews.cctv.com/@@
 #EXTINF:-1 group-title="央视",CCTV-10
@@ -540,11 +510,11 @@ kdsvod://http://v.91kds.com/b7/tvzb6.m3u8?id=cctv10hd&pwd=jsdecode
 #EXTINF:-1 group-title="央视",CCTV-10
 kdsvod://http://v.91kds.com/b7/tvzb7.m3u8?id=cctv10hd&pwd=jsdecode
 #EXTINF:-1 group-title="央视",CCTV-10
-http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226708/1.m3u8
+kdsvod://rtmphtml://http://47.97.252.137:8099/api/cctv10hd.m3u8?&pwd=jsdecode
 #EXTINF:-1 group-title="央视",CCTV-10
 tvbus://1293wgehjUf46cWiWqwxdUR4jkgoJXoRKnALJMPQNxUaLH4vg7S
 #EXTINF:-1 group-title="央视",CCTV-10
-kdsvod://http://v.91kds.com/b7/cdnlive.m3u8?id=cctv10-720p&pwd=jsdecode
+kdsvod://ysp://cctv10hd&fmt=ip
 #EXTINF:-1 group-title="央视",CCTV-11
 http://media.hndyjyfw.gov.cn/live/jz-cctv-11/live.m3u8@@Referer=https://www.hndyjyfw.gov.cn/@@
 #EXTINF:-1 group-title="央视",CCTV-11
@@ -553,8 +523,6 @@ htmlplay://https://m.miguvideo.com/m/liveDetail/667987558?channelId=10010001005
 rtmp://play.kankanlive.com/live/1698423476198918
 #EXTINF:-1 group-title="央视",CCTV-11
 http://play.kankanlive.com/live/1698423476198918.m3u8
-#EXTINF:-1 group-title="央视",CCTV-11
-kdsvod://http://v.91kds.com/b7/migu.m3u8?id=cctv11hd&pwd=jsdecode
 #EXTINF:-1 group-title="央视",CCTV-11
 kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=cctv11hd&pwd=jsdecode
 #EXTINF:-1 group-title="央视",CCTV-11
@@ -578,11 +546,11 @@ kdsvod://http://v.91kds.com/b7/tvzb6.m3u8?id=cctv11hd&pwd=jsdecode
 #EXTINF:-1 group-title="央视",CCTV-11
 kdsvod://http://v.91kds.com/b7/tvzb7.m3u8?id=cctv11hd&pwd=jsdecode
 #EXTINF:-1 group-title="央视",CCTV-11
-http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226714/1.m3u8
-#EXTINF:-1 group-title="央视",CCTV-11
 tvbus://1hq72BV96BBWyf8coy5dBDtUwBbioMWrWzPkiVnzAoTvCwjVdW
 #EXTINF:-1 group-title="央视",CCTV-11
-kdsvod://http://v.91kds.com/b7/cdnlive.m3u8?id=cctv11-720p&pwd=jsdecode
+kdsvod://rtmphtml://http://47.97.252.137:8099/api/cctv11hd.m3u8?&pwd=jsdecode
+#EXTINF:-1 group-title="央视",CCTV-11
+kdsvod://ysp://cctv11hd&fmt=ip
 #EXTINF:-1 group-title="央视",CCTV-12
 http://media.hndyjyfw.gov.cn/live/jz-cctv-12/live.m3u8@@Referer=https://www.hndyjyfw.gov.cn/@@
 #EXTINF:-1 group-title="央视",CCTV-12
@@ -593,8 +561,6 @@ kdsvod://http://v.91kds.com/b7/xuexi.m3u8?id=cctv12&pwd=jsdecode
 rtmp://play.kankanlive.com/live/1698423511884917
 #EXTINF:-1 group-title="央视",CCTV-12
 http://play.kankanlive.com/live/1698423511884917.m3u8
-#EXTINF:-1 group-title="央视",CCTV-12
-kdsvod://http://v.91kds.com/b7/migu.m3u8?id=cctv12hd&pwd=jsdecode
 #EXTINF:-1 group-title="央视",CCTV-12
 kdsvod://http://v.91kds.com/c7/cctvxw.m3u8?bt=2&id=cctv12hd&pwd=jsdecode
 #EXTINF:-1 group-title="央视",CCTV-12
@@ -622,13 +588,11 @@ kdsvod://http://v.91kds.com/b7/tvzb6.m3u8?id=cctv12hd&pwd=jsdecode
 #EXTINF:-1 group-title="央视",CCTV-12
 kdsvod://http://v.91kds.com/b7/tvzb7.m3u8?id=cctv12hd&pwd=jsdecode
 #EXTINF:-1 group-title="央视",CCTV-12
-http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226723/1.m3u8
-#EXTINF:-1 group-title="央视",CCTV-12
-http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226748/1.m3u8
+kdsvod://rtmphtml://http://47.97.252.137:8099/api/cctv12hd.m3u8?&pwd=jsdecode
 #EXTINF:-1 group-title="央视",CCTV-12
 tvbus://1W3YH3RFS46dnW6HKgYfgrh4SMYHrV7MStL6HkiWm5sQSJ7nSi
 #EXTINF:-1 group-title="央视",CCTV-12
-kdsvod://http://v.91kds.com/b7/cdnlive.m3u8?id=cctv12-720p&pwd=jsdecode
+kdsvod://ysp://cctv12hd&fmt=ip
 #EXTINF:-1 group-title="央视",CCTV-13
 https://tvfile.hscmw.cn/live/hsyouxian.m3u8
 #EXTINF:-1 group-title="央视",CCTV-13
@@ -660,8 +624,6 @@ rtmp://play.kankanlive.com/live/1698423543275916
 #EXTINF:-1 group-title="央视",CCTV-13
 http://play.kankanlive.com/live/1698423543275916.m3u8
 #EXTINF:-1 group-title="央视",CCTV-13
-kdsvod://http://v.91kds.com/b7/migu.m3u8?id=cctv13hd&pwd=jsdecode
-#EXTINF:-1 group-title="央视",CCTV-13
 kdsvod://http://v.91kds.com/c7/cctvxw.m3u8?bt=2&id=cctv14hd&pwd=jsdecode
 #EXTINF:-1 group-title="央视",CCTV-13
 kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=cctv13hd&pwd=jsdecode
@@ -688,11 +650,11 @@ kdsvod://http://v.91kds.com/b7/tvzb6.m3u8?id=cctv13hd&pwd=jsdecode
 #EXTINF:-1 group-title="央视",CCTV-13
 kdsvod://http://v.91kds.com/b7/tvzb7.m3u8?id=cctv13hd&pwd=jsdecode
 #EXTINF:-1 group-title="央视",CCTV-13
-http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226717/1.m3u8
-#EXTINF:-1 group-title="央视",CCTV-13
 tvbus://12DTZPEKexr8LYLmMk8tzGWViAVhXBRiQu7m3dSDyME2TaVnhfR
 #EXTINF:-1 group-title="央视",CCTV-13
-kdsvod://http://v.91kds.com/b7/cdnlive.m3u8?id=cctv13-720p&pwd=jsdecode
+kdsvod://rtmphtml://http://47.97.252.137:8099/api/cctv13hd.m3u8?&pwd=jsdecode
+#EXTINF:-1 group-title="央视",CCTV-13
+kdsvod://ysp://cctv13hd&fmt=ip
 #EXTINF:-1 group-title="央视",CCTV-14
 http://media.hndyjyfw.gov.cn/live/jz-cctv-14/live.m3u8@@Referer=https://www.hndyjyfw.gov.cn/@@
 #EXTINF:-1 group-title="央视",CCTV-14
@@ -701,8 +663,6 @@ htmlplay://https://m.miguvideo.com/m/liveDetail/624878440?channelId=10010001005
 rtmp://play.kankanlive.com/live/1698423575756915
 #EXTINF:-1 group-title="央视",CCTV-14
 http://play.kankanlive.com/live/1698423575756915.m3u8
-#EXTINF:-1 group-title="央视",CCTV-14
-kdsvod://http://v.91kds.com/b7/migu.m3u8?id=cctv14hd&pwd=jsdecode
 #EXTINF:-1 group-title="央视",CCTV-14
 kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=cctv14hd&pwd=jsdecode
 #EXTINF:-1 group-title="央视",CCTV-14
@@ -726,13 +686,11 @@ kdsvod://http://v.91kds.com/b7/tvzb6.m3u8?id=cctv14hd&pwd=jsdecode
 #EXTINF:-1 group-title="央视",CCTV-14
 kdsvod://http://v.91kds.com/b7/tvzb7.m3u8?id=cctv14hd&pwd=jsdecode
 #EXTINF:-1 group-title="央视",CCTV-14
-http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226645/1.m3u8
-#EXTINF:-1 group-title="央视",CCTV-14
-http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226663/1.m3u8
-#EXTINF:-1 group-title="央视",CCTV-14
-kdsvod://http://v.91kds.com/b7/cdnlive.m3u8?id=cctv14-720p&pwd=jsdecode
+kdsvod://rtmphtml://http://47.97.252.137:8099/api/cctv14hd.m3u8?&pwd=jsdecode
 #EXTINF:-1 group-title="央视",CCTV-14
 tvbus://1CbrY3HitusHMmB8pxXYDxd6Wiog1gh98UwgJz3CVjpq5wiyjP
+#EXTINF:-1 group-title="央视",CCTV-14
+kdsvod://ysp://cctv14hd&fmt=ip
 #EXTINF:-1 group-title="央视",CCTV-15
 http://hbhh.chinashadt.com:2111/live/hbhhys.stream/playlist.m3u8
 #EXTINF:-1 group-title="央视",CCTV-15
@@ -741,8 +699,6 @@ htmlplay://https://m.miguvideo.com/m/liveDetail/673168223?channelId=10010001005
 rtmp://play.kankanlive.com/live/1698423607826914
 #EXTINF:-1 group-title="央视",CCTV-15
 http://play.kankanlive.com/live/1698423607826914.m3u8
-#EXTINF:-1 group-title="央视",CCTV-15
-kdsvod://http://v.91kds.com/b7/migu.m3u8?id=cctv15hd&pwd=jsdecode
 #EXTINF:-1 group-title="央视",CCTV-15
 kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=cctv15hd&pwd=jsdecode
 #EXTINF:-1 group-title="央视",CCTV-15
@@ -766,11 +722,11 @@ kdsvod://http://v.91kds.com/b7/tvzb6.m3u8?id=cctv15hd&pwd=jsdecode
 #EXTINF:-1 group-title="央视",CCTV-15
 kdsvod://http://v.91kds.com/b7/tvzb7.m3u8?id=cctv15hd&pwd=jsdecode
 #EXTINF:-1 group-title="央视",CCTV-15
-http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226648/1.m3u8
-#EXTINF:-1 group-title="央视",CCTV-15
-kdsvod://http://v.91kds.com/b7/cdnlive.m3u8?id=cctv15-720p&pwd=jsdecode
+kdsvod://rtmphtml://http://47.97.252.137:8099/api/cctv15hd.m3u8?&pwd=jsdecode
 #EXTINF:-1 group-title="央视",CCTV-15
 tvbus://12wTU9GSeaYQG576Kw6MyyyeHPJnwS5QZjVdJdXV6KPRJNLNQDd
+#EXTINF:-1 group-title="央视",CCTV-15
+kdsvod://ysp://cctv15hd&fmt=ip
 #EXTINF:-1 group-title="央视",CCTV-16
 kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=cctv16hd&pwd=jsdecode
 #EXTINF:-1 group-title="央视",CCTV-16
@@ -792,11 +748,11 @@ kdsvod://http://v.91kds.com/b7/tvzb6.m3u8?id=cctv16hd&pwd=jsdecode
 #EXTINF:-1 group-title="央视",CCTV-16
 kdsvod://http://v.91kds.com/b7/tvzb7.m3u8?id=cctv16hd&pwd=jsdecode
 #EXTINF:-1 group-title="央视",CCTV-16
-http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226825/1.m3u8
-#EXTINF:-1 group-title="央视",CCTV-16
-kdsvod://http://v.91kds.com/b7/cdnlive.m3u8?id=cctv16-720p&pwd=jsdecode
+kdsvod://rtmphtml://http://47.97.252.137:8099/api/cctv16hd.m3u8?&pwd=jsdecode
 #EXTINF:-1 group-title="央视",CCTV-16
 tvbus://12N99qDA8hejWyxWQGBQmGK947eoYTqzKuRmm7XLknxNQ5L33Kn
+#EXTINF:-1 group-title="央视",CCTV-16
+kdsvod://ysp://cctv16hd&fmt=ip
 #EXTINF:-1 group-title="央视",CCTV-17
 htmlplay://https://m.miguvideo.com/m/liveDetail/673168256?channelId=10010001005
 #EXTINF:-1 group-title="央视",CCTV-17
@@ -805,8 +761,6 @@ kdsvod://http://v.91kds.com/b7/xuexi.m3u8?id=cctv17&pwd=jsdecode
 rtmp://play.kankanlive.com/live/1698423272597921
 #EXTINF:-1 group-title="央视",CCTV-17
 http://play.kankanlive.com/live/1698423272597921.m3u8
-#EXTINF:-1 group-title="央视",CCTV-17
-kdsvod://http://v.91kds.com/b7/migu.m3u8?id=cctv17hd&pwd=jsdecode
 #EXTINF:-1 group-title="央视",CCTV-17
 kdsvod://http://v.91kds.com/c7/cctvxw.m3u8?bt=2&id=cctv17hd&pwd=jsdecode
 #EXTINF:-1 group-title="央视",CCTV-17
@@ -834,55 +788,41 @@ kdsvod://http://v.91kds.com/b7/tvzb6.m3u8?id=cctv17hd&pwd=jsdecode
 #EXTINF:-1 group-title="央视",CCTV-17
 kdsvod://http://v.91kds.com/b7/tvzb7.m3u8?id=cctv17hd&pwd=jsdecode
 #EXTINF:-1 group-title="央视",CCTV-17
-http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226660/1.m3u8
-#EXTINF:-1 group-title="央视",CCTV-17
-http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226727/1.m3u8
-#EXTINF:-1 group-title="央视",CCTV-17
-kdsvod://http://v.91kds.com/b7/cdnlive.m3u8?id=cctv17-720p&pwd=jsdecode
+kdsvod://rtmphtml://http://47.97.252.137:8099/api/cctv17hd.m3u8?&pwd=jsdecode
 #EXTINF:-1 group-title="央视",CCTV-17
 tvbus://1yazjkDkf5tbb3kr6bUGDyjU3yVQKhzKVqdDhCHVnhkqFfShjm
+#EXTINF:-1 group-title="央视",CCTV-17
+kdsvod://ysp://cctv17hd&fmt=ip
 #EXTINF:-1 group-title="央视",CCTV-世界地理
 kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=sjdl&pwd=jsdecode
 #EXTINF:-1 group-title="央视",CCTV-世界地理
 kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=sjdl&pwd=jsdecode
-#EXTINF:-1 group-title="央视",CCTV-世界地理
-kdsvod://http://v.91kds.com/b7/cdnlive.m3u8?id=sjdl-720p&pwd=jsdecode
 #EXTINF:-1 group-title="央视",CCTV-兵器科技
 kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=gfjs&pwd=jsdecode
 #EXTINF:-1 group-title="央视",CCTV-兵器科技
 kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=gfjs&pwd=jsdecode
-#EXTINF:-1 group-title="央视",CCTV-兵器科技
-kdsvod://http://v.91kds.com/b7/cdnlive.m3u8?id=gfjs-720p&pwd=jsdecode
 #EXTINF:-1 group-title="央视",CCTV-卫生健康
 kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=wsjk&pwd=jsdecode
 #EXTINF:-1 group-title="央视",CCTV-卫生健康
 kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=wsjk&pwd=jsdecode
-#EXTINF:-1 group-title="央视",CCTV-卫生健康
-kdsvod://http://v.91kds.com/b7/cdnlive.m3u8?id=wsjk-720p&pwd=jsdecode
 #EXTINF:-1 group-title="央视",CCTV-央视台球
 kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=ystq&pwd=jsdecode
 #EXTINF:-1 group-title="央视",CCTV-央视台球
 kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=ystq&pwd=jsdecode
-#EXTINF:-1 group-title="央视",CCTV-央视台球
-kdsvod://http://v.91kds.com/b7/cdnlive.m3u8?id=ystq-720p&pwd=jsdecode
 #EXTINF:-1 group-title="央视",CCTV-央视文化精品
 kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=ysjp&pwd=jsdecode
 #EXTINF:-1 group-title="央视",CCTV-央视文化精品
 kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=ysjp&pwd=jsdecode
-#EXTINF:-1 group-title="央视",CCTV-央视文化精品
-kdsvod://http://v.91kds.com/b7/cdnlive.m3u8?id=ysjp-720p&pwd=jsdecode
 #EXTINF:-1 group-title="央视",CCTV-女性时尚
 kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=nxss&pwd=jsdecode
 #EXTINF:-1 group-title="央视",CCTV-女性时尚
 kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=nxss&pwd=jsdecode
-#EXTINF:-1 group-title="央视",CCTV-女性时尚
-kdsvod://http://v.91kds.com/b7/cdnlive.m3u8?id=nxss-720p&pwd=jsdecode
 #EXTINF:-1 group-title="央视",CCTV-怀旧剧场
 kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=hjjc&pwd=jsdecode
 #EXTINF:-1 group-title="央视",CCTV-怀旧剧场
 kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=hjjc&pwd=jsdecode
 #EXTINF:-1 group-title="央视",CCTV-怀旧剧场
-kdsvod://http://v.91kds.com/b7/cdnlive.m3u8?id=hjjc-720p&pwd=jsdecode
+kdsvod://ysp://hjjc&fmt=ip
 #EXTINF:-1 group-title="央视",CCTV-电视指南
 kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=dszn&pwd=jsdecode
 #EXTINF:-1 group-title="央视",CCTV-电视指南
@@ -892,45 +832,35 @@ kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=dyjc&pwd=jsdecode
 #EXTINF:-1 group-title="央视",CCTV-第一剧场
 kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=dyjc&pwd=jsdecode
 #EXTINF:-1 group-title="央视",CCTV-第一剧场
-kdsvod://http://v.91kds.com/b7/cdnlive.m3u8?id=dyjc-720p&pwd=jsdecode
-#EXTINF:-1 group-title="央视",CCTV-第一剧场
-tvbus://1sKcpXPQRSvjx6X1x5LxPQEJ47HTkcyco8GnfdX7evKRGiD9Lj
+kdsvod://ysp://dyjc&fmt=ip
 #EXTINF:-1 group-title="央视",CCTV-风云剧场
 kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=fyjc&pwd=jsdecode
 #EXTINF:-1 group-title="央视",CCTV-风云剧场
 kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=fyjc&pwd=jsdecode
 #EXTINF:-1 group-title="央视",CCTV-风云剧场
-kdsvod://http://v.91kds.com/b7/cdnlive.m3u8?id=fyjc-720p&pwd=jsdecode
-#EXTINF:-1 group-title="央视",CCTV-风云剧场
-tvbus://1HEQxSwFez6pr2WSwYhJn1kgNiepgCsb2sGCm2dfQpMsswuek5
+kdsvod://ysp://fyjc&fmt=ip
 #EXTINF:-1 group-title="央视",CCTV-风云足球
 kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=fyzq&pwd=jsdecode
 #EXTINF:-1 group-title="央视",CCTV-风云足球
 kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=fyzq&pwd=jsdecode
-#EXTINF:-1 group-title="央视",CCTV-风云足球
-kdsvod://http://v.91kds.com/b7/cdnlive.m3u8?id=fyzq-720p&pwd=jsdecode
 #EXTINF:-1 group-title="央视",CCTV-风云音乐
 kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=fyyy&pwd=jsdecode
 #EXTINF:-1 group-title="央视",CCTV-风云音乐
 kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=fyyy&pwd=jsdecode
-#EXTINF:-1 group-title="央视",CCTV-风云音乐
-kdsvod://http://v.91kds.com/b7/cdnlive.m3u8?id=fyyy-720p&pwd=jsdecode
 #EXTINF:-1 group-title="央视",CCTV-高尔夫网球
 kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=gefwq&pwd=jsdecode
 #EXTINF:-1 group-title="央视",CCTV-高尔夫网球
 kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=gefwq&pwd=jsdecode
-#EXTINF:-1 group-title="央视",CCTV-高尔夫网球
-kdsvod://http://v.91kds.com/b7/cdnlive.m3u8?id=gefwq-720p&pwd=jsdecode
 #EXTINF:-1 group-title="央视",CGTN
-https://live.cgtn.com/1000/prog_index.m3u8
+https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
 #EXTINF:-1 group-title="央视",CGTN
-https://live-wuxi.cgtn.com/live/wx_cgtn_1000k_internalnormal.m3u8
+https://english-livebkali.cgtn.com/live/encgtn_1.m3u8
+#EXTINF:-1 group-title="央视",CGTN
+https://english-livebkali.cgtn.com/live/encgtn_2.m3u8
 #EXTINF:-1 group-title="央视",CGTN
 htmlplay://https://m.miguvideo.com/m/liveDetail/609017205?channelId=10010001005
 #EXTINF:-1 group-title="央视",CGTN
 kdsvod://http://v.91kds.com/b7/xuexi.m3u8?id=cctvnews&pwd=jsdecode
-#EXTINF:-1 group-title="央视",CGTN
-https://hc73k3dhwo5gfkt.wcetv.com/hls/cgtn.m3u8
 #EXTINF:-1 group-title="央视",CGTN
 rtmp://play.kankanlive.com/live/1698423645566913
 #EXTINF:-1 group-title="央视",CGTN
@@ -954,37 +884,31 @@ kdsvod://http://v.91kds.com/b7/xuexi1.m3u8?id=cctvnews&pwd=jsdecode
 #EXTINF:-1 group-title="央视",CGTN
 kdsvod://migu://609017205
 #EXTINF:-1 group-title="央视",CGTN
-http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226666/1.m3u8
+kdsvod://ysp://cctvnews&fmt=ip
 #EXTINF:-1 group-title="央视",CGTN俄罗斯语
-https://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
-#EXTINF:-1 group-title="央视",CGTN俄罗斯语
-https://live-wuxi.cgtn.com/live/wx_cgtnr_1000k_internalnormal.m3u8
-#EXTINF:-1 group-title="央视",CGTN俄罗斯语
-https://liveru.cgtn.com/1000r/prog_index.m3u8
+kdsvod://http://v.91kds.com/b7/cgtn.m3u8?id=cctvr&pwd=jsdecode
 #EXTINF:-1 group-title="央视",CGTN俄罗斯语
 htmlplay://https://m.miguvideo.com/m/liveDetail/609006446?channelId=10010001005
 #EXTINF:-1 group-title="央视",CGTN俄罗斯语
 kdsvod://migu://609006446
+#EXTINF:-1 group-title="央视",CGTN俄罗斯语
+kdsvod://ysp://cctvr&fmt=ip
 #EXTINF:-1 group-title="央视",CGTN法语
-https://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8
-#EXTINF:-1 group-title="央视",CGTN法语
-https://live-wuxi.cgtn.com/live/wx_cgtnf_1000k_internalnormal.m3u8
-#EXTINF:-1 group-title="央视",CGTN法语
-https://livefr.cgtn.com/1000f/prog_index.m3u8
+kdsvod://http://v.91kds.com/b7/cgtn.m3u8?id=cctvf&pwd=jsdecode
 #EXTINF:-1 group-title="央视",CGTN法语
 htmlplay://https://m.miguvideo.com/m/liveDetail/609006476?channelId=10010001005
 #EXTINF:-1 group-title="央视",CGTN法语
-https://hc73k3dhwo5gfkt.wcetv.com/hls/cgtnf.m3u8
-#EXTINF:-1 group-title="央视",CGTN法语
 kdsvod://migu://609006476
+#EXTINF:-1 group-title="央视",CGTN法语
+kdsvod://ysp://cctvf&fmt=ip
 #EXTINF:-1 group-title="央视",CGTN纪录
-https://livedoc.cgtn.com/1000d/prog_index.m3u8
+https://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
 #EXTINF:-1 group-title="央视",CGTN纪录
-https://live-wuxi.cgtn.com/live/wx_cgtndoc_1000k_internalnormal.m3u8
+https://english-livebkali.cgtn.com/live/doccgtn_1.m3u8
+#EXTINF:-1 group-title="央视",CGTN纪录
+https://english-livebkali.cgtn.com/live/doccgtn_2.m3u8
 #EXTINF:-1 group-title="央视",CGTN纪录
 htmlplay://https://m.miguvideo.com/m/liveDetail/609006487?channelId=10010001005
-#EXTINF:-1 group-title="央视",CGTN纪录
-https://hc73k3dhwo5gfkt.wcetv.com/hls/cgtnd.m3u8
 #EXTINF:-1 group-title="央视",CGTN纪录
 https://english-liveali.cgtn.com/hls/yypdjlctzb/yypdjlctzbcd/playlist.m3u8
 #EXTINF:-1 group-title="央视",CGTN纪录
@@ -993,30 +917,24 @@ https://english-liveali.cgtn.com/hls/yypdjlctzb/yypdjlctzbhd/playlist.m3u8
 https://english-liveali.cgtn.com/hls/yypdjlctzb/playlist.m3u8
 #EXTINF:-1 group-title="央视",CGTN纪录
 kdsvod://migu://609006487
+#EXTINF:-1 group-title="央视",CGTN纪录
+kdsvod://ysp://cctv9y&fmt=ip
 #EXTINF:-1 group-title="央视",CGTN西班牙语
-https://livees.cgtn.com/1000e/prog_index.m3u8
-#EXTINF:-1 group-title="央视",CGTN西班牙语
-https://live-wuxi.cgtn.com/live/wx_cgtne_1000k_internalnormal.m3u8
-#EXTINF:-1 group-title="央视",CGTN西班牙语
-https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
+kdsvod://http://v.91kds.com/b7/cgtn.m3u8?id=cctve&pwd=jsdecode
 #EXTINF:-1 group-title="央视",CGTN西班牙语
 htmlplay://https://m.miguvideo.com/m/liveDetail/609006450?channelId=10010001005
 #EXTINF:-1 group-title="央视",CGTN西班牙语
-https://hc73k3dhwo5gfkt.wcetv.com/hls/cgtne.m3u8
-#EXTINF:-1 group-title="央视",CGTN西班牙语
 kdsvod://migu://609006450
+#EXTINF:-1 group-title="央视",CGTN西班牙语
+kdsvod://ysp://cctve&fmt=ip
 #EXTINF:-1 group-title="央视",CGTN阿拉伯语
-https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
-#EXTINF:-1 group-title="央视",CGTN阿拉伯语
-https://live-wuxi.cgtn.com/live/wx_cgtna_1000k_internalnormal.m3u8
-#EXTINF:-1 group-title="央视",CGTN阿拉伯语
-https://livear.cgtn.com/1000a/prog_index.m3u8
+kdsvod://http://v.91kds.com/b7/cgtn.m3u8?id=cctva&pwd=jsdecode
 #EXTINF:-1 group-title="央视",CGTN阿拉伯语
 htmlplay://https://m.miguvideo.com/m/liveDetail/609154345?channelId=10010001005
 #EXTINF:-1 group-title="央视",CGTN阿拉伯语
 kdsvod://migu://609154345
-#EXTINF:-1 group-title="央视",CHC动作电影
-kdsvod://http://v.91kds.com/b7/migu.m3u8?id=chcdz&pwd=jsdecode
+#EXTINF:-1 group-title="央视",CGTN阿拉伯语
+kdsvod://ysp://cctva&fmt=ip
 #EXTINF:-1 group-title="央视",CHC动作电影
 kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=chcdz&pwd=jsdecode
 #EXTINF:-1 group-title="央视",CHC动作电影
@@ -1024,15 +942,11 @@ kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=chcdz&pwd=jsdecode
 #EXTINF:-1 group-title="央视",CHC动作电影
 tvbus://11FUHyLwpx9uLsD5BFPuCTLBVMoirCLR1ZKu913xPtLDaVU7N9
 #EXTINF:-1 group-title="央视",CHC家庭影院
-kdsvod://http://v.91kds.com/b7/migu.m3u8?id=chcjt&pwd=jsdecode
-#EXTINF:-1 group-title="央视",CHC家庭影院
 kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=chcjt&pwd=jsdecode
 #EXTINF:-1 group-title="央视",CHC家庭影院
 kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=chcjt&pwd=jsdecode
 #EXTINF:-1 group-title="央视",CHC家庭影院
 tvbus://1KoiAJJqd76RFU6osg19Vmxzm1YaEj3vcR42jhmowvKJkwB8xt
-#EXTINF:-1 group-title="央视",CHC影迷电影
-kdsvod://http://v.91kds.com/b7/migu.m3u8?id=chchd&pwd=jsdecode
 #EXTINF:-1 group-title="央视",CHC影迷电影
 kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=chchd&pwd=jsdecode
 #EXTINF:-1 group-title="央视",CHC影迷电影
@@ -1041,14 +955,6 @@ kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=chchd&pwd=jsdecode
 kdsvod://migu://952383261
 #EXTINF:-1 group-title="央视",CHC影迷电影
 tvbus://1sns3oRrQLjQJ1tk984L5FoDtwy1ugojCntSXvqotWHmGwyvG5
-#EXTINF:-1 group-title="央视",cctv1-
-http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226694/1.m3u8
-#EXTINF:-1 group-title="央视",cctv1-
-http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226705/1.m3u8
-#EXTINF:-1 group-title="央视",cctv7hd-migu
-http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226948/1.m3u8
-#EXTINF:-1 group-title="央视",cctv7hd-migu
-http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226984/1.m3u8
 #EXTINF:-1 group-title="央视",jsnj18-cctv13
 https://live.nbs.cn/channels/njtv/sbpd/500k.m3u8
 #EXTINF:-1 group-title="央视",中国天气
@@ -1070,9 +976,7 @@ kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=cetv1hd&pwd=jsdecode
 #EXTINF:-1 group-title="央视",中国教育1
 kdsvod://migu://923287154
 #EXTINF:-1 group-title="央视",中国教育1
-http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226673/1.m3u8
-#EXTINF:-1 group-title="央视",中国教育1
-http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226712/1.m3u8
+kdsvod://ysp://cetv1hd&fmt=ip
 #EXTINF:-1 group-title="央视",中国教育2
 https://hlscdn.liangtv.cn/live/fe27f2056c0c41439a598b4fc6f1c580/705c05d0f8df4a42b6be8f0ae8a85d6a.m3u8
 #EXTINF:-1 group-title="央视",中国教育2
@@ -1081,14 +985,10 @@ kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=cetv2&pwd=jsdecode
 kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=cetv2&pwd=jsdecode
 #EXTINF:-1 group-title="央视",中国教育2
 kdsvod://migu://923287211
-#EXTINF:-1 group-title="央视",中国教育2
-http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226718/1.m3u8
 #EXTINF:-1 group-title="央视",中国教育3
 kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=cetv3&pwd=jsdecode
 #EXTINF:-1 group-title="央视",中国教育3
 kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=cetv3&pwd=jsdecode
-#EXTINF:-1 group-title="央视",中国教育3
-http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226722/1.m3u8
 #EXTINF:-1 group-title="央视",中国教育4
 https://hlscdn.liangtv.cn/live/343e872aba6d4096a14f2c675e698528/a65bdcf36db94eda8cb5ce02e1395f2a.m3u8
 #EXTINF:-1 group-title="央视",中国教育4
@@ -1097,8 +997,6 @@ kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=cetv4&pwd=jsdecode
 kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=cetv4&pwd=jsdecode
 #EXTINF:-1 group-title="央视",中国教育4
 kdsvod://migu://923287339
-#EXTINF:-1 group-title="央视",中国教育4
-http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226724/1.m3u8
 #EXTINF:-1 group-title="央视",中央新影-中学生
 htmlplay://https://m.miguvideo.com/m/liveDetail/708869532?channelId=10010001005
 #EXTINF:-1 group-title="央视",中央新影-中学生
@@ -1115,6 +1013,8 @@ htmlplay://https://m.miguvideo.com/m/liveDetail/624878970?channelId=10010001005
 kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=fxzl&pwd=jsdecode
 #EXTINF:-1 group-title="央视",中央新影-发现之旅
 kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=fxzl&pwd=jsdecode
+#EXTINF:-1 group-title="央视",中央新影-发现之旅
+kdsvod://migu://624878970
 #EXTINF:-1 group-title="央视",中央新影-老故事
 htmlplay://https://m.miguvideo.com/m/liveDetail/884121956?channelId=10010001005
 #EXTINF:-1 group-title="央视",中央新影-老故事
@@ -1127,8 +1027,22 @@ kdsvod://migu://884121956
 kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=zqjy&pwd=jsdecode
 #EXTINF:-1 group-title="央视",早期教育
 kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=zqjy&pwd=jsdecode
+#EXTINF:-1 group-title="央视",睛彩广场舞
+kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=jcgcw&pwd=jsdecode
+#EXTINF:-1 group-title="央视",睛彩广场舞
+kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=jcgcw&pwd=jsdecode
+#EXTINF:-1 group-title="央视",睛彩竞技
+kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=jcjj&pwd=jsdecode
+#EXTINF:-1 group-title="央视",睛彩竞技
+kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=jcjj&pwd=jsdecode
+#EXTINF:-1 group-title="央视",睛彩篮球
+kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=jclq&pwd=jsdecode
+#EXTINF:-1 group-title="央视",睛彩篮球
+kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=jclq&pwd=jsdecode
 #EXTINF:-1 group-title="央视",睛彩青少
-http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226965/1.m3u8
+kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=jcqs&pwd=jsdecode
+#EXTINF:-1 group-title="央视",睛彩青少
+kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=jcqs&pwd=jsdecode
 #EXTINF:-1 group-title="央视",重温经典
 http://hebcx.chinashadt.com:2036/live/10002.stream/playlist.m3u8
 #EXTINF:-1 group-title="央视",重温经典
@@ -1138,8 +1052,6 @@ kdsvod://http://v.91kds.com/b7/dsdq.m3u8?id=cwjd&pwd=jsdecode
 #EXTINF:-1 group-title="央视",重温经典
 kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=cwjd&pwd=jsdecode
 #EXTINF:-1 group-title="央视",重温经典
-kdsvod://http://v.91kds.com/b7/cdnlive.m3u8?id=cwjd-720p&pwd=jsdecode
-#EXTINF:-1 group-title="央视",重温经典
 tvbus://128WHgf92P3pAE9qR4VgEtu88u7JTs7G6w3bp2sWwAMi4A38jcN
 #EXTINF:-1 group-title="卫视",三沙卫视
 kdsvod://http://v.91kds.com/b7/hitv.m3u8?id=ssws&pwd=jsdecode
@@ -1147,6 +1059,8 @@ kdsvod://http://v.91kds.com/b7/hitv.m3u8?id=ssws&pwd=jsdecode
 kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=ssws&pwd=jsdecode
 #EXTINF:-1 group-title="卫视",三沙卫视
 kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=ssws&pwd=jsdecode
+#EXTINF:-1 group-title="卫视",三沙卫视
+kdsvod://migu://961023778
 #EXTINF:-1 group-title="卫视",东南卫视
 kdsvod://http://v.91kds.com/b7/fjtv.m3u8?id=dnwshd&pwd=jsdecode
 #EXTINF:-1 group-title="卫视",东南卫视
@@ -1160,17 +1074,17 @@ kdsvod://http://v1.91kds.com/live1/xuexi1.m3u8?id=dnws&pwd=jsdecode
 #EXTINF:-1 group-title="卫视",东南卫视
 kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=dnwshd&pwd=jsdecode
 #EXTINF:-1 group-title="卫视",东南卫视
-http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226670/1.m3u8
+kdsvod://rtmphtml://http://47.97.252.137:8099/api/dnwshd.m3u8?&pwd=jsdecode
 #EXTINF:-1 group-title="卫视",东南卫视
-http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226675/1.m3u8
+kdsvod://ysp://dnwshd&fmt=ip
+#EXTINF:-1 group-title="卫视",东南卫视
+kdsvod://migu://849116810
 #EXTINF:-1 group-title="卫视",东方卫视
 http://media.hndyjyfw.gov.cn/live/jz-shanghaiweishi-gq/live.m3u8@@Referer=https://www.hndyjyfw.gov.cn/@@
 #EXTINF:-1 group-title="卫视",东方卫视
 htmlplay://https://m.miguvideo.com/m/liveDetail/651632648?channelId=10010001005
 #EXTINF:-1 group-title="卫视",东方卫视
 kdsvod://http://v.91kds.com/b7/xuexi.m3u8?id=dfws&pwd=jsdecode
-#EXTINF:-1 group-title="卫视",东方卫视
-kdsvod://http://v.91kds.com/b7/migu.m3u8?id=dfwshd&pwd=jsdecode
 #EXTINF:-1 group-title="卫视",东方卫视
 kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=dfwshd&pwd=jsdecode
 #EXTINF:-1 group-title="卫视",东方卫视
@@ -1198,15 +1112,17 @@ kdsvod://http://v.91kds.com/b7/tvzb6.m3u8?id=dfwshd&pwd=jsdecode
 #EXTINF:-1 group-title="卫视",东方卫视
 kdsvod://http://v.91kds.com/b7/tvzb7.m3u8?id=dfwshd&pwd=jsdecode
 #EXTINF:-1 group-title="卫视",东方卫视
-http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226734/1.m3u8
+kdsvod://rtmphtml://http://47.97.252.137:8099/api/dfwshd.m3u8?&pwd=jsdecode
 #EXTINF:-1 group-title="卫视",东方卫视
-kdsvod://http://v.91kds.com/b7/cdnlive.m3u8?id=dfws-720p&pwd=jsdecode
+kdsvod://ysp://dfwshd&fmt=ip
 #EXTINF:-1 group-title="卫视",东方卫视4K
 kdsvod://http://v.91kds.com/c7/shkk.m3u8?id=dfws4k&pwd=jsdecode
 #EXTINF:-1 group-title="卫视",东方卫视4K
-kdsvod://http://v.91kds.com/b7/zgst.m3u8?id=dfws4k&pwd=jsdecode
-#EXTINF:-1 group-title="卫视",东方卫视4K
 kdsvod://bstv://dongfangweishi21324
+#EXTINF:-1 group-title="卫视",东方卫视4K
+kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=dfws4k&pwd=jsdecode
+#EXTINF:-1 group-title="卫视",东方卫视4K
+kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=dfws4k&pwd=jsdecode
 #EXTINF:-1 group-title="卫视",云南卫视
 https://zhzt.edehong.com:8001/srs1/live/2557455.flv
 #EXTINF:-1 group-title="卫视",云南卫视
@@ -1224,7 +1140,7 @@ kdsvod://http://v.91kds.com/b7/xuexi1.m3u8?id=ynws&pwd=jsdecode
 #EXTINF:-1 group-title="卫视",云南卫视
 kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=ynwshd&pwd=jsdecode
 #EXTINF:-1 group-title="卫视",云南卫视
-http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226709/1.m3u8
+kdsvod://ysp://ynwshd&fmt=ip
 #EXTINF:-1 group-title="卫视",兵团卫视
 https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
 #EXTINF:-1 group-title="卫视",兵团卫视
@@ -1238,7 +1154,7 @@ kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=btws&pwd=jsdecode
 #EXTINF:-1 group-title="卫视",兵团卫视
 kdsvod://migu://956923145
 #EXTINF:-1 group-title="卫视",兵团卫视
-http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226661/1.m3u8
+kdsvod://ysp://btws&fmt=ip
 #EXTINF:-1 group-title="卫视",内蒙古卫视
 https://livestream-bt.nmtv.cn/nmtv/3208526general.m3u8?txSecret=eb5a3102dd5406c7ffeddf560b024952&txTime=76B2F9A0
 #EXTINF:-1 group-title="卫视",内蒙古卫视
@@ -1248,19 +1164,21 @@ kdsvod://http://v.91kds.com/b7/xuexi.m3u8?id=nmgws&pwd=jsdecode
 #EXTINF:-1 group-title="卫视",内蒙古卫视
 kdsvod://http://v.91kds.com/c7/nmtv.m3u8?id=nmgws&pwd=jsdecode
 #EXTINF:-1 group-title="卫视",内蒙古卫视
-kdsvod://http://v.91kds.com/b7/migu.m3u8?id=nmgws&pwd=jsdecode
-#EXTINF:-1 group-title="卫视",内蒙古卫视
 kdsvod://http://v.91kds.com/b7/xuexi1.m3u8?id=nmgws&pwd=jsdecode
 #EXTINF:-1 group-title="卫视",内蒙古卫视
 kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=nmgws&pwd=jsdecode
 #EXTINF:-1 group-title="卫视",内蒙古卫视
 kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=nmgws&pwd=jsdecode
 #EXTINF:-1 group-title="卫视",内蒙古卫视
-http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226685/1.m3u8
+kdsvod://ysp://nmgws&fmt=ip
 #EXTINF:-1 group-title="卫视",农林卫视
 kdsvod://sntv://nl
 #EXTINF:-1 group-title="卫视",农林卫视
 kdsvod://migu://956904896
+#EXTINF:-1 group-title="卫视",农林卫视
+kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=snnl&pwd=jsdecode
+#EXTINF:-1 group-title="卫视",农林卫视
+kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=snnl&pwd=jsdecode
 #EXTINF:-1 group-title="卫视",北京卫视
 http://media.hndyjyfw.gov.cn/live/jz-beijingweishi/live.m3u8@@Referer=https://www.hndyjyfw.gov.cn/@@
 #EXTINF:-1 group-title="卫视",北京卫视
@@ -1276,19 +1194,17 @@ kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=bjwshd&pwd=jsdecode
 #EXTINF:-1 group-title="卫视",北京卫视
 kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=bjwshd&pwd=jsdecode
 #EXTINF:-1 group-title="卫视",北京卫视
-http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226719/1.m3u8
+kdsvod://rtmphtml://http://47.97.252.137:8099/api/bjwshd.m3u8?&pwd=jsdecode
 #EXTINF:-1 group-title="卫视",北京卫视
-kdsvod://http://v.91kds.com/b7/cdnlive.m3u8?id=bjws-720p&pwd=jsdecode
+kdsvod://ysp://bjwshd&fmt=ip
+#EXTINF:-1 group-title="卫视",北京卫视
+kdsvod://migu://630287636
 #EXTINF:-1 group-title="卫视",北京卫视4K
 kdsvod://http://v.91kds.com/c7/btv.m3u8?id=bjws4k&pwd=jsdecode
-#EXTINF:-1 group-title="卫视",北京卫视4K
-kdsvod://http://v.91kds.com/b7/zgst.m3u8?id=bjws4k&pwd=jsdecode@@Referer=https://api.chinaaudiovisual.cn/@@
 #EXTINF:-1 group-title="卫视",厦门卫视
 kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=xmws&pwd=jsdecode
 #EXTINF:-1 group-title="卫视",厦门卫视
 kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=xmws&pwd=jsdecode
-#EXTINF:-1 group-title="卫视",厦门卫视
-http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226695/1.m3u8
 #EXTINF:-1 group-title="卫视",吉林卫视
 kdsvod://http://v.91kds.com/b7/hoge.m3u8?ip=jltv&id=351&pwd=jsdecode
 #EXTINF:-1 group-title="卫视",吉林卫视
@@ -1308,7 +1224,9 @@ kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=jlwshd&pwd=jsdecode
 #EXTINF:-1 group-title="卫视",吉林卫视
 kdsvod://migu://947472500
 #EXTINF:-1 group-title="卫视",吉林卫视
-http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226671/1.m3u8
+kdsvod://rtmphtml://http://47.97.252.137:8099/api/jlwshd.m3u8?&pwd=jsdecode
+#EXTINF:-1 group-title="卫视",吉林卫视
+kdsvod://ysp://jlwshd&fmt=ip
 #EXTINF:-1 group-title="卫视",四川卫视
 kdsvod://http://v.91kds.com/b7/sctv.m3u8?id=scwshd&pwd=jsdecode@@Referer=https://www.sctv.com/@@
 #EXTINF:-1 group-title="卫视",四川卫视
@@ -1320,11 +1238,11 @@ kdsvod://http://v.91kds.com/b7/xuexi1.m3u8?id=scws&pwd=jsdecode
 #EXTINF:-1 group-title="卫视",四川卫视
 kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=scwshd&pwd=jsdecode
 #EXTINF:-1 group-title="卫视",四川卫视
-http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226659/1.m3u8
-#EXTINF:-1 group-title="卫视",四川卫视
-http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226697/1.m3u8
+kdsvod://ysp://scwshd&fmt=ip
 #EXTINF:-1 group-title="卫视",四川卫视4K
-kdsvod://http://v.91kds.com/b7/zgst.m3u8?id=scws4k&pwd=jsdecode@@Referer=https://api.chinaaudiovisual.cn/@@
+kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=scws4k&pwd=jsdecode
+#EXTINF:-1 group-title="卫视",四川卫视4K
+kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=scws4k&pwd=jsdecode
 #EXTINF:-1 group-title="卫视",大湾区卫视
 htmlplay://https://www.gdtv.cn/tvChannelDetail/51@@UA=Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/100.0.4896.75Safari/537.36@@
 #EXTINF:-1 group-title="卫视",大湾区卫视
@@ -1341,18 +1259,22 @@ kdsvod://http://v.91kds.com/b7/xuexi1.m3u8?id=nfws&pwd=jsdecode
 kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=nfws&pwd=jsdecode
 #EXTINF:-1 group-title="卫视",大湾区卫视
 kdsvod://migu://608917627
+#EXTINF:-1 group-title="卫视",大湾区卫视
+kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=nfwsitv&pwd=jsdecode
+#EXTINF:-1 group-title="卫视",大湾区卫视
+kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=nfwsa&pwd=jsdecode
+#EXTINF:-1 group-title="卫视",大湾区卫视
+kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=nfwsitv&pwd=jsdecode
+#EXTINF:-1 group-title="卫视",大湾区卫视
+kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=nfwsa&pwd=jsdecode
 #EXTINF:-1 group-title="卫视",大湾区卫视(国际版)
 htmlplay://https://www.gdtv.cn/tvChannelDetail/46@@UA=Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/100.0.4896.75Safari/537.36@@
-#EXTINF:-1 group-title="卫视",大湾区卫视(国际版)
-https://hc73k3dhwo5gfkt.wcetv.com/hls/gdtv.m3u8
 #EXTINF:-1 group-title="卫视",大湾区卫视(国际版)
 kdsvod://http://v.91kds.com/c7/gdtv.m3u8?id=gdgj&pwd=jsdecode
 #EXTINF:-1 group-title="卫视",大湾区卫视(国际版)
 kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=gdgj&pwd=jsdecode
 #EXTINF:-1 group-title="卫视",大湾区卫视(国际版)
 kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=gdgj&pwd=jsdecode
-#EXTINF:-1 group-title="卫视",大湾区卫视(国际版)
-kdsvod://http://v.91kds.com/b7/cdnlive.m3u8?id=gdgj&pwd=jsdecode
 #EXTINF:-1 group-title="卫视",天津卫视
 kdsvod://http://v.91kds.com/b7/xuexi.m3u8?id=tjws&pwd=jsdecode
 #EXTINF:-1 group-title="卫视",天津卫视
@@ -1362,11 +1284,11 @@ kdsvod://http://v.91kds.com/b7/xuexi1.m3u8?id=tjws&pwd=jsdecode
 #EXTINF:-1 group-title="卫视",天津卫视
 kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=tjwshd&pwd=jsdecode
 #EXTINF:-1 group-title="卫视",天津卫视
-http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226686/1.m3u8
+kdsvod://rtmphtml://http://47.97.252.137:8099/api/tjwshd.m3u8?&pwd=jsdecode
 #EXTINF:-1 group-title="卫视",天津卫视
-kdsvod://http://v.91kds.com/b7/cdnlive.m3u8?id=tjws-720p&pwd=jsdecode
+kdsvod://ysp://tjwshd&fmt=ip
 #EXTINF:-1 group-title="卫视",宁夏卫视
-https://hls.ningxiahuangheyun.com/live/nxws1M.m3u8@@Referer=https://web.ningxiahuangheyun.com@@
+https://hls.nxhhy.cn/live/nxws1M.m3u8
 #EXTINF:-1 group-title="卫视",宁夏卫视
 htmlplay://https://m.miguvideo.com/m/liveDetail/738910535?channelId=10010001005
 #EXTINF:-1 group-title="卫视",宁夏卫视
@@ -1378,15 +1300,15 @@ kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=nxws&pwd=jsdecode
 #EXTINF:-1 group-title="卫视",宁夏卫视
 kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=nxws&pwd=jsdecode
 #EXTINF:-1 group-title="卫视",宁夏卫视
-http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226691/1.m3u8
+kdsvod://ysp://nxws&fmt=ip
+#EXTINF:-1 group-title="卫视",宁夏卫视
+kdsvod://migu://738910535
 #EXTINF:-1 group-title="卫视",安多卫视
 htmlplay://http://www.qhtb.cn/onlin/onlin_tv/
 #EXTINF:-1 group-title="卫视",安多卫视
 kdsvod://http://v.91kds.com/b7/xuexi.m3u8?id=qhzy&pwd=jsdecode
 #EXTINF:-1 group-title="卫视",安多卫视
 kdsvod://http://v.91kds.com/b7/xuexi1.m3u8?id=qhzy&pwd=jsdecode
-#EXTINF:-1 group-title="卫视",安徽卫视
-kdsvod://ahtv2://47
 #EXTINF:-1 group-title="卫视",安徽卫视
 http://media.hndyjyfw.gov.cn/live/jz-anhuiweishi-gq/live.m3u8@@Referer=https://www.hndyjyfw.gov.cn/@@
 #EXTINF:-1 group-title="卫视",安徽卫视
@@ -1416,15 +1338,11 @@ kdsvod://http://v.91kds.com/b7/tvzb6.m3u8?id=ahwshd&pwd=jsdecode
 #EXTINF:-1 group-title="卫视",安徽卫视
 kdsvod://http://v.91kds.com/b7/tvzb7.m3u8?id=ahwshd&pwd=jsdecode
 #EXTINF:-1 group-title="卫视",安徽卫视
-http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226655/1.m3u8
+kdsvod://rtmphtml://http://47.97.252.137:8099/api/ahwshd.m3u8?&pwd=jsdecode
 #EXTINF:-1 group-title="卫视",安徽卫视
-http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226664/1.m3u8
-#EXTINF:-1 group-title="卫视",安徽卫视
-kdsvod://http://v.91kds.com/b7/cdnlive.m3u8?id=ahws-720p&pwd=jsdecode
+kdsvod://ysp://ahwshd&fmt=ip
 #EXTINF:-1 group-title="卫视",山东卫视
 http://lives.jnnews.tv/video/s10001-SDTV/index.m3u8
-#EXTINF:-1 group-title="卫视",山东卫视
-https://wfrtv-live-tz.wfcmw.cn:5443/live/sdtv.m3u8
 #EXTINF:-1 group-title="卫视",山东卫视
 htmlplay://https://m.miguvideo.com/m/liveDetail/738910366?channelId=10010001005
 #EXTINF:-1 group-title="卫视",山东卫视
@@ -1446,11 +1364,13 @@ kdsvod://http://v.91kds.com/b7/xuexi1.m3u8?id=sdws&pwd=jsdecode
 #EXTINF:-1 group-title="卫视",山东卫视
 kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=sdwshd&pwd=jsdecode
 #EXTINF:-1 group-title="卫视",山东卫视
-http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226693/1.m3u8
+kdsvod://rtmphtml://http://47.97.252.137:8099/api/sdwshd.m3u8?&pwd=jsdecode
 #EXTINF:-1 group-title="卫视",山东卫视
-kdsvod://http://v.91kds.com/b7/cdnlive.m3u8?id=sdws-720p&pwd=jsdecode
+kdsvod://ysp://sdwshd&fmt=ip
 #EXTINF:-1 group-title="卫视",山东卫视4K
-kdsvod://http://v.91kds.com/b7/zgst.m3u8?id=sdws4k&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=sdws4k&pwd=jsdecode
+#EXTINF:-1 group-title="卫视",山东卫视4K
+kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=sdws4k&pwd=jsdecode
 #EXTINF:-1 group-title="卫视",山东教育卫视
 http://livewai.sdetv.com.cn/live/da4ebbb91ee8468db5a9d230a535391f_transios/playlist.m3u8
 #EXTINF:-1 group-title="卫视",山东教育卫视
@@ -1460,7 +1380,9 @@ kdsvod://http://v.91kds.com/b7/xuexi1.m3u8?id=sdjy&pwd=jsdecode
 #EXTINF:-1 group-title="卫视",山东教育卫视
 kdsvod://migu://609154353
 #EXTINF:-1 group-title="卫视",山东教育卫视
-http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226701/1.m3u8
+kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=sdjy&pwd=jsdecode
+#EXTINF:-1 group-title="卫视",山东教育卫视
+kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=sdjy&pwd=jsdecode
 #EXTINF:-1 group-title="卫视",山西卫视
 kdsvod://http://v.91kds.com/b7/sxtv.m3u8?id=sxws&pwd=jsdecode@@User-Agent=Mozilla/5.0@@
 #EXTINF:-1 group-title="卫视",山西卫视
@@ -1476,13 +1398,11 @@ kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=sxwshd&pwd=jsdecode
 #EXTINF:-1 group-title="卫视",山西卫视
 kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=sxwshd&pwd=jsdecode
 #EXTINF:-1 group-title="卫视",山西卫视
-http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226704/1.m3u8
+kdsvod://ysp://sxwshd&fmt=ip
 #EXTINF:-1 group-title="卫视",广东卫视
 htmlplay://https://www.gdtv.cn/tvChannelDetail/43@@UA=Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/100.0.4896.75Safari/537.36@@
 #EXTINF:-1 group-title="卫视",广东卫视
 kdsvod://http://v.91kds.com/b7/xuexi.m3u8?id=gdws&pwd=jsdecode
-#EXTINF:-1 group-title="卫视",广东卫视
-kdsvod://http://v.91kds.com/b7/migu.m3u8?id=gdwshd&pwd=jsdecode
 #EXTINF:-1 group-title="卫视",广东卫视
 kdsvod://http://v.91kds.com/c7/gdtv.m3u8?id=gdws&pwd=jsdecode
 #EXTINF:-1 group-title="卫视",广东卫视
@@ -1510,7 +1430,13 @@ kdsvod://http://v.91kds.com/b7/tvzb6.m3u8?id=gdwshd&pwd=jsdecode
 #EXTINF:-1 group-title="卫视",广东卫视
 kdsvod://http://v.91kds.com/b7/tvzb7.m3u8?id=gdwshd&pwd=jsdecode
 #EXTINF:-1 group-title="卫视",广东卫视
-kdsvod://http://v.91kds.com/b7/cdnlive.m3u8?id=gdws-720p&pwd=jsdecode
+kdsvod://rtmphtml://http://47.97.252.137:8099/api/gdwshd.m3u8?&pwd=jsdecode
+#EXTINF:-1 group-title="卫视",广东卫视
+kdsvod://ysp://gdwshd&fmt=ip
+#EXTINF:-1 group-title="卫视",广东卫视4K
+kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=gdws4k&pwd=jsdecode
+#EXTINF:-1 group-title="卫视",广东卫视4K
+kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=gdws4k&pwd=jsdecode
 #EXTINF:-1 group-title="卫视",广西卫视
 http://222.216.111.82:8088/flv0
 #EXTINF:-1 group-title="卫视",广西卫视
@@ -1530,7 +1456,9 @@ kdsvod://http://v.91kds.com/b7/xuexi1.m3u8?id=gxws&pwd=jsdecode
 #EXTINF:-1 group-title="卫视",广西卫视
 kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=gxwshd&pwd=jsdecode
 #EXTINF:-1 group-title="卫视",广西卫视
-http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226681/1.m3u8
+kdsvod://rtmphtml://http://47.97.252.137:8099/api/gxwshd.m3u8?&pwd=jsdecode
+#EXTINF:-1 group-title="卫视",广西卫视
+kdsvod://ysp://gxwshd&fmt=ip
 #EXTINF:-1 group-title="卫视",康巴卫视
 kdsvod://http://v.91kds.com/b7/kbws.m3u8?id=kbws&pwd=jsdecode@@referer=https://www.kangbatv.com/@@
 #EXTINF:-1 group-title="卫视",康巴卫视
@@ -1558,7 +1486,7 @@ kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=xjws&pwd=jsdecode
 #EXTINF:-1 group-title="卫视",新疆卫视
 kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=xjws&pwd=jsdecode
 #EXTINF:-1 group-title="卫视",新疆卫视
-http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226700/1.m3u8
+kdsvod://ysp://xjws&fmt=ip
 #EXTINF:-1 group-title="卫视",江苏卫视
 http://hebcx.chinashadt.com:2036/live/10006.stream/playlist.m3u8
 #EXTINF:-1 group-title="卫视",江苏卫视
@@ -1573,8 +1501,6 @@ kdsvod://http://v.91kds.com/c7/jsqx.m3u8?id=jswshd&pwd=jsdecode
 kdsvod://http://v.91kds.com/b7/jstv1.m3u8?id=jswshd&pwd=jsdecode@@Referer=https://live.jstv.com/@@
 #EXTINF:-1 group-title="卫视",江苏卫视
 kdsvod://http://v.91kds.com/c7/jsqx1.m3u8?id=jswshd&pwd=jsdecode
-#EXTINF:-1 group-title="卫视",江苏卫视
-kdsvod://http://v.91kds.com/b7/migu.m3u8?id=jswshd&pwd=jsdecode
 #EXTINF:-1 group-title="卫视",江苏卫视
 kdsvod://http://v.91kds.com/c7/jstv.m3u8?id=jswshd&pwd=jsdecode
 #EXTINF:-1 group-title="卫视",江苏卫视
@@ -1602,23 +1528,23 @@ kdsvod://http://v.91kds.com/b7/tvzb6.m3u8?id=jswshd&pwd=jsdecode
 #EXTINF:-1 group-title="卫视",江苏卫视
 kdsvod://http://v.91kds.com/b7/tvzb7.m3u8?id=jswshd&pwd=jsdecode
 #EXTINF:-1 group-title="卫视",江苏卫视
-http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226692/1.m3u8
+kdsvod://rtmphtml://http://47.97.252.137:8099/api/jswshd.m3u8?&pwd=jsdecode
 #EXTINF:-1 group-title="卫视",江苏卫视
-kdsvod://http://v.91kds.com/b7/cdnlive.m3u8?id=jsws-720p&pwd=jsdecode
+kdsvod://ysp://jswshd&fmt=ip
 #EXTINF:-1 group-title="卫视",江苏卫视4K
 kdsvod://http://v.91kds.com/b7/jstv2.m3u8?id=jsws4k&pwd=jsdecode@@Referer=https://live.jstv.com/@@
 #EXTINF:-1 group-title="卫视",江苏卫视4K
 kdsvod://http://v.91kds.com/c7/jstv.m3u8?id=jsws4k&pwd=jsdecode
 #EXTINF:-1 group-title="卫视",江苏卫视4K
-kdsvod://http://v.91kds.com/b7/zgst.m3u8?id=jsws4k&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=jsws4k&pwd=jsdecode
+#EXTINF:-1 group-title="卫视",江苏卫视4K
+kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=jsws4k&pwd=jsdecode
 #EXTINF:-1 group-title="卫视",江西卫视
 kdsvod://http://v.91kds.com/c7/jxtv.m3u8?id=jxwshd&pwd=jsdecode
 #EXTINF:-1 group-title="卫视",江西卫视
 htmlplay://https://m.miguvideo.com/m/liveDetail/783847495?channelId=10010001005
 #EXTINF:-1 group-title="卫视",江西卫视
 kdsvod://http://v.91kds.com/b7/xuexi.m3u8?id=jxws&pwd=jsdecode
-#EXTINF:-1 group-title="卫视",江西卫视
-kdsvod://http://v.91kds.com/b7/migu.m3u8?id=jxwshd&pwd=jsdecode
 #EXTINF:-1 group-title="卫视",江西卫视
 kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=jxwshd&pwd=jsdecode
 #EXTINF:-1 group-title="卫视",江西卫视
@@ -1628,9 +1554,9 @@ kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=jxwshd&pwd=jsdecode
 #EXTINF:-1 group-title="卫视",江西卫视
 kdsvod://migu://783847495
 #EXTINF:-1 group-title="卫视",江西卫视
-http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226682/1.m3u8
+kdsvod://rtmphtml://http://47.97.252.137:8099/api/jxwshd.m3u8?&pwd=jsdecode
 #EXTINF:-1 group-title="卫视",江西卫视
-http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226726/1.m3u8
+kdsvod://ysp://jxwshd&fmt=ip
 #EXTINF:-1 group-title="卫视",河北卫视
 http://hbwq.chinashadt.com:2035/live/stream:hbws.stream/playlist.m3u8
 #EXTINF:-1 group-title="卫视",河北卫视
@@ -1646,11 +1572,11 @@ kdsvod://http://v.91kds.com/b7/xuexi1.m3u8?id=hews&pwd=jsdecode
 #EXTINF:-1 group-title="卫视",河北卫视
 kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=hewshd&pwd=jsdecode
 #EXTINF:-1 group-title="卫视",河北卫视
-http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226665/1.m3u8
+kdsvod://rtmphtml://http://47.97.252.137:8099/api/hewshd.m3u8?&pwd=jsdecode
 #EXTINF:-1 group-title="卫视",河北卫视
-http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226684/1.m3u8
+kdsvod://ysp://hewshd&fmt=ip
 #EXTINF:-1 group-title="卫视",河北卫视
-kdsvod://http://v.91kds.com/b7/cdnlive.m3u8?id=hews-720p&pwd=jsdecode
+kdsvod://migu://962042070
 #EXTINF:-1 group-title="卫视",河南卫视
 kdsvod://http://v.91kds.com/b7/hatv.m3u8?id=hawshd&pwd=jsdecode
 #EXTINF:-1 group-title="卫视",河南卫视
@@ -1668,11 +1594,9 @@ kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=hawshd&pwd=jsdecode
 #EXTINF:-1 group-title="卫视",河南卫视
 kdsvod://migu://790187291
 #EXTINF:-1 group-title="卫视",河南卫视
-http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226668/1.m3u8
+kdsvod://rtmphtml://http://47.97.252.137:8099/api/hawshd.m3u8?&pwd=jsdecode
 #EXTINF:-1 group-title="卫视",河南卫视
-http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226687/1.m3u8
-#EXTINF:-1 group-title="卫视",河南卫视
-kdsvod://http://v.91kds.com/b7/cdnlive.m3u8?id=haws-720p&pwd=jsdecode
+kdsvod://ysp://hawshd&fmt=ip
 #EXTINF:-1 group-title="卫视",浙江卫视
 kdsvod://http://v.91kds.com/b7/zjtv.m3u8?id=zjwshd&pwd=jsdecode
 #EXTINF:-1 group-title="卫视",浙江卫视
@@ -1687,8 +1611,6 @@ kdsvod://http://v.91kds.com/b7/zjtv1.m3u8?id=zjwshd&pwd=jsdecode
 kdsvod://http://v.91kds.com/b7/zjtv1.m3u8?id=zjws&pwd=jsdecode
 #EXTINF:-1 group-title="卫视",浙江卫视
 kdsvod://http://v.91kds.com/b7/zjtv2.m3u8?id=zjwshd&pwd=jsdecode
-#EXTINF:-1 group-title="卫视",浙江卫视
-kdsvod://http://v.91kds.com/b7/migu.m3u8?id=zjwshd&pwd=jsdecode
 #EXTINF:-1 group-title="卫视",浙江卫视
 kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=zjwshd&pwd=jsdecode
 #EXTINF:-1 group-title="卫视",浙江卫视
@@ -1712,15 +1634,15 @@ kdsvod://http://v.91kds.com/b7/tvzb6.m3u8?id=zjwshd&pwd=jsdecode
 #EXTINF:-1 group-title="卫视",浙江卫视
 kdsvod://http://v.91kds.com/b7/tvzb7.m3u8?id=zjwshd&pwd=jsdecode
 #EXTINF:-1 group-title="卫视",浙江卫视
-http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226690/1.m3u8
-#EXTINF:-1 group-title="卫视",浙江卫视
 https://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
 #EXTINF:-1 group-title="卫视",浙江卫视
 https://ali-xwl.cztv.com/live/channel01720Plxw.m3u8
 #EXTINF:-1 group-title="卫视",浙江卫视
-kdsvod://http://v.91kds.com/b7/cdnlive.m3u8?id=zjws-720p&pwd=jsdecode
+kdsvod://rtmphtml://http://47.97.252.137:8099/api/zjwshd.m3u8?&pwd=jsdecode
 #EXTINF:-1 group-title="卫视",浙江卫视
 tvbus://1SuaPeqBfFXi3iThfdug3zHN2hV4WGt5F7WMaYb68tcjycafR4
+#EXTINF:-1 group-title="卫视",浙江卫视
+kdsvod://ysp://zjwshd&fmt=ip
 #EXTINF:-1 group-title="卫视",浙江卫视4K
 kdsvod://http://v.91kds.com/b7/zjtv.m3u8?id=zjws4k&pwd=jsdecode
 #EXTINF:-1 group-title="卫视",浙江卫视4K
@@ -1728,9 +1650,9 @@ kdsvod://http://v.91kds.com/b7/zjtv2.m3u8?id=zjws4k&pwd=jsdecode
 #EXTINF:-1 group-title="卫视",浙江卫视4K
 kdsvod://http://v.91kds.com/b7/zjtv1.m3u8?id=zjws4k&pwd=jsdecode
 #EXTINF:-1 group-title="卫视",浙江卫视4K
-https://play-qukan.cztv.com/live/1758879019692345.m3u8
+kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=zjws4k&pwd=jsdecode
 #EXTINF:-1 group-title="卫视",浙江卫视4K
-kdsvod://http://v.91kds.com/b7/zgst.m3u8?id=zjws4k&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=zjws4k&pwd=jsdecode
 #EXTINF:-1 group-title="卫视",海南卫视
 http://222.203.241.36:5001/nn_live.m3u8?id=sm_hnlyws
 #EXTINF:-1 group-title="卫视",海南卫视
@@ -1746,9 +1668,7 @@ kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=lywshd&pwd=jsdecode
 #EXTINF:-1 group-title="卫视",海南卫视
 kdsvod://migu://947472502
 #EXTINF:-1 group-title="卫视",海南卫视
-http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226679/1.m3u8
-#EXTINF:-1 group-title="卫视",海南卫视
-http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226683/1.m3u8
+kdsvod://ysp://lywshd&fmt=ip
 #EXTINF:-1 group-title="卫视",海峡卫视
 kdsvod://http://v.91kds.com/b7/fjtv.m3u8?id=hxws&pwd=jsdecode
 #EXTINF:-1 group-title="卫视",海峡卫视
@@ -1782,17 +1702,17 @@ kdsvod://http://v.91kds.com/b7/tvzb6.m3u8?id=szwshd&pwd=jsdecode
 #EXTINF:-1 group-title="卫视",深圳卫视
 kdsvod://http://v.91kds.com/b7/tvzb7.m3u8?id=szwshd&pwd=jsdecode
 #EXTINF:-1 group-title="卫视",深圳卫视
-http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226688/1.m3u8
+kdsvod://rtmphtml://http://47.97.252.137:8099/api/szwshd.m3u8?&pwd=jsdecode
 #EXTINF:-1 group-title="卫视",深圳卫视
-kdsvod://http://v.91kds.com/b7/cdnlive.m3u8?id=szws-720p&pwd=jsdecode
+kdsvod://ysp://szwshd&fmt=ip
 #EXTINF:-1 group-title="卫视",深圳卫视4K
-kdsvod://http://v.91kds.com/b7/zgst.m3u8?id=szws4k&pwd=jsdecode@@Referer=https://api.chinaaudiovisual.cn/@@
+kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=szws4k&pwd=jsdecode
+#EXTINF:-1 group-title="卫视",深圳卫视4K
+kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=szws4k&pwd=jsdecode
 #EXTINF:-1 group-title="卫视",湖北卫视
 htmlplay://https://m.miguvideo.com/m/liveDetail/738906825?channelId=10010001005
 #EXTINF:-1 group-title="卫视",湖北卫视
 kdsvod://http://v.91kds.com/b7/xuexi.m3u8?id=hbws&pwd=jsdecode
-#EXTINF:-1 group-title="卫视",湖北卫视
-kdsvod://http://v.91kds.com/b7/migu.m3u8?id=hbwshd&pwd=jsdecode
 #EXTINF:-1 group-title="卫视",湖北卫视
 kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=hbwshd&pwd=jsdecode
 #EXTINF:-1 group-title="卫视",湖北卫视
@@ -1804,7 +1724,9 @@ kdsvod://migu://947472496
 #EXTINF:-1 group-title="卫视",湖北卫视
 kdsvod://http://v.91kds.com/c7/hbtv.m3u8?id=hbwshd&pwd=jsdecode@@Referer=https://m.hbtv.com.cn/@@
 #EXTINF:-1 group-title="卫视",湖北卫视
-http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226713/1.m3u8
+kdsvod://rtmphtml://http://47.97.252.137:8099/api/hbwshd.m3u8?&pwd=jsdecode
+#EXTINF:-1 group-title="卫视",湖北卫视
+kdsvod://ysp://hbwshd&fmt=ip
 #EXTINF:-1 group-title="卫视",湖南卫视
 http://media.hndyjyfw.gov.cn/live/jz-hunanweishi-gq/live.m3u8@@Referer=https://www.hndyjyfw.gov.cn/@@
 #EXTINF:-1 group-title="卫视",湖南卫视
@@ -1832,13 +1754,15 @@ kdsvod://http://v.91kds.com/b7/tvzb6.m3u8?id=hnwshd&pwd=jsdecode
 #EXTINF:-1 group-title="卫视",湖南卫视
 kdsvod://http://v.91kds.com/b7/tvzb7.m3u8?id=hnwshd&pwd=jsdecode
 #EXTINF:-1 group-title="卫视",湖南卫视
-http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226698/1.m3u8
-#EXTINF:-1 group-title="卫视",湖南卫视
 tvbus://12TVKNw89kaBcfQhMYySZtxZUmQV6qapSFxdTdCv1bPAiDXESeT
 #EXTINF:-1 group-title="卫视",湖南卫视
-kdsvod://http://v.91kds.com/b7/cdnlive.m3u8?id=hnws-720p&pwd=jsdecode
+kdsvod://rtmphtml://http://47.97.252.137:8099/api/hnwshd.m3u8?&pwd=jsdecode
+#EXTINF:-1 group-title="卫视",湖南卫视
+kdsvod://ysp://hnwshd&fmt=ip
 #EXTINF:-1 group-title="卫视",湖南卫视4K
-kdsvod://http://v.91kds.com/b7/zgst.m3u8?id=hnws4k&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=hnws4k&pwd=jsdecode
+#EXTINF:-1 group-title="卫视",湖南卫视4K
+kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=hnws4k&pwd=jsdecode
 #EXTINF:-1 group-title="卫视",甘肃卫视
 htmlplay://https://m.miguvideo.com/m/liveDetail/738910997?channelId=10010001005
 #EXTINF:-1 group-title="卫视",甘肃卫视
@@ -1854,9 +1778,9 @@ kdsvod://http://v.91kds.com/b7/xuexi1.m3u8?id=gsws&pwd=jsdecode
 #EXTINF:-1 group-title="卫视",甘肃卫视
 kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=gswshd&pwd=jsdecode
 #EXTINF:-1 group-title="卫视",甘肃卫视
-http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226662/1.m3u8
-#EXTINF:-1 group-title="卫视",甘肃卫视
 https://live.gstv.com.cn/live/oxfhvoy.m3u8
+#EXTINF:-1 group-title="卫视",甘肃卫视
+kdsvod://ysp://gswshd&fmt=ip
 #EXTINF:-1 group-title="卫视",西藏卫视
 kdsvod://http://v.91kds.com/b7/xztv.m3u8?id=xzws&pwd=jsdecode
 #EXTINF:-1 group-title="卫视",西藏卫视
@@ -1868,7 +1792,7 @@ kdsvod://http://v.91kds.com/b7/xuexi1.m3u8?id=xzws&pwd=jsdecode
 #EXTINF:-1 group-title="卫视",西藏卫视
 kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=xzws&pwd=jsdecode
 #EXTINF:-1 group-title="卫视",西藏卫视
-http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226710/1.m3u8
+kdsvod://ysp://xzws&fmt=ip
 #EXTINF:-1 group-title="卫视",贵州卫视
 kdsvod://http://v.91kds.com/b7/gztv.m3u8?id=gzws&pwd=jsdecode@@Referer=https://www.gzstv.com/@@
 #EXTINF:-1 group-title="卫视",贵州卫视
@@ -1882,11 +1806,11 @@ kdsvod://http://v.91kds.com/b7/xuexi1.m3u8?id=gzws&pwd=jsdecode
 #EXTINF:-1 group-title="卫视",贵州卫视
 kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=gzwshd&pwd=jsdecode
 #EXTINF:-1 group-title="卫视",贵州卫视
-http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226672/1.m3u8
-#EXTINF:-1 group-title="卫视",贵州卫视
-http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226676/1.m3u8
-#EXTINF:-1 group-title="卫视",贵州卫视
 https://qnhi-hls.gzstv.com/livegztv-hi/CH01_hd.m3u8
+#EXTINF:-1 group-title="卫视",贵州卫视
+kdsvod://rtmphtml://http://47.97.252.137:8099/api/gzwshd.m3u8?&pwd=jsdecode
+#EXTINF:-1 group-title="卫视",贵州卫视
+kdsvod://ysp://gzwshd&fmt=ip
 #EXTINF:-1 group-title="卫视",辽宁卫视
 htmlplay://https://m.miguvideo.com/m/liveDetail/630291707?channelId=10010001005
 #EXTINF:-1 group-title="卫视",辽宁卫视
@@ -1902,7 +1826,9 @@ kdsvod://migu://630291707
 #EXTINF:-1 group-title="卫视",辽宁卫视
 kdsvod://rtmphtml://http://v.91kds.com/b7/lnbdy.m3u8?id=lnwshd&pwd=jsdecode
 #EXTINF:-1 group-title="卫视",辽宁卫视
-http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226689/1.m3u8
+kdsvod://rtmphtml://http://47.97.252.137:8099/api/lnwshd.m3u8?&pwd=jsdecode
+#EXTINF:-1 group-title="卫视",辽宁卫视
+kdsvod://ysp://lnwshd&fmt=ip
 #EXTINF:-1 group-title="卫视",重庆卫视
 http://media.hndyjyfw.gov.cn/live/jz-chongqingweishi/live.m3u8@@Referer=https://www.hndyjyfw.gov.cn/@@
 #EXTINF:-1 group-title="卫视",重庆卫视
@@ -1914,15 +1840,15 @@ kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=cqwshd&pwd=jsdecode
 #EXTINF:-1 group-title="卫视",重庆卫视
 kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=cqwshd&pwd=jsdecode
 #EXTINF:-1 group-title="卫视",重庆卫视
-http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226680/1.m3u8
+kdsvod://rtmphtml://http://47.97.252.137:8099/api/cqwshd.m3u8?&pwd=jsdecode
+#EXTINF:-1 group-title="卫视",重庆卫视
+kdsvod://ysp://cqwshd&fmt=ip
 #EXTINF:-1 group-title="卫视",陕西卫视
 kdsvod://sntv://star
 #EXTINF:-1 group-title="卫视",陕西卫视
 htmlplay://https://m.miguvideo.com/m/liveDetail/738910838?channelId=10010001005
 #EXTINF:-1 group-title="卫视",陕西卫视
 kdsvod://http://v.91kds.com/b7/xuexi.m3u8?id=snws&pwd=jsdecode
-#EXTINF:-1 group-title="卫视",陕西卫视
-kdsvod://http://v.91kds.com/b7/migu.m3u8?id=snws&pwd=jsdecode
 #EXTINF:-1 group-title="卫视",陕西卫视
 kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=snwshd&pwd=jsdecode
 #EXTINF:-1 group-title="卫视",陕西卫视
@@ -1932,7 +1858,7 @@ kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=snwshd&pwd=jsdecode
 #EXTINF:-1 group-title="卫视",陕西卫视
 kdsvod://migu://738910838
 #EXTINF:-1 group-title="卫视",陕西卫视
-http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226707/1.m3u8
+kdsvod://ysp://snwshd&fmt=ip
 #EXTINF:-1 group-title="卫视",青海卫视
 kdsvod://http://v.91kds.com/b7/xuexi.m3u8?id=qhws&pwd=jsdecode
 #EXTINF:-1 group-title="卫视",青海卫视
@@ -1944,7 +1870,7 @@ kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=qhws&pwd=jsdecode
 #EXTINF:-1 group-title="卫视",青海卫视
 kdsvod://migu://947472506
 #EXTINF:-1 group-title="卫视",青海卫视
-http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226696/1.m3u8
+kdsvod://ysp://qhws&fmt=ip
 #EXTINF:-1 group-title="卫视",黑龙江卫视
 https://idclive.hljtv.com:4430/live/hljws_own.m3u8
 #EXTINF:-1 group-title="卫视",黑龙江卫视
@@ -1956,7 +1882,11 @@ kdsvod://http://v.91kds.com/b7/xuexi1.m3u8?id=hljws&pwd=jsdecode
 #EXTINF:-1 group-title="卫视",黑龙江卫视
 kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=hljwshd&pwd=jsdecode
 #EXTINF:-1 group-title="卫视",黑龙江卫视
-http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226716/1.m3u8
+kdsvod://rtmphtml://http://47.97.252.137:8099/api/hljwshd.m3u8?&pwd=jsdecode
+#EXTINF:-1 group-title="卫视",黑龙江卫视
+kdsvod://ysp://hljwshd&fmt=ip
+#EXTINF:-1 group-title="卫视",黑龙江卫视
+kdsvod://migu://738906901
 #EXTINF:-1 group-title="广东",GRTN健康频道
 htmlplay://https://www.gdtv.cn/tvChannelDetail/99@@UA=Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/100.0.4896.75Safari/537.36@@
 #EXTINF:-1 group-title="广东",GRTN健康频道
@@ -2023,8 +1953,6 @@ kdsvod://http://v.91kds.com/c7/gdtv.m3u8?id=gdlnxq&pwd=jsdecode
 kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=gdlnxq&pwd=jsdecode
 #EXTINF:-1 group-title="广东",岭南戏曲
 kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=gdlnxq&pwd=jsdecode
-#EXTINF:-1 group-title="广东",岭南戏曲
-kdsvod://http://v.91kds.com/b7/cdnlive.m3u8?id=gdlnxq&pwd=jsdecode
 #EXTINF:-1 group-title="广东",平远综合
 http://p2.vzan.com/slowlive/738135449685137104/live.m3u8
 #EXTINF:-1 group-title="广东",广东4K超
@@ -2035,8 +1963,6 @@ kdsvod://http://v.91kds.com/c7/gdtv.m3u8?id=gdtvs3&pwd=jsdecode
 kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=gdtvs3&pwd=jsdecode
 #EXTINF:-1 group-title="广东",广东4K超
 kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=gdtvs3&pwd=jsdecode
-#EXTINF:-1 group-title="广东",广东4K超
-kdsvod://http://v.91kds.com/b7/cdnlive.m3u8?id=gdtvs3&pwd=jsdecode
 #EXTINF:-1 group-title="广东",广东体育
 htmlplay://https://www.gdtv.cn/tvChannelDetail/47@@UA=Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/100.0.4896.75Safari/537.36@@
 #EXTINF:-1 group-title="广东",广东体育
@@ -2045,6 +1971,10 @@ kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=gdty&pwd=jsdecode
 kdsvod://http://v.91kds.com/c7/gdtv.m3u8?id=gdty&pwd=jsdecode
 #EXTINF:-1 group-title="广东",广东体育
 kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=gdty&pwd=jsdecode
+#EXTINF:-1 group-title="广东",广东体育
+kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=gdtya&pwd=jsdecode
+#EXTINF:-1 group-title="广东",广东体育
+kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=gdtya&pwd=jsdecode
 #EXTINF:-1 group-title="广东",广东影视
 htmlplay://https://www.gdtv.cn/tvChannelDetail/53@@UA=Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/100.0.4896.75Safari/537.36@@
 #EXTINF:-1 group-title="广东",广东影视
@@ -2053,6 +1983,14 @@ htmlplay://https://m.miguvideo.com/m/liveDetail/614961829?channelId=10010001005
 kdsvod://http://v.91kds.com/c7/gdtv.m3u8?id=gdtvs4&pwd=jsdecode
 #EXTINF:-1 group-title="广东",广东影视
 kdsvod://migu://614961829
+#EXTINF:-1 group-title="广东",广东影视
+kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=gdtvs4&pwd=jsdecode
+#EXTINF:-1 group-title="广东",广东影视
+kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=gdtvs4a&pwd=jsdecode
+#EXTINF:-1 group-title="广东",广东影视
+kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=gdtvs4&pwd=jsdecode
+#EXTINF:-1 group-title="广东",广东影视
+kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=gdtvs4a&pwd=jsdecode
 #EXTINF:-1 group-title="广东",广东新闻
 htmlplay://https://www.gdtv.cn/tvChannelDetail/45@@UA=Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/100.0.4896.75Safari/537.36@@
 #EXTINF:-1 group-title="广东",广东新闻
@@ -2072,7 +2010,9 @@ kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=gdgg&pwd=jsdecode
 #EXTINF:-1 group-title="广东",广东民生
 kdsvod://http://v.91kds.com/c7/gdtv.m3u8?id=gdgg&pwd=jsdecode
 #EXTINF:-1 group-title="广东",广东民生
-kdsvod://http://v.91kds.com/b7/cdnlive.m3u8?id=gdgg&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=gdgga&pwd=jsdecode
+#EXTINF:-1 group-title="广东",广东民生
+kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=gdgga&pwd=jsdecode
 #EXTINF:-1 group-title="广东",广东珠江
 htmlplay://https://www.gdtv.cn/tvChannelDetail/44@@UA=Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/100.0.4896.75Safari/537.36@@
 #EXTINF:-1 group-title="广东",广东珠江
@@ -2087,6 +2027,12 @@ kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=gdzja&pwd=jsdecode
 kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=gdzja&pwd=jsdecode
 #EXTINF:-1 group-title="广东",广东珠江
 https://gx.484947.xyz/PLTV/77777777/224/3221225717/index.m3u8?servicetype=1&IASHttpSessionId=RR778520250111113355399717&ispcode=1108
+#EXTINF:-1 group-title="广东",广东珠江
+kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=gdzjitv&pwd=jsdecode
+#EXTINF:-1 group-title="广东",广东珠江
+kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=gdzjitv&pwd=jsdecode
+#EXTINF:-1 group-title="广东",广东珠江
+kdsvod://migu://639731952
 #EXTINF:-1 group-title="广东",广东移动
 htmlplay://https://www.gdtv.cn/tvChannelDetail/74@@UA=Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/100.0.4896.75Safari/537.36@@
 #EXTINF:-1 group-title="广东",广东移动
@@ -2095,12 +2041,14 @@ kdsvod://http://v.91kds.com/c7/gdtv.m3u8?id=gdyd&pwd=jsdecode
 kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=gdyd&pwd=jsdecode
 #EXTINF:-1 group-title="广东",广东移动
 kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=gdyd&pwd=jsdecode
-#EXTINF:-1 group-title="广东",广东移动
-kdsvod://http://v.91kds.com/b7/cdnlive.m3u8?id=gdyd&pwd=jsdecode
 #EXTINF:-1 group-title="广东",广东经济科教
 https://pili-live-hls.kingsmedia.cn/metoo-live/e06829f1a4374c4cb7f72cd99c7c636d.m3u8
 #EXTINF:-1 group-title="广东",广东经济科教
 htmlplay://https://www.gdtv.cn/tvChannelDetail/49@@UA=Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/100.0.4896.75Safari/537.36@@
+#EXTINF:-1 group-title="广东",广东经济科教
+kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=gdtvs1&pwd=jsdecode
+#EXTINF:-1 group-title="广东",广东经济科教
+kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=gdtvs1&pwd=jsdecode
 #EXTINF:-1 group-title="广东",广州南国都市4K
 kdsvod://http://v.91kds.com/b7/gdgztv.m3u8?id=gdgzsh&pwd=jsdecode
 #EXTINF:-1 group-title="广东",广州南国都市4K
@@ -2179,8 +2127,6 @@ http://chaoan.chaoantv.com:8278/zongyi_728/playlist.m3u8
 http://livezhpd.czbtv.com:38880/live/ggpd.m3u8?secret=czbtv20250301
 #EXTINF:-1 group-title="广东",潮州综合
 http://livezhpd.czbtv.com:38880/live/ctvzhpd.m3u8?secret=czbtv20250301
-#EXTINF:-1 group-title="广东",现代教育
-htmlplay://https://www.gdtv.cn/tvChannelDetail/13@@UA=Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/100.0.4896.75Safari/537.36@@
 #EXTINF:-1 group-title="广东",珠海新闻
 kdsvod://http://v.91kds.com/b7/cutv2.m3u8?id=gdzhtv1&pwd=jsdecode
 #EXTINF:-1 group-title="广东",珠海新闻
@@ -2213,6 +2159,8 @@ http://live.dxhmt.cn:9080/19903718786/854deb36f8db4c9098cad18cc35bd632.m3u8
 kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=zhtc&pwd=jsdecode
 #EXTINF:-1 group-title="北京",中华特产
 kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=zhtc&pwd=jsdecode
+#EXTINF:-1 group-title="北京",中华特产
+kdsvod://migu://959986618
 #EXTINF:-1 group-title="北京",中国国际少儿电视台
 https://livesec.mudu.tv/watch/bk8coj.m3u8
 #EXTINF:-1 group-title="北京",中国国际教育1
@@ -2237,40 +2185,30 @@ kdsvod://http://v.91kds.com/c7/btv.m3u8?id=btv6&pwd=jsdecode
 kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=btv6&pwd=jsdecode
 #EXTINF:-1 group-title="北京",北京体育休闲
 kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=btv6&pwd=jsdecode
-#EXTINF:-1 group-title="北京",北京体育休闲
-kdsvod://http://v.91kds.com/b7/cdnlive.m3u8?id=btv6&pwd=jsdecode
 #EXTINF:-1 group-title="北京",北京影视
 kdsvod://http://v.91kds.com/c7/btv.m3u8?id=btv4&pwd=jsdecode
 #EXTINF:-1 group-title="北京",北京影视
 kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=btv4&pwd=jsdecode
 #EXTINF:-1 group-title="北京",北京影视
 kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=btv4&pwd=jsdecode
-#EXTINF:-1 group-title="北京",北京影视
-kdsvod://http://v.91kds.com/b7/cdnlive.m3u8?id=btv4&pwd=jsdecode
 #EXTINF:-1 group-title="北京",北京文艺
 kdsvod://http://v.91kds.com/c7/btv.m3u8?id=btv2&pwd=jsdecode
 #EXTINF:-1 group-title="北京",北京文艺
 kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=btv2&pwd=jsdecode
 #EXTINF:-1 group-title="北京",北京文艺
 kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=btv2&pwd=jsdecode
-#EXTINF:-1 group-title="北京",北京文艺
-kdsvod://http://v.91kds.com/b7/cdnlive.m3u8?id=btv2&pwd=jsdecode
 #EXTINF:-1 group-title="北京",北京新闻
 kdsvod://http://v.91kds.com/c7/btv.m3u8?id=btv9&pwd=jsdecode
 #EXTINF:-1 group-title="北京",北京新闻
 kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=btv9&pwd=jsdecode
 #EXTINF:-1 group-title="北京",北京新闻
 kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=btv9&pwd=jsdecode
-#EXTINF:-1 group-title="北京",北京新闻
-kdsvod://http://v.91kds.com/b7/cdnlive.m3u8?id=btv9&pwd=jsdecode
 #EXTINF:-1 group-title="北京",北京生活
 kdsvod://http://v.91kds.com/c7/btv.m3u8?id=btv7&pwd=jsdecode
 #EXTINF:-1 group-title="北京",北京生活
 kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=btv7&pwd=jsdecode
 #EXTINF:-1 group-title="北京",北京生活
 kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=btv7&pwd=jsdecode
-#EXTINF:-1 group-title="北京",北京生活
-kdsvod://http://v.91kds.com/b7/cdnlive.m3u8?id=btv7&pwd=jsdecode
 #EXTINF:-1 group-title="北京",北京纪实科教
 http://223.106.228.24/downflv.brtvcloud.com/8klive/8kliveok.m3u8
 #EXTINF:-1 group-title="北京",北京纪实科教
@@ -2279,22 +2217,12 @@ kdsvod://http://v.91kds.com/c7/btv.m3u8?id=btv3&pwd=jsdecode
 kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=btv3&pwd=jsdecode
 #EXTINF:-1 group-title="北京",北京纪实科教
 kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=btv3&pwd=jsdecode
-#EXTINF:-1 group-title="北京",北京纪实科教
-http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226656/1.m3u8
-#EXTINF:-1 group-title="北京",北京纪实科教
-http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226658/1.m3u8
-#EXTINF:-1 group-title="北京",北京纪实科教
-http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226730/1.m3u8
-#EXTINF:-1 group-title="北京",北京纪实科教
-kdsvod://http://v.91kds.com/b7/cdnlive.m3u8?id=btv3&pwd=jsdecode
 #EXTINF:-1 group-title="北京",北京财经
 kdsvod://http://v.91kds.com/c7/btv.m3u8?id=btv5&pwd=jsdecode
 #EXTINF:-1 group-title="北京",北京财经
 kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=btv5&pwd=jsdecode
 #EXTINF:-1 group-title="北京",北京财经
 kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=btv5&pwd=jsdecode
-#EXTINF:-1 group-title="北京",北京财经
-kdsvod://http://v.91kds.com/b7/cdnlive.m3u8?id=btv5&pwd=jsdecode
 #EXTINF:-1 group-title="北京",四海钓鱼
 htmlplay://https://m.miguvideo.com/m/liveDetail/895358641?channelId=10010001005
 #EXTINF:-1 group-title="北京",四海钓鱼
@@ -2375,8 +2303,44 @@ http://222.179.42.129:8181/hls1.m3u8
 http://183.64.181.25:40023/rongchang01.m3u8
 #EXTINF:-1 group-title="重庆",酉阳新闻综合
 https://yypull.cbg.cn/applive/youytv01/playlist.m3u8
+#EXTINF:-1 group-title="重庆",重庆影视剧
+kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=cqys&pwd=jsdecode
+#EXTINF:-1 group-title="重庆",重庆影视剧
+kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=cqys&pwd=jsdecode
+#EXTINF:-1 group-title="重庆",重庆文体娱乐
+kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=cqyl&pwd=jsdecode
+#EXTINF:-1 group-title="重庆",重庆文体娱乐
+kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=cqyl&pwd=jsdecode
+#EXTINF:-1 group-title="重庆",重庆新农村
+kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=cqgg&pwd=jsdecode
+#EXTINF:-1 group-title="重庆",重庆新农村
+kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=cqgg&pwd=jsdecode
 #EXTINF:-1 group-title="重庆",重庆新闻
 https://cqonsitecdn.cbgcloud.com/qf6jl2/1yk9j0.m3u8
+#EXTINF:-1 group-title="重庆",重庆新闻
+kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=cqxw&pwd=jsdecode
+#EXTINF:-1 group-title="重庆",重庆新闻
+kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=cqxw&pwd=jsdecode
+#EXTINF:-1 group-title="重庆",重庆汽摩
+kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=cqqm&pwd=jsdecode
+#EXTINF:-1 group-title="重庆",重庆汽摩
+kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=cqqm&pwd=jsdecode
+#EXTINF:-1 group-title="重庆",重庆社会与法
+kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=cqds&pwd=jsdecode
+#EXTINF:-1 group-title="重庆",重庆社会与法
+kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=cqds&pwd=jsdecode
+#EXTINF:-1 group-title="重庆",重庆移动公交
+kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=cqyd&pwd=jsdecode
+#EXTINF:-1 group-title="重庆",重庆移动公交
+kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=cqyd&pwd=jsdecode
+#EXTINF:-1 group-title="重庆",重庆红叶
+kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=cqkj&pwd=jsdecode
+#EXTINF:-1 group-title="重庆",重庆红叶
+kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=cqkj&pwd=jsdecode
+#EXTINF:-1 group-title="重庆",重庆红岩文化
+kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=cqss&pwd=jsdecode
+#EXTINF:-1 group-title="重庆",重庆红岩文化
+kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=cqss&pwd=jsdecode
 #EXTINF:-1 group-title="重庆",铜梁综合
 https://tlpc01.cqliving.com:443/ch1.m3u8
 #EXTINF:-1 group-title="重庆",黔江综合频道
@@ -2463,20 +2427,32 @@ kdsvod://http://v.91kds.com/b7/hoge.m3u8?ip=fjqzss&id=12&pwd=jsdecode
 http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
 #EXTINF:-1 group-title="福建",福州综合
 http://live.zohi.tv/video/s10001-fztv-1/index.m3u8
+#EXTINF:-1 group-title="福建",福建教育
+kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=fjjy&pwd=jsdecode
+#EXTINF:-1 group-title="福建",福建教育
+kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=fjjy&pwd=jsdecode
 #EXTINF:-1 group-title="福建",福建文旅体育
 kdsvod://http://v.91kds.com/b7/fjtv.m3u8?id=fjds&pwd=jsdecode
 #EXTINF:-1 group-title="福建",福建文旅体育
 http://stream7.fjtv.net/lypdntsc/hd/live.m3u8
+#EXTINF:-1 group-title="福建",福建文旅体育
+kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=fjds&pwd=jsdecode
+#EXTINF:-1 group-title="福建",福建文旅体育
+kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=fjds&pwd=jsdecode
 #EXTINF:-1 group-title="福建",福建新闻
 kdsvod://http://v.91kds.com/b7/fjtv.m3u8?id=fjxw&pwd=jsdecode
 #EXTINF:-1 group-title="福建",福建新闻
-kdsvod://http://v.91kds.com/b7/cdnlive.m3u8?id=fjxw&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=fjxw&pwd=jsdecode
+#EXTINF:-1 group-title="福建",福建新闻
+kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=fjxw&pwd=jsdecode
 #EXTINF:-1 group-title="福建",福建综合
 kdsvod://http://v.91kds.com/b7/fjtv.m3u8?id=fjzh&pwd=jsdecode
 #EXTINF:-1 group-title="福建",福建综合
 http://fjnhdb.chinashadt.com:2036/live/stream:10003.stream/chunklist.m3u8
 #EXTINF:-1 group-title="福建",福建综合
-kdsvod://http://v.91kds.com/b7/cdnlive.m3u8?id=fjzh&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=fjzh&pwd=jsdecode
+#EXTINF:-1 group-title="福建",福建综合
+kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=fjzh&pwd=jsdecode
 #EXTINF:-1 group-title="福建",福清综合
 htmlplay://https://web.guangdianyun.tv/tv/?id=699&uin=1945
 #EXTINF:-1 group-title="福建",莆田公共频道
@@ -2742,23 +2718,17 @@ http://52223.hlsplay.aodianyun.com/tv_radio_52223/tv_channel_3215.m3u8?auth_key=
 #EXTINF:-1 group-title="安徽",安庆经济生活
 https://aq-live.media.xinhuamm.net/r/ed093a3514bd4174b1dbd5af8a8e0a9c.m3u8?auth_key=2341308528-0-0-1d8df1d541b495f33875e247c9300fc1
 #EXTINF:-1 group-title="安徽",安徽公共
-kdsvod://ahtv2://50
-#EXTINF:-1 group-title="安徽",安徽公共
 kdsvod://http://v.91kds.com/c7/ahtv2.m3u8?id=ahgg&pwd=jsdecode
 #EXTINF:-1 group-title="安徽",安徽公共
 kdsvod://http://v.91kds.com/b7/ahtv2.m3u8?id=ahgg&kdsplayer=media&pwd=jsdecode@@referer=https://www.ahtv.cn/@user-agent=Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/99.0.4844.84Safari/537.36HBPC/12.1.3.306@@
 #EXTINF:-1 group-title="安徽",安徽公共
 kdsvod://http://v.91kds.com/c7/ahtv3.m3u8?id=ahgg&pwd=jsdecode
 #EXTINF:-1 group-title="安徽",安徽农业科教
-kdsvod://ahtv2://51
-#EXTINF:-1 group-title="安徽",安徽农业科教
 kdsvod://http://v.91kds.com/c7/ahtv2.m3u8?id=ahkj&pwd=jsdecode
 #EXTINF:-1 group-title="安徽",安徽农业科教
 kdsvod://http://v.91kds.com/b7/ahtv2.m3u8?id=ahkj&kdsplayer=media&pwd=jsdecode@@referer=https://www.ahtv.cn/@user-agent=Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/99.0.4844.84Safari/537.36HBPC/12.1.3.306@@
 #EXTINF:-1 group-title="安徽",安徽农业科教
 kdsvod://http://v.91kds.com/c7/ahtv3.m3u8?id=ahkj&pwd=jsdecode
-#EXTINF:-1 group-title="安徽",安徽国际
-kdsvod://ahtv2://70
 #EXTINF:-1 group-title="安徽",安徽国际
 kdsvod://http://v.91kds.com/c7/ahtv2.m3u8?id=ahgj&pwd=jsdecode
 #EXTINF:-1 group-title="安徽",安徽国际
@@ -2768,29 +2738,17 @@ kdsvod://http://v.91kds.com/c7/ahtv3.m3u8?id=ahgj&pwd=jsdecode
 #EXTINF:-1 group-title="安徽",安徽导视
 http://dspdhls.appcoo.com:8888/live/dspd/index.m3u8
 #EXTINF:-1 group-title="安徽",安徽影视
-kdsvod://ahtv2://72
-#EXTINF:-1 group-title="安徽",安徽影视
-https://ahlive.ahwanyun.cn/live/8534e69a9af14e41a362bcef71d7896f/hls.m3u8
-#EXTINF:-1 group-title="安徽",安徽影视
 kdsvod://http://v.91kds.com/c7/ahtv2.m3u8?id=ahys&pwd=jsdecode
 #EXTINF:-1 group-title="安徽",安徽影视
 kdsvod://http://v.91kds.com/b7/ahtv2.m3u8?id=ahys&kdsplayer=media&pwd=jsdecode@@referer=https://www.ahtv.cn/@user-agent=Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/99.0.4844.84Safari/537.36HBPC/12.1.3.306@@
 #EXTINF:-1 group-title="安徽",安徽影视
 kdsvod://http://v.91kds.com/c7/ahtv3.m3u8?id=ahys&pwd=jsdecode
-#EXTINF:-1 group-title="安徽",安徽移动电视
-kdsvod://ahtv2://68
-#EXTINF:-1 group-title="安徽",安徽经济生活
-kdsvod://ahtv2://71
-#EXTINF:-1 group-title="安徽",安徽经济生活
-https://ahlive.ahwanyun.cn/live/5c6207583a334b048f77dddf370bd840/hls.m3u8
 #EXTINF:-1 group-title="安徽",安徽经济生活
 kdsvod://http://v.91kds.com/c7/ahtv2.m3u8?id=ahjj&pwd=jsdecode
 #EXTINF:-1 group-title="安徽",安徽经济生活
 kdsvod://http://v.91kds.com/b7/ahtv2.m3u8?id=ahjj&kdsplayer=media&pwd=jsdecode@@referer=https://www.ahtv.cn/@user-agent=Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/99.0.4844.84Safari/537.36HBPC/12.1.3.306@@
 #EXTINF:-1 group-title="安徽",安徽经济生活
 kdsvod://http://v.91kds.com/c7/ahtv3.m3u8?id=ahjj&pwd=jsdecode
-#EXTINF:-1 group-title="安徽",安徽综艺体育
-kdsvod://ahtv2://73
 #EXTINF:-1 group-title="安徽",安徽综艺体育
 http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8
 #EXTINF:-1 group-title="安徽",安徽综艺体育
@@ -2825,8 +2783,6 @@ rtmp://52181.lssplay.aodianyun.com/tv_radio_52181/tv_channel_3390?auth_key=48494
 htmlplay://https://web.guangdianyun.tv/tv/?id=3390&uin=4180
 #EXTINF:-1 group-title="安徽",岳西综合频道
 http://112.27.49.135:8090/hls/main0/playlist.m3u8
-#EXTINF:-1 group-title="安徽",岳西综合频道
-https://ahlive.ahwanyun.cn/live/7e6dc3845c124c85999bcb4ae2eeddf7/hls.m3u8
 #EXTINF:-1 group-title="安徽",广德新闻综合
 https://live.gdtv.ah.cn/live/newsTV.m3u8
 #EXTINF:-1 group-title="安徽",广德生活频道
@@ -2835,8 +2791,6 @@ https://live.gdtv.ah.cn/live/shenghuoTV.m3u8
 http://112.30.194.221:20080/live/4f38ef59c79e4d4bac1a995681102573/hls.m3u8
 #EXTINF:-1 group-title="安徽",无为新闻综合
 https://ahlive.ahwanyun.cn/live/3065a7fde2f9429fb63898670bec988e/hls.m3u8
-#EXTINF:-1 group-title="安徽",无为新闻综合
-https://ahlive.ahwanyun.cn/live/3065a7fde2f9429fb63898670bec988e.flv
 #EXTINF:-1 group-title="安徽",望江新闻综合
 https://gnhls.qingmei.tv/live/wjxw.m3u8?volcTime=1753081769&volcSecret=417e16d73e15903fc21a4491f761a3e5
 #EXTINF:-1 group-title="安徽",望江黄梅戏
@@ -2873,8 +2827,6 @@ http://xcblive.hbcoal.com/3/sd/live.m3u8
 https://live.hbnews.net/video/ggpd/index.m3u8
 #EXTINF:-1 group-title="安徽",淮北经济生活
 https://vms-x.hbnews.net/video/JJSH/index.m3u8
-#EXTINF:-1 group-title="安徽",淮南新闻综合
-https://ahlive.ahwanyun.cn/live/8f025f302a3441f4b5a45ad4f06b42cb/hls.m3u8
 #EXTINF:-1 group-title="安徽",淮南新闻综合
 kdsvod://http://v.91kds.com/b7/ahqx.m3u8?id=ahhntv1&pwd=jsdecode
 #EXTINF:-1 group-title="安徽",淮河能源综合
@@ -3099,40 +3051,28 @@ http://mobilelive.gxtv.cn/live/nn_live1009/playlist.m3u8
 kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=gxgj&pwd=jsdecode
 #EXTINF:-1 group-title="广西",广西国际
 kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=gxgj&pwd=jsdecode
-#EXTINF:-1 group-title="广西",广西国际
-kdsvod://http://v.91kds.com/b7/cdnlive.m3u8?id=gxgj&pwd=jsdecode
 #EXTINF:-1 group-title="广西",广西影视
 kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=gxys&pwd=jsdecode
 #EXTINF:-1 group-title="广西",广西影视
 kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=gxys&pwd=jsdecode
-#EXTINF:-1 group-title="广西",广西影视
-kdsvod://http://v.91kds.com/b7/cdnlive.m3u8?id=gxys&pwd=jsdecode
 #EXTINF:-1 group-title="广西",广西新闻
 https://mobilelive.gxtv.cn/live/nn_live1007/playlist.m3u8
 #EXTINF:-1 group-title="广西",广西新闻
 kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=gxxw&pwd=jsdecode
 #EXTINF:-1 group-title="广西",广西新闻
 kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=gxxw&pwd=jsdecode
-#EXTINF:-1 group-title="广西",广西新闻
-kdsvod://http://v.91kds.com/b7/cdnlive.m3u8?id=gxxw&pwd=jsdecode
 #EXTINF:-1 group-title="广西",广西移动
 kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=gxyd&pwd=jsdecode
 #EXTINF:-1 group-title="广西",广西移动
 kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=gxyd&pwd=jsdecode
-#EXTINF:-1 group-title="广西",广西移动
-kdsvod://http://v.91kds.com/b7/cdnlive.m3u8?id=gxyd&pwd=jsdecode
 #EXTINF:-1 group-title="广西",广西综艺旅游
 kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=gxzy&pwd=jsdecode
 #EXTINF:-1 group-title="广西",广西综艺旅游
 kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=gxzy&pwd=jsdecode
-#EXTINF:-1 group-title="广西",广西综艺旅游
-kdsvod://http://v.91kds.com/b7/cdnlive.m3u8?id=gxzy&pwd=jsdecode
 #EXTINF:-1 group-title="广西",广西都市
 kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=gxds&pwd=jsdecode
 #EXTINF:-1 group-title="广西",广西都市
 kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=gxds&pwd=jsdecode
-#EXTINF:-1 group-title="广西",广西都市
-kdsvod://http://v.91kds.com/b7/cdnlive.m3u8?id=gxds&pwd=jsdecode
 #EXTINF:-1 group-title="广西",昭平综合
 https://live.gxrb.com.cn/gx/zhaoping/index.m3u8&kdsplayer=media
 #EXTINF:-1 group-title="广西",昭平综合
@@ -3371,10 +3311,14 @@ htmlplay://https://web.guangdianyun.tv/tv/?id=1330&uin=1669
 http://36009.hlsplay.aodianyun.com/tv_radio_36009/tv_channel_1330.m3u8?auth_key=4854915849-0-0-5cf8df0f6f82fbb8da58b60f011965c3
 #EXTINF:-1 group-title="海南",海南文旅
 kdsvod://http://v.91kds.com/b7/hitv.m3u8?id=hiys&pwd=jsdecode
+#EXTINF:-1 group-title="海南",海南文旅
+kdsvod://migu://962067526
 #EXTINF:-1 group-title="海南",海南新闻
 https://livesec.mudu.tv/watch/jcrg6c.m3u8
 #EXTINF:-1 group-title="海南",海南新闻
 kdsvod://http://v.91kds.com/b7/hitv.m3u8?id=hixw&pwd=jsdecode
+#EXTINF:-1 group-title="海南",海南新闻
+kdsvod://migu://962067517
 #EXTINF:-1 group-title="海南",海南社会与法
 kdsvod://http://v.91kds.com/b7/hitv.m3u8?id=higg&pwd=jsdecode
 #EXTINF:-1 group-title="海南",海南自贸
@@ -3785,6 +3729,8 @@ kdsvod://http://v.91kds.com/b7/hatv.m3u8?id=gxpd&pwd=jsdecode
 kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=gxpd&pwd=jsdecode
 #EXTINF:-1 group-title="河南",国学频道
 kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=gxpd&pwd=jsdecode
+#EXTINF:-1 group-title="河南",国学频道
+kdsvod://ysp://gxpd&fmt=ip
 #EXTINF:-1 group-title="河南",夏邑新闻频道
 http://live.dxhmt.cn:9081/tv/11426-1.m3u8
 #EXTINF:-1 group-title="河南",夏邑新闻频道
@@ -3953,6 +3899,8 @@ http://live.dxhmt.cn:9080/19903718786/3159ec673c114135816d45dd52ad7396.m3u8
 kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=hezj&pwd=jsdecode
 #EXTINF:-1 group-title="河南",梨园频道
 kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=hezj&pwd=jsdecode
+#EXTINF:-1 group-title="河南",梨园频道
+kdsvod://migu://961930369
 #EXTINF:-1 group-title="河南",正阳一套
 http://live.dxhmt.cn:9081/tv/11724-1.m3u8
 #EXTINF:-1 group-title="河南",正阳一套
@@ -4917,44 +4865,14 @@ https://jiangling-live21.cjyun.org/10090/s10090-jltv01.m3u8?auth_key=1798732799-
 https://shayang-live21.cjyun.org/10110/s10110-sytv1.m3u8?auth_key=1735660799-0-0-353e5084eb6fbefb0bd8345b4669fd15
 #EXTINF:-1 group-title="湖北",洪湖新闻频道
 https://honghu-live21.cjyun.org/10087/s10087-0823-HONGHUTV01.m3u8?auth_key=1735660799-0-0-ee46a4c41ab551c99632c3762df4d7a0
-#EXTINF:-1 group-title="湖北",湖北公共新闻
-kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=hbgg&pwd=jsdecode
-#EXTINF:-1 group-title="湖北",湖北公共新闻
-kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=hbgg&pwd=jsdecode
-#EXTINF:-1 group-title="湖北",湖北垄上
-kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=hbls&pwd=jsdecode
-#EXTINF:-1 group-title="湖北",湖北垄上
-kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=hbls&pwd=jsdecode
 #EXTINF:-1 group-title="湖北",湖北垄上
 kdsvod://http://v.91kds.com/c7/hbtv.m3u8?id=hbls&pwd=jsdecode@@Referer=https://m.hbtv.com.cn/@@
 #EXTINF:-1 group-title="湖北",湖北影视
-kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=hbys&pwd=jsdecode
-#EXTINF:-1 group-title="湖北",湖北影视
-kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=hbys&pwd=jsdecode
-#EXTINF:-1 group-title="湖北",湖北影视
 kdsvod://http://v.91kds.com/c7/hbtv.m3u8?id=hbys&pwd=jsdecode@@Referer=https://m.hbtv.com.cn/@@
 #EXTINF:-1 group-title="湖北",湖北教育
-kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=hbjy&pwd=jsdecode
-#EXTINF:-1 group-title="湖北",湖北教育
-kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=hbjy&pwd=jsdecode
-#EXTINF:-1 group-title="湖北",湖北教育
 kdsvod://http://v.91kds.com/c7/hbtv.m3u8?id=hbjy&pwd=jsdecode@@Referer=https://m.hbtv.com.cn/@@
-#EXTINF:-1 group-title="湖北",湖北生活
-kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=hbty&pwd=jsdecode
-#EXTINF:-1 group-title="湖北",湖北生活
-kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=hbty&pwd=jsdecode
-#EXTINF:-1 group-title="湖北",湖北生活
-kdsvod://http://v.91kds.com/c7/hbtv.m3u8?id=hbty&pwd=jsdecode@@Referer=https://m.hbtv.com.cn/@@
-#EXTINF:-1 group-title="湖北",湖北经视
-kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=hbjs&pwd=jsdecode
-#EXTINF:-1 group-title="湖北",湖北经视
-kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=hbjs&pwd=jsdecode
 #EXTINF:-1 group-title="湖北",湖北经视
 kdsvod://http://v.91kds.com/c7/hbtv.m3u8?id=hbjs&pwd=jsdecode@@Referer=https://m.hbtv.com.cn/@@
-#EXTINF:-1 group-title="湖北",湖北综合
-kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=hbzh&pwd=jsdecode
-#EXTINF:-1 group-title="湖北",湖北综合
-kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=hbzh&pwd=jsdecode
 #EXTINF:-1 group-title="湖北",湖北综合
 kdsvod://http://v.91kds.com/c7/hbtv.m3u8?id=hbzh&pwd=jsdecode@@Referer=https://m.hbtv.com.cn/@@
 #EXTINF:-1 group-title="湖北",潜江新闻综合
@@ -5098,11 +5016,11 @@ kdsvod://http://v.91kds.com/b7/hntv.m3u8?id=hnklcd&pwd=jsdecode
 #EXTINF:-1 group-title="湖南",快乐垂钓
 kdsvod://hntv://218
 #EXTINF:-1 group-title="湖南",快乐垂钓
-http://pili-live-snapshot.tv.hntvcloud.com/mg-tv/channel-3.m3u8
-#EXTINF:-1 group-title="湖南",快乐垂钓
 kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=hnklcd&pwd=jsdecode
 #EXTINF:-1 group-title="湖南",快乐垂钓
 kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=hnklcd&pwd=jsdecode
+#EXTINF:-1 group-title="湖南",快乐垂钓
+kdsvod://migu://961930263
 #EXTINF:-1 group-title="湖南",快乐购
 kdsvod://http://v.91kds.com/b7/hntv.m3u8?id=hnklg&pwd=jsdecode
 #EXTINF:-1 group-title="湖南",快乐购
@@ -5111,8 +5029,6 @@ kdsvod://hntv://267
 kdsvod://rtmphtml://http://v.91kds.com/b7/hnmgy.m3u8?fmt=rtmp&id=hnklg&pwd=jsdecode
 #EXTINF:-1 group-title="湖南",快乐购
 kdsvod://http://v.91kds.com/b7/hoge.m3u8?ip=hnldtv&id=13&pwd=jsdecode@@User-Agent=Mozilla@@
-#EXTINF:-1 group-title="湖南",快乐购
-http://pili-live-snapshot.tv.hntvcloud.com/mg-tv/channel-11.m3u8
 #EXTINF:-1 group-title="湖南",怀化新闻综合
 kdsvod://http://v.91kds.com/b7/hnhhtv.m3u8?id=hnhhtv1&pwd=jsdecode
 #EXTINF:-1 group-title="湖南",怀化经济生活
@@ -5166,31 +5082,29 @@ kdsvod://hntv://229
 #EXTINF:-1 group-title="湖南",湖南国际
 kdsvod://rtmphtml://http://v.91kds.com/b7/hnmgy.m3u8?fmt=rtmp&id=hngj&pwd=jsdecode
 #EXTINF:-1 group-title="湖南",湖南国际
-http://pili-live-snapshot.tv.hntvcloud.com/mg-tv/channel-4.m3u8
-#EXTINF:-1 group-title="湖南",湖南国际
 kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=hngj&pwd=jsdecode
 #EXTINF:-1 group-title="湖南",湖南国际
 kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=hngj&pwd=jsdecode
-#EXTINF:-1 group-title="湖南",湖南国际
-kdsvod://http://v.91kds.com/b7/cdnlive.m3u8?id=hngj&pwd=jsdecode
 #EXTINF:-1 group-title="湖南",湖南娱乐
 kdsvod://http://v.91kds.com/b7/hntv.m3u8?id=hnyl&pwd=jsdecode
 #EXTINF:-1 group-title="湖南",湖南娱乐
 kdsvod://hntv://344
 #EXTINF:-1 group-title="湖南",湖南娱乐
-http://pili-live-snapshot.tv.hntvcloud.com/mg-tv/channel-13.m3u8
-#EXTINF:-1 group-title="湖南",湖南娱乐
 kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=hnyl&pwd=jsdecode
 #EXTINF:-1 group-title="湖南",湖南娱乐
 kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=hnyl&pwd=jsdecode
 #EXTINF:-1 group-title="湖南",湖南娱乐
-kdsvod://http://v.91kds.com/b7/cdnlive.m3u8?id=hnyl&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=hnyla&pwd=jsdecode
+#EXTINF:-1 group-title="湖南",湖南娱乐
+kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=hnyla&pwd=jsdecode
+#EXTINF:-1 group-title="湖南",湖南导视
+kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=hnda&pwd=jsdecode
+#EXTINF:-1 group-title="湖南",湖南导视
+kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=hnda&pwd=jsdecode
 #EXTINF:-1 group-title="湖南",湖南教育
 kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=hnjy&pwd=jsdecode
 #EXTINF:-1 group-title="湖南",湖南教育
 kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=hnjy&pwd=jsdecode
-#EXTINF:-1 group-title="湖南",湖南教育
-kdsvod://http://v.91kds.com/b7/cdnlive.m3u8?id=hnjy&pwd=jsdecode
 #EXTINF:-1 group-title="湖南",湖南爱晚
 kdsvod://http://v.91kds.com/b7/hntv.m3u8?id=hngg&pwd=jsdecode
 #EXTINF:-1 group-title="湖南",湖南爱晚
@@ -5198,53 +5112,59 @@ http://p8.vzan.com/slowlive/149039617847513156/live.m3u8
 #EXTINF:-1 group-title="湖南",湖南爱晚
 kdsvod://hntv://261
 #EXTINF:-1 group-title="湖南",湖南爱晚
-http://pili-live-snapshot.tv.hntvcloud.com/mg-tv/channel-9.m3u8
-#EXTINF:-1 group-title="湖南",湖南爱晚
 kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=hngg&pwd=jsdecode
 #EXTINF:-1 group-title="湖南",湖南爱晚
 kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=hngg&pwd=jsdecode
 #EXTINF:-1 group-title="湖南",湖南爱晚
-kdsvod://http://v.91kds.com/b7/cdnlive.m3u8?id=hngg&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=hngga&pwd=jsdecode
+#EXTINF:-1 group-title="湖南",湖南爱晚
+kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=hngga&pwd=jsdecode
 #EXTINF:-1 group-title="湖南",湖南电影
 kdsvod://http://v.91kds.com/b7/hntv.m3u8?id=hndy&pwd=jsdecode
-#EXTINF:-1 group-title="湖南",湖南电影
-http://pili-live-snapshot.tv.hntvcloud.com/mg-tv/channel-film.m3u8
 #EXTINF:-1 group-title="湖南",湖南电影
 kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=hndy&pwd=jsdecode
 #EXTINF:-1 group-title="湖南",湖南电影
 kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=hndy&pwd=jsdecode
 #EXTINF:-1 group-title="湖南",湖南电影
-kdsvod://http://v.91kds.com/b7/cdnlive.m3u8?id=hndy&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=hndya&pwd=jsdecode
+#EXTINF:-1 group-title="湖南",湖南电影
+kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=hndya&pwd=jsdecode
 #EXTINF:-1 group-title="湖南",湖南电视剧
 kdsvod://http://v.91kds.com/b7/hntv.m3u8?id=hndsj&pwd=jsdecode
 #EXTINF:-1 group-title="湖南",湖南电视剧
 kdsvod://hntv://484
 #EXTINF:-1 group-title="湖南",湖南电视剧
-http://pili-live-snapshot.tv.hntvcloud.com/mg-tv/channel-10.m3u8
+kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=hndsj&pwd=jsdecode
+#EXTINF:-1 group-title="湖南",湖南电视剧
+kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=hndsj&pwd=jsdecode
+#EXTINF:-1 group-title="湖南",湖南电视剧
+kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=hndsja&pwd=jsdecode
+#EXTINF:-1 group-title="湖南",湖南电视剧
+kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=hndsja&pwd=jsdecode
 #EXTINF:-1 group-title="湖南",湖南经视
 kdsvod://http://v.91kds.com/b7/hntv.m3u8?id=hnjs&pwd=jsdecode
 #EXTINF:-1 group-title="湖南",湖南经视
 kdsvod://hntv://280
 #EXTINF:-1 group-title="湖南",湖南经视
-http://pili-live-snapshot.tv.hntvcloud.com/mg-tv/channel-2.m3u8
-#EXTINF:-1 group-title="湖南",湖南经视
 kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=hnjs&pwd=jsdecode
 #EXTINF:-1 group-title="湖南",湖南经视
 kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=hnjs&pwd=jsdecode
 #EXTINF:-1 group-title="湖南",湖南经视
-kdsvod://http://v.91kds.com/b7/cdnlive.m3u8?id=hnjs&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=hnjsa&pwd=jsdecode
+#EXTINF:-1 group-title="湖南",湖南经视
+kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=hnjsa&pwd=jsdecode
 #EXTINF:-1 group-title="湖南",湖南都市
 kdsvod://http://v.91kds.com/b7/hntv.m3u8?id=hnds&pwd=jsdecode
 #EXTINF:-1 group-title="湖南",湖南都市
 kdsvod://hntv://346
 #EXTINF:-1 group-title="湖南",湖南都市
-http://pili-live-snapshot.tv.hntvcloud.com/mg-tv/channel-6.m3u8
-#EXTINF:-1 group-title="湖南",湖南都市
 kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=hnds&pwd=jsdecode
 #EXTINF:-1 group-title="湖南",湖南都市
 kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=hnds&pwd=jsdecode
 #EXTINF:-1 group-title="湖南",湖南都市
-kdsvod://http://v.91kds.com/b7/cdnlive.m3u8?id=hnds&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=hndsa&pwd=jsdecode
+#EXTINF:-1 group-title="湖南",湖南都市
+kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=hndsa&pwd=jsdecode
 #EXTINF:-1 group-title="湖南",湘潭县综合
 https://liveplay-xupu.rednet.cn/live/xiangtanxian_tv.m3u8@@Referer=https://wap.xpnews.net/@@
 #EXTINF:-1 group-title="湖南",湘潭新闻综合
@@ -5300,13 +5220,13 @@ kdsvod://http://v.91kds.com/b7/hntv.m3u8?id=hnjyjs&pwd=jsdecode
 #EXTINF:-1 group-title="湖南",金鹰纪实
 kdsvod://hntv://316
 #EXTINF:-1 group-title="湖南",金鹰纪实
-http://pili-live-snapshot.tv.hntvcloud.com/mg-tv/channel-7.m3u8
-#EXTINF:-1 group-title="湖南",金鹰纪实
 kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=hnjyjs&pwd=jsdecode
 #EXTINF:-1 group-title="湖南",金鹰纪实
 kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=hnjyjs&pwd=jsdecode
 #EXTINF:-1 group-title="湖南",金鹰纪实
-http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226667/1.m3u8
+kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=hnjyjsa&pwd=jsdecode
+#EXTINF:-1 group-title="湖南",金鹰纪实
+kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=hnjyjsa&pwd=jsdecode
 #EXTINF:-1 group-title="湖南",长沙县新闻综合
 https://liveplay-srs.voc.com.cn/hls/tv/203_10cdf5.m3u8@@Referer=https://xhncloud.voc.com.cn/@User-Agent=Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/99.0.4844.84Safari/537.36HBPC/12.1.3.306@@
 #EXTINF:-1 group-title="湖南",长沙县新闻综合
@@ -5365,8 +5285,6 @@ kdsvod://http://v.91kds.com/c7/jltv.m3u8?id=jlys&pwd=jsdecode
 kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=jlys&pwd=jsdecode
 #EXTINF:-1 group-title="吉林",吉林影视
 kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=jlys&pwd=jsdecode
-#EXTINF:-1 group-title="吉林",吉林影视
-kdsvod://http://v.91kds.com/b7/cdnlive.m3u8?id=jlys&pwd=jsdecode
 #EXTINF:-1 group-title="吉林",吉林教育
 http://139.212.251.230:8088/flv0
 #EXTINF:-1 group-title="吉林",吉林生活
@@ -5377,8 +5295,6 @@ kdsvod://http://v.91kds.com/c7/jltv.m3u8?id=jlsg&pwd=jsdecode
 kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=jlsh&pwd=jsdecode
 #EXTINF:-1 group-title="吉林",吉林生活
 kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=jlsh&pwd=jsdecode
-#EXTINF:-1 group-title="吉林",吉林生活
-kdsvod://http://v.91kds.com/b7/cdnlive.m3u8?id=jlsh&pwd=jsdecode
 #EXTINF:-1 group-title="吉林",吉林综艺文化
 kdsvod://http://v.91kds.com/b7/hoge.m3u8?ip=jltv&id=362&pwd=jsdecode
 #EXTINF:-1 group-title="吉林",吉林综艺文化
@@ -5387,8 +5303,6 @@ kdsvod://http://v.91kds.com/c7/jltv.m3u8?id=jlfz&pwd=jsdecode
 kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=jlfz&pwd=jsdecode
 #EXTINF:-1 group-title="吉林",吉林综艺文化
 kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=jlfz&pwd=jsdecode
-#EXTINF:-1 group-title="吉林",吉林综艺文化
-kdsvod://http://v.91kds.com/b7/cdnlive.m3u8?id=jlfz&pwd=jsdecode
 #EXTINF:-1 group-title="吉林",吉林都市
 kdsvod://http://v.91kds.com/b7/hoge.m3u8?ip=jltv&id=317&pwd=jsdecode
 #EXTINF:-1 group-title="吉林",吉林都市
@@ -5397,8 +5311,6 @@ kdsvod://http://v.91kds.com/c7/jltv.m3u8?id=jlds&pwd=jsdecode
 kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=jlds&pwd=jsdecode
 #EXTINF:-1 group-title="吉林",吉林都市
 kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=jlds&pwd=jsdecode
-#EXTINF:-1 group-title="吉林",吉林都市
-kdsvod://http://v.91kds.com/b7/cdnlive.m3u8?id=jlds&pwd=jsdecode
 #EXTINF:-1 group-title="吉林",四平新闻综合
 http://stream2.jlntv.cn/sptv/sd/live.m3u8
 #EXTINF:-1 group-title="吉林",延吉新闻综合
@@ -5453,6 +5365,10 @@ http://stream2.jlntv.cn/liaoyuan1/sd/live.m3u8
 http://stream5.jlntv.cn/thx/sd/live.m3u8
 #EXTINF:-1 group-title="吉林",通化新闻
 http://stream2.jlntv.cn/tonghua1/sd/live.m3u8
+#EXTINF:-1 group-title="吉林",长影频道
+kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=jlcypd&pwd=jsdecode
+#EXTINF:-1 group-title="吉林",长影频道
+kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=jlcypd&pwd=jsdecode
 #EXTINF:-1 group-title="吉林",长春市民生活
 https://p2hssh.vzan.com/slowlive/759031291491421605/live.m3u8?zbid=1484002802&tpid=1641057309
 #EXTINF:-1 group-title="吉林",长春文旅体育
@@ -6159,6 +6075,8 @@ kdsvod://http://v.91kds.com/c7/jsqx.m3u8?id=jszjtv1&pwd=jsdecode
 kdsvod://http://v.91kds.com/b7/jstv1.m3u8?id=jszjtv1&pwd=jsdecode@@Referer=https://live.jstv.com/@@
 #EXTINF:-1 group-title="江苏",镇江新闻时政
 kdsvod://http://v.91kds.com/c7/jsqx1.m3u8?id=jszjtv1&pwd=jsdecode
+#EXTINF:-1 group-title="江苏",镇江新闻时政
+kdsvod://migu://639731783
 #EXTINF:-1 group-title="江苏",靖江新闻综合
 http://visit.jjbctv.com:1935/live/xwzhpc/playlist.m3u8
 #EXTINF:-1 group-title="江苏",靖江新闻综合
@@ -6324,9 +6242,15 @@ kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=jxtv5&pwd=jsdecode
 #EXTINF:-1 group-title="江西",江西公共农业
 kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=jxtv5&pwd=jsdecode
 #EXTINF:-1 group-title="江西",江西公共农业
-kdsvod://http://v.91kds.com/b7/cdnlive.m3u8?id=jxtv5&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=jxtv5a&pwd=jsdecode
+#EXTINF:-1 group-title="江西",江西公共农业
+kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=jxtv5a&pwd=jsdecode
 #EXTINF:-1 group-title="江西",江西教育频道
 https://cdn-live.jxeduyun.com/streams/640f79857ff58.m3u8
+#EXTINF:-1 group-title="江西",江西教育频道
+kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=jxjy&pwd=jsdecode
+#EXTINF:-1 group-title="江西",江西教育频道
+kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=jxjy&pwd=jsdecode
 #EXTINF:-1 group-title="江西",江西新闻频道
 kdsvod://http://v.91kds.com/c7/jxtv.m3u8?id=jxtv7&pwd=jsdecode
 #EXTINF:-1 group-title="江西",江西新闻频道
@@ -6336,15 +6260,15 @@ kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=jxtv7&pwd=jsdecode
 #EXTINF:-1 group-title="江西",江西新闻频道
 kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=jxtv7&pwd=jsdecode
 #EXTINF:-1 group-title="江西",江西新闻频道
-kdsvod://http://v.91kds.com/b7/cdnlive.m3u8?id=jxtv7&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=jxtv7a&pwd=jsdecode
+#EXTINF:-1 group-title="江西",江西新闻频道
+kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=jxtv7a&pwd=jsdecode
 #EXTINF:-1 group-title="江西",江西移动电视
 kdsvod://http://v.91kds.com/c7/jxtv.m3u8?id=jxtv8&pwd=jsdecode
 #EXTINF:-1 group-title="江西",江西移动电视
 kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=jxtv8&pwd=jsdecode
 #EXTINF:-1 group-title="江西",江西移动电视
 kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=jxtv8&pwd=jsdecode
-#EXTINF:-1 group-title="江西",江西移动电视
-kdsvod://http://v.91kds.com/b7/cdnlive.m3u8?id=jxtv8&pwd=jsdecode
 #EXTINF:-1 group-title="江西",江西经济生活
 kdsvod://http://v.91kds.com/c7/jxtv.m3u8?id=jxtv3&pwd=jsdecode
 #EXTINF:-1 group-title="江西",江西经济生活
@@ -6354,7 +6278,9 @@ kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=jxtv3&pwd=jsdecode
 #EXTINF:-1 group-title="江西",江西经济生活
 kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=jxtv3&pwd=jsdecode
 #EXTINF:-1 group-title="江西",江西经济生活
-kdsvod://http://v.91kds.com/b7/cdnlive.m3u8?id=jxtv3&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=jxtv3a&pwd=jsdecode
+#EXTINF:-1 group-title="江西",江西经济生活
+kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=jxtv3a&pwd=jsdecode
 #EXTINF:-1 group-title="江西",江西都市频道
 kdsvod://http://v.91kds.com/c7/jxtv.m3u8?id=jxtv2&pwd=jsdecode
 #EXTINF:-1 group-title="江西",江西都市频道
@@ -6364,15 +6290,15 @@ kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=jxtv2&pwd=jsdecode
 #EXTINF:-1 group-title="江西",江西都市频道
 kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=jxtv2&pwd=jsdecode
 #EXTINF:-1 group-title="江西",江西都市频道
-kdsvod://http://v.91kds.com/b7/cdnlive.m3u8?id=jxtv2&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=jxtv2a&pwd=jsdecode
+#EXTINF:-1 group-title="江西",江西都市频道
+kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=jxtv2a&pwd=jsdecode
 #EXTINF:-1 group-title="江西",江西陶瓷频道
 kdsvod://http://v.91kds.com/c7/jxtv.m3u8?id=jxtv10&pwd=jsdecode
 #EXTINF:-1 group-title="江西",江西陶瓷频道
 kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=jxtv10&pwd=jsdecode
 #EXTINF:-1 group-title="江西",江西陶瓷频道
 kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=jxtv10&pwd=jsdecode
-#EXTINF:-1 group-title="江西",江西陶瓷频道
-kdsvod://http://v.91kds.com/b7/cdnlive.m3u8?id=jxtv10&pwd=jsdecode
 #EXTINF:-1 group-title="江西",湾里综合频道
 kdsvod://http://v.91kds.com/b7/jxnctv.m3u8?id=jxncwl1&pwd=jsdecode
 #EXTINF:-1 group-title="江西",湾里综合频道
@@ -6443,6 +6369,10 @@ kdsvod://http://v.91kds.com/b7/tidenew.m3u8?id=lndltv2&pwd=jsdecode
 kdsvod://http://v.91kds.com/c7/lndltv.m3u8?id=lndltv2&pwd=jsdecode
 #EXTINF:-1 group-title="辽宁",家庭理财
 kdsvod://rtmphtml://http://v.91kds.com/b7/lnbdy.m3u8?id=jtlc&pwd=jsdecode
+#EXTINF:-1 group-title="辽宁",家庭理财
+kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=jtlc&pwd=jsdecode
+#EXTINF:-1 group-title="辽宁",家庭理财
+kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=jtlc&pwd=jsdecode
 #EXTINF:-1 group-title="辽宁",宽甸综合频道
 kdsvod://rtmphtml://http://v.91kds.com/b7/lnbdy.m3u8?id=lnddkd1&pwd=jsdecode
 #EXTINF:-1 group-title="辽宁",庄河综合频道
@@ -6488,10 +6418,6 @@ kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=lnty&pwd=jsdecode
 #EXTINF:-1 group-title="辽宁",辽宁体育
 kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=lnty&pwd=jsdecode
 #EXTINF:-1 group-title="辽宁",辽宁体育
-kdsvod://http://v.91kds.com/b7/cdnlive.m3u8?id=lnty&pwd=jsdecode
-#EXTINF:-1 group-title="辽宁",辽宁体育
-kdsvod://http://v.91kds.com/b7/cdnlive.m3u8?id=lnty-3m&pwd=jsdecode
-#EXTINF:-1 group-title="辽宁",辽宁体育
 kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=lnty3m&pwd=jsdecode
 #EXTINF:-1 group-title="辽宁",辽宁体育
 kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=lnty3m&pwd=jsdecode
@@ -6504,10 +6430,6 @@ kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=lnbf&pwd=jsdecode
 #EXTINF:-1 group-title="辽宁",辽宁北方
 kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=lnbf&pwd=jsdecode
 #EXTINF:-1 group-title="辽宁",辽宁北方
-kdsvod://http://v.91kds.com/b7/cdnlive.m3u8?id=lnbf&pwd=jsdecode
-#EXTINF:-1 group-title="辽宁",辽宁北方
-kdsvod://http://v.91kds.com/b7/cdnlive.m3u8?id=lnbf-3m&pwd=jsdecode
-#EXTINF:-1 group-title="辽宁",辽宁北方
 kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=lnbf3m&pwd=jsdecode
 #EXTINF:-1 group-title="辽宁",辽宁北方
 kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=lnbf3m&pwd=jsdecode
@@ -6518,10 +6440,6 @@ kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=lnys&pwd=jsdecode
 #EXTINF:-1 group-title="辽宁",辽宁影视剧
 kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=lnys&pwd=jsdecode
 #EXTINF:-1 group-title="辽宁",辽宁影视剧
-kdsvod://http://v.91kds.com/b7/cdnlive.m3u8?id=lnys&pwd=jsdecode
-#EXTINF:-1 group-title="辽宁",辽宁影视剧
-kdsvod://http://v.91kds.com/b7/cdnlive.m3u8?id=lnys-3m&pwd=jsdecode
-#EXTINF:-1 group-title="辽宁",辽宁影视剧
 kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=lnys3m&pwd=jsdecode
 #EXTINF:-1 group-title="辽宁",辽宁影视剧
 kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=lnys3m&pwd=jsdecode
@@ -6531,8 +6449,6 @@ kdsvod://rtmphtml://http://v.91kds.com/b7/lnbdy.m3u8?id=lnjy&pwd=jsdecode
 kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=lnjy&pwd=jsdecode
 #EXTINF:-1 group-title="辽宁",辽宁教育青少
 kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=lnjy&pwd=jsdecode
-#EXTINF:-1 group-title="辽宁",辽宁教育青少
-kdsvod://http://v.91kds.com/b7/cdnlive.m3u8?id=lnjy-3m&pwd=jsdecode
 #EXTINF:-1 group-title="辽宁",辽宁生活
 kdsvod://rtmphtml://http://v.91kds.com/b7/lnbdy.m3u8?id=lnsh&pwd=jsdecode
 #EXTINF:-1 group-title="辽宁",辽宁生活
@@ -6540,33 +6456,21 @@ kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=lnsh&pwd=jsdecode
 #EXTINF:-1 group-title="辽宁",辽宁生活
 kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=lnsh&pwd=jsdecode
 #EXTINF:-1 group-title="辽宁",辽宁生活
-kdsvod://http://v.91kds.com/b7/cdnlive.m3u8?id=lnsh&pwd=jsdecode
-#EXTINF:-1 group-title="辽宁",辽宁生活
-kdsvod://http://v.91kds.com/b7/cdnlive.m3u8?id=lnsh-3m&pwd=jsdecode
-#EXTINF:-1 group-title="辽宁",辽宁生活
 kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=lnsh3m&pwd=jsdecode
 #EXTINF:-1 group-title="辽宁",辽宁生活
 kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=lnsh3m&pwd=jsdecode
-#EXTINF:-1 group-title="辽宁",辽宁移动电视
-kdsvod://rtmphtml://http://v.91kds.com/b7/lnbdy.m3u8?id=lnyd&pwd=jsdecode
 #EXTINF:-1 group-title="辽宁",辽宁经济
 kdsvod://http://v.91kds.com/b7/lnsytv.m3u8?id=lnjj&pwd=jsdecode@@Referer=https://sjvue.yunshengjing.com/@@
 #EXTINF:-1 group-title="辽宁",辽宁经济
 kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=lnjj&pwd=jsdecode
 #EXTINF:-1 group-title="辽宁",辽宁经济
 kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=lnjj&pwd=jsdecode
-#EXTINF:-1 group-title="辽宁",辽宁经济
-kdsvod://http://v.91kds.com/b7/cdnlive.m3u8?id=lnjj-3m&pwd=jsdecode
 #EXTINF:-1 group-title="辽宁",辽宁都市
 kdsvod://rtmphtml://http://v.91kds.com/b7/lnbdy.m3u8?id=lnds&pwd=jsdecode
 #EXTINF:-1 group-title="辽宁",辽宁都市
 kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=lnds&pwd=jsdecode
 #EXTINF:-1 group-title="辽宁",辽宁都市
 kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=lnds&pwd=jsdecode
-#EXTINF:-1 group-title="辽宁",辽宁都市
-kdsvod://http://v.91kds.com/b7/cdnlive.m3u8?id=lnds&pwd=jsdecode
-#EXTINF:-1 group-title="辽宁",辽宁都市
-kdsvod://http://v.91kds.com/b7/cdnlive.m3u8?id=lnds-3m&pwd=jsdecode
 #EXTINF:-1 group-title="辽宁",辽宁都市
 kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=lnds3m&pwd=jsdecode
 #EXTINF:-1 group-title="辽宁",辽宁都市
@@ -6758,19 +6662,17 @@ kdsvod://http://v.91kds.com/b7/tianma.m3u8?ip=alsejn.nmgcyy.com.cn&id=12&pwd=jsd
 #EXTINF:-1 group-title="内蒙古",额济纳旗电视
 http://pili-live-hls.nmgapp12019.sobeylive.com/nmgapp12019/live167081213259277.m3u8
 #EXTINF:-1 group-title="宁夏",中宁综合频道
-https://hls.ningxiahuangheyun.com/live/znzh.m3u8
+https://hls.nxhhy.cn/live/znzh.m3u8
 #EXTINF:-1 group-title="宁夏",吴忠公共
 http://live.kanwz.net/ggpd/sd/live.m3u8
 #EXTINF:-1 group-title="宁夏",吴忠综合
 http://live.kanwz.net/zhpd/sd/live.m3u8
 #EXTINF:-1 group-title="宁夏",宁夏公共
-https://hls.ningxiahuangheyun.com/live/nxgg1M.m3u8@@Referer=https://web.ningxiahuangheyun.com@@
+https://hls.nxhhy.cn/live/nxgg1M.m3u8
 #EXTINF:-1 group-title="宁夏",宁夏少儿
-https://hls.ningxiahuangheyun.com/live/nxse1M.m3u8@@Referer=https://web.ningxiahuangheyun.com@@
-#EXTINF:-1 group-title="宁夏",宁夏文旅
-https://hls.ningxiahuangheyun.com/live/nxwl1M.m3u8@@Referer=https://web.ningxiahuangheyun.com@@
+https://hls.nxhhy.cn/live/nxse1M.m3u8
 #EXTINF:-1 group-title="宁夏",宁夏经济
-https://hls.ningxiahuangheyun.com/live/nxjj1M.m3u8@@Referer=https://web.ningxiahuangheyun.com@@
+https://hls.nxhhy.cn/live/nxjj1M.m3u8
 #EXTINF:-1 group-title="宁夏",石嘴山公共
 https://pili-live-hls-jrszs.szsnews.com/jrszs/ggpd.m3u8
 #EXTINF:-1 group-title="宁夏",石嘴山综合
@@ -7437,64 +7339,30 @@ http://zzbb.1545ts.com:8068/live/tatv0111.m3u8
 kdsvod://http://v.91kds.com/b7/iqilu.m3u8?id=sdtats1&pwd=jsdecode
 #EXTINF:-1 group-title="山东",泰山综合频道
 kdsvod://iqilu://263-1
-#EXTINF:-1 group-title="山东",济南地铁
-kdsvod://http://v.91kds.com/b7/sdjntv1.m3u8?id=sdjndt&pwd=jsdecode@@Referer=https://www.ijntv.cn/@User-Agent=Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/99.0.4844.84Safari/537.36HBPC/12.1.3.306@@
-#EXTINF:-1 group-title="山东",济南城市
-kdsvod://http://v.91kds.com/b7/sdjntv1.m3u8?id=sdjncs&pwd=jsdecode@@Referer=https://www.ijntv.cn/@User-Agent=Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/99.0.4844.84Safari/537.36HBPC/12.1.3.306@@
 #EXTINF:-1 group-title="山东",济南教育
 https://livejnedu.chinamcache.com/live/jneduzb04.m3u8
 #EXTINF:-1 group-title="山东",济南文旅体育
-kdsvod://http://v.91kds.com/b7/sdjntv.m3u8?id=sdjnys&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/sdjntv.m3u8?id=sdjnys&pwd=jsdecode@@Referer=txqc.com@@
 #EXTINF:-1 group-title="山东",济南文旅体育
-kdsvod://http://v.91kds.com/b7/sdjntv1.m3u8?id=sdjnys&pwd=jsdecode@@Referer=https://www.ijntv.cn/@User-Agent=Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/99.0.4844.84Safari/537.36HBPC/12.1.3.306@@
-#EXTINF:-1 group-title="山东",济南文旅体育
-kdsvod://http://v.91kds.com/b7/sdjntv.m3u8?fmt=flv&id=sdjnys&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/sdjntv.m3u8?fmt=flv&id=sdjnys&pwd=jsdecode@@Referer=txqc.com@@
 #EXTINF:-1 group-title="山东",济南文旅体育
 https://quehuamtyoutlive.ijntv.cn/5025f2/ucgsoz.m3u8
-#EXTINF:-1 group-title="山东",济南文旅体育
-http://dspull.ijntv.cn/ijnlive/1610.m3u8?hwSecret=cabf1ae29aa45870e7f4275ce548cbdbf94e77d20eb1a5dcb9bd0e467326da64&hwTime=67f5203d
-#EXTINF:-1 group-title="山东",济南文旅体育
-http://dspull.ijntv.cn/ijnlive/1610.flv?hwSecret=cabf1ae29aa45870e7f4275ce548cbdbf94e77d20eb1a5dcb9bd0e467326da64&hwTime=67f5203d
 #EXTINF:-1 group-title="山东",济南新闻
-kdsvod://http://v.91kds.com/b7/sdjntv.m3u8?id=sdjnxw&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/sdjntv.m3u8?id=sdjnxw&pwd=jsdecode@@Referer=txqc.com@@
 #EXTINF:-1 group-title="山东",济南新闻
-kdsvod://http://v.91kds.com/b7/sdjntv.m3u8?fmt=flv&id=sdjnxw&pwd=jsdecode
-#EXTINF:-1 group-title="山东",济南新闻
-kdsvod://http://v.91kds.com/b7/sdjntv1.m3u8?id=sdjnxw&pwd=jsdecode@@Referer=https://www.ijntv.cn/@User-Agent=Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/99.0.4844.84Safari/537.36HBPC/12.1.3.306@@
-#EXTINF:-1 group-title="山东",济南新闻
-http://dspull.ijntv.cn/ijnlive/1541.m3u8?hwSecret=4182a1c9e7a8f395a65d3b8ea56973a4f83c239724d45d0e4c51dfcbd7422576&hwTime=67f5203d
-#EXTINF:-1 group-title="山东",济南新闻
-http://dspull.ijntv.cn/ijnlive/1541.flv?hwSecret=4182a1c9e7a8f395a65d3b8ea56973a4f83c239724d45d0e4c51dfcbd7422576&hwTime=67f5203d
+kdsvod://http://v.91kds.com/b7/sdjntv.m3u8?fmt=flv&id=sdjnxw&pwd=jsdecode@@Referer=txqc.com@@
 #EXTINF:-1 group-title="山东",济南生活
-kdsvod://http://v.91kds.com/b7/sdjntv.m3u8?id=sdjnsh&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/sdjntv.m3u8?id=sdjnsh&pwd=jsdecode@@Referer=txqc.com@@
 #EXTINF:-1 group-title="山东",济南生活
-kdsvod://http://v.91kds.com/b7/sdjntv.m3u8?fmt=flv&id=sdjnsh&pwd=jsdecode
-#EXTINF:-1 group-title="山东",济南生活
-kdsvod://http://v.91kds.com/b7/sdjntv1.m3u8?id=sdjnsh&pwd=jsdecode@@Referer=https://www.ijntv.cn/@User-Agent=Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/99.0.4844.84Safari/537.36HBPC/12.1.3.306@@
-#EXTINF:-1 group-title="山东",济南生活
-http://dspull.ijntv.cn/ijnlive/1615.m3u8?hwSecret=2ca28f0ab3e4b9c0b2a454671c1278208491cabf00b4c5cf0c10fea58fcd17f3&hwTime=67f5203d
-#EXTINF:-1 group-title="山东",济南移动
-kdsvod://http://v.91kds.com/b7/sdjntv1.m3u8?id=sdjnyd&pwd=jsdecode@@Referer=https://www.ijntv.cn/@User-Agent=Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/99.0.4844.84Safari/537.36HBPC/12.1.3.306@@
+kdsvod://http://v.91kds.com/b7/sdjntv.m3u8?fmt=flv&id=sdjnsh&pwd=jsdecode@@Referer=txqc.com@@
 #EXTINF:-1 group-title="山东",济南都市
-kdsvod://http://v.91kds.com/b7/sdjntv.m3u8?id=sdjnds&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/sdjntv.m3u8?id=sdjnds&pwd=jsdecode@@Referer=txqc.com@@
 #EXTINF:-1 group-title="山东",济南都市
-kdsvod://http://v.91kds.com/b7/sdjntv.m3u8?fmt=flv&id=sdjnds&pwd=jsdecode
-#EXTINF:-1 group-title="山东",济南都市
-kdsvod://http://v.91kds.com/b7/sdjntv1.m3u8?id=sdjnds&pwd=jsdecode@@Referer=https://www.ijntv.cn/@User-Agent=Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/99.0.4844.84Safari/537.36HBPC/12.1.3.306@@
-#EXTINF:-1 group-title="山东",济南都市
-http://dspull.ijntv.cn/ijnlive/1607.m3u8?hwSecret=ff66bb7098b69f1e9b871bccf9003a3fe67ea2efeeabcdfe47adfd17e5bfa1e0&hwTime=67f5203d
-#EXTINF:-1 group-title="山东",济南都市
-http://dspull.ijntv.cn/ijnlive/1607.flv?hwSecret=ff66bb7098b69f1e9b871bccf9003a3fe67ea2efeeabcdfe47adfd17e5bfa1e0&hwTime=67f5203d
+kdsvod://http://v.91kds.com/b7/sdjntv.m3u8?fmt=flv&id=sdjnds&pwd=jsdecode@@Referer=txqc.com@@
 #EXTINF:-1 group-title="山东",济南鲁中
-kdsvod://http://v.91kds.com/b7/sdjntv.m3u8?id=sdlwtv1&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/sdjntv.m3u8?id=sdlwtv1&pwd=jsdecode@@Referer=txqc.com@@
 #EXTINF:-1 group-title="山东",济南鲁中
-kdsvod://http://v.91kds.com/b7/sdjntv.m3u8?fmt=flv&id=sdlwtv1&pwd=jsdecode
-#EXTINF:-1 group-title="山东",济南鲁中
-kdsvod://http://v.91kds.com/b7/sdjntv1.m3u8?id=sdlwtv1&pwd=jsdecode@@Referer=https://www.ijntv.cn/@User-Agent=Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/99.0.4844.84Safari/537.36HBPC/12.1.3.306@@
-#EXTINF:-1 group-title="山东",济南鲁中
-http://dspull.ijntv.cn/ijnlive/1621.m3u8?hwSecret=5224ceb83eb279c7cb0be03622b561abc3d54f9aa491866db2516798dbb26c50&hwTime=67f5203d
-#EXTINF:-1 group-title="山东",济南鲁中
-http://dspull.ijntv.cn/ijnlive/1621.flv?hwSecret=5224ceb83eb279c7cb0be03622b561abc3d54f9aa491866db2516798dbb26c50&hwTime=67f5203d
+kdsvod://http://v.91kds.com/b7/sdjntv.m3u8?fmt=flv&id=sdlwtv1&pwd=jsdecode@@Referer=txqc.com@@
 #EXTINF:-1 group-title="山东",济宁公共频道
 http://lives.jnnews.tv/video/s10001-JNTV3/index.m3u8
 #EXTINF:-1 group-title="山东",济宁公共频道
@@ -7577,152 +7445,28 @@ kdsvod://iqilu://249-35
 https://lmt.binzhouw.com:8443/live/909446c1cd66.m3u8
 #EXTINF:-1 group-title="山东",滨州民生频道
 https://lmt.binzhouw.com:8443/live/89874c6170d0.m3u8
-#EXTINF:-1 group-title="山东",潍坊中医康养
-https://wfrtv-live-tz.wfcmw.cn/live/6-hypd-zykypd.m3u8
-#EXTINF:-1 group-title="山东",潍坊临朐频道
-https://wfrtv-live-tz.wfcmw.cn:82/live/36-xsq-wflinqu.m3u8
-#EXTINF:-1 group-title="山东",潍坊书画频道
-https://wfrtv-live-tz.wfcmw.cn:82/live/51-hypd-shpd.m3u8
-#EXTINF:-1 group-title="山东",潍坊交警频道
-https://wfrtv-live-tz.wfcmw.cn/live/14-zwpd-wfjjpd.m3u8
-#EXTINF:-1 group-title="山东",潍坊交通频道
-https://wfrtv-live-tz.wfcmw.cn:82/live/40-zwpd-wfjtpd.m3u8
-#EXTINF:-1 group-title="山东",潍坊人大频道
-https://wfrtv-live-tz.wfcmw.cn/live/8-zwpd-wfrdpd.m3u8
-#EXTINF:-1 group-title="山东",潍坊企业家
-https://wfrtv-live-tz.wfcmw.cn/live/10-hypd-qyjpd.m3u8
-#EXTINF:-1 group-title="山东",潍坊住建频道
-https://wfrtv-live-tz.wfcmw.cn:82/live/49-zwpd-wfzjpd.m3u8
-#EXTINF:-1 group-title="山东",潍坊体育频道
-https://wfrtv-live-tz.wfcmw.cn:81/live/27-hypd-wftypd.m3u8
-#EXTINF:-1 group-title="山东",潍坊保税区频道
-https://wfrtv-live-tz.wfcmw.cn:81/live/19-xsq-wfbaoshui.m3u8
-#EXTINF:-1 group-title="山东",潍坊党建频道
-https://wfrtv-live-tz.wfcmw.cn/live/4-zwpd-wfdjpd.m3u8
-#EXTINF:-1 group-title="山东",潍坊公安频道
-https://wfrtv-live-tz.wfcmw.cn:81/live/20-zwpd-wfgapd.m3u8
-#EXTINF:-1 group-title="山东",潍坊农业农村
-https://wfrtv-live-tz.wfcmw.cn:81/live/32-hypd-wfnyncpd.m3u8
-#EXTINF:-1 group-title="山东",潍坊医美频道
-https://wfrtv-live-tz.wfcmw.cn:82/live/42-hypd-ympd.m3u8
-#EXTINF:-1 group-title="山东",潍坊司法频道
-https://wfrtv-live-tz.wfcmw.cn:81/live/21-zwpd-wfsfpd.m3u8
-#EXTINF:-1 group-title="山东",潍坊坊子频道
-https://wfrtv-live-tz.wfcmw.cn:81/live/55-xsq-wffangzi.m3u8
-#EXTINF:-1 group-title="山东",潍坊奎文频道
-https://wfrtv-live-tz.wfcmw.cn:81/live/52-xsq-wfkuiwen.m3u8
-#EXTINF:-1 group-title="山东",潍坊女企业家
-https://wfrtv-live-tz.wfcmw.cn:82/live/60-hypd-wfnqyjpd.m3u8
-#EXTINF:-1 group-title="山东",潍坊妇联频道
-https://wfrtv-live-tz.wfcmw.cn:81/live/26-zwpd-wfflpd.m3u8
-#EXTINF:-1 group-title="山东",潍坊安丘频道
-https://wfrtv-live-tz.wfcmw.cn/live/48-xsq-wfanqiu.m3u8
-#EXTINF:-1 group-title="山东",潍坊寒亭频道
-https://wfrtv-live-tz.wfcmw.cn:81/live/47-xsq-wfhanting.m3u8
-#EXTINF:-1 group-title="山东",潍坊寿光频道
-https://wfrtv-live-tz.wfcmw.cn/live/1-xsq-wfshouguang.m3u8
-#EXTINF:-1 group-title="山东",潍坊少儿频道
-https://wfrtv-live-tz.wfcmw.cn:82/live/54-zpd-wfsrpd1.m3u8
-#EXTINF:-1 group-title="山东",潍坊峡山频道
-https://wfrtv-live-tz.wfcmw.cn/live/2-xsq-wfxiashan.m3u8
-#EXTINF:-1 group-title="山东",潍坊市场监管
-https://wfrtv-live-tz.wfcmw.cn/live/17-zwpd-wfscjgpd.m3u8
-#EXTINF:-1 group-title="山东",潍坊应急频道
-https://wfrtv-live-tz.wfcmw.cn:81/live/25-zwpd-wfyjpd.m3u8
-#EXTINF:-1 group-title="山东",潍坊康养频道
-https://wfrtv-live-tz.wfcmw.cn:82/live/35-hypd-wfkypd.m3u8
-#EXTINF:-1 group-title="山东",潍坊影视综艺
-https://wfrtv-live-tz.wfcmw.cn:5443/live/wftv3.m3u8
 #EXTINF:-1 group-title="山东",潍坊影视综艺
 kdsvod://http://v.91kds.com/b7/iqilu.m3u8?id=sdwftv3&pwd=jsdecode
 #EXTINF:-1 group-title="山东",潍坊影视综艺
 kdsvod://iqilu://635-7
-#EXTINF:-1 group-title="山东",潍坊政务民生
-https://wfrtv-live-tz.wfcmw.cn:81/live/34-zpd-wfzwmspd.m3u8
-#EXTINF:-1 group-title="山东",潍坊政协频道
-https://wfrtv-live-tz.wfcmw.cn/live/9-zwpd-wfzxpd.m3u8
-#EXTINF:-1 group-title="山东",潍坊教育频道
-https://wfrtv-live-tz.wfcmw.cn:82/live/22-hypd-wfjypd.m3u8
-#EXTINF:-1 group-title="山东",潍坊文旅频道
-https://wfrtv-live-tz.wfcmw.cn:81/live/28-zwpd-wfwlpd.m3u8
-#EXTINF:-1 group-title="山东",潍坊文明潍坊
-https://wfrtv-live-tz.wfcmw.cn:82/live/45-zwpd-wmwfpd.m3u8
-#EXTINF:-1 group-title="山东",潍坊文艺时尚
-https://wfrtv-live-tz.wfcmw.cn:82/live/53-zpd-wysspd.m3u8
-#EXTINF:-1 group-title="山东",潍坊新时尚
-https://wfrtv-live-tz.wfcmw.cn:82/live/41-hypd-xsspd.m3u8
-#EXTINF:-1 group-title="山东",潍坊新闻综合
-http://pullwftv.wftvqcm.com/live/wf1pda1.m3u8
 #EXTINF:-1 group-title="山东",潍坊新闻综合
 kdsvod://http://v.91kds.com/b7/iqilu.m3u8?id=sdwftv1&pwd=jsdecode
 #EXTINF:-1 group-title="山东",潍坊新闻综合
-https://wfrtv-live-tz.wfcmw.cn/live/3-zpd-xwzhpd.m3u8
-#EXTINF:-1 group-title="山东",潍坊新闻综合
 kdsvod://iqilu://635-1
-#EXTINF:-1 group-title="山东",潍坊时代先锋
-https://wfrtv-live-tz.wfcmw.cn/live/46-zwpd-wfsdxfpd.m3u8
-#EXTINF:-1 group-title="山东",潍坊昌乐频道
-https://wfrtv-live-tz.wfcmw.cn:82/live/44-xsq-wfchangle.m3u8
-#EXTINF:-1 group-title="山东",潍坊昌邑频道
-https://wfrtv-live-tz.wfcmw.cn/live/12-xsq-wfchangyi.m3u8
-#EXTINF:-1 group-title="山东",潍坊检察频道
-https://wfrtv-live-tz.wfcmw.cn/live/5-zwpd-wfjcpd.m3u8
-#EXTINF:-1 group-title="山东",潍坊残联人之家
-https://wfrtv-live-tz.wfcmw.cn:82/live/59-zwpd-wfsclrzjpd.m3u8
-#EXTINF:-1 group-title="山东",潍坊民政公益
-https://wfrtv-live-tz.wfcmw.cn:82/live/38-zwpd-wfmzgypd.m3u8
-#EXTINF:-1 group-title="山东",潍坊汽车频道
-https://wfrtv-live-tz.wfcmw.cn:81/live/33-hypd-qcpd.m3u8
 #EXTINF:-1 group-title="山东",潍坊滨海新闻综合
 kdsvod://iqilu://199-1
-#EXTINF:-1 group-title="山东",潍坊滨海频道
-https://wfrtv-live-tz.wfcmw.cn/live/11-xsq-wfbinhai.m3u8
-#EXTINF:-1 group-title="山东",潍坊潍城频道
-https://wfrtv-live-tz.wfcmw.cn/live/30-xsq-wfweicheng.m3u8
-#EXTINF:-1 group-title="山东",潍坊生殖健康
-https://wfrtv-live-tz.wfcmw.cn:82/live/58-hypd-wfszzxpd.m3u8
-#EXTINF:-1 group-title="山东",潍坊百姓安康
-https://wfrtv-live-tz.wfcmw.cn:81/live/50-hypd-bxakpd.m3u8
-#EXTINF:-1 group-title="山东",潍坊科教文旅
-http://pullwftv.wftvqcm.com/live/wf4pda4.m3u8
 #EXTINF:-1 group-title="山东",潍坊科教文旅
 kdsvod://http://v.91kds.com/b7/iqilu.m3u8?id=sdwftv4&pwd=jsdecode
 #EXTINF:-1 group-title="山东",潍坊科教文旅
 kdsvod://iqilu://635-9
-#EXTINF:-1 group-title="山东",潍坊经济开发区频道
-https://wfrtv-live-tz.wfcmw.cn:81/live/43-xsq-wfjingkai.m3u8
-#EXTINF:-1 group-title="山东",潍坊经济生活
-https://wfrtv-live-tz.wfcmw.cn:5443/live/wftv2.m3u8
 #EXTINF:-1 group-title="山东",潍坊经济生活
 kdsvod://http://v.91kds.com/b7/iqilu.m3u8?id=sdwftv2&pwd=jsdecode
 #EXTINF:-1 group-title="山东",潍坊经济生活
-https://wfrtv-live-tz.wfcmw.cn:82/live/37-zpd-jjshpd.m3u8
-#EXTINF:-1 group-title="山东",潍坊经济生活
 kdsvod://iqilu://635-5
-#EXTINF:-1 group-title="山东",潍坊职业教育
-https://wfrtv-live-tz.wfcmw.cn/live/16-hypd-wfzyjypd.m3u8
-#EXTINF:-1 group-title="山东",潍坊花漾艺术
-https://wfrtv-live-tz.wfcmw.cn:82/live/56-hypd-hyyspd.m3u8
-#EXTINF:-1 group-title="山东",潍坊诸城频道
-https://wfrtv-live-tz.wfcmw.cn/live/24-xsq-wfzhucheng.m3u8
-#EXTINF:-1 group-title="山东",潍坊通讯频道
-https://wfrtv-live-tz.wfcmw.cn:81/live/29-hypd-wftxpd.m3u8
-#EXTINF:-1 group-title="山东",潍坊都市生活
-https://wfrtv-live-tz.wfcmw.cn:82/live/57-hypd-dsshpd.m3u8
-#EXTINF:-1 group-title="山东",潍坊金融频道
-https://wfrtv-live-tz.wfcmw.cn:81/live/15-zpd-wfjrpd.m3u8
-#EXTINF:-1 group-title="山东",潍坊青少频道
-https://wfrtv-live-tz.wfcmw.cn:81/live/18-hypd-wfqspd.m3u8
-#EXTINF:-1 group-title="山东",潍坊青州频道
-https://wfrtv-live-tz.wfcmw.cn:81/live/23-xsq-wfqingzhou.m3u8
-#EXTINF:-1 group-title="山东",潍坊高密频道
-https://wfrtv-live-tz.wfcmw.cn/live/13-xsq-wfgaomi.m3u8
 #EXTINF:-1 group-title="山东",潍坊高新区电视
 kdsvod://http://v.91kds.com/b7/iqilu.m3u8?id=sdwfgx1&pwd=jsdecode
 #EXTINF:-1 group-title="山东",潍坊高新区电视
 kdsvod://iqilu://421-14
-#EXTINF:-1 group-title="山东",潍坊高新区频道
-https://wfrtv-live-tz.wfcmw.cn:81/live/31-xsq-wfgaoxin.m3u8
 #EXTINF:-1 group-title="山东",潍城综合频道
 kdsvod://http://v.91kds.com/b7/iqilu.m3u8?id=sdwfwc1&pwd=jsdecode
 #EXTINF:-1 group-title="山东",潍城综合频道
@@ -7747,8 +7491,6 @@ kdsvod://iqilu://219-17
 kdsvod://http://v.91kds.com/b7/iqilu.m3u8?id=sdwhhc1&pwd=jsdecode
 #EXTINF:-1 group-title="山东",环翠综合频道
 kdsvod://iqilu://213-5
-#EXTINF:-1 group-title="山东",直播潍坊
-https://wfrtv-live-tz.wfcmw.cn/live/7-zpd-zbwfpd.m3u8
 #EXTINF:-1 group-title="山东",福山生活频道
 kdsvod://iqilu://189-5
 #EXTINF:-1 group-title="山东",福山综合频道
@@ -7771,8 +7513,6 @@ kdsvod://iqilu://195-2
 kdsvod://http://v.91kds.com/b7/iqilu.m3u8?id=sdzqtv1&pwd=jsdecode
 #EXTINF:-1 group-title="山东",章丘综合频道
 kdsvod://iqilu://195-1
-#EXTINF:-1 group-title="山东",纵横潍坊
-https://wfrtv-live-tz.wfcmw.cn:82/live/39-zpd-zhwfpd.m3u8
 #EXTINF:-1 group-title="山东",罗庄影视频道
 kdsvod://http://v.91kds.com/b7/iqilu.m3u8?id=sdlylz2&pwd=jsdecode
 #EXTINF:-1 group-title="山东",罗庄影视频道
@@ -8431,28 +8171,56 @@ kdsvod://http://v.91kds.com/b7/snslza.m3u8?id=snslza1&pwd=jsdecode
 kdsvod://sntv://7
 #EXTINF:-1 group-title="陕西",陕西体育休闲
 kdsvod://migu://956909356
+#EXTINF:-1 group-title="陕西",陕西体育休闲
+kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=sntv7&pwd=jsdecode
+#EXTINF:-1 group-title="陕西",陕西体育休闲
+kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=sntv7&pwd=jsdecode
 #EXTINF:-1 group-title="陕西",陕西新闻资讯
 kdsvod://sntv://1
 #EXTINF:-1 group-title="陕西",陕西新闻资讯
 kdsvod://migu://956909289
+#EXTINF:-1 group-title="陕西",陕西新闻资讯
+kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=sntv1&pwd=jsdecode
+#EXTINF:-1 group-title="陕西",陕西新闻资讯
+kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=sntv1&pwd=jsdecode
 #EXTINF:-1 group-title="陕西",陕西秦腔频道
 kdsvod://sntv://5
 #EXTINF:-1 group-title="陕西",陕西秦腔频道
 kdsvod://migu://956909303
+#EXTINF:-1 group-title="陕西",陕西秦腔频道
+kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=sntv5&pwd=jsdecode
+#EXTINF:-1 group-title="陕西",陕西秦腔频道
+kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=sntv5&pwd=jsdecode
 #EXTINF:-1 group-title="陕西",陕西移动
 kdsvod://sntv://11
+#EXTINF:-1 group-title="陕西",陕西西部电影
+kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=sntv8&pwd=jsdecode
+#EXTINF:-1 group-title="陕西",陕西西部电影
+kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=sntv8&pwd=jsdecode
 #EXTINF:-1 group-title="陕西",陕西都市青春
 kdsvod://sntv://2
 #EXTINF:-1 group-title="陕西",陕西都市青春
 kdsvod://migu://956909358
+#EXTINF:-1 group-title="陕西",陕西都市青春
+kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=sntv2&pwd=jsdecode
+#EXTINF:-1 group-title="陕西",陕西都市青春
+kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=sntv2&pwd=jsdecode
 #EXTINF:-1 group-title="陕西",陕西银龄频道
 kdsvod://sntv://3
 #EXTINF:-1 group-title="陕西",陕西银龄频道
 kdsvod://migu://956909362
+#EXTINF:-1 group-title="陕西",陕西银龄频道
+kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=sntv3&pwd=jsdecode
+#EXTINF:-1 group-title="陕西",陕西银龄频道
+kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=sntv3&pwd=jsdecode
 #EXTINF:-1 group-title="陕西",高陵综合频道
 http://119.3.248.8/xatv7/sd/live.m3u8
 #EXTINF:-1 group-title="上海",上海教育
 https://live2018.setv.sh.cn/setv/programme10_ud.m3u8?auth_key=4794048378-0-0-06e60dd476e18047abd3be7701993ee8@@Referer=https://www.setv.sh.cn/@@
+#EXTINF:-1 group-title="上海",上海教育
+kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=shjy&pwd=jsdecode
+#EXTINF:-1 group-title="上海",上海教育
+kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=shjy&pwd=jsdecode
 #EXTINF:-1 group-title="上海",上海新闻
 kdsvod://http://v.91kds.com/c7/shkk.m3u8?id=shxwhd&pwd=jsdecode
 #EXTINF:-1 group-title="上海",上海新闻
@@ -8487,6 +8255,10 @@ kdsvod://migu://617290047
 kdsvod://http://v.91kds.com/b7/yicai.m3u8?id=dfcj&pwd=jsdecode
 #EXTINF:-1 group-title="上海",东方财经
 kdsvod://http://v.91kds.com/b7/yicai.m3u8?id=dfcja&pwd=jsdecode
+#EXTINF:-1 group-title="上海",东方财经
+kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=dfcj&pwd=jsdecode
+#EXTINF:-1 group-title="上海",东方财经
+kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=dfcj&pwd=jsdecode
 #EXTINF:-1 group-title="上海",乐游频道
 htmlplay://https://m.miguvideo.com/m/liveDetail/796070452?channelId=10010001005
 #EXTINF:-1 group-title="上海",乐游频道
@@ -8558,13 +8330,23 @@ kdsvod://http://v.91kds.com/b7/yicai.m3u8?id=dycj&pwd=jsdecode
 #EXTINF:-1 group-title="上海",第一财经
 kdsvod://http://v.91kds.com/b7/yicai.m3u8?id=dycja&pwd=jsdecode
 #EXTINF:-1 group-title="上海",第一财经
+kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=dycjhd&pwd=jsdecode
+#EXTINF:-1 group-title="上海",第一财经
+kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=dycjhd&pwd=jsdecode
+#EXTINF:-1 group-title="上海",第一财经
 kdsvod://bstv://Umai:CHAN/1346062@BESTV.SMG.SMG
+#EXTINF:-1 group-title="上海",第一财经
+kdsvod://migu://608780988
 #EXTINF:-1 group-title="上海",都市剧场
 kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=dsjchd&pwd=jsdecode
 #EXTINF:-1 group-title="上海",都市剧场
 kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=dsjchd&pwd=jsdecode
 #EXTINF:-1 group-title="上海",金山电视台
 https://pili-live-hls.wdit.com.cn/wditlive/8818dfe5f4df45ba9a3f32964d172fb2b6d3.m3u8
+#EXTINF:-1 group-title="上海",金色学堂
+kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=jspd&pwd=jsdecode
+#EXTINF:-1 group-title="上海",金色学堂
+kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=jspd&pwd=jsdecode
 #EXTINF:-1 group-title="上海",魔都眼
 kdsvod://http://v.91kds.com/c7/shkk.m3u8?id=shmdy&pwd=jsdecode
 #EXTINF:-1 group-title="上海",魔都眼
@@ -9149,38 +8931,26 @@ kdsvod://sccdtv://https://quxian.pull.cditv.cn/live/longquanyi.flv
 kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=tjtv5&pwd=jsdecode
 #EXTINF:-1 group-title="天津",天津体育
 kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=tjtv5&pwd=jsdecode
-#EXTINF:-1 group-title="天津",天津体育
-kdsvod://http://v.91kds.com/b7/cdnlive.m3u8?id=tjtv5&pwd=jsdecode
 #EXTINF:-1 group-title="天津",天津影视
 kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=tjtv3&pwd=jsdecode
 #EXTINF:-1 group-title="天津",天津影视
 kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=tjtv3&pwd=jsdecode
-#EXTINF:-1 group-title="天津",天津影视
-kdsvod://http://v.91kds.com/b7/cdnlive.m3u8?id=tjtv3&pwd=jsdecode
 #EXTINF:-1 group-title="天津",天津教育
 kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=tjtv6&pwd=jsdecode
 #EXTINF:-1 group-title="天津",天津教育
 kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=tjtv6&pwd=jsdecode
-#EXTINF:-1 group-title="天津",天津教育
-kdsvod://http://v.91kds.com/b7/cdnlive.m3u8?id=tjtv6&pwd=jsdecode
 #EXTINF:-1 group-title="天津",天津文艺
 kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=tjtv2&pwd=jsdecode
 #EXTINF:-1 group-title="天津",天津文艺
 kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=tjtv2&pwd=jsdecode
-#EXTINF:-1 group-title="天津",天津文艺
-kdsvod://http://v.91kds.com/b7/cdnlive.m3u8?id=tjtv2&pwd=jsdecode
 #EXTINF:-1 group-title="天津",天津新闻
 kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=tjtv1&pwd=jsdecode
 #EXTINF:-1 group-title="天津",天津新闻
 kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=tjtv1&pwd=jsdecode
-#EXTINF:-1 group-title="天津",天津新闻
-kdsvod://http://v.91kds.com/b7/cdnlive.m3u8?id=tjtv1&pwd=jsdecode
 #EXTINF:-1 group-title="天津",天津都市
 kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=tjtv4&pwd=jsdecode
 #EXTINF:-1 group-title="天津",天津都市
 kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=tjtv4&pwd=jsdecode
-#EXTINF:-1 group-title="天津",天津都市
-kdsvod://http://v.91kds.com/b7/cdnlive.m3u8?id=tjtv4&pwd=jsdecode
 #EXTINF:-1 group-title="天津",宝坻一套
 https://player4.juyun.tv/tv/143100176.m3u8
 #EXTINF:-1 group-title="天津",武清综合频道
@@ -9356,19 +9126,11 @@ kdsvod://http://v.91kds.com/b7/xjtv.m3u8?id=xjtv3&pwd=jsdecode@@X-Forwarded-For=
 #EXTINF:-1 group-title="新疆",新疆少儿频道
 kdsvod://http://v.91kds.com/b7/xjtv.m3u8?id=xjtv12&pwd=jsdecode@@X-Forwarded-For=36.189.232.78@@
 #EXTINF:-1 group-title="新疆",新疆少儿频道
-kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=xjtv8&pwd=jsdecode
-#EXTINF:-1 group-title="新疆",新疆少儿频道
 kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=xjtv8&pwd=jsdecode
 #EXTINF:-1 group-title="新疆",新疆汉语体育健康
 kdsvod://http://v.91kds.com/b7/xjtv.m3u8?id=xjtv10&pwd=jsdecode@@X-Forwarded-For=36.189.232.78@@
 #EXTINF:-1 group-title="新疆",新疆汉语体育健康
 kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=xjtv7&pwd=jsdecode
-#EXTINF:-1 group-title="新疆",新疆汉语体育健康
-kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=xjtv7&pwd=jsdecode
-#EXTINF:-1 group-title="新疆",新疆汉语影视
-kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=xjtv6&pwd=jsdecode
-#EXTINF:-1 group-title="新疆",新疆汉语影视
-kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=xjtv6&pwd=jsdecode
 #EXTINF:-1 group-title="新疆",新疆汉语综艺
 kdsvod://http://v.91kds.com/b7/xjtv.m3u8?id=xjtv4&pwd=jsdecode@@X-Forwarded-For=36.189.232.78@@
 #EXTINF:-1 group-title="新疆",新疆维语影视
@@ -9581,6 +9343,10 @@ http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel18/pla
 http://tvdrs.wsrtv.com.cn:8100/channellive/mlptv.flv
 #EXTINF:-1 group-title="云南",龙陵综合频道
 https://hwapi.yntv.net/ey0321/l0vlci.m3u8@@Referer=http://cloudxyapi.yntv.net/@@
+#EXTINF:-1 group-title="浙江",IHOT爱院线
+kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=ihotayx&pwd=jsdecode
+#EXTINF:-1 group-title="浙江",IHOT爱院线
+kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=ihotayx&pwd=jsdecode
 #EXTINF:-1 group-title="浙江",上虞新商都
 http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8
 #EXTINF:-1 group-title="浙江",上虞新闻综合
@@ -9623,6 +9389,10 @@ htmlplay://https://web.guangdianyun.tv/tv/?id=171&uin=1356
 http://l.cztvcloud.com/channels/lantian/SXyunhe1/720p.m3u8
 #EXTINF:-1 group-title="浙江",云和新闻综合
 kdsvod://http://v.91kds.com/b7/qklive.m3u8?id=zjlsyh1&pwd=jsdecode
+#EXTINF:-1 group-title="浙江",亚洲影院
+kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=hsyzyy&pwd=jsdecode
+#EXTINF:-1 group-title="浙江",亚洲影院
+kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=hsyzyy&pwd=jsdecode
 #EXTINF:-1 group-title="浙江",仙居新闻综合
 htmlplay://https://web.guangdianyun.tv/tv/?id=1603&uin=2515
 #EXTINF:-1 group-title="浙江",仙居新闻综合
@@ -9739,6 +9509,10 @@ kdsvod://http://v.91kds.com/b7/ady.m3u8?id=zjnbcx1&pwd=jsdecode
 htmlplay://https://web.guangdianyun.tv/tv/?id=3697&uin=1346
 #EXTINF:-1 group-title="浙江",慈溪民生休闲
 kdsvod://http://v.91kds.com/b7/ady.m3u8?id=zjnbcx2&pwd=jsdecode
+#EXTINF:-1 group-title="浙江",探索纪录
+kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=hstsjl&pwd=jsdecode
+#EXTINF:-1 group-title="浙江",探索纪录
+kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=hstsjl&pwd=jsdecode
 #EXTINF:-1 group-title="浙江",文成综合频道
 http://nplay-qukan.cztv.com/live/1757486581311330.m3u8
 #EXTINF:-1 group-title="浙江",新昌新闻综合
@@ -9795,6 +9569,10 @@ htmlplay://https://web.guangdianyun.tv/tv/?id=1511&uin=1043
 https://31666.hlsplay.aodianyun.com/tv_radio_31666/tv_channel_3566.m3u8?auth_key=4867613167-0-0-7e4d136d59c046f779f0c50461de5fe5&extra_key=ZsnRdSSZsd_55ssIU7GXV9vL2bVgmdCUfbd0zhEWRYtF1fIJa_P34oEH8HVCgRtNY3GLWcIgRP1lO0kocw3d7cCCfJYKu980fDypjkFzkHzqrB4amtUEsglZvsGvzYzoDZyioKwM9H2EUg0PFXBSWFJ1WyLLQNoQey-Q6kSGklw
 #EXTINF:-1 group-title="浙江",桐庐综合频道
 htmlplay://https://web.guangdianyun.tv/tv/?id=3566&uin=1163
+#EXTINF:-1 group-title="浙江",欧美影院
+kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=hsomyy&pwd=jsdecode
+#EXTINF:-1 group-title="浙江",欧美影院
+kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=hsomyy&pwd=jsdecode
 #EXTINF:-1 group-title="浙江",武义新闻综合
 http://play-sh13.quklive.com/live/1707437639053211.m3u8?auth_key=2039926222-0c20643324d74ab6bca329f2864d9615-0-ad7dc9def9f83b2cc7693a23f6d91251
 #EXTINF:-1 group-title="浙江",武义新闻综合
@@ -9809,6 +9587,22 @@ kdsvod://http://v.91kds.com/b7/qklive.m3u8?id=zjjhyk2&pwd=jsdecode
 http://play-sh11.quklive.com/live/1625061424267104.m3u8
 #EXTINF:-1 group-title="浙江",永康新闻综合
 kdsvod://http://v.91kds.com/b7/qklive.m3u8?id=zjjhyk1&pwd=jsdecode
+#EXTINF:-1 group-title="浙江",求索动物
+kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=qsdw&pwd=jsdecode
+#EXTINF:-1 group-title="浙江",求索动物
+kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=qsdw&pwd=jsdecode
+#EXTINF:-1 group-title="浙江",求索生活
+kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=qssh&pwd=jsdecode
+#EXTINF:-1 group-title="浙江",求索生活
+kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=qssh&pwd=jsdecode
+#EXTINF:-1 group-title="浙江",求索科学
+kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=qskx&pwd=jsdecode
+#EXTINF:-1 group-title="浙江",求索科学
+kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=qskx&pwd=jsdecode
+#EXTINF:-1 group-title="浙江",求索纪录
+kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=qsjl&pwd=jsdecode
+#EXTINF:-1 group-title="浙江",求索纪录
+kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=qsjl&pwd=jsdecode
 #EXTINF:-1 group-title="浙江",江山电视台
 http://play-sh13.quklive.com/live/1623117710666335.m3u8?auth_key=2027320874-f4ab7bf26c7f450398f90acd51fbe541-0-b9952255f66849bc8e7afaa8e6865488
 #EXTINF:-1 group-title="浙江",江山电视台
@@ -9917,6 +9711,14 @@ kdsvod://http://v.91kds.com/b7/qklive.m3u8?id=zjwzra1&pwd=jsdecode
 kdsvod://http://v.91kds.com/b7/qklive.m3u8?id=zjjhpa2&pwd=jsdecode
 #EXTINF:-1 group-title="浙江",磐安新闻综合
 kdsvod://http://v.91kds.com/b7/qklive.m3u8?id=zjjhpa1&pwd=jsdecode
+#EXTINF:-1 group-title="浙江",精品剧场
+kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=hsjpjc&pwd=jsdecode
+#EXTINF:-1 group-title="浙江",精品剧场
+kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=hsjpjc&pwd=jsdecode
+#EXTINF:-1 group-title="浙江",精彩影视
+kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=hsjcys&pwd=jsdecode
+#EXTINF:-1 group-title="浙江",精彩影视
+kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=hsjcys&pwd=jsdecode
 #EXTINF:-1 group-title="浙江",绍兴公共频道
 http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8
 #EXTINF:-1 group-title="浙江",绍兴文化影视
@@ -9991,6 +9793,10 @@ http://play-sh13.quklive.com/live/1692755062081192.m3u8?auth_key=2027430149-d532
 http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8
 #EXTINF:-1 group-title="浙江",青田电视台
 kdsvod://http://v.91kds.com/b7/qklive.m3u8?id=zjqttv1&pwd=jsdecode
+#EXTINF:-1 group-title="浙江",风尚音乐
+kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=hsfsyy&pwd=jsdecode
+#EXTINF:-1 group-title="浙江",风尚音乐
+kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=hsfsyy&pwd=jsdecode
 #EXTINF:-1 group-title="浙江",龙泉新闻综合
 http://l.cztvcloud.com/channels/lantian/SXlongquan1/720p.m3u8
 #EXTINF:-1 group-title="浙江",龙泉新闻综合
@@ -10105,24 +9911,24 @@ kdsvod://http://v.91kds.com/b7/ifeng.m3u8?id=fhzw&pwd=jsdecode
 kdsvod://http://v.91kds.com/c7/ifeng.m3u8?id=fhzxhd&pwd=jsdecode
 #EXTINF:-1 group-title="其他",fhzx
 kdsvod://http://v.91kds.com/b7/ifeng.m3u8?id=fhzx&pwd=jsdecode
-#EXTINF:-1 group-title="其他",gdxwa
-kdsvod://http://v.91kds.com/b7/cdnlive.m3u8?id=gdxwa&pwd=jsdecode
-#EXTINF:-1 group-title="其他",gdzja
-kdsvod://http://v.91kds.com/b7/cdnlive.m3u8?id=gdzja&pwd=jsdecode
 #EXTINF:-1 group-title="其他",hbczyz1
 htmlplay://https://web.guangdianyun.tv/tv/?id=3088&uin=4100
 #EXTINF:-1 group-title="其他",heaptv1
 http://120.27.149.134/aptv1/sd/live.m3u8
 #EXTINF:-1 group-title="其他",heaptv2
 http://120.27.149.134/aptv2/sd/live.m3u8
+#EXTINF:-1 group-title="其他",higg-lyws
+kdsvod://migu://962045223
+#EXTINF:-1 group-title="其他",hise-lyws
+kdsvod://migu://962067523
+#EXTINF:-1 group-title="其他",hizh-lyws
+kdsvod://migu://962045226
 #EXTINF:-1 group-title="其他",hnjykt
 kdsvod://http://v.91kds.com/b7/hntv.m3u8?id=hnjykt&pwd=jsdecode
 #EXTINF:-1 group-title="其他",hnjykt
 kdsvod://hntv://287
 #EXTINF:-1 group-title="其他",hnjykt
 http://media.hndyjyfw.gov.cn/live/jz-jinyingkatong/live.m3u8@@Referer=https://www.hndyjyfw.gov.cn/@@
-#EXTINF:-1 group-title="其他",hnjykt
-http://pili-live-snapshot.tv.hntvcloud.com/mg-tv/channel-5.m3u8
 #EXTINF:-1 group-title="其他",hwcacjyh
 https://dist1.ls3solutions.ca:45/45/stream.m3u8
 #EXTINF:-1 group-title="其他",hwcagjzw
@@ -10961,8 +10767,6 @@ https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch
 https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch2-2.m3u8
 #EXTINF:-1 group-title="其他",twhxx2
 https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u8
-#EXTINF:-1 group-title="其他",twtsxw
-https://live.wcetv.com/hls/m3u8/ttvnews.m3u8
 #EXTINF:-1 group-title="其他",twxjtv2
 rtmp://211.22.234.119/live/livestream
 #EXTINF:-1 group-title="其他",twxjtv2
@@ -10993,24 +10797,16 @@ https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
 http://play2.one-tv.com/live/onetv.m3u8
 #EXTINF:-1 group-title="其他",ynbstv1-版权
 https://hwapi.yntv.net/ew265l/z1z6s5.m3u8@@Referer=http://cloudxyapi.yntv.net/@@
-#EXTINF:-1 group-title="其他",zjad01
-kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=ad001&pwd=jsdecode
-#EXTINF:-1 group-title="其他",zjad01
-kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=ad001&pwd=jsdecode
-#EXTINF:-1 group-title="其他",zjad01
-kdsvod://http://v.91kds.com/b7/jsbv6.m3u8?id=ad001&pwd=jsdecode
-#EXTINF:-1 group-title="其他",zjad02
-kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=ad002&pwd=jsdecode
-#EXTINF:-1 group-title="其他",zjad02
-kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=ad002&pwd=jsdecode
-#EXTINF:-1 group-title="其他",zjad02
-kdsvod://http://v.91kds.com/b7/jsbv6.m3u8?id=ad002&pwd=jsdecode
+#EXTINF:-1 group-title="其他",zgqx-外星人
+kdsvod://migu://959986621
 #EXTINF:-1 group-title="其他",五大联赛经典
 htmlplay://https://m.miguvideo.com/m/liveDetail/780288994?channelId=10010001005
 #EXTINF:-1 group-title="其他",全民乒乓
 htmlplay://https://m.miguvideo.com/m/liveDetail/788818045?channelId=10010001005
 #EXTINF:-1 group-title="其他",咪咕24小时体育台
 kdsvod://migu://654102378
+#EXTINF:-1 group-title="其他",建党105周年巡礼
+kdsvod://migu://713600957
 #EXTINF:-1 group-title="其他",抗战经典影片
 kdsvod://migu://617432318
 #EXTINF:-1 group-title="其他",新动力量创一流
@@ -11071,10 +10867,6 @@ kdsvod://http://v.91kds.com/c7/btv.m3u8?id=btvkk&pwd=jsdecode
 kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=btvkk&pwd=jsdecode
 #EXTINF:-1 group-title="动漫",北京卡酷少儿
 kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=btvkk&pwd=jsdecode
-#EXTINF:-1 group-title="动漫",北京卡酷少儿
-http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226677/1.m3u8
-#EXTINF:-1 group-title="动漫",北京卡酷少儿
-kdsvod://http://v.91kds.com/b7/cdnlive.m3u8?id=btvkk&pwd=jsdecode
 #EXTINF:-1 group-title="动漫",南京少儿
 https://live.nbs.cn/channels/njtv/sepd/nbs23.m3u8
 #EXTINF:-1 group-title="动漫",嘉佳卡通
@@ -11089,6 +10881,10 @@ kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=gdjjkt&pwd=jsdecode
 kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=gdjjkt&pwd=jsdecode
 #EXTINF:-1 group-title="动漫",嘉佳卡通
 kdsvod://migu://614952364
+#EXTINF:-1 group-title="动漫",少儿动漫
+kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=hssedm&pwd=jsdecode
+#EXTINF:-1 group-title="动漫",少儿动漫
+kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=hssedm&pwd=jsdecode
 #EXTINF:-1 group-title="动漫",山东少儿
 kdsvod://sdtv1://24605
 #EXTINF:-1 group-title="动漫",山东少儿
@@ -11102,7 +10898,9 @@ kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=gdtvs5&pwd=jsdecode
 #EXTINF:-1 group-title="动漫",广东少儿
 kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=gdtvs5&pwd=jsdecode
 #EXTINF:-1 group-title="动漫",广东少儿
-kdsvod://http://v.91kds.com/b7/cdnlive.m3u8?id=gdtvs5&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=gdtvs5a&pwd=jsdecode
+#EXTINF:-1 group-title="动漫",广东少儿
+kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=gdtvs5a&pwd=jsdecode
 #EXTINF:-1 group-title="动漫",成都少儿
 kdsvod://sccdtv://https://cdn1.cditv.cn/cdtv6high/CDTV6High.flv/playlist.m3u8
 #EXTINF:-1 group-title="动漫",成都少儿
@@ -11111,12 +10909,6 @@ kdsvod://sccdtv://https://cdn1.cditv.cn/cdtv6/CDTV6.flv/playlist.m3u8
 kdsvod://sccdtv://https://cdn1.cditv.cn/cdtv6high/CDTV6High.flv
 #EXTINF:-1 group-title="动漫",成都少儿
 kdsvod://sccdtv://https://cdn1.cditv.cn/cdtv6/CDTV6.flv
-#EXTINF:-1 group-title="动漫",新动漫
-kdsvod://rtmphtml://http://v.91kds.com/b7/lnbdy.m3u8?id=xdm&pwd=jsdecode
-#EXTINF:-1 group-title="动漫",新动漫
-kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=xdm&pwd=jsdecode
-#EXTINF:-1 group-title="动漫",新动漫
-kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=xdm&pwd=jsdecode
 #EXTINF:-1 group-title="动漫",杭州青少体育
 kdsvod://http://v.91kds.com/b7/zjhztv.m3u8?id=zjhztv5&pwd=jsdecode
 #EXTINF:-1 group-title="动漫",江西少儿家庭
@@ -11128,19 +10920,11 @@ kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=jxtv6&pwd=jsdecode
 #EXTINF:-1 group-title="动漫",江西少儿家庭
 kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=jxtv6&pwd=jsdecode
 #EXTINF:-1 group-title="动漫",江西少儿家庭
-kdsvod://http://v.91kds.com/b7/cdnlive.m3u8?id=jxtv6&pwd=jsdecode
+kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=jxtv6a&pwd=jsdecode
+#EXTINF:-1 group-title="动漫",江西少儿家庭
+kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=jxtv6a&pwd=jsdecode
 #EXTINF:-1 group-title="动漫",河北少儿科教
 kdsvod://http://v.91kds.com/b7/hetv.m3u8?id=hese&pwd=jsdecode
-#EXTINF:-1 group-title="动漫",济南少儿
-kdsvod://http://v.91kds.com/b7/sdjntv.m3u8?id=sdjnse&pwd=jsdecode
-#EXTINF:-1 group-title="动漫",济南少儿
-kdsvod://http://v.91kds.com/b7/sdjntv1.m3u8?id=sdjnse&pwd=jsdecode@@Referer=https://www.ijntv.cn/@User-Agent=Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/99.0.4844.84Safari/537.36HBPC/12.1.3.306@@
-#EXTINF:-1 group-title="动漫",济南少儿
-kdsvod://http://v.91kds.com/b7/sdjntv.m3u8?fmt=flv&id=sdjnse&pwd=jsdecode
-#EXTINF:-1 group-title="动漫",济南少儿
-http://dspull.ijntv.cn/ijnlive/2686.m3u8?hwSecret=c653d98b4e072870e205a09a13f487728a8b045e22a818041f7a1356e8ff83b5&hwTime=67f5203d
-#EXTINF:-1 group-title="动漫",济南少儿
-http://dspull.ijntv.cn/ijnlive/2686.flv?hwSecret=c653d98b4e072870e205a09a13f487728a8b045e22a818041f7a1356e8ff83b5&hwTime=67f5203d
 #EXTINF:-1 group-title="动漫",浙江少儿
 kdsvod://http://v.91kds.com/b7/zjtv.m3u8?id=zjtv8&pwd=jsdecode
 #EXTINF:-1 group-title="动漫",浙江少儿
@@ -11165,10 +10949,18 @@ https://live.gstv.com.cn/live/456r6be.m3u8
 http://live.zohi.tv/video/s10001-fztv-4/index.m3u8
 #EXTINF:-1 group-title="动漫",福建少儿
 kdsvod://http://v.91kds.com/b7/fjtv.m3u8?id=fjse&pwd=jsdecode
+#EXTINF:-1 group-title="动漫",福建少儿
+kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=fjse&pwd=jsdecode
+#EXTINF:-1 group-title="动漫",福建少儿
+kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=fjse&pwd=jsdecode
 #EXTINF:-1 group-title="动漫",经典动画大集合
 htmlplay://https://m.miguvideo.com/m/liveDetail/629942219?channelId=10010001005
 #EXTINF:-1 group-title="动漫",经典动画大集合
 kdsvod://migu://629942219
+#EXTINF:-1 group-title="动漫",重庆少儿
+kdsvod://http://v.91kds.com/b7/jsbv2b.m3u8?id=cqse&pwd=jsdecode
+#EXTINF:-1 group-title="动漫",重庆少儿
+kdsvod://http://v.91kds.com/b7/jsbv1.m3u8?id=cqse&pwd=jsdecode
 #EXTINF:-1 group-title="动漫",黑龙江少儿
 https://idclive.hljtv.com:4430/live/hljse_hd.m3u8
 #EXTINF:-1 group-title="网络",24小时体育台
