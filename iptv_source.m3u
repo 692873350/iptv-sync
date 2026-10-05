@@ -346,6 +346,18 @@ http://45.192.97.170:8880/play/379.m3u8
 http://45.192.97.170:8880/play/2104.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV10科教" tvg-logo="",group-title="央视",CCTV10科教
+http://14.223.52.56:60000/rtp/239.77.0.134:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="CCTV10科教" tvg-logo="",group-title="央视",CCTV10科教
+http://14.223.52.56:60000/rtp/239.77.1.113:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="CCTV10科教" tvg-logo="",group-title="央视",CCTV10科教
+http://183.23.154.63:9123/rtp/239.77.0.134:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="CCTV10科教" tvg-logo="",group-title="央视",CCTV10科教
+http://183.23.154.63:9123/rtp/239.77.1.113:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="CCTV10科教" tvg-logo="",group-title="央视",CCTV10科教
 http://14.155.220.176:8888/rtp/239.77.0.134:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV10科教" tvg-logo="",group-title="央视",CCTV10科教
@@ -362,18 +374,6 @@ http://113.83.144.127:8188/rtp/239.77.0.134:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV10科教" tvg-logo="",group-title="央视",CCTV10科教
 http://113.83.144.127:8188/rtp/239.77.1.113:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="CCTV10科教" tvg-logo="",group-title="央视",CCTV10科教
-http://14.221.176.132:4022/rtp/239.77.0.134:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="CCTV10科教" tvg-logo="",group-title="央视",CCTV10科教
-http://14.221.176.132:4022/rtp/239.77.1.113:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="CCTV10科教" tvg-logo="",group-title="央视",CCTV10科教
-http://14.153.178.91:5555/rtp/239.77.0.134:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="CCTV10科教" tvg-logo="",group-title="央视",CCTV10科教
-http://14.153.178.91:5555/rtp/239.77.1.113:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV10科教" tvg-logo="",group-title="央视",CCTV10科教
 http://120.234.187.66:10086/rtp/239.10.0.190:1025
@@ -478,6 +478,18 @@ http://45.192.97.170:8880/play/380.m3u8
 http://45.192.97.170:8880/play/2105.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV11戏曲" tvg-logo="",group-title="央视",CCTV11戏曲
+http://14.223.52.56:60000/rtp/239.77.1.238:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="CCTV11戏曲" tvg-logo="",group-title="央视",CCTV11戏曲
+http://14.223.52.56:60000/rtp/239.77.1.108:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="CCTV11戏曲" tvg-logo="",group-title="央视",CCTV11戏曲
+http://183.23.154.63:9123/rtp/239.77.1.238:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="CCTV11戏曲" tvg-logo="",group-title="央视",CCTV11戏曲
+http://183.23.154.63:9123/rtp/239.77.1.108:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="CCTV11戏曲" tvg-logo="",group-title="央视",CCTV11戏曲
 http://14.155.220.176:8888/rtp/239.77.1.238:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV11戏曲" tvg-logo="",group-title="央视",CCTV11戏曲
@@ -494,18 +506,6 @@ http://113.83.144.127:8188/rtp/239.77.1.238:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV11戏曲" tvg-logo="",group-title="央视",CCTV11戏曲
 http://113.83.144.127:8188/rtp/239.77.1.108:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="CCTV11戏曲" tvg-logo="",group-title="央视",CCTV11戏曲
-http://14.221.176.132:4022/rtp/239.77.1.238:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="CCTV11戏曲" tvg-logo="",group-title="央视",CCTV11戏曲
-http://14.221.176.132:4022/rtp/239.77.1.108:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="CCTV11戏曲" tvg-logo="",group-title="央视",CCTV11戏曲
-http://14.153.178.91:5555/rtp/239.77.1.238:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="CCTV11戏曲" tvg-logo="",group-title="央视",CCTV11戏曲
-http://14.153.178.91:5555/rtp/239.77.1.108:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV11戏曲" tvg-logo="",group-title="央视",CCTV11戏曲
 http://120.234.187.66:10086/rtp/239.10.0.191:1025
@@ -619,6 +619,18 @@ http://45.192.97.170:8880/play/381.m3u8
 http://45.192.97.170:8880/play/2106.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV12社会与法" tvg-logo="",group-title="央视",CCTV12社会与法
+http://14.223.52.56:60000/rtp/239.77.0.136:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="CCTV12社会与法" tvg-logo="",group-title="央视",CCTV12社会与法
+http://14.223.52.56:60000/rtp/239.77.1.109:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="CCTV12社会与法" tvg-logo="",group-title="央视",CCTV12社会与法
+http://183.23.154.63:9123/rtp/239.77.0.136:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="CCTV12社会与法" tvg-logo="",group-title="央视",CCTV12社会与法
+http://183.23.154.63:9123/rtp/239.77.1.109:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="CCTV12社会与法" tvg-logo="",group-title="央视",CCTV12社会与法
 http://14.155.220.176:8888/rtp/239.77.0.136:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV12社会与法" tvg-logo="",group-title="央视",CCTV12社会与法
@@ -635,18 +647,6 @@ http://113.83.144.127:8188/rtp/239.77.0.136:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV12社会与法" tvg-logo="",group-title="央视",CCTV12社会与法
 http://113.83.144.127:8188/rtp/239.77.1.109:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="CCTV12社会与法" tvg-logo="",group-title="央视",CCTV12社会与法
-http://14.221.176.132:4022/rtp/239.77.0.136:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="CCTV12社会与法" tvg-logo="",group-title="央视",CCTV12社会与法
-http://14.221.176.132:4022/rtp/239.77.1.109:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="CCTV12社会与法" tvg-logo="",group-title="央视",CCTV12社会与法
-http://14.153.178.91:5555/rtp/239.77.0.136:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="CCTV12社会与法" tvg-logo="",group-title="央视",CCTV12社会与法
-http://14.153.178.91:5555/rtp/239.77.1.109:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV12社会与法" tvg-logo="",group-title="央视",CCTV12社会与法
 http://120.234.187.66:10086/rtp/239.10.0.192:1025
@@ -772,6 +772,18 @@ http://45.192.97.170:8880/play/495.m3u8
 http://45.192.97.170:8880/play/2107.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV13新闻" tvg-logo="",group-title="央视",CCTV13新闻
+http://14.223.52.56:60000/rtp/239.77.0.188:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="CCTV13新闻" tvg-logo="",group-title="央视",CCTV13新闻
+http://14.223.52.56:60000/rtp/239.253.43.196:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="CCTV13新闻" tvg-logo="",group-title="央视",CCTV13新闻
+http://183.23.154.63:9123/rtp/239.77.0.188:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="CCTV13新闻" tvg-logo="",group-title="央视",CCTV13新闻
+http://183.23.154.63:9123/rtp/239.253.43.196:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="CCTV13新闻" tvg-logo="",group-title="央视",CCTV13新闻
 http://14.155.220.176:8888/rtp/239.77.0.188:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV13新闻" tvg-logo="",group-title="央视",CCTV13新闻
@@ -788,18 +800,6 @@ http://113.83.144.127:8188/rtp/239.77.0.188:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV13新闻" tvg-logo="",group-title="央视",CCTV13新闻
 http://113.83.144.127:8188/rtp/239.253.43.196:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="CCTV13新闻" tvg-logo="",group-title="央视",CCTV13新闻
-http://14.221.176.132:4022/rtp/239.77.0.188:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="CCTV13新闻" tvg-logo="",group-title="央视",CCTV13新闻
-http://14.221.176.132:4022/rtp/239.253.43.196:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="CCTV13新闻" tvg-logo="",group-title="央视",CCTV13新闻
-http://14.153.178.91:5555/rtp/239.77.0.188:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="CCTV13新闻" tvg-logo="",group-title="央视",CCTV13新闻
-http://14.153.178.91:5555/rtp/239.253.43.196:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV13新闻" tvg-logo="",group-title="央视",CCTV13新闻
 http://120.234.187.66:10086/rtp/239.10.0.193:1025
@@ -910,6 +910,18 @@ http://45.192.97.170:8880/play/383.m3u8
 http://45.192.97.170:8880/play/2108.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV14少儿" tvg-logo="",group-title="央视",CCTV14少儿
+http://14.223.52.56:60000/rtp/239.77.0.133:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="CCTV14少儿" tvg-logo="",group-title="央视",CCTV14少儿
+http://14.223.52.56:60000/rtp/239.77.1.161:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="CCTV14少儿" tvg-logo="",group-title="央视",CCTV14少儿
+http://183.23.154.63:9123/rtp/239.77.0.133:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="CCTV14少儿" tvg-logo="",group-title="央视",CCTV14少儿
+http://183.23.154.63:9123/rtp/239.77.1.161:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="CCTV14少儿" tvg-logo="",group-title="央视",CCTV14少儿
 http://14.155.220.176:8888/rtp/239.77.0.133:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV14少儿" tvg-logo="",group-title="央视",CCTV14少儿
@@ -926,18 +938,6 @@ http://113.83.144.127:8188/rtp/239.77.0.133:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV14少儿" tvg-logo="",group-title="央视",CCTV14少儿
 http://113.83.144.127:8188/rtp/239.77.1.161:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="CCTV14少儿" tvg-logo="",group-title="央视",CCTV14少儿
-http://14.221.176.132:4022/rtp/239.77.0.133:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="CCTV14少儿" tvg-logo="",group-title="央视",CCTV14少儿
-http://14.221.176.132:4022/rtp/239.77.1.161:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="CCTV14少儿" tvg-logo="",group-title="央视",CCTV14少儿
-http://14.153.178.91:5555/rtp/239.77.0.133:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="CCTV14少儿" tvg-logo="",group-title="央视",CCTV14少儿
-http://14.153.178.91:5555/rtp/239.77.1.161:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV14少儿" tvg-logo="",group-title="央视",CCTV14少儿
 http://120.234.187.66:10086/rtp/239.10.0.194:1025
@@ -1033,6 +1033,18 @@ http://45.192.97.170:8880/play/384.m3u8
 http://45.192.97.170:8880/play/2109.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV15音乐" tvg-logo="",group-title="央视",CCTV15音乐
+http://14.223.52.56:60000/rtp/239.77.1.120:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="CCTV15音乐" tvg-logo="",group-title="央视",CCTV15音乐
+http://14.223.52.56:60000/rtp/239.77.1.239:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="CCTV15音乐" tvg-logo="",group-title="央视",CCTV15音乐
+http://183.23.154.63:9123/rtp/239.77.1.120:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="CCTV15音乐" tvg-logo="",group-title="央视",CCTV15音乐
+http://183.23.154.63:9123/rtp/239.77.1.239:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="CCTV15音乐" tvg-logo="",group-title="央视",CCTV15音乐
 http://14.155.220.176:8888/rtp/239.77.1.120:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV15音乐" tvg-logo="",group-title="央视",CCTV15音乐
@@ -1049,18 +1061,6 @@ http://113.83.144.127:8188/rtp/239.77.1.120:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV15音乐" tvg-logo="",group-title="央视",CCTV15音乐
 http://113.83.144.127:8188/rtp/239.77.1.239:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="CCTV15音乐" tvg-logo="",group-title="央视",CCTV15音乐
-http://14.221.176.132:4022/rtp/239.77.1.120:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="CCTV15音乐" tvg-logo="",group-title="央视",CCTV15音乐
-http://14.221.176.132:4022/rtp/239.77.1.239:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="CCTV15音乐" tvg-logo="",group-title="央视",CCTV15音乐
-http://14.153.178.91:5555/rtp/239.77.1.120:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="CCTV15音乐" tvg-logo="",group-title="央视",CCTV15音乐
-http://14.153.178.91:5555/rtp/239.77.1.239:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV15音乐" tvg-logo="",group-title="央视",CCTV15音乐
 http://120.234.187.66:10086/rtp/239.10.0.195:1025
@@ -1171,16 +1171,16 @@ http://45.192.97.170:8880/play/283.m3u8
 http://45.192.97.170:8880/play/2110.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV16奥林匹克" tvg-logo="",group-title="央视",CCTV16奥林匹克
+http://14.223.52.56:60000/rtp/239.77.0.165:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="CCTV16奥林匹克" tvg-logo="",group-title="央视",CCTV16奥林匹克
 http://14.155.220.176:8888/rtp/239.77.0.165:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV16奥林匹克" tvg-logo="",group-title="央视",CCTV16奥林匹克
+http://116.28.212.32:4022/rtp/239.77.0.165:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="CCTV16奥林匹克" tvg-logo="",group-title="央视",CCTV16奥林匹克
 http://113.83.144.127:8188/rtp/239.77.0.165:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="CCTV16奥林匹克" tvg-logo="",group-title="央视",CCTV16奥林匹克
-http://14.221.176.132:4022/rtp/239.77.0.165:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="CCTV16奥林匹克" tvg-logo="",group-title="央视",CCTV16奥林匹克
-http://14.153.178.91:5555/rtp/239.77.0.165:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV16奥林匹克" tvg-logo="",group-title="央视",CCTV16奥林匹克
 http://120.234.187.66:10086/rtp/239.11.0.126:1025
@@ -1243,6 +1243,18 @@ http://45.192.97.170:8880/play/284.m3u8
 http://45.192.97.170:8880/play/2111.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV17农业农村" tvg-logo="",group-title="央视",CCTV17农业农村
+http://14.223.52.56:60000/rtp/239.77.0.198:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="CCTV17农业农村" tvg-logo="",group-title="央视",CCTV17农业农村
+http://14.223.52.56:60000/rtp/239.77.1.121:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="CCTV17农业农村" tvg-logo="",group-title="央视",CCTV17农业农村
+http://183.23.154.63:9123/rtp/239.77.0.198:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="CCTV17农业农村" tvg-logo="",group-title="央视",CCTV17农业农村
+http://183.23.154.63:9123/rtp/239.77.1.121:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="CCTV17农业农村" tvg-logo="",group-title="央视",CCTV17农业农村
 http://14.155.220.176:8888/rtp/239.77.0.198:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV17农业农村" tvg-logo="",group-title="央视",CCTV17农业农村
@@ -1259,18 +1271,6 @@ http://113.83.144.127:8188/rtp/239.77.0.198:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV17农业农村" tvg-logo="",group-title="央视",CCTV17农业农村
 http://113.83.144.127:8188/rtp/239.77.1.121:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="CCTV17农业农村" tvg-logo="",group-title="央视",CCTV17农业农村
-http://14.221.176.132:4022/rtp/239.77.0.198:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="CCTV17农业农村" tvg-logo="",group-title="央视",CCTV17农业农村
-http://14.221.176.132:4022/rtp/239.77.1.121:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="CCTV17农业农村" tvg-logo="",group-title="央视",CCTV17农业农村
-http://14.153.178.91:5555/rtp/239.77.0.198:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="CCTV17农业农村" tvg-logo="",group-title="央视",CCTV17农业农村
-http://14.153.178.91:5555/rtp/239.77.1.121:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV17农业农村" tvg-logo="",group-title="央视",CCTV17农业农村
 http://120.234.187.66:10086/rtp/239.10.0.243:1025
@@ -1384,6 +1384,18 @@ http://45.192.97.170:8880/play/370.m3u8
 http://45.192.97.170:8880/play/2094.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV1综合" tvg-logo="",group-title="央视",CCTV1综合
+http://14.223.52.56:60000/rtp/239.77.0.194:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="CCTV1综合" tvg-logo="",group-title="央视",CCTV1综合
+http://14.223.52.56:60000/rtp/239.77.1.180:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="CCTV1综合" tvg-logo="",group-title="央视",CCTV1综合
+http://183.23.154.63:9123/rtp/239.77.0.194:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="CCTV1综合" tvg-logo="",group-title="央视",CCTV1综合
+http://183.23.154.63:9123/rtp/239.77.1.180:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="CCTV1综合" tvg-logo="",group-title="央视",CCTV1综合
 http://14.155.220.176:8888/rtp/239.77.0.194:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV1综合" tvg-logo="",group-title="央视",CCTV1综合
@@ -1402,16 +1414,28 @@ http://113.83.144.127:8188/rtp/239.77.0.194:5146
 http://113.83.144.127:8188/rtp/239.77.1.180:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV1综合" tvg-logo="",group-title="央视",CCTV1综合
-http://14.221.176.132:4022/rtp/239.77.0.194:5146
+http://14.223.52.56:60000/rtp/239.77.0.86:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV1综合" tvg-logo="",group-title="央视",CCTV1综合
-http://14.221.176.132:4022/rtp/239.77.1.180:5146
+http://14.223.52.56:60000/rtp/239.77.1.17:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV1综合" tvg-logo="",group-title="央视",CCTV1综合
-http://14.153.178.91:5555/rtp/239.77.0.194:5146
+http://14.223.52.56:60000/rtp/239.77.0.119:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV1综合" tvg-logo="",group-title="央视",CCTV1综合
-http://14.153.178.91:5555/rtp/239.77.1.180:5146
+http://14.223.52.56:60000/rtp/239.77.0.129:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="CCTV1综合" tvg-logo="",group-title="央视",CCTV1综合
+http://183.23.154.63:9123/rtp/239.77.0.86:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="CCTV1综合" tvg-logo="",group-title="央视",CCTV1综合
+http://183.23.154.63:9123/rtp/239.77.1.17:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="CCTV1综合" tvg-logo="",group-title="央视",CCTV1综合
+http://183.23.154.63:9123/rtp/239.77.0.119:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="CCTV1综合" tvg-logo="",group-title="央视",CCTV1综合
+http://183.23.154.63:9123/rtp/239.77.0.129:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV1综合" tvg-logo="",group-title="央视",CCTV1综合
 http://14.155.220.176:8888/rtp/239.77.0.86:5146
@@ -1448,30 +1472,6 @@ http://113.83.144.127:8188/rtp/239.77.0.119:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV1综合" tvg-logo="",group-title="央视",CCTV1综合
 http://113.83.144.127:8188/rtp/239.77.0.129:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="CCTV1综合" tvg-logo="",group-title="央视",CCTV1综合
-http://14.221.176.132:4022/rtp/239.77.0.86:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="CCTV1综合" tvg-logo="",group-title="央视",CCTV1综合
-http://14.221.176.132:4022/rtp/239.77.1.17:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="CCTV1综合" tvg-logo="",group-title="央视",CCTV1综合
-http://14.221.176.132:4022/rtp/239.77.0.119:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="CCTV1综合" tvg-logo="",group-title="央视",CCTV1综合
-http://14.221.176.132:4022/rtp/239.77.0.129:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="CCTV1综合" tvg-logo="",group-title="央视",CCTV1综合
-http://14.153.178.91:5555/rtp/239.77.0.86:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="CCTV1综合" tvg-logo="",group-title="央视",CCTV1综合
-http://14.153.178.91:5555/rtp/239.77.1.17:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="CCTV1综合" tvg-logo="",group-title="央视",CCTV1综合
-http://14.153.178.91:5555/rtp/239.77.0.119:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="CCTV1综合" tvg-logo="",group-title="央视",CCTV1综合
-http://14.153.178.91:5555/rtp/239.77.0.129:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV1综合" tvg-logo="",group-title="央视",CCTV1综合
 http://120.234.187.66:10086/rtp/239.10.0.114:1025
@@ -1597,6 +1597,18 @@ http://45.192.97.170:8880/play/371.m3u8
 http://45.192.97.170:8880/play/2095.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV2财经" tvg-logo="",group-title="央视",CCTV2财经
+http://14.223.52.56:60000/rtp/239.77.0.137:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="CCTV2财经" tvg-logo="",group-title="央视",CCTV2财经
+http://14.223.52.56:60000/rtp/239.77.1.158:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="CCTV2财经" tvg-logo="",group-title="央视",CCTV2财经
+http://183.23.154.63:9123/rtp/239.77.0.137:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="CCTV2财经" tvg-logo="",group-title="央视",CCTV2财经
+http://183.23.154.63:9123/rtp/239.77.1.158:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="CCTV2财经" tvg-logo="",group-title="央视",CCTV2财经
 http://14.155.220.176:8888/rtp/239.77.0.137:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV2财经" tvg-logo="",group-title="央视",CCTV2财经
@@ -1613,18 +1625,6 @@ http://113.83.144.127:8188/rtp/239.77.0.137:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV2财经" tvg-logo="",group-title="央视",CCTV2财经
 http://113.83.144.127:8188/rtp/239.77.1.158:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="CCTV2财经" tvg-logo="",group-title="央视",CCTV2财经
-http://14.221.176.132:4022/rtp/239.77.0.137:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="CCTV2财经" tvg-logo="",group-title="央视",CCTV2财经
-http://14.221.176.132:4022/rtp/239.77.1.158:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="CCTV2财经" tvg-logo="",group-title="央视",CCTV2财经
-http://14.153.178.91:5555/rtp/239.77.0.137:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="CCTV2财经" tvg-logo="",group-title="央视",CCTV2财经
-http://14.153.178.91:5555/rtp/239.77.1.158:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV2财经" tvg-logo="",group-title="央视",CCTV2财经
 http://120.234.187.66:10086/rtp/239.10.0.186:1025
@@ -1732,6 +1732,18 @@ http://45.192.97.170:8880/play/372.m3u8
 http://45.192.97.170:8880/play/2096.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV3综艺" tvg-logo="",group-title="央视",CCTV3综艺
+http://14.223.52.56:60000/rtp/239.77.0.169:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="CCTV3综艺" tvg-logo="",group-title="央视",CCTV3综艺
+http://14.223.52.56:60000/rtp/239.77.1.7:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="CCTV3综艺" tvg-logo="",group-title="央视",CCTV3综艺
+http://183.23.154.63:9123/rtp/239.77.0.169:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="CCTV3综艺" tvg-logo="",group-title="央视",CCTV3综艺
+http://183.23.154.63:9123/rtp/239.77.1.7:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="CCTV3综艺" tvg-logo="",group-title="央视",CCTV3综艺
 http://14.155.220.176:8888/rtp/239.77.0.169:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV3综艺" tvg-logo="",group-title="央视",CCTV3综艺
@@ -1748,18 +1760,6 @@ http://113.83.144.127:8188/rtp/239.77.0.169:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV3综艺" tvg-logo="",group-title="央视",CCTV3综艺
 http://113.83.144.127:8188/rtp/239.77.1.7:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="CCTV3综艺" tvg-logo="",group-title="央视",CCTV3综艺
-http://14.221.176.132:4022/rtp/239.77.0.169:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="CCTV3综艺" tvg-logo="",group-title="央视",CCTV3综艺
-http://14.221.176.132:4022/rtp/239.77.1.7:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="CCTV3综艺" tvg-logo="",group-title="央视",CCTV3综艺
-http://14.153.178.91:5555/rtp/239.77.0.169:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="CCTV3综艺" tvg-logo="",group-title="央视",CCTV3综艺
-http://14.153.178.91:5555/rtp/239.77.1.7:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV3综艺" tvg-logo="",group-title="央视",CCTV3综艺
 http://120.234.187.66:10086/rtp/239.10.0.101:1025
@@ -1894,6 +1894,18 @@ http://45.192.97.170:8880/play/373.m3u8
 http://45.192.97.170:8880/play/2097.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV4中文国际" tvg-logo="",group-title="央视",CCTV4中文国际
+http://14.223.52.56:60000/rtp/239.77.0.78:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="CCTV4中文国际" tvg-logo="",group-title="央视",CCTV4中文国际
+http://14.223.52.56:60000/rtp/239.77.1.166:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="CCTV4中文国际" tvg-logo="",group-title="央视",CCTV4中文国际
+http://183.23.154.63:9123/rtp/239.77.0.78:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="CCTV4中文国际" tvg-logo="",group-title="央视",CCTV4中文国际
+http://183.23.154.63:9123/rtp/239.77.1.166:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="CCTV4中文国际" tvg-logo="",group-title="央视",CCTV4中文国际
 http://14.155.220.176:8888/rtp/239.77.0.78:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV4中文国际" tvg-logo="",group-title="央视",CCTV4中文国际
@@ -1910,18 +1922,6 @@ http://113.83.144.127:8188/rtp/239.77.0.78:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV4中文国际" tvg-logo="",group-title="央视",CCTV4中文国际
 http://113.83.144.127:8188/rtp/239.77.1.166:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="CCTV4中文国际" tvg-logo="",group-title="央视",CCTV4中文国际
-http://14.221.176.132:4022/rtp/239.77.0.78:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="CCTV4中文国际" tvg-logo="",group-title="央视",CCTV4中文国际
-http://14.221.176.132:4022/rtp/239.77.1.166:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="CCTV4中文国际" tvg-logo="",group-title="央视",CCTV4中文国际
-http://14.153.178.91:5555/rtp/239.77.0.78:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="CCTV4中文国际" tvg-logo="",group-title="央视",CCTV4中文国际
-http://14.153.178.91:5555/rtp/239.77.1.166:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV4中文国际" tvg-logo="",group-title="央视",CCTV4中文国际
 http://120.234.187.66:10086/rtp/239.10.0.187:1025
@@ -2008,6 +2008,18 @@ http://112.30.73.119:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=0&authid=0
 http://45.192.97.170:8880/play/5.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV4欧洲" tvg-logo="",group-title="央视",CCTV4欧洲
+http://14.223.52.56:60000/rtp/239.77.1.163:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="CCTV4欧洲" tvg-logo="",group-title="央视",CCTV4欧洲
+http://14.223.52.56:60000/rtp/239.253.43.120:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="CCTV4欧洲" tvg-logo="",group-title="央视",CCTV4欧洲
+http://183.23.154.63:9123/rtp/239.77.1.163:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="CCTV4欧洲" tvg-logo="",group-title="央视",CCTV4欧洲
+http://183.23.154.63:9123/rtp/239.253.43.120:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="CCTV4欧洲" tvg-logo="",group-title="央视",CCTV4欧洲
 http://14.155.220.176:8888/rtp/239.77.1.163:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV4欧洲" tvg-logo="",group-title="央视",CCTV4欧洲
@@ -2024,18 +2036,6 @@ http://113.83.144.127:8188/rtp/239.77.1.163:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV4欧洲" tvg-logo="",group-title="央视",CCTV4欧洲
 http://113.83.144.127:8188/rtp/239.253.43.120:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="CCTV4欧洲" tvg-logo="",group-title="央视",CCTV4欧洲
-http://14.221.176.132:4022/rtp/239.77.1.163:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="CCTV4欧洲" tvg-logo="",group-title="央视",CCTV4欧洲
-http://14.221.176.132:4022/rtp/239.253.43.120:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="CCTV4欧洲" tvg-logo="",group-title="央视",CCTV4欧洲
-http://14.153.178.91:5555/rtp/239.77.1.163:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="CCTV4欧洲" tvg-logo="",group-title="央视",CCTV4欧洲
-http://14.153.178.91:5555/rtp/239.253.43.120:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV4欧洲" tvg-logo="",group-title="央视",CCTV4欧洲
 http://120.234.187.66:10086/rtp/239.11.0.101:1025
@@ -2074,6 +2074,12 @@ http://www.20260809.xyz:1234/608807419
 http://45.192.97.170:8880/play/6.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV4美洲" tvg-logo="",group-title="央视",CCTV4美洲
+http://14.223.52.56:60000/rtp/239.253.43.121:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="CCTV4美洲" tvg-logo="",group-title="央视",CCTV4美洲
+http://183.23.154.63:9123/rtp/239.253.43.121:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="CCTV4美洲" tvg-logo="",group-title="央视",CCTV4美洲
 http://14.155.220.176:8888/rtp/239.253.43.121:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV4美洲" tvg-logo="",group-title="央视",CCTV4美洲
@@ -2081,12 +2087,6 @@ http://116.28.212.32:4022/rtp/239.253.43.121:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV4美洲" tvg-logo="",group-title="央视",CCTV4美洲
 http://113.83.144.127:8188/rtp/239.253.43.121:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="CCTV4美洲" tvg-logo="",group-title="央视",CCTV4美洲
-http://14.221.176.132:4022/rtp/239.253.43.121:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="CCTV4美洲" tvg-logo="",group-title="央视",CCTV4美洲
-http://14.153.178.91:5555/rtp/239.253.43.121:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV4美洲" tvg-logo="",group-title="央视",CCTV4美洲
 http://120.234.187.66:10086/rtp/239.11.0.102:1025
@@ -2134,6 +2134,18 @@ http://45.192.97.170:8880/play/285.m3u8
 http://45.192.97.170:8880/play/2099.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV5+体育" tvg-logo="",group-title="央视",CCTV5+体育
+http://14.223.52.56:60000/rtp/239.77.0.87:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="CCTV5+体育" tvg-logo="",group-title="央视",CCTV5+体育
+http://14.223.52.56:60000/rtp/239.77.1.31:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="CCTV5+体育" tvg-logo="",group-title="央视",CCTV5+体育
+http://183.23.154.63:9123/rtp/239.77.0.87:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="CCTV5+体育" tvg-logo="",group-title="央视",CCTV5+体育
+http://183.23.154.63:9123/rtp/239.77.1.31:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="CCTV5+体育" tvg-logo="",group-title="央视",CCTV5+体育
 http://14.155.220.176:8888/rtp/239.77.0.87:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV5+体育" tvg-logo="",group-title="央视",CCTV5+体育
@@ -2150,18 +2162,6 @@ http://113.83.144.127:8188/rtp/239.77.0.87:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV5+体育" tvg-logo="",group-title="央视",CCTV5+体育
 http://113.83.144.127:8188/rtp/239.77.1.31:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="CCTV5+体育" tvg-logo="",group-title="央视",CCTV5+体育
-http://14.221.176.132:4022/rtp/239.77.0.87:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="CCTV5+体育" tvg-logo="",group-title="央视",CCTV5+体育
-http://14.221.176.132:4022/rtp/239.77.1.31:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="CCTV5+体育" tvg-logo="",group-title="央视",CCTV5+体育
-http://14.153.178.91:5555/rtp/239.77.0.87:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="CCTV5+体育" tvg-logo="",group-title="央视",CCTV5+体育
-http://14.153.178.91:5555/rtp/239.77.1.31:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV5+体育" tvg-logo="",group-title="央视",CCTV5+体育
 http://120.234.187.66:10086/rtp/239.10.0.213:1025
@@ -2242,6 +2242,12 @@ http://45.192.97.170:8880/play/374.m3u8
 http://45.192.97.170:8880/play/2098.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV5体育" tvg-logo="",group-title="央视",CCTV5体育
+http://14.223.52.56:60000/rtp/239.77.0.170:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="CCTV5体育" tvg-logo="",group-title="央视",CCTV5体育
+http://183.23.154.63:9123/rtp/239.77.0.170:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="CCTV5体育" tvg-logo="",group-title="央视",CCTV5体育
 http://14.155.220.176:8888/rtp/239.77.0.170:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV5体育" tvg-logo="",group-title="央视",CCTV5体育
@@ -2249,12 +2255,6 @@ http://116.28.212.32:4022/rtp/239.77.0.170:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV5体育" tvg-logo="",group-title="央视",CCTV5体育
 http://113.83.144.127:8188/rtp/239.77.0.170:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="CCTV5体育" tvg-logo="",group-title="央视",CCTV5体育
-http://14.221.176.132:4022/rtp/239.77.0.170:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="CCTV5体育" tvg-logo="",group-title="央视",CCTV5体育
-http://14.153.178.91:5555/rtp/239.77.0.170:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV5体育" tvg-logo="",group-title="央视",CCTV5体育
 http://120.234.187.66:10086/rtp/239.10.0.102:1025
@@ -2341,6 +2341,18 @@ http://45.192.97.170:8880/play/375.m3u8
 http://45.192.97.170:8880/play/2100.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV6电影" tvg-logo="",group-title="央视",CCTV6电影
+http://14.223.52.56:60000/rtp/239.77.0.171:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="CCTV6电影" tvg-logo="",group-title="央视",CCTV6电影
+http://14.223.52.56:60000/rtp/239.77.1.9:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="CCTV6电影" tvg-logo="",group-title="央视",CCTV6电影
+http://183.23.154.63:9123/rtp/239.77.0.171:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="CCTV6电影" tvg-logo="",group-title="央视",CCTV6电影
+http://183.23.154.63:9123/rtp/239.77.1.9:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="CCTV6电影" tvg-logo="",group-title="央视",CCTV6电影
 http://14.155.220.176:8888/rtp/239.77.0.171:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV6电影" tvg-logo="",group-title="央视",CCTV6电影
@@ -2357,18 +2369,6 @@ http://113.83.144.127:8188/rtp/239.77.0.171:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV6电影" tvg-logo="",group-title="央视",CCTV6电影
 http://113.83.144.127:8188/rtp/239.77.1.9:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="CCTV6电影" tvg-logo="",group-title="央视",CCTV6电影
-http://14.221.176.132:4022/rtp/239.77.0.171:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="CCTV6电影" tvg-logo="",group-title="央视",CCTV6电影
-http://14.221.176.132:4022/rtp/239.77.1.9:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="CCTV6电影" tvg-logo="",group-title="央视",CCTV6电影
-http://14.153.178.91:5555/rtp/239.77.0.171:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="CCTV6电影" tvg-logo="",group-title="央视",CCTV6电影
-http://14.153.178.91:5555/rtp/239.77.1.9:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV6电影" tvg-logo="",group-title="央视",CCTV6电影
 http://120.234.187.66:10086/rtp/239.10.0.103:1025
@@ -2473,6 +2473,18 @@ http://45.192.97.170:8880/play/376.m3u8
 http://45.192.97.170:8880/play/2101.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV7军事" tvg-logo="",group-title="央视",CCTV7军事
+http://14.223.52.56:60000/rtp/239.77.0.138:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="CCTV7军事" tvg-logo="",group-title="央视",CCTV7军事
+http://14.223.52.56:60000/rtp/239.77.1.159:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="CCTV7军事" tvg-logo="",group-title="央视",CCTV7军事
+http://183.23.154.63:9123/rtp/239.77.0.138:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="CCTV7军事" tvg-logo="",group-title="央视",CCTV7军事
+http://183.23.154.63:9123/rtp/239.77.1.159:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="CCTV7军事" tvg-logo="",group-title="央视",CCTV7军事
 http://14.155.220.176:8888/rtp/239.77.0.138:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV7军事" tvg-logo="",group-title="央视",CCTV7军事
@@ -2489,18 +2501,6 @@ http://113.83.144.127:8188/rtp/239.77.0.138:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV7军事" tvg-logo="",group-title="央视",CCTV7军事
 http://113.83.144.127:8188/rtp/239.77.1.159:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="CCTV7军事" tvg-logo="",group-title="央视",CCTV7军事
-http://14.221.176.132:4022/rtp/239.77.0.138:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="CCTV7军事" tvg-logo="",group-title="央视",CCTV7军事
-http://14.221.176.132:4022/rtp/239.77.1.159:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="CCTV7军事" tvg-logo="",group-title="央视",CCTV7军事
-http://14.153.178.91:5555/rtp/239.77.0.138:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="CCTV7军事" tvg-logo="",group-title="央视",CCTV7军事
-http://14.153.178.91:5555/rtp/239.77.1.159:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV7军事" tvg-logo="",group-title="央视",CCTV7军事
 http://120.234.187.66:10086/rtp/239.10.0.188:1025
@@ -2632,6 +2632,18 @@ http://45.192.97.170:8880/play/377.m3u8
 http://45.192.97.170:8880/play/2102.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV8电视剧" tvg-logo="",group-title="央视",CCTV8电视剧
+http://14.223.52.56:60000/rtp/239.77.0.172:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="CCTV8电视剧" tvg-logo="",group-title="央视",CCTV8电视剧
+http://14.223.52.56:60000/rtp/239.77.1.10:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="CCTV8电视剧" tvg-logo="",group-title="央视",CCTV8电视剧
+http://183.23.154.63:9123/rtp/239.77.0.172:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="CCTV8电视剧" tvg-logo="",group-title="央视",CCTV8电视剧
+http://183.23.154.63:9123/rtp/239.77.1.10:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="CCTV8电视剧" tvg-logo="",group-title="央视",CCTV8电视剧
 http://14.155.220.176:8888/rtp/239.77.0.172:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV8电视剧" tvg-logo="",group-title="央视",CCTV8电视剧
@@ -2648,18 +2660,6 @@ http://113.83.144.127:8188/rtp/239.77.0.172:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV8电视剧" tvg-logo="",group-title="央视",CCTV8电视剧
 http://113.83.144.127:8188/rtp/239.77.1.10:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="CCTV8电视剧" tvg-logo="",group-title="央视",CCTV8电视剧
-http://14.221.176.132:4022/rtp/239.77.0.172:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="CCTV8电视剧" tvg-logo="",group-title="央视",CCTV8电视剧
-http://14.221.176.132:4022/rtp/239.77.1.10:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="CCTV8电视剧" tvg-logo="",group-title="央视",CCTV8电视剧
-http://14.153.178.91:5555/rtp/239.77.0.172:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="CCTV8电视剧" tvg-logo="",group-title="央视",CCTV8电视剧
-http://14.153.178.91:5555/rtp/239.77.1.10:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV8电视剧" tvg-logo="",group-title="央视",CCTV8电视剧
 http://120.234.187.66:10086/rtp/239.10.0.104:1025
@@ -2770,6 +2770,18 @@ http://45.192.97.170:8880/play/378.m3u8
 http://45.192.97.170:8880/play/2103.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV9纪录" tvg-logo="",group-title="央视",CCTV9纪录
+http://14.223.52.56:60000/rtp/239.77.0.135:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="CCTV9纪录" tvg-logo="",group-title="央视",CCTV9纪录
+http://14.223.52.56:60000/rtp/239.77.1.160:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="CCTV9纪录" tvg-logo="",group-title="央视",CCTV9纪录
+http://183.23.154.63:9123/rtp/239.77.0.135:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="CCTV9纪录" tvg-logo="",group-title="央视",CCTV9纪录
+http://183.23.154.63:9123/rtp/239.77.1.160:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="CCTV9纪录" tvg-logo="",group-title="央视",CCTV9纪录
 http://14.155.220.176:8888/rtp/239.77.0.135:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV9纪录" tvg-logo="",group-title="央视",CCTV9纪录
@@ -2786,18 +2798,6 @@ http://113.83.144.127:8188/rtp/239.77.0.135:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV9纪录" tvg-logo="",group-title="央视",CCTV9纪录
 http://113.83.144.127:8188/rtp/239.77.1.160:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="CCTV9纪录" tvg-logo="",group-title="央视",CCTV9纪录
-http://14.221.176.132:4022/rtp/239.77.0.135:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="CCTV9纪录" tvg-logo="",group-title="央视",CCTV9纪录
-http://14.221.176.132:4022/rtp/239.77.1.160:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="CCTV9纪录" tvg-logo="",group-title="央视",CCTV9纪录
-http://14.153.178.91:5555/rtp/239.77.0.135:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="CCTV9纪录" tvg-logo="",group-title="央视",CCTV9纪录
-http://14.153.178.91:5555/rtp/239.77.1.160:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV9纪录" tvg-logo="",group-title="央视",CCTV9纪录
 http://120.234.187.66:10086/rtp/239.10.0.189:1025
@@ -3196,6 +3196,12 @@ http://45.192.97.170:8880/play/93.m3u8
 http://45.192.97.170:8880/play/156.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CGTN" tvg-logo="",group-title="央视",CGTN
+http://14.223.52.56:60000/rtp/239.77.0.199:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="CGTN" tvg-logo="",group-title="央视",CGTN
+http://183.23.154.63:9123/rtp/239.77.0.199:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="CGTN" tvg-logo="",group-title="央视",CGTN
 http://14.155.220.176:8888/rtp/239.77.0.199:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="CGTN" tvg-logo="",group-title="央视",CGTN
@@ -3203,12 +3209,6 @@ http://116.28.212.32:4022/rtp/239.77.0.199:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="CGTN" tvg-logo="",group-title="央视",CGTN
 http://113.83.144.127:8188/rtp/239.77.0.199:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="CGTN" tvg-logo="",group-title="央视",CGTN
-http://14.221.176.132:4022/rtp/239.77.0.199:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="CGTN" tvg-logo="",group-title="央视",CGTN
-http://14.153.178.91:5555/rtp/239.77.0.199:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="CGTN" tvg-logo="",group-title="央视",CGTN
 http://120.234.187.66:10086/rtp/239.10.0.196:1025
@@ -3289,6 +3289,12 @@ http://45.192.97.170:8880/play/95.m3u8
 http://45.192.97.170:8880/play/158.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CGTN俄语" tvg-logo="",group-title="央视",CGTN俄语
+http://14.223.52.56:60000/rtp/239.253.43.201:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="CGTN俄语" tvg-logo="",group-title="央视",CGTN俄语
+http://183.23.154.63:9123/rtp/239.253.43.201:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="CGTN俄语" tvg-logo="",group-title="央视",CGTN俄语
 http://14.155.220.176:8888/rtp/239.253.43.201:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="CGTN俄语" tvg-logo="",group-title="央视",CGTN俄语
@@ -3296,12 +3302,6 @@ http://116.28.212.32:4022/rtp/239.253.43.201:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="CGTN俄语" tvg-logo="",group-title="央视",CGTN俄语
 http://113.83.144.127:8188/rtp/239.253.43.201:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="CGTN俄语" tvg-logo="",group-title="央视",CGTN俄语
-http://14.221.176.132:4022/rtp/239.253.43.201:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="CGTN俄语" tvg-logo="",group-title="央视",CGTN俄语
-http://14.153.178.91:5555/rtp/239.253.43.201:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="CGTN俄语" tvg-logo="",group-title="央视",CGTN俄语
 http://120.234.187.66:10086/rtp/239.11.0.108:1025
@@ -3358,6 +3358,12 @@ http://45.192.97.170:8880/play/94.m3u8
 http://45.192.97.170:8880/play/157.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CGTN法语" tvg-logo="",group-title="央视",CGTN法语
+http://14.223.52.56:60000/rtp/239.77.0.228:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="CGTN法语" tvg-logo="",group-title="央视",CGTN法语
+http://183.23.154.63:9123/rtp/239.77.0.228:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="CGTN法语" tvg-logo="",group-title="央视",CGTN法语
 http://14.155.220.176:8888/rtp/239.77.0.228:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="CGTN法语" tvg-logo="",group-title="央视",CGTN法语
@@ -3365,12 +3371,6 @@ http://116.28.212.32:4022/rtp/239.77.0.228:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="CGTN法语" tvg-logo="",group-title="央视",CGTN法语
 http://113.83.144.127:8188/rtp/239.77.0.228:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="CGTN法语" tvg-logo="",group-title="央视",CGTN法语
-http://14.221.176.132:4022/rtp/239.77.0.228:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="CGTN法语" tvg-logo="",group-title="央视",CGTN法语
-http://14.153.178.91:5555/rtp/239.77.0.228:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="CGTN法语" tvg-logo="",group-title="央视",CGTN法语
 http://120.234.187.66:10086/rtp/239.11.0.106:1025
@@ -3406,6 +3406,12 @@ http://45.192.97.170:8880/play/98.m3u8
 http://45.192.97.170:8880/play/161.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CGTN纪录" tvg-logo="",group-title="央视",CGTN纪录
+http://14.223.52.56:60000/rtp/239.253.43.122:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="CGTN纪录" tvg-logo="",group-title="央视",CGTN纪录
+http://183.23.154.63:9123/rtp/239.253.43.122:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="CGTN纪录" tvg-logo="",group-title="央视",CGTN纪录
 http://14.155.220.176:8888/rtp/239.253.43.122:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="CGTN纪录" tvg-logo="",group-title="央视",CGTN纪录
@@ -3413,12 +3419,6 @@ http://116.28.212.32:4022/rtp/239.253.43.122:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="CGTN纪录" tvg-logo="",group-title="央视",CGTN纪录
 http://113.83.144.127:8188/rtp/239.253.43.122:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="CGTN纪录" tvg-logo="",group-title="央视",CGTN纪录
-http://14.221.176.132:4022/rtp/239.253.43.122:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="CGTN纪录" tvg-logo="",group-title="央视",CGTN纪录
-http://14.153.178.91:5555/rtp/239.253.43.122:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="CGTN纪录" tvg-logo="",group-title="央视",CGTN纪录
 http://120.234.187.66:10086/rtp/239.11.0.104:1025
@@ -3472,6 +3472,12 @@ https://0472.org/hls/cgtnx.m3u8
 https://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CGTN西语" tvg-logo="",group-title="央视",CGTN西语
+http://14.223.52.56:60000/rtp/239.77.0.221:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="CGTN西语" tvg-logo="",group-title="央视",CGTN西语
+http://183.23.154.63:9123/rtp/239.77.0.221:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="CGTN西语" tvg-logo="",group-title="央视",CGTN西语
 http://14.155.220.176:8888/rtp/239.77.0.221:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="CGTN西语" tvg-logo="",group-title="央视",CGTN西语
@@ -3479,12 +3485,6 @@ http://116.28.212.32:4022/rtp/239.77.0.221:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="CGTN西语" tvg-logo="",group-title="央视",CGTN西语
 http://113.83.144.127:8188/rtp/239.77.0.221:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="CGTN西语" tvg-logo="",group-title="央视",CGTN西语
-http://14.221.176.132:4022/rtp/239.77.0.221:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="CGTN西语" tvg-logo="",group-title="央视",CGTN西语
-http://14.153.178.91:5555/rtp/239.77.0.221:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="CGTN西语" tvg-logo="",group-title="央视",CGTN西语
 http://120.234.187.66:10086/rtp/239.11.0.105:1025
@@ -3532,6 +3532,12 @@ https://0472.org/hls/cgtna.m3u8
 https://arabic-liveali.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CGTN阿语" tvg-logo="",group-title="央视",CGTN阿语
+http://14.223.52.56:60000/rtp/239.253.43.200:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="CGTN阿语" tvg-logo="",group-title="央视",CGTN阿语
+http://183.23.154.63:9123/rtp/239.253.43.200:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="CGTN阿语" tvg-logo="",group-title="央视",CGTN阿语
 http://14.155.220.176:8888/rtp/239.253.43.200:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="CGTN阿语" tvg-logo="",group-title="央视",CGTN阿语
@@ -3539,12 +3545,6 @@ http://116.28.212.32:4022/rtp/239.253.43.200:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="CGTN阿语" tvg-logo="",group-title="央视",CGTN阿语
 http://113.83.144.127:8188/rtp/239.253.43.200:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="CGTN阿语" tvg-logo="",group-title="央视",CGTN阿语
-http://14.221.176.132:4022/rtp/239.253.43.200:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="CGTN阿语" tvg-logo="",group-title="央视",CGTN阿语
-http://14.153.178.91:5555/rtp/239.253.43.200:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="CGTN阿语" tvg-logo="",group-title="央视",CGTN阿语
 http://120.234.187.66:10086/rtp/239.11.0.107:1025
@@ -3565,6 +3565,18 @@ http://cfss.cc/cdn/dy/letus17.flv
 http://45.192.97.170:8880/play/2113.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="央视台球" tvg-logo="",group-title="央视",央视台球
+http://14.223.52.56:60000/rtp/239.253.43.11:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="央视台球" tvg-logo="",group-title="央视",央视台球
+http://14.223.52.56:60000/rtp/239.253.43.21:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="央视台球" tvg-logo="",group-title="央视",央视台球
+http://183.23.154.63:9123/rtp/239.253.43.11:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="央视台球" tvg-logo="",group-title="央视",央视台球
+http://183.23.154.63:9123/rtp/239.253.43.21:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="央视台球" tvg-logo="",group-title="央视",央视台球
 http://14.155.220.176:8888/rtp/239.253.43.11:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="央视台球" tvg-logo="",group-title="央视",央视台球
@@ -3582,20 +3594,20 @@ http://113.83.144.127:8188/rtp/239.253.43.11:5146
 #EXTINF:-1 tvg-id="" tvg-name="央视台球" tvg-logo="",group-title="央视",央视台球
 http://113.83.144.127:8188/rtp/239.253.43.21:5146
 
-#EXTINF:-1 tvg-id="" tvg-name="央视台球" tvg-logo="",group-title="央视",央视台球
-http://14.221.176.132:4022/rtp/239.253.43.11:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="央视台球" tvg-logo="",group-title="央视",央视台球
-http://14.221.176.132:4022/rtp/239.253.43.21:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="央视台球" tvg-logo="",group-title="央视",央视台球
-http://14.153.178.91:5555/rtp/239.253.43.11:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="央视台球" tvg-logo="",group-title="央视",央视台球
-http://14.153.178.91:5555/rtp/239.253.43.21:5146
-
 #EXTINF:-1 tvg-id="" tvg-name="央视文件精品" tvg-logo="",group-title="央视",央视文件精品
 http://120.87.4.28:80/PLTV/88888973/224/3221226630/10000100000000060000000001611768_0.smil/01.m3u8?fmt=ts2hls,1666,01.m3u8,0,8595,0,0&accountinfo=7P9%2FPZjGeZIv%2BPttGdhw9SUy2v3weVxkOFl4CStfwsmewrvbU%2BvTaJ7Lkzv1z4jOn%2B0dkbQrULk4SIIAa2yxwgWZ1F4%2B6A1eDkDeh5XZlpvpn23wIF%2Bldb6dnBPa8zHj%2CEND&GuardEncType=2&tenantId=8601
+
+#EXTINF:-1 tvg-id="" tvg-name="央视文化精品" tvg-logo="",group-title="央视",央视文化精品
+http://14.223.52.56:60000/rtp/239.253.43.27:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="央视文化精品" tvg-logo="",group-title="央视",央视文化精品
+http://14.223.52.56:60000/rtp/239.253.43.13:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="央视文化精品" tvg-logo="",group-title="央视",央视文化精品
+http://183.23.154.63:9123/rtp/239.253.43.27:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="央视文化精品" tvg-logo="",group-title="央视",央视文化精品
+http://183.23.154.63:9123/rtp/239.253.43.13:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="央视文化精品" tvg-logo="",group-title="央视",央视文化精品
 http://14.155.220.176:8888/rtp/239.253.43.27:5146
@@ -3614,18 +3626,6 @@ http://113.83.144.127:8188/rtp/239.253.43.27:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="央视文化精品" tvg-logo="",group-title="央视",央视文化精品
 http://113.83.144.127:8188/rtp/239.253.43.13:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="央视文化精品" tvg-logo="",group-title="央视",央视文化精品
-http://14.221.176.132:4022/rtp/239.253.43.27:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="央视文化精品" tvg-logo="",group-title="央视",央视文化精品
-http://14.221.176.132:4022/rtp/239.253.43.13:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="央视文化精品" tvg-logo="",group-title="央视",央视文化精品
-http://14.153.178.91:5555/rtp/239.253.43.27:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="央视文化精品" tvg-logo="",group-title="央视",央视文化精品
-http://14.153.178.91:5555/rtp/239.253.43.13:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="央视网" tvg-logo="",group-title="央视",央视网
 http://cfss.cc/cdn/dy/cctv.com.flv
@@ -4291,16 +4291,22 @@ http://45.192.97.170:8880/play/2156.m3u8
 http://45.192.97.170:8880/play/2157.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="三沙卫视" tvg-logo="",group-title="卫视",三沙卫视
+http://14.223.52.56:60000/rtp/239.253.43.113:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="三沙卫视" tvg-logo="",group-title="卫视",三沙卫视
 http://14.155.220.176:8888/rtp/239.253.43.113:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="三沙卫视" tvg-logo="",group-title="卫视",三沙卫视
+http://116.28.212.32:4022/rtp/239.253.43.113:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="三沙卫视" tvg-logo="",group-title="卫视",三沙卫视
 http://113.83.144.127:8188/rtp/239.253.43.113:5146
 
-#EXTINF:-1 tvg-id="" tvg-name="三沙卫视" tvg-logo="",group-title="卫视",三沙卫视
-http://14.221.176.132:4022/rtp/239.253.43.113:5146
+#EXTINF:-1 tvg-id="" tvg-name="东南卫视" tvg-logo="",group-title="卫视",东南卫视
+http://14.223.52.56:60000/rtp/239.77.0.146:5146
 
-#EXTINF:-1 tvg-id="" tvg-name="三沙卫视" tvg-logo="",group-title="卫视",三沙卫视
-http://14.153.178.91:5555/rtp/239.253.43.113:5146
+#EXTINF:-1 tvg-id="" tvg-name="东南卫视" tvg-logo="",group-title="卫视",东南卫视
+http://14.223.52.56:60000/rtp/239.77.1.104:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="东南卫视" tvg-logo="",group-title="卫视",东南卫视
 http://14.155.220.176:8888/rtp/239.77.0.146:5146
@@ -4309,22 +4315,28 @@ http://14.155.220.176:8888/rtp/239.77.0.146:5146
 http://14.155.220.176:8888/rtp/239.77.1.104:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="东南卫视" tvg-logo="",group-title="卫视",东南卫视
+http://116.28.212.32:4022/rtp/239.77.0.146:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="东南卫视" tvg-logo="",group-title="卫视",东南卫视
+http://116.28.212.32:4022/rtp/239.77.1.104:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="东南卫视" tvg-logo="",group-title="卫视",东南卫视
 http://113.83.144.127:8188/rtp/239.77.0.146:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="东南卫视" tvg-logo="",group-title="卫视",东南卫视
 http://113.83.144.127:8188/rtp/239.77.1.104:5146
 
-#EXTINF:-1 tvg-id="" tvg-name="东南卫视" tvg-logo="",group-title="卫视",东南卫视
-http://14.221.176.132:4022/rtp/239.77.0.146:5146
+#EXTINF:-1 tvg-id="" tvg-name="东方卫视" tvg-logo="",group-title="卫视",东方卫视
+http://14.223.52.56:60000/rtp/239.77.0.59:5146
 
-#EXTINF:-1 tvg-id="" tvg-name="东南卫视" tvg-logo="",group-title="卫视",东南卫视
-http://14.221.176.132:4022/rtp/239.77.1.104:5146
+#EXTINF:-1 tvg-id="" tvg-name="东方卫视" tvg-logo="",group-title="卫视",东方卫视
+http://14.223.52.56:60000/rtp/239.77.0.98:5146
 
-#EXTINF:-1 tvg-id="" tvg-name="东南卫视" tvg-logo="",group-title="卫视",东南卫视
-http://14.153.178.91:5555/rtp/239.77.0.146:5146
+#EXTINF:-1 tvg-id="" tvg-name="东方卫视" tvg-logo="",group-title="卫视",东方卫视
+http://14.223.52.56:60000/rtp/239.77.1.218:5146
 
-#EXTINF:-1 tvg-id="" tvg-name="东南卫视" tvg-logo="",group-title="卫视",东南卫视
-http://14.153.178.91:5555/rtp/239.77.1.104:5146
+#EXTINF:-1 tvg-id="" tvg-name="东方卫视" tvg-logo="",group-title="卫视",东方卫视
+http://183.23.154.63:9123/rtp/239.77.0.59:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="东方卫视" tvg-logo="",group-title="卫视",东方卫视
 http://14.155.220.176:8888/rtp/239.77.0.59:5146
@@ -4339,6 +4351,12 @@ http://14.155.220.176:8888/rtp/239.77.1.218:5146
 http://116.28.212.32:4022/rtp/239.77.0.59:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="东方卫视" tvg-logo="",group-title="卫视",东方卫视
+http://116.28.212.32:4022/rtp/239.77.0.98:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="东方卫视" tvg-logo="",group-title="卫视",东方卫视
+http://116.28.212.32:4022/rtp/239.77.1.218:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="东方卫视" tvg-logo="",group-title="卫视",东方卫视
 http://113.83.144.127:8188/rtp/239.77.0.59:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="东方卫视" tvg-logo="",group-title="卫视",东方卫视
@@ -4347,23 +4365,11 @@ http://113.83.144.127:8188/rtp/239.77.0.98:5146
 #EXTINF:-1 tvg-id="" tvg-name="东方卫视" tvg-logo="",group-title="卫视",东方卫视
 http://113.83.144.127:8188/rtp/239.77.1.218:5146
 
-#EXTINF:-1 tvg-id="" tvg-name="东方卫视" tvg-logo="",group-title="卫视",东方卫视
-http://14.221.176.132:4022/rtp/239.77.0.59:5146
+#EXTINF:-1 tvg-id="" tvg-name="云南卫视" tvg-logo="",group-title="卫视",云南卫视
+http://14.223.52.56:60000/rtp/239.253.43.100:5146
 
-#EXTINF:-1 tvg-id="" tvg-name="东方卫视" tvg-logo="",group-title="卫视",东方卫视
-http://14.221.176.132:4022/rtp/239.77.0.98:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="东方卫视" tvg-logo="",group-title="卫视",东方卫视
-http://14.221.176.132:4022/rtp/239.77.1.218:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="东方卫视" tvg-logo="",group-title="卫视",东方卫视
-http://14.153.178.91:5555/rtp/239.77.0.59:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="东方卫视" tvg-logo="",group-title="卫视",东方卫视
-http://14.153.178.91:5555/rtp/239.77.0.98:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="东方卫视" tvg-logo="",group-title="卫视",东方卫视
-http://14.153.178.91:5555/rtp/239.77.1.218:5146
+#EXTINF:-1 tvg-id="" tvg-name="云南卫视" tvg-logo="",group-title="卫视",云南卫视
+http://14.223.52.56:60000/rtp/239.253.43.37:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="云南卫视" tvg-logo="",group-title="卫视",云南卫视
 http://14.155.220.176:8888/rtp/239.253.43.100:5146
@@ -4372,22 +4378,22 @@ http://14.155.220.176:8888/rtp/239.253.43.100:5146
 http://14.155.220.176:8888/rtp/239.253.43.37:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="云南卫视" tvg-logo="",group-title="卫视",云南卫视
+http://116.28.212.32:4022/rtp/239.253.43.100:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="云南卫视" tvg-logo="",group-title="卫视",云南卫视
+http://116.28.212.32:4022/rtp/239.253.43.37:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="云南卫视" tvg-logo="",group-title="卫视",云南卫视
 http://113.83.144.127:8188/rtp/239.253.43.100:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="云南卫视" tvg-logo="",group-title="卫视",云南卫视
 http://113.83.144.127:8188/rtp/239.253.43.37:5146
 
-#EXTINF:-1 tvg-id="" tvg-name="云南卫视" tvg-logo="",group-title="卫视",云南卫视
-http://14.221.176.132:4022/rtp/239.253.43.100:5146
+#EXTINF:-1 tvg-id="" tvg-name="兵团卫视" tvg-logo="",group-title="卫视",兵团卫视
+http://14.223.52.56:60000/rtp/239.77.1.29:5146
 
-#EXTINF:-1 tvg-id="" tvg-name="云南卫视" tvg-logo="",group-title="卫视",云南卫视
-http://14.221.176.132:4022/rtp/239.253.43.37:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="云南卫视" tvg-logo="",group-title="卫视",云南卫视
-http://14.153.178.91:5555/rtp/239.253.43.100:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="云南卫视" tvg-logo="",group-title="卫视",云南卫视
-http://14.153.178.91:5555/rtp/239.253.43.37:5146
+#EXTINF:-1 tvg-id="" tvg-name="兵团卫视" tvg-logo="",group-title="卫视",兵团卫视
+http://14.223.52.56:60000/rtp/239.77.0.48:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="兵团卫视" tvg-logo="",group-title="卫视",兵团卫视
 http://14.155.220.176:8888/rtp/239.77.1.29:5146
@@ -4396,22 +4402,22 @@ http://14.155.220.176:8888/rtp/239.77.1.29:5146
 http://14.155.220.176:8888/rtp/239.77.0.48:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="兵团卫视" tvg-logo="",group-title="卫视",兵团卫视
+http://116.28.212.32:4022/rtp/239.77.1.29:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="兵团卫视" tvg-logo="",group-title="卫视",兵团卫视
+http://116.28.212.32:4022/rtp/239.77.0.48:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="兵团卫视" tvg-logo="",group-title="卫视",兵团卫视
 http://113.83.144.127:8188/rtp/239.77.1.29:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="兵团卫视" tvg-logo="",group-title="卫视",兵团卫视
 http://113.83.144.127:8188/rtp/239.77.0.48:5146
 
-#EXTINF:-1 tvg-id="" tvg-name="兵团卫视" tvg-logo="",group-title="卫视",兵团卫视
-http://14.221.176.132:4022/rtp/239.77.1.29:5146
+#EXTINF:-1 tvg-id="" tvg-name="内蒙古卫视" tvg-logo="",group-title="卫视",内蒙古卫视
+http://14.223.52.56:60000/rtp/239.77.0.70:5146
 
-#EXTINF:-1 tvg-id="" tvg-name="兵团卫视" tvg-logo="",group-title="卫视",兵团卫视
-http://14.221.176.132:4022/rtp/239.77.0.48:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="兵团卫视" tvg-logo="",group-title="卫视",兵团卫视
-http://14.153.178.91:5555/rtp/239.77.1.29:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="兵团卫视" tvg-logo="",group-title="卫视",兵团卫视
-http://14.153.178.91:5555/rtp/239.77.0.48:5146
+#EXTINF:-1 tvg-id="" tvg-name="内蒙古卫视" tvg-logo="",group-title="卫视",内蒙古卫视
+http://14.223.52.56:60000/rtp/239.77.1.55:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="内蒙古卫视" tvg-logo="",group-title="卫视",内蒙古卫视
 http://14.155.220.176:8888/rtp/239.77.0.70:5146
@@ -4420,22 +4426,46 @@ http://14.155.220.176:8888/rtp/239.77.0.70:5146
 http://14.155.220.176:8888/rtp/239.77.1.55:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="内蒙古卫视" tvg-logo="",group-title="卫视",内蒙古卫视
+http://116.28.212.32:4022/rtp/239.77.0.70:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="内蒙古卫视" tvg-logo="",group-title="卫视",内蒙古卫视
+http://116.28.212.32:4022/rtp/239.77.1.55:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="内蒙古卫视" tvg-logo="",group-title="卫视",内蒙古卫视
 http://113.83.144.127:8188/rtp/239.77.0.70:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="内蒙古卫视" tvg-logo="",group-title="卫视",内蒙古卫视
 http://113.83.144.127:8188/rtp/239.77.1.55:5146
 
-#EXTINF:-1 tvg-id="" tvg-name="内蒙古卫视" tvg-logo="",group-title="卫视",内蒙古卫视
-http://14.221.176.132:4022/rtp/239.77.0.70:5146
+#EXTINF:-1 tvg-id="" tvg-name="北京卫视" tvg-logo="",group-title="卫视",北京卫视
+http://14.223.52.56:60000/rtp/239.77.0.2:5146
 
-#EXTINF:-1 tvg-id="" tvg-name="内蒙古卫视" tvg-logo="",group-title="卫视",内蒙古卫视
-http://14.221.176.132:4022/rtp/239.77.1.55:5146
+#EXTINF:-1 tvg-id="" tvg-name="北京卫视" tvg-logo="",group-title="卫视",北京卫视
+http://14.223.52.56:60000/rtp/239.77.0.3:5146
 
-#EXTINF:-1 tvg-id="" tvg-name="内蒙古卫视" tvg-logo="",group-title="卫视",内蒙古卫视
-http://14.153.178.91:5555/rtp/239.77.0.70:5146
+#EXTINF:-1 tvg-id="" tvg-name="北京卫视" tvg-logo="",group-title="卫视",北京卫视
+http://14.223.52.56:60000/rtp/239.77.1.13:5146
 
-#EXTINF:-1 tvg-id="" tvg-name="内蒙古卫视" tvg-logo="",group-title="卫视",内蒙古卫视
-http://14.153.178.91:5555/rtp/239.77.1.55:5146
+#EXTINF:-1 tvg-id="" tvg-name="北京卫视" tvg-logo="",group-title="卫视",北京卫视
+http://14.223.52.56:60000/rtp/239.77.0.91:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="北京卫视" tvg-logo="",group-title="卫视",北京卫视
+http://14.223.52.56:60000/rtp/239.77.0.232:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="北京卫视" tvg-logo="",group-title="卫视",北京卫视
+http://14.223.52.56:60000/rtp/239.77.1.151:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="北京卫视" tvg-logo="",group-title="卫视",北京卫视
+http://14.223.52.56:60000/rtp/239.77.1.4:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="北京卫视" tvg-logo="",group-title="卫视",北京卫视
+http://183.23.154.63:9123/rtp/239.77.0.2:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="北京卫视" tvg-logo="",group-title="卫视",北京卫视
+http://183.23.154.63:9123/rtp/239.77.0.3:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="北京卫视" tvg-logo="",group-title="卫视",北京卫视
+http://183.23.154.63:9123/rtp/239.77.1.13:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="北京卫视" tvg-logo="",group-title="卫视",北京卫视
 http://14.155.220.176:8888/rtp/239.77.0.2:5146
@@ -4468,6 +4498,18 @@ http://116.28.212.32:4022/rtp/239.77.0.3:5146
 http://116.28.212.32:4022/rtp/239.77.1.13:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="北京卫视" tvg-logo="",group-title="卫视",北京卫视
+http://116.28.212.32:4022/rtp/239.77.0.91:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="北京卫视" tvg-logo="",group-title="卫视",北京卫视
+http://116.28.212.32:4022/rtp/239.77.0.232:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="北京卫视" tvg-logo="",group-title="卫视",北京卫视
+http://116.28.212.32:4022/rtp/239.77.1.151:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="北京卫视" tvg-logo="",group-title="卫视",北京卫视
+http://116.28.212.32:4022/rtp/239.77.1.4:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="北京卫视" tvg-logo="",group-title="卫视",北京卫视
 http://113.83.144.127:8188/rtp/239.77.0.2:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="北京卫视" tvg-logo="",group-title="卫视",北京卫视
@@ -4488,59 +4530,23 @@ http://113.83.144.127:8188/rtp/239.77.1.151:5146
 #EXTINF:-1 tvg-id="" tvg-name="北京卫视" tvg-logo="",group-title="卫视",北京卫视
 http://113.83.144.127:8188/rtp/239.77.1.4:5146
 
-#EXTINF:-1 tvg-id="" tvg-name="北京卫视" tvg-logo="",group-title="卫视",北京卫视
-http://14.221.176.132:4022/rtp/239.77.0.2:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="北京卫视" tvg-logo="",group-title="卫视",北京卫视
-http://14.221.176.132:4022/rtp/239.77.0.3:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="北京卫视" tvg-logo="",group-title="卫视",北京卫视
-http://14.221.176.132:4022/rtp/239.77.1.13:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="北京卫视" tvg-logo="",group-title="卫视",北京卫视
-http://14.221.176.132:4022/rtp/239.77.0.91:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="北京卫视" tvg-logo="",group-title="卫视",北京卫视
-http://14.221.176.132:4022/rtp/239.77.0.232:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="北京卫视" tvg-logo="",group-title="卫视",北京卫视
-http://14.221.176.132:4022/rtp/239.77.1.151:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="北京卫视" tvg-logo="",group-title="卫视",北京卫视
-http://14.221.176.132:4022/rtp/239.77.1.4:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="北京卫视" tvg-logo="",group-title="卫视",北京卫视
-http://14.153.178.91:5555/rtp/239.77.0.2:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="北京卫视" tvg-logo="",group-title="卫视",北京卫视
-http://14.153.178.91:5555/rtp/239.77.0.3:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="北京卫视" tvg-logo="",group-title="卫视",北京卫视
-http://14.153.178.91:5555/rtp/239.77.1.13:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="北京卫视" tvg-logo="",group-title="卫视",北京卫视
-http://14.153.178.91:5555/rtp/239.77.0.91:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="北京卫视" tvg-logo="",group-title="卫视",北京卫视
-http://14.153.178.91:5555/rtp/239.77.0.232:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="北京卫视" tvg-logo="",group-title="卫视",北京卫视
-http://14.153.178.91:5555/rtp/239.77.1.151:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="北京卫视" tvg-logo="",group-title="卫视",北京卫视
-http://14.153.178.91:5555/rtp/239.77.1.4:5146
+#EXTINF:-1 tvg-id="" tvg-name="厦门卫视" tvg-logo="",group-title="卫视",厦门卫视
+http://14.223.52.56:60000/rtp/239.77.0.96:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="厦门卫视" tvg-logo="",group-title="卫视",厦门卫视
 http://14.155.220.176:8888/rtp/239.77.0.96:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="厦门卫视" tvg-logo="",group-title="卫视",厦门卫视
+http://116.28.212.32:4022/rtp/239.77.0.96:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="厦门卫视" tvg-logo="",group-title="卫视",厦门卫视
 http://113.83.144.127:8188/rtp/239.77.0.96:5146
 
-#EXTINF:-1 tvg-id="" tvg-name="厦门卫视" tvg-logo="",group-title="卫视",厦门卫视
-http://14.221.176.132:4022/rtp/239.77.0.96:5146
+#EXTINF:-1 tvg-id="" tvg-name="吉林卫视" tvg-logo="",group-title="卫视",吉林卫视
+http://14.223.52.56:60000/rtp/239.77.0.150:5146
 
-#EXTINF:-1 tvg-id="" tvg-name="厦门卫视" tvg-logo="",group-title="卫视",厦门卫视
-http://14.153.178.91:5555/rtp/239.77.0.96:5146
+#EXTINF:-1 tvg-id="" tvg-name="吉林卫视" tvg-logo="",group-title="卫视",吉林卫视
+http://14.223.52.56:60000/rtp/239.77.1.111:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="吉林卫视" tvg-logo="",group-title="卫视",吉林卫视
 http://14.155.220.176:8888/rtp/239.77.0.150:5146
@@ -4549,22 +4555,28 @@ http://14.155.220.176:8888/rtp/239.77.0.150:5146
 http://14.155.220.176:8888/rtp/239.77.1.111:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="吉林卫视" tvg-logo="",group-title="卫视",吉林卫视
+http://116.28.212.32:4022/rtp/239.77.0.150:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="吉林卫视" tvg-logo="",group-title="卫视",吉林卫视
+http://116.28.212.32:4022/rtp/239.77.1.111:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="吉林卫视" tvg-logo="",group-title="卫视",吉林卫视
 http://113.83.144.127:8188/rtp/239.77.0.150:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="吉林卫视" tvg-logo="",group-title="卫视",吉林卫视
 http://113.83.144.127:8188/rtp/239.77.1.111:5146
 
-#EXTINF:-1 tvg-id="" tvg-name="吉林卫视" tvg-logo="",group-title="卫视",吉林卫视
-http://14.221.176.132:4022/rtp/239.77.0.150:5146
+#EXTINF:-1 tvg-id="" tvg-name="四川卫视" tvg-logo="",group-title="卫视",四川卫视
+http://14.223.52.56:60000/rtp/239.77.0.60:5146
 
-#EXTINF:-1 tvg-id="" tvg-name="吉林卫视" tvg-logo="",group-title="卫视",吉林卫视
-http://14.221.176.132:4022/rtp/239.77.1.111:5146
+#EXTINF:-1 tvg-id="" tvg-name="四川卫视" tvg-logo="",group-title="卫视",四川卫视
+http://14.223.52.56:60000/rtp/239.77.0.159:5146
 
-#EXTINF:-1 tvg-id="" tvg-name="吉林卫视" tvg-logo="",group-title="卫视",吉林卫视
-http://14.153.178.91:5555/rtp/239.77.0.150:5146
+#EXTINF:-1 tvg-id="" tvg-name="四川卫视" tvg-logo="",group-title="卫视",四川卫视
+http://14.223.52.56:60000/rtp/239.77.1.215:5146
 
-#EXTINF:-1 tvg-id="" tvg-name="吉林卫视" tvg-logo="",group-title="卫视",吉林卫视
-http://14.153.178.91:5555/rtp/239.77.1.111:5146
+#EXTINF:-1 tvg-id="" tvg-name="四川卫视" tvg-logo="",group-title="卫视",四川卫视
+http://183.23.154.63:9123/rtp/239.77.0.60:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="四川卫视" tvg-logo="",group-title="卫视",四川卫视
 http://14.155.220.176:8888/rtp/239.77.0.60:5146
@@ -4579,6 +4591,12 @@ http://14.155.220.176:8888/rtp/239.77.1.215:5146
 http://116.28.212.32:4022/rtp/239.77.0.60:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="四川卫视" tvg-logo="",group-title="卫视",四川卫视
+http://116.28.212.32:4022/rtp/239.77.0.159:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="四川卫视" tvg-logo="",group-title="卫视",四川卫视
+http://116.28.212.32:4022/rtp/239.77.1.215:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="四川卫视" tvg-logo="",group-title="卫视",四川卫视
 http://113.83.144.127:8188/rtp/239.77.0.60:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="四川卫视" tvg-logo="",group-title="卫视",四川卫视
@@ -4587,23 +4605,11 @@ http://113.83.144.127:8188/rtp/239.77.0.159:5146
 #EXTINF:-1 tvg-id="" tvg-name="四川卫视" tvg-logo="",group-title="卫视",四川卫视
 http://113.83.144.127:8188/rtp/239.77.1.215:5146
 
-#EXTINF:-1 tvg-id="" tvg-name="四川卫视" tvg-logo="",group-title="卫视",四川卫视
-http://14.221.176.132:4022/rtp/239.77.0.60:5146
+#EXTINF:-1 tvg-id="" tvg-name="天津卫视" tvg-logo="",group-title="卫视",天津卫视
+http://14.223.52.56:60000/rtp/239.77.0.97:5146
 
-#EXTINF:-1 tvg-id="" tvg-name="四川卫视" tvg-logo="",group-title="卫视",四川卫视
-http://14.221.176.132:4022/rtp/239.77.0.159:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="四川卫视" tvg-logo="",group-title="卫视",四川卫视
-http://14.221.176.132:4022/rtp/239.77.1.215:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="四川卫视" tvg-logo="",group-title="卫视",四川卫视
-http://14.153.178.91:5555/rtp/239.77.0.60:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="四川卫视" tvg-logo="",group-title="卫视",四川卫视
-http://14.153.178.91:5555/rtp/239.77.0.159:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="四川卫视" tvg-logo="",group-title="卫视",四川卫视
-http://14.153.178.91:5555/rtp/239.77.1.215:5146
+#EXTINF:-1 tvg-id="" tvg-name="天津卫视" tvg-logo="",group-title="卫视",天津卫视
+http://14.223.52.56:60000/rtp/239.77.1.141:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="天津卫视" tvg-logo="",group-title="卫视",天津卫视
 http://14.155.220.176:8888/rtp/239.77.0.97:5146
@@ -4612,22 +4618,25 @@ http://14.155.220.176:8888/rtp/239.77.0.97:5146
 http://14.155.220.176:8888/rtp/239.77.1.141:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="天津卫视" tvg-logo="",group-title="卫视",天津卫视
+http://116.28.212.32:4022/rtp/239.77.0.97:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="天津卫视" tvg-logo="",group-title="卫视",天津卫视
+http://116.28.212.32:4022/rtp/239.77.1.141:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="天津卫视" tvg-logo="",group-title="卫视",天津卫视
 http://113.83.144.127:8188/rtp/239.77.0.97:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="天津卫视" tvg-logo="",group-title="卫视",天津卫视
 http://113.83.144.127:8188/rtp/239.77.1.141:5146
 
-#EXTINF:-1 tvg-id="" tvg-name="天津卫视" tvg-logo="",group-title="卫视",天津卫视
-http://14.221.176.132:4022/rtp/239.77.0.97:5146
+#EXTINF:-1 tvg-id="" tvg-name="宁夏卫视" tvg-logo="",group-title="卫视",宁夏卫视
+http://14.223.52.56:60000/rtp/239.77.0.49:5146
 
-#EXTINF:-1 tvg-id="" tvg-name="天津卫视" tvg-logo="",group-title="卫视",天津卫视
-http://14.221.176.132:4022/rtp/239.77.1.141:5146
+#EXTINF:-1 tvg-id="" tvg-name="宁夏卫视" tvg-logo="",group-title="卫视",宁夏卫视
+http://14.223.52.56:60000/rtp/239.77.1.28:5146
 
-#EXTINF:-1 tvg-id="" tvg-name="天津卫视" tvg-logo="",group-title="卫视",天津卫视
-http://14.153.178.91:5555/rtp/239.77.0.97:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="天津卫视" tvg-logo="",group-title="卫视",天津卫视
-http://14.153.178.91:5555/rtp/239.77.1.141:5146
+#EXTINF:-1 tvg-id="" tvg-name="宁夏卫视" tvg-logo="",group-title="卫视",宁夏卫视
+http://14.223.52.56:60000/rtp/239.77.1.246:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="宁夏卫视" tvg-logo="",group-title="卫视",宁夏卫视
 http://14.155.220.176:8888/rtp/239.77.0.49:5146
@@ -4639,6 +4648,15 @@ http://14.155.220.176:8888/rtp/239.77.1.28:5146
 http://14.155.220.176:8888/rtp/239.77.1.246:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="宁夏卫视" tvg-logo="",group-title="卫视",宁夏卫视
+http://116.28.212.32:4022/rtp/239.77.0.49:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="宁夏卫视" tvg-logo="",group-title="卫视",宁夏卫视
+http://116.28.212.32:4022/rtp/239.77.1.28:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="宁夏卫视" tvg-logo="",group-title="卫视",宁夏卫视
+http://116.28.212.32:4022/rtp/239.77.1.246:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="宁夏卫视" tvg-logo="",group-title="卫视",宁夏卫视
 http://113.83.144.127:8188/rtp/239.77.0.49:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="宁夏卫视" tvg-logo="",group-title="卫视",宁夏卫视
@@ -4647,23 +4665,11 @@ http://113.83.144.127:8188/rtp/239.77.1.28:5146
 #EXTINF:-1 tvg-id="" tvg-name="宁夏卫视" tvg-logo="",group-title="卫视",宁夏卫视
 http://113.83.144.127:8188/rtp/239.77.1.246:5146
 
-#EXTINF:-1 tvg-id="" tvg-name="宁夏卫视" tvg-logo="",group-title="卫视",宁夏卫视
-http://14.221.176.132:4022/rtp/239.77.0.49:5146
+#EXTINF:-1 tvg-id="" tvg-name="安徽卫视" tvg-logo="",group-title="卫视",安徽卫视
+http://14.223.52.56:60000/rtp/239.77.0.183:5146
 
-#EXTINF:-1 tvg-id="" tvg-name="宁夏卫视" tvg-logo="",group-title="卫视",宁夏卫视
-http://14.221.176.132:4022/rtp/239.77.1.28:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="宁夏卫视" tvg-logo="",group-title="卫视",宁夏卫视
-http://14.221.176.132:4022/rtp/239.77.1.246:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="宁夏卫视" tvg-logo="",group-title="卫视",宁夏卫视
-http://14.153.178.91:5555/rtp/239.77.0.49:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="宁夏卫视" tvg-logo="",group-title="卫视",宁夏卫视
-http://14.153.178.91:5555/rtp/239.77.1.28:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="宁夏卫视" tvg-logo="",group-title="卫视",宁夏卫视
-http://14.153.178.91:5555/rtp/239.77.1.246:5146
+#EXTINF:-1 tvg-id="" tvg-name="安徽卫视" tvg-logo="",group-title="卫视",安徽卫视
+http://14.223.52.56:60000/rtp/239.77.1.92:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="安徽卫视" tvg-logo="",group-title="卫视",安徽卫视
 http://14.155.220.176:8888/rtp/239.77.0.183:5146
@@ -4672,22 +4678,28 @@ http://14.155.220.176:8888/rtp/239.77.0.183:5146
 http://14.155.220.176:8888/rtp/239.77.1.92:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="安徽卫视" tvg-logo="",group-title="卫视",安徽卫视
+http://116.28.212.32:4022/rtp/239.77.0.183:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="安徽卫视" tvg-logo="",group-title="卫视",安徽卫视
+http://116.28.212.32:4022/rtp/239.77.1.92:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="安徽卫视" tvg-logo="",group-title="卫视",安徽卫视
 http://113.83.144.127:8188/rtp/239.77.0.183:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="安徽卫视" tvg-logo="",group-title="卫视",安徽卫视
 http://113.83.144.127:8188/rtp/239.77.1.92:5146
 
-#EXTINF:-1 tvg-id="" tvg-name="安徽卫视" tvg-logo="",group-title="卫视",安徽卫视
-http://14.221.176.132:4022/rtp/239.77.0.183:5146
+#EXTINF:-1 tvg-id="" tvg-name="山东卫视" tvg-logo="",group-title="卫视",山东卫视
+http://14.223.52.56:60000/rtp/239.77.0.61:5146
 
-#EXTINF:-1 tvg-id="" tvg-name="安徽卫视" tvg-logo="",group-title="卫视",安徽卫视
-http://14.221.176.132:4022/rtp/239.77.1.92:5146
+#EXTINF:-1 tvg-id="" tvg-name="山东卫视" tvg-logo="",group-title="卫视",山东卫视
+http://14.223.52.56:60000/rtp/239.77.0.94:5146
 
-#EXTINF:-1 tvg-id="" tvg-name="安徽卫视" tvg-logo="",group-title="卫视",安徽卫视
-http://14.153.178.91:5555/rtp/239.77.0.183:5146
+#EXTINF:-1 tvg-id="" tvg-name="山东卫视" tvg-logo="",group-title="卫视",山东卫视
+http://14.223.52.56:60000/rtp/239.77.1.142:5146
 
-#EXTINF:-1 tvg-id="" tvg-name="安徽卫视" tvg-logo="",group-title="卫视",安徽卫视
-http://14.153.178.91:5555/rtp/239.77.1.92:5146
+#EXTINF:-1 tvg-id="" tvg-name="山东卫视" tvg-logo="",group-title="卫视",山东卫视
+http://183.23.154.63:9123/rtp/239.77.0.61:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="山东卫视" tvg-logo="",group-title="卫视",山东卫视
 http://14.155.220.176:8888/rtp/239.77.0.61:5146
@@ -4702,6 +4714,12 @@ http://14.155.220.176:8888/rtp/239.77.1.142:5146
 http://116.28.212.32:4022/rtp/239.77.0.61:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="山东卫视" tvg-logo="",group-title="卫视",山东卫视
+http://116.28.212.32:4022/rtp/239.77.0.94:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="山东卫视" tvg-logo="",group-title="卫视",山东卫视
+http://116.28.212.32:4022/rtp/239.77.1.142:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="山东卫视" tvg-logo="",group-title="卫视",山东卫视
 http://113.83.144.127:8188/rtp/239.77.0.61:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="山东卫视" tvg-logo="",group-title="卫视",山东卫视
@@ -4710,35 +4728,23 @@ http://113.83.144.127:8188/rtp/239.77.0.94:5146
 #EXTINF:-1 tvg-id="" tvg-name="山东卫视" tvg-logo="",group-title="卫视",山东卫视
 http://113.83.144.127:8188/rtp/239.77.1.142:5146
 
-#EXTINF:-1 tvg-id="" tvg-name="山东卫视" tvg-logo="",group-title="卫视",山东卫视
-http://14.221.176.132:4022/rtp/239.77.0.61:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="山东卫视" tvg-logo="",group-title="卫视",山东卫视
-http://14.221.176.132:4022/rtp/239.77.0.94:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="山东卫视" tvg-logo="",group-title="卫视",山东卫视
-http://14.221.176.132:4022/rtp/239.77.1.142:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="山东卫视" tvg-logo="",group-title="卫视",山东卫视
-http://14.153.178.91:5555/rtp/239.77.0.61:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="山东卫视" tvg-logo="",group-title="卫视",山东卫视
-http://14.153.178.91:5555/rtp/239.77.0.94:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="山东卫视" tvg-logo="",group-title="卫视",山东卫视
-http://14.153.178.91:5555/rtp/239.77.1.142:5146
+#EXTINF:-1 tvg-id="" tvg-name="山东教育卫视" tvg-logo="",group-title="卫视",山东教育卫视
+http://14.223.52.56:60000/rtp/239.77.1.35:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="山东教育卫视" tvg-logo="",group-title="卫视",山东教育卫视
 http://14.155.220.176:8888/rtp/239.77.1.35:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="山东教育卫视" tvg-logo="",group-title="卫视",山东教育卫视
+http://116.28.212.32:4022/rtp/239.77.1.35:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="山东教育卫视" tvg-logo="",group-title="卫视",山东教育卫视
 http://113.83.144.127:8188/rtp/239.77.1.35:5146
 
-#EXTINF:-1 tvg-id="" tvg-name="山东教育卫视" tvg-logo="",group-title="卫视",山东教育卫视
-http://14.221.176.132:4022/rtp/239.77.1.35:5146
+#EXTINF:-1 tvg-id="" tvg-name="山西卫视" tvg-logo="",group-title="卫视",山西卫视
+http://14.223.52.56:60000/rtp/239.77.0.69:5146
 
-#EXTINF:-1 tvg-id="" tvg-name="山东教育卫视" tvg-logo="",group-title="卫视",山东教育卫视
-http://14.153.178.91:5555/rtp/239.77.1.35:5146
+#EXTINF:-1 tvg-id="" tvg-name="山西卫视" tvg-logo="",group-title="卫视",山西卫视
+http://14.223.52.56:60000/rtp/239.77.1.74:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="山西卫视" tvg-logo="",group-title="卫视",山西卫视
 http://14.155.220.176:8888/rtp/239.77.0.69:5146
@@ -4747,22 +4753,22 @@ http://14.155.220.176:8888/rtp/239.77.0.69:5146
 http://14.155.220.176:8888/rtp/239.77.1.74:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="山西卫视" tvg-logo="",group-title="卫视",山西卫视
+http://116.28.212.32:4022/rtp/239.77.0.69:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="山西卫视" tvg-logo="",group-title="卫视",山西卫视
+http://116.28.212.32:4022/rtp/239.77.1.74:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="山西卫视" tvg-logo="",group-title="卫视",山西卫视
 http://113.83.144.127:8188/rtp/239.77.0.69:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="山西卫视" tvg-logo="",group-title="卫视",山西卫视
 http://113.83.144.127:8188/rtp/239.77.1.74:5146
 
-#EXTINF:-1 tvg-id="" tvg-name="山西卫视" tvg-logo="",group-title="卫视",山西卫视
-http://14.221.176.132:4022/rtp/239.77.0.69:5146
+#EXTINF:-1 tvg-id="" tvg-name="广西卫视" tvg-logo="",group-title="卫视",广西卫视
+http://14.223.52.56:60000/rtp/239.77.0.139:5146
 
-#EXTINF:-1 tvg-id="" tvg-name="山西卫视" tvg-logo="",group-title="卫视",山西卫视
-http://14.221.176.132:4022/rtp/239.77.1.74:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="山西卫视" tvg-logo="",group-title="卫视",山西卫视
-http://14.153.178.91:5555/rtp/239.77.0.69:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="山西卫视" tvg-logo="",group-title="卫视",山西卫视
-http://14.153.178.91:5555/rtp/239.77.1.74:5146
+#EXTINF:-1 tvg-id="" tvg-name="广西卫视" tvg-logo="",group-title="卫视",广西卫视
+http://14.223.52.56:60000/rtp/239.253.43.36:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="广西卫视" tvg-logo="",group-title="卫视",广西卫视
 http://14.155.220.176:8888/rtp/239.77.0.139:5146
@@ -4771,22 +4777,22 @@ http://14.155.220.176:8888/rtp/239.77.0.139:5146
 http://14.155.220.176:8888/rtp/239.253.43.36:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="广西卫视" tvg-logo="",group-title="卫视",广西卫视
+http://116.28.212.32:4022/rtp/239.77.0.139:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="广西卫视" tvg-logo="",group-title="卫视",广西卫视
+http://116.28.212.32:4022/rtp/239.253.43.36:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="广西卫视" tvg-logo="",group-title="卫视",广西卫视
 http://113.83.144.127:8188/rtp/239.77.0.139:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="广西卫视" tvg-logo="",group-title="卫视",广西卫视
 http://113.83.144.127:8188/rtp/239.253.43.36:5146
 
-#EXTINF:-1 tvg-id="" tvg-name="广西卫视" tvg-logo="",group-title="卫视",广西卫视
-http://14.221.176.132:4022/rtp/239.77.0.139:5146
+#EXTINF:-1 tvg-id="" tvg-name="延边卫视" tvg-logo="",group-title="卫视",延边卫视
+http://14.223.52.56:60000/rtp/239.77.0.10:5146
 
-#EXTINF:-1 tvg-id="" tvg-name="广西卫视" tvg-logo="",group-title="卫视",广西卫视
-http://14.221.176.132:4022/rtp/239.253.43.36:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="广西卫视" tvg-logo="",group-title="卫视",广西卫视
-http://14.153.178.91:5555/rtp/239.77.0.139:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="广西卫视" tvg-logo="",group-title="卫视",广西卫视
-http://14.153.178.91:5555/rtp/239.253.43.36:5146
+#EXTINF:-1 tvg-id="" tvg-name="延边卫视" tvg-logo="",group-title="卫视",延边卫视
+http://14.223.52.56:60000/rtp/239.77.1.99:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="延边卫视" tvg-logo="",group-title="卫视",延边卫视
 http://14.155.220.176:8888/rtp/239.77.0.10:5146
@@ -4795,22 +4801,25 @@ http://14.155.220.176:8888/rtp/239.77.0.10:5146
 http://14.155.220.176:8888/rtp/239.77.1.99:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="延边卫视" tvg-logo="",group-title="卫视",延边卫视
+http://116.28.212.32:4022/rtp/239.77.0.10:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="延边卫视" tvg-logo="",group-title="卫视",延边卫视
+http://116.28.212.32:4022/rtp/239.77.1.99:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="延边卫视" tvg-logo="",group-title="卫视",延边卫视
 http://113.83.144.127:8188/rtp/239.77.0.10:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="延边卫视" tvg-logo="",group-title="卫视",延边卫视
 http://113.83.144.127:8188/rtp/239.77.1.99:5146
 
-#EXTINF:-1 tvg-id="" tvg-name="延边卫视" tvg-logo="",group-title="卫视",延边卫视
-http://14.221.176.132:4022/rtp/239.77.0.10:5146
+#EXTINF:-1 tvg-id="" tvg-name="新疆卫视" tvg-logo="",group-title="卫视",新疆卫视
+http://14.223.52.56:60000/rtp/239.77.0.47:5146
 
-#EXTINF:-1 tvg-id="" tvg-name="延边卫视" tvg-logo="",group-title="卫视",延边卫视
-http://14.221.176.132:4022/rtp/239.77.1.99:5146
+#EXTINF:-1 tvg-id="" tvg-name="新疆卫视" tvg-logo="",group-title="卫视",新疆卫视
+http://14.223.52.56:60000/rtp/239.77.1.25:5146
 
-#EXTINF:-1 tvg-id="" tvg-name="延边卫视" tvg-logo="",group-title="卫视",延边卫视
-http://14.153.178.91:5555/rtp/239.77.0.10:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="延边卫视" tvg-logo="",group-title="卫视",延边卫视
-http://14.153.178.91:5555/rtp/239.77.1.99:5146
+#EXTINF:-1 tvg-id="" tvg-name="新疆卫视" tvg-logo="",group-title="卫视",新疆卫视
+http://14.223.52.56:60000/rtp/239.253.43.202:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="新疆卫视" tvg-logo="",group-title="卫视",新疆卫视
 http://14.155.220.176:8888/rtp/239.77.0.47:5146
@@ -4822,6 +4831,15 @@ http://14.155.220.176:8888/rtp/239.77.1.25:5146
 http://14.155.220.176:8888/rtp/239.253.43.202:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="新疆卫视" tvg-logo="",group-title="卫视",新疆卫视
+http://116.28.212.32:4022/rtp/239.77.0.47:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="新疆卫视" tvg-logo="",group-title="卫视",新疆卫视
+http://116.28.212.32:4022/rtp/239.77.1.25:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="新疆卫视" tvg-logo="",group-title="卫视",新疆卫视
+http://116.28.212.32:4022/rtp/239.253.43.202:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="新疆卫视" tvg-logo="",group-title="卫视",新疆卫视
 http://113.83.144.127:8188/rtp/239.77.0.47:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="新疆卫视" tvg-logo="",group-title="卫视",新疆卫视
@@ -4830,23 +4848,17 @@ http://113.83.144.127:8188/rtp/239.77.1.25:5146
 #EXTINF:-1 tvg-id="" tvg-name="新疆卫视" tvg-logo="",group-title="卫视",新疆卫视
 http://113.83.144.127:8188/rtp/239.253.43.202:5146
 
-#EXTINF:-1 tvg-id="" tvg-name="新疆卫视" tvg-logo="",group-title="卫视",新疆卫视
-http://14.221.176.132:4022/rtp/239.77.0.47:5146
+#EXTINF:-1 tvg-id="" tvg-name="江苏卫视" tvg-logo="",group-title="卫视",江苏卫视
+http://14.223.52.56:60000/rtp/239.77.0.57:5146
 
-#EXTINF:-1 tvg-id="" tvg-name="新疆卫视" tvg-logo="",group-title="卫视",新疆卫视
-http://14.221.176.132:4022/rtp/239.77.1.25:5146
+#EXTINF:-1 tvg-id="" tvg-name="江苏卫视" tvg-logo="",group-title="卫视",江苏卫视
+http://14.223.52.56:60000/rtp/239.77.0.90:5146
 
-#EXTINF:-1 tvg-id="" tvg-name="新疆卫视" tvg-logo="",group-title="卫视",新疆卫视
-http://14.221.176.132:4022/rtp/239.253.43.202:5146
+#EXTINF:-1 tvg-id="" tvg-name="江苏卫视" tvg-logo="",group-title="卫视",江苏卫视
+http://14.223.52.56:60000/rtp/239.77.1.18:5146
 
-#EXTINF:-1 tvg-id="" tvg-name="新疆卫视" tvg-logo="",group-title="卫视",新疆卫视
-http://14.153.178.91:5555/rtp/239.77.0.47:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="新疆卫视" tvg-logo="",group-title="卫视",新疆卫视
-http://14.153.178.91:5555/rtp/239.77.1.25:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="新疆卫视" tvg-logo="",group-title="卫视",新疆卫视
-http://14.153.178.91:5555/rtp/239.253.43.202:5146
+#EXTINF:-1 tvg-id="" tvg-name="江苏卫视" tvg-logo="",group-title="卫视",江苏卫视
+http://183.23.154.63:9123/rtp/239.77.0.57:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="江苏卫视" tvg-logo="",group-title="卫视",江苏卫视
 http://14.155.220.176:8888/rtp/239.77.0.57:5146
@@ -4861,6 +4873,12 @@ http://14.155.220.176:8888/rtp/239.77.1.18:5146
 http://116.28.212.32:4022/rtp/239.77.0.57:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="江苏卫视" tvg-logo="",group-title="卫视",江苏卫视
+http://116.28.212.32:4022/rtp/239.77.0.90:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="江苏卫视" tvg-logo="",group-title="卫视",江苏卫视
+http://116.28.212.32:4022/rtp/239.77.1.18:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="江苏卫视" tvg-logo="",group-title="卫视",江苏卫视
 http://113.83.144.127:8188/rtp/239.77.0.57:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="江苏卫视" tvg-logo="",group-title="卫视",江苏卫视
@@ -4869,23 +4887,11 @@ http://113.83.144.127:8188/rtp/239.77.0.90:5146
 #EXTINF:-1 tvg-id="" tvg-name="江苏卫视" tvg-logo="",group-title="卫视",江苏卫视
 http://113.83.144.127:8188/rtp/239.77.1.18:5146
 
-#EXTINF:-1 tvg-id="" tvg-name="江苏卫视" tvg-logo="",group-title="卫视",江苏卫视
-http://14.221.176.132:4022/rtp/239.77.0.57:5146
+#EXTINF:-1 tvg-id="" tvg-name="江西卫视" tvg-logo="",group-title="卫视",江西卫视
+http://14.223.52.56:60000/rtp/239.77.0.149:5146
 
-#EXTINF:-1 tvg-id="" tvg-name="江苏卫视" tvg-logo="",group-title="卫视",江苏卫视
-http://14.221.176.132:4022/rtp/239.77.0.90:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="江苏卫视" tvg-logo="",group-title="卫视",江苏卫视
-http://14.221.176.132:4022/rtp/239.77.1.18:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="江苏卫视" tvg-logo="",group-title="卫视",江苏卫视
-http://14.153.178.91:5555/rtp/239.77.0.57:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="江苏卫视" tvg-logo="",group-title="卫视",江苏卫视
-http://14.153.178.91:5555/rtp/239.77.0.90:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="江苏卫视" tvg-logo="",group-title="卫视",江苏卫视
-http://14.153.178.91:5555/rtp/239.77.1.18:5146
+#EXTINF:-1 tvg-id="" tvg-name="江西卫视" tvg-logo="",group-title="卫视",江西卫视
+http://14.223.52.56:60000/rtp/239.77.1.219:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="江西卫视" tvg-logo="",group-title="卫视",江西卫视
 http://14.155.220.176:8888/rtp/239.77.0.149:5146
@@ -4894,22 +4900,22 @@ http://14.155.220.176:8888/rtp/239.77.0.149:5146
 http://14.155.220.176:8888/rtp/239.77.1.219:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="江西卫视" tvg-logo="",group-title="卫视",江西卫视
+http://116.28.212.32:4022/rtp/239.77.0.149:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="江西卫视" tvg-logo="",group-title="卫视",江西卫视
+http://116.28.212.32:4022/rtp/239.77.1.219:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="江西卫视" tvg-logo="",group-title="卫视",江西卫视
 http://113.83.144.127:8188/rtp/239.77.0.149:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="江西卫视" tvg-logo="",group-title="卫视",江西卫视
 http://113.83.144.127:8188/rtp/239.77.1.219:5146
 
-#EXTINF:-1 tvg-id="" tvg-name="江西卫视" tvg-logo="",group-title="卫视",江西卫视
-http://14.221.176.132:4022/rtp/239.77.0.149:5146
+#EXTINF:-1 tvg-id="" tvg-name="河北卫视" tvg-logo="",group-title="卫视",河北卫视
+http://14.223.52.56:60000/rtp/239.77.0.148:5146
 
-#EXTINF:-1 tvg-id="" tvg-name="江西卫视" tvg-logo="",group-title="卫视",江西卫视
-http://14.221.176.132:4022/rtp/239.77.1.219:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="江西卫视" tvg-logo="",group-title="卫视",江西卫视
-http://14.153.178.91:5555/rtp/239.77.0.149:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="江西卫视" tvg-logo="",group-title="卫视",江西卫视
-http://14.153.178.91:5555/rtp/239.77.1.219:5146
+#EXTINF:-1 tvg-id="" tvg-name="河北卫视" tvg-logo="",group-title="卫视",河北卫视
+http://14.223.52.56:60000/rtp/239.77.1.214:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="河北卫视" tvg-logo="",group-title="卫视",河北卫视
 http://14.155.220.176:8888/rtp/239.77.0.148:5146
@@ -4918,22 +4924,22 @@ http://14.155.220.176:8888/rtp/239.77.0.148:5146
 http://14.155.220.176:8888/rtp/239.77.1.214:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="河北卫视" tvg-logo="",group-title="卫视",河北卫视
+http://116.28.212.32:4022/rtp/239.77.0.148:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="河北卫视" tvg-logo="",group-title="卫视",河北卫视
+http://116.28.212.32:4022/rtp/239.77.1.214:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="河北卫视" tvg-logo="",group-title="卫视",河北卫视
 http://113.83.144.127:8188/rtp/239.77.0.148:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="河北卫视" tvg-logo="",group-title="卫视",河北卫视
 http://113.83.144.127:8188/rtp/239.77.1.214:5146
 
-#EXTINF:-1 tvg-id="" tvg-name="河北卫视" tvg-logo="",group-title="卫视",河北卫视
-http://14.221.176.132:4022/rtp/239.77.0.148:5146
+#EXTINF:-1 tvg-id="" tvg-name="河南卫视" tvg-logo="",group-title="卫视",河南卫视
+http://14.223.52.56:60000/rtp/239.77.0.17:5146
 
-#EXTINF:-1 tvg-id="" tvg-name="河北卫视" tvg-logo="",group-title="卫视",河北卫视
-http://14.221.176.132:4022/rtp/239.77.1.214:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="河北卫视" tvg-logo="",group-title="卫视",河北卫视
-http://14.153.178.91:5555/rtp/239.77.0.148:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="河北卫视" tvg-logo="",group-title="卫视",河北卫视
-http://14.153.178.91:5555/rtp/239.77.1.214:5146
+#EXTINF:-1 tvg-id="" tvg-name="河南卫视" tvg-logo="",group-title="卫视",河南卫视
+http://14.223.52.56:60000/rtp/239.77.1.229:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="河南卫视" tvg-logo="",group-title="卫视",河南卫视
 http://14.155.220.176:8888/rtp/239.77.0.17:5146
@@ -4942,22 +4948,28 @@ http://14.155.220.176:8888/rtp/239.77.0.17:5146
 http://14.155.220.176:8888/rtp/239.77.1.229:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="河南卫视" tvg-logo="",group-title="卫视",河南卫视
+http://116.28.212.32:4022/rtp/239.77.0.17:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="河南卫视" tvg-logo="",group-title="卫视",河南卫视
+http://116.28.212.32:4022/rtp/239.77.1.229:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="河南卫视" tvg-logo="",group-title="卫视",河南卫视
 http://113.83.144.127:8188/rtp/239.77.0.17:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="河南卫视" tvg-logo="",group-title="卫视",河南卫视
 http://113.83.144.127:8188/rtp/239.77.1.229:5146
 
-#EXTINF:-1 tvg-id="" tvg-name="河南卫视" tvg-logo="",group-title="卫视",河南卫视
-http://14.221.176.132:4022/rtp/239.77.0.17:5146
+#EXTINF:-1 tvg-id="" tvg-name="浙江卫视" tvg-logo="",group-title="卫视",浙江卫视
+http://14.223.52.56:60000/rtp/239.77.0.58:5146
 
-#EXTINF:-1 tvg-id="" tvg-name="河南卫视" tvg-logo="",group-title="卫视",河南卫视
-http://14.221.176.132:4022/rtp/239.77.1.229:5146
+#EXTINF:-1 tvg-id="" tvg-name="浙江卫视" tvg-logo="",group-title="卫视",浙江卫视
+http://14.223.52.56:60000/rtp/239.77.1.33:5146
 
-#EXTINF:-1 tvg-id="" tvg-name="河南卫视" tvg-logo="",group-title="卫视",河南卫视
-http://14.153.178.91:5555/rtp/239.77.0.17:5146
+#EXTINF:-1 tvg-id="" tvg-name="浙江卫视" tvg-logo="",group-title="卫视",浙江卫视
+http://14.223.52.56:60000/rtp/239.77.0.89:5146
 
-#EXTINF:-1 tvg-id="" tvg-name="河南卫视" tvg-logo="",group-title="卫视",河南卫视
-http://14.153.178.91:5555/rtp/239.77.1.229:5146
+#EXTINF:-1 tvg-id="" tvg-name="浙江卫视" tvg-logo="",group-title="卫视",浙江卫视
+http://183.23.154.63:9123/rtp/239.77.0.58:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="浙江卫视" tvg-logo="",group-title="卫视",浙江卫视
 http://14.155.220.176:8888/rtp/239.77.0.58:5146
@@ -4972,6 +4984,12 @@ http://14.155.220.176:8888/rtp/239.77.0.89:5146
 http://116.28.212.32:4022/rtp/239.77.0.58:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="浙江卫视" tvg-logo="",group-title="卫视",浙江卫视
+http://116.28.212.32:4022/rtp/239.77.1.33:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="浙江卫视" tvg-logo="",group-title="卫视",浙江卫视
+http://116.28.212.32:4022/rtp/239.77.0.89:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="浙江卫视" tvg-logo="",group-title="卫视",浙江卫视
 http://113.83.144.127:8188/rtp/239.77.0.58:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="浙江卫视" tvg-logo="",group-title="卫视",浙江卫视
@@ -4980,23 +4998,17 @@ http://113.83.144.127:8188/rtp/239.77.1.33:5146
 #EXTINF:-1 tvg-id="" tvg-name="浙江卫视" tvg-logo="",group-title="卫视",浙江卫视
 http://113.83.144.127:8188/rtp/239.77.0.89:5146
 
-#EXTINF:-1 tvg-id="" tvg-name="浙江卫视" tvg-logo="",group-title="卫视",浙江卫视
-http://14.221.176.132:4022/rtp/239.77.0.58:5146
+#EXTINF:-1 tvg-id="" tvg-name="湖北卫视" tvg-logo="",group-title="卫视",湖北卫视
+http://14.223.52.56:60000/rtp/239.77.0.95:5146
 
-#EXTINF:-1 tvg-id="" tvg-name="浙江卫视" tvg-logo="",group-title="卫视",浙江卫视
-http://14.221.176.132:4022/rtp/239.77.1.33:5146
+#EXTINF:-1 tvg-id="" tvg-name="湖北卫视" tvg-logo="",group-title="卫视",湖北卫视
+http://14.223.52.56:60000/rtp/239.77.0.128:5146
 
-#EXTINF:-1 tvg-id="" tvg-name="浙江卫视" tvg-logo="",group-title="卫视",浙江卫视
-http://14.221.176.132:4022/rtp/239.77.0.89:5146
+#EXTINF:-1 tvg-id="" tvg-name="湖北卫视" tvg-logo="",group-title="卫视",湖北卫视
+http://14.223.52.56:60000/rtp/239.77.1.174:5146
 
-#EXTINF:-1 tvg-id="" tvg-name="浙江卫视" tvg-logo="",group-title="卫视",浙江卫视
-http://14.153.178.91:5555/rtp/239.77.0.58:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="浙江卫视" tvg-logo="",group-title="卫视",浙江卫视
-http://14.153.178.91:5555/rtp/239.77.1.33:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="浙江卫视" tvg-logo="",group-title="卫视",浙江卫视
-http://14.153.178.91:5555/rtp/239.77.0.89:5146
+#EXTINF:-1 tvg-id="" tvg-name="湖北卫视" tvg-logo="",group-title="卫视",湖北卫视
+http://14.223.52.56:60000/rtp/239.77.1.93:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="湖北卫视" tvg-logo="",group-title="卫视",湖北卫视
 http://14.155.220.176:8888/rtp/239.77.0.95:5146
@@ -5011,6 +5023,18 @@ http://14.155.220.176:8888/rtp/239.77.1.174:5146
 http://14.155.220.176:8888/rtp/239.77.1.93:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="湖北卫视" tvg-logo="",group-title="卫视",湖北卫视
+http://116.28.212.32:4022/rtp/239.77.0.95:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="湖北卫视" tvg-logo="",group-title="卫视",湖北卫视
+http://116.28.212.32:4022/rtp/239.77.0.128:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="湖北卫视" tvg-logo="",group-title="卫视",湖北卫视
+http://116.28.212.32:4022/rtp/239.77.1.174:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="湖北卫视" tvg-logo="",group-title="卫视",湖北卫视
+http://116.28.212.32:4022/rtp/239.77.1.93:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="湖北卫视" tvg-logo="",group-title="卫视",湖北卫视
 http://113.83.144.127:8188/rtp/239.77.0.95:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="湖北卫视" tvg-logo="",group-title="卫视",湖北卫视
@@ -5022,29 +5046,17 @@ http://113.83.144.127:8188/rtp/239.77.1.174:5146
 #EXTINF:-1 tvg-id="" tvg-name="湖北卫视" tvg-logo="",group-title="卫视",湖北卫视
 http://113.83.144.127:8188/rtp/239.77.1.93:5146
 
-#EXTINF:-1 tvg-id="" tvg-name="湖北卫视" tvg-logo="",group-title="卫视",湖北卫视
-http://14.221.176.132:4022/rtp/239.77.0.95:5146
+#EXTINF:-1 tvg-id="" tvg-name="湖南卫视" tvg-logo="",group-title="卫视",湖南卫视
+http://14.223.52.56:60000/rtp/239.77.0.56:5146
 
-#EXTINF:-1 tvg-id="" tvg-name="湖北卫视" tvg-logo="",group-title="卫视",湖北卫视
-http://14.221.176.132:4022/rtp/239.77.0.128:5146
+#EXTINF:-1 tvg-id="" tvg-name="湖南卫视" tvg-logo="",group-title="卫视",湖南卫视
+http://14.223.52.56:60000/rtp/239.77.0.88:5146
 
-#EXTINF:-1 tvg-id="" tvg-name="湖北卫视" tvg-logo="",group-title="卫视",湖北卫视
-http://14.221.176.132:4022/rtp/239.77.1.174:5146
+#EXTINF:-1 tvg-id="" tvg-name="湖南卫视" tvg-logo="",group-title="卫视",湖南卫视
+http://14.223.52.56:60000/rtp/239.77.1.5:5146
 
-#EXTINF:-1 tvg-id="" tvg-name="湖北卫视" tvg-logo="",group-title="卫视",湖北卫视
-http://14.221.176.132:4022/rtp/239.77.1.93:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="湖北卫视" tvg-logo="",group-title="卫视",湖北卫视
-http://14.153.178.91:5555/rtp/239.77.0.95:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="湖北卫视" tvg-logo="",group-title="卫视",湖北卫视
-http://14.153.178.91:5555/rtp/239.77.0.128:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="湖北卫视" tvg-logo="",group-title="卫视",湖北卫视
-http://14.153.178.91:5555/rtp/239.77.1.174:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="湖北卫视" tvg-logo="",group-title="卫视",湖北卫视
-http://14.153.178.91:5555/rtp/239.77.1.93:5146
+#EXTINF:-1 tvg-id="" tvg-name="湖南卫视" tvg-logo="",group-title="卫视",湖南卫视
+http://183.23.154.63:9123/rtp/239.77.0.56:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="湖南卫视" tvg-logo="",group-title="卫视",湖南卫视
 http://14.155.220.176:8888/rtp/239.77.0.56:5146
@@ -5059,6 +5071,12 @@ http://14.155.220.176:8888/rtp/239.77.1.5:5146
 http://116.28.212.32:4022/rtp/239.77.0.56:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="湖南卫视" tvg-logo="",group-title="卫视",湖南卫视
+http://116.28.212.32:4022/rtp/239.77.0.88:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="湖南卫视" tvg-logo="",group-title="卫视",湖南卫视
+http://116.28.212.32:4022/rtp/239.77.1.5:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="湖南卫视" tvg-logo="",group-title="卫视",湖南卫视
 http://113.83.144.127:8188/rtp/239.77.0.56:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="湖南卫视" tvg-logo="",group-title="卫视",湖南卫视
@@ -5067,35 +5085,23 @@ http://113.83.144.127:8188/rtp/239.77.0.88:5146
 #EXTINF:-1 tvg-id="" tvg-name="湖南卫视" tvg-logo="",group-title="卫视",湖南卫视
 http://113.83.144.127:8188/rtp/239.77.1.5:5146
 
-#EXTINF:-1 tvg-id="" tvg-name="湖南卫视" tvg-logo="",group-title="卫视",湖南卫视
-http://14.221.176.132:4022/rtp/239.77.0.56:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="湖南卫视" tvg-logo="",group-title="卫视",湖南卫视
-http://14.221.176.132:4022/rtp/239.77.0.88:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="湖南卫视" tvg-logo="",group-title="卫视",湖南卫视
-http://14.221.176.132:4022/rtp/239.77.1.5:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="湖南卫视" tvg-logo="",group-title="卫视",湖南卫视
-http://14.153.178.91:5555/rtp/239.77.0.56:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="湖南卫视" tvg-logo="",group-title="卫视",湖南卫视
-http://14.153.178.91:5555/rtp/239.77.0.88:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="湖南卫视" tvg-logo="",group-title="卫视",湖南卫视
-http://14.153.178.91:5555/rtp/239.77.1.5:5146
+#EXTINF:-1 tvg-id="" tvg-name="甘肃卫视" tvg-logo="",group-title="卫视",甘肃卫视
+http://14.223.52.56:60000/rtp/239.77.0.189:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="甘肃卫视" tvg-logo="",group-title="卫视",甘肃卫视
 http://14.155.220.176:8888/rtp/239.77.0.189:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="甘肃卫视" tvg-logo="",group-title="卫视",甘肃卫视
+http://116.28.212.32:4022/rtp/239.77.0.189:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="甘肃卫视" tvg-logo="",group-title="卫视",甘肃卫视
 http://113.83.144.127:8188/rtp/239.77.0.189:5146
 
-#EXTINF:-1 tvg-id="" tvg-name="甘肃卫视" tvg-logo="",group-title="卫视",甘肃卫视
-http://14.221.176.132:4022/rtp/239.77.0.189:5146
+#EXTINF:-1 tvg-id="" tvg-name="西藏卫视" tvg-logo="",group-title="卫视",西藏卫视
+http://14.223.52.56:60000/rtp/239.77.0.46:5146
 
-#EXTINF:-1 tvg-id="" tvg-name="甘肃卫视" tvg-logo="",group-title="卫视",甘肃卫视
-http://14.153.178.91:5555/rtp/239.77.0.189:5146
+#EXTINF:-1 tvg-id="" tvg-name="西藏卫视" tvg-logo="",group-title="卫视",西藏卫视
+http://14.223.52.56:60000/rtp/239.77.1.26:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="西藏卫视" tvg-logo="",group-title="卫视",西藏卫视
 http://14.155.220.176:8888/rtp/239.77.0.46:5146
@@ -5104,22 +5110,22 @@ http://14.155.220.176:8888/rtp/239.77.0.46:5146
 http://14.155.220.176:8888/rtp/239.77.1.26:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="西藏卫视" tvg-logo="",group-title="卫视",西藏卫视
+http://116.28.212.32:4022/rtp/239.77.0.46:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="西藏卫视" tvg-logo="",group-title="卫视",西藏卫视
+http://116.28.212.32:4022/rtp/239.77.1.26:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="西藏卫视" tvg-logo="",group-title="卫视",西藏卫视
 http://113.83.144.127:8188/rtp/239.77.0.46:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="西藏卫视" tvg-logo="",group-title="卫视",西藏卫视
 http://113.83.144.127:8188/rtp/239.77.1.26:5146
 
-#EXTINF:-1 tvg-id="" tvg-name="西藏卫视" tvg-logo="",group-title="卫视",西藏卫视
-http://14.221.176.132:4022/rtp/239.77.0.46:5146
+#EXTINF:-1 tvg-id="" tvg-name="贵州卫视" tvg-logo="",group-title="卫视",贵州卫视
+http://14.223.52.56:60000/rtp/239.77.0.230:5146
 
-#EXTINF:-1 tvg-id="" tvg-name="西藏卫视" tvg-logo="",group-title="卫视",西藏卫视
-http://14.221.176.132:4022/rtp/239.77.1.26:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="西藏卫视" tvg-logo="",group-title="卫视",西藏卫视
-http://14.153.178.91:5555/rtp/239.77.0.46:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="西藏卫视" tvg-logo="",group-title="卫视",西藏卫视
-http://14.153.178.91:5555/rtp/239.77.1.26:5146
+#EXTINF:-1 tvg-id="" tvg-name="贵州卫视" tvg-logo="",group-title="卫视",贵州卫视
+http://14.223.52.56:60000/rtp/239.77.1.221:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="贵州卫视" tvg-logo="",group-title="卫视",贵州卫视
 http://14.155.220.176:8888/rtp/239.77.0.230:5146
@@ -5128,22 +5134,22 @@ http://14.155.220.176:8888/rtp/239.77.0.230:5146
 http://14.155.220.176:8888/rtp/239.77.1.221:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="贵州卫视" tvg-logo="",group-title="卫视",贵州卫视
+http://116.28.212.32:4022/rtp/239.77.0.230:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="贵州卫视" tvg-logo="",group-title="卫视",贵州卫视
+http://116.28.212.32:4022/rtp/239.77.1.221:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="贵州卫视" tvg-logo="",group-title="卫视",贵州卫视
 http://113.83.144.127:8188/rtp/239.77.0.230:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="贵州卫视" tvg-logo="",group-title="卫视",贵州卫视
 http://113.83.144.127:8188/rtp/239.77.1.221:5146
 
-#EXTINF:-1 tvg-id="" tvg-name="贵州卫视" tvg-logo="",group-title="卫视",贵州卫视
-http://14.221.176.132:4022/rtp/239.77.0.230:5146
+#EXTINF:-1 tvg-id="" tvg-name="辽宁卫视" tvg-logo="",group-title="卫视",辽宁卫视
+http://14.223.52.56:60000/rtp/239.77.1.103:5146
 
-#EXTINF:-1 tvg-id="" tvg-name="贵州卫视" tvg-logo="",group-title="卫视",贵州卫视
-http://14.221.176.132:4022/rtp/239.77.1.221:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="贵州卫视" tvg-logo="",group-title="卫视",贵州卫视
-http://14.153.178.91:5555/rtp/239.77.0.230:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="贵州卫视" tvg-logo="",group-title="卫视",贵州卫视
-http://14.153.178.91:5555/rtp/239.77.1.221:5146
+#EXTINF:-1 tvg-id="" tvg-name="辽宁卫视" tvg-logo="",group-title="卫视",辽宁卫视
+http://14.223.52.56:60000/rtp/239.77.0.123:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="辽宁卫视" tvg-logo="",group-title="卫视",辽宁卫视
 http://14.155.220.176:8888/rtp/239.77.1.103:5146
@@ -5152,22 +5158,22 @@ http://14.155.220.176:8888/rtp/239.77.1.103:5146
 http://14.155.220.176:8888/rtp/239.77.0.123:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="辽宁卫视" tvg-logo="",group-title="卫视",辽宁卫视
+http://116.28.212.32:4022/rtp/239.77.1.103:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="辽宁卫视" tvg-logo="",group-title="卫视",辽宁卫视
+http://116.28.212.32:4022/rtp/239.77.0.123:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="辽宁卫视" tvg-logo="",group-title="卫视",辽宁卫视
 http://113.83.144.127:8188/rtp/239.77.1.103:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="辽宁卫视" tvg-logo="",group-title="卫视",辽宁卫视
 http://113.83.144.127:8188/rtp/239.77.0.123:5146
 
-#EXTINF:-1 tvg-id="" tvg-name="辽宁卫视" tvg-logo="",group-title="卫视",辽宁卫视
-http://14.221.176.132:4022/rtp/239.77.1.103:5146
+#EXTINF:-1 tvg-id="" tvg-name="重庆卫视" tvg-logo="",group-title="卫视",重庆卫视
+http://14.223.52.56:60000/rtp/239.77.0.182:5146
 
-#EXTINF:-1 tvg-id="" tvg-name="辽宁卫视" tvg-logo="",group-title="卫视",辽宁卫视
-http://14.221.176.132:4022/rtp/239.77.0.123:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="辽宁卫视" tvg-logo="",group-title="卫视",辽宁卫视
-http://14.153.178.91:5555/rtp/239.77.1.103:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="辽宁卫视" tvg-logo="",group-title="卫视",辽宁卫视
-http://14.153.178.91:5555/rtp/239.77.0.123:5146
+#EXTINF:-1 tvg-id="" tvg-name="重庆卫视" tvg-logo="",group-title="卫视",重庆卫视
+http://14.223.52.56:60000/rtp/239.77.1.162:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="重庆卫视" tvg-logo="",group-title="卫视",重庆卫视
 http://14.155.220.176:8888/rtp/239.77.0.182:5146
@@ -5176,22 +5182,22 @@ http://14.155.220.176:8888/rtp/239.77.0.182:5146
 http://14.155.220.176:8888/rtp/239.77.1.162:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="重庆卫视" tvg-logo="",group-title="卫视",重庆卫视
+http://116.28.212.32:4022/rtp/239.77.0.182:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="重庆卫视" tvg-logo="",group-title="卫视",重庆卫视
+http://116.28.212.32:4022/rtp/239.77.1.162:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="重庆卫视" tvg-logo="",group-title="卫视",重庆卫视
 http://113.83.144.127:8188/rtp/239.77.0.182:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="重庆卫视" tvg-logo="",group-title="卫视",重庆卫视
 http://113.83.144.127:8188/rtp/239.77.1.162:5146
 
-#EXTINF:-1 tvg-id="" tvg-name="重庆卫视" tvg-logo="",group-title="卫视",重庆卫视
-http://14.221.176.132:4022/rtp/239.77.0.182:5146
+#EXTINF:-1 tvg-id="" tvg-name="陕西卫视" tvg-logo="",group-title="卫视",陕西卫视
+http://14.223.52.56:60000/rtp/239.77.0.68:5146
 
-#EXTINF:-1 tvg-id="" tvg-name="重庆卫视" tvg-logo="",group-title="卫视",重庆卫视
-http://14.221.176.132:4022/rtp/239.77.1.162:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="重庆卫视" tvg-logo="",group-title="卫视",重庆卫视
-http://14.153.178.91:5555/rtp/239.77.0.182:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="重庆卫视" tvg-logo="",group-title="卫视",重庆卫视
-http://14.153.178.91:5555/rtp/239.77.1.162:5146
+#EXTINF:-1 tvg-id="" tvg-name="陕西卫视" tvg-logo="",group-title="卫视",陕西卫视
+http://14.223.52.56:60000/rtp/239.77.1.54:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="陕西卫视" tvg-logo="",group-title="卫视",陕西卫视
 http://14.155.220.176:8888/rtp/239.77.0.68:5146
@@ -5200,34 +5206,40 @@ http://14.155.220.176:8888/rtp/239.77.0.68:5146
 http://14.155.220.176:8888/rtp/239.77.1.54:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="陕西卫视" tvg-logo="",group-title="卫视",陕西卫视
+http://116.28.212.32:4022/rtp/239.77.0.68:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="陕西卫视" tvg-logo="",group-title="卫视",陕西卫视
+http://116.28.212.32:4022/rtp/239.77.1.54:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="陕西卫视" tvg-logo="",group-title="卫视",陕西卫视
 http://113.83.144.127:8188/rtp/239.77.0.68:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="陕西卫视" tvg-logo="",group-title="卫视",陕西卫视
 http://113.83.144.127:8188/rtp/239.77.1.54:5146
 
-#EXTINF:-1 tvg-id="" tvg-name="陕西卫视" tvg-logo="",group-title="卫视",陕西卫视
-http://14.221.176.132:4022/rtp/239.77.0.68:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="陕西卫视" tvg-logo="",group-title="卫视",陕西卫视
-http://14.221.176.132:4022/rtp/239.77.1.54:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="陕西卫视" tvg-logo="",group-title="卫视",陕西卫视
-http://14.153.178.91:5555/rtp/239.77.0.68:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="陕西卫视" tvg-logo="",group-title="卫视",陕西卫视
-http://14.153.178.91:5555/rtp/239.77.1.54:5146
+#EXTINF:-1 tvg-id="" tvg-name="青海卫视" tvg-logo="",group-title="卫视",青海卫视
+http://14.223.52.56:60000/rtp/239.253.43.125:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="青海卫视" tvg-logo="",group-title="卫视",青海卫视
 http://14.155.220.176:8888/rtp/239.253.43.125:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="青海卫视" tvg-logo="",group-title="卫视",青海卫视
+http://116.28.212.32:4022/rtp/239.253.43.125:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="青海卫视" tvg-logo="",group-title="卫视",青海卫视
 http://113.83.144.127:8188/rtp/239.253.43.125:5146
 
-#EXTINF:-1 tvg-id="" tvg-name="青海卫视" tvg-logo="",group-title="卫视",青海卫视
-http://14.221.176.132:4022/rtp/239.253.43.125:5146
+#EXTINF:-1 tvg-id="" tvg-name="黑龙江卫视" tvg-logo="",group-title="卫视",黑龙江卫视
+http://14.223.52.56:60000/rtp/239.77.0.93:5146
 
-#EXTINF:-1 tvg-id="" tvg-name="青海卫视" tvg-logo="",group-title="卫视",青海卫视
-http://14.153.178.91:5555/rtp/239.253.43.125:5146
+#EXTINF:-1 tvg-id="" tvg-name="黑龙江卫视" tvg-logo="",group-title="卫视",黑龙江卫视
+http://14.223.52.56:60000/rtp/239.77.0.124:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="黑龙江卫视" tvg-logo="",group-title="卫视",黑龙江卫视
+http://14.223.52.56:60000/rtp/239.77.1.179:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="黑龙江卫视" tvg-logo="",group-title="卫视",黑龙江卫视
+http://14.223.52.56:60000/rtp/239.77.1.6:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="黑龙江卫视" tvg-logo="",group-title="卫视",黑龙江卫视
 http://14.155.220.176:8888/rtp/239.77.0.93:5146
@@ -5242,6 +5254,18 @@ http://14.155.220.176:8888/rtp/239.77.1.179:5146
 http://14.155.220.176:8888/rtp/239.77.1.6:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="黑龙江卫视" tvg-logo="",group-title="卫视",黑龙江卫视
+http://116.28.212.32:4022/rtp/239.77.0.93:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="黑龙江卫视" tvg-logo="",group-title="卫视",黑龙江卫视
+http://116.28.212.32:4022/rtp/239.77.0.124:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="黑龙江卫视" tvg-logo="",group-title="卫视",黑龙江卫视
+http://116.28.212.32:4022/rtp/239.77.1.179:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="黑龙江卫视" tvg-logo="",group-title="卫视",黑龙江卫视
+http://116.28.212.32:4022/rtp/239.77.1.6:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="黑龙江卫视" tvg-logo="",group-title="卫视",黑龙江卫视
 http://113.83.144.127:8188/rtp/239.77.0.93:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="黑龙江卫视" tvg-logo="",group-title="卫视",黑龙江卫视
@@ -5253,41 +5277,47 @@ http://113.83.144.127:8188/rtp/239.77.1.179:5146
 #EXTINF:-1 tvg-id="" tvg-name="黑龙江卫视" tvg-logo="",group-title="卫视",黑龙江卫视
 http://113.83.144.127:8188/rtp/239.77.1.6:5146
 
-#EXTINF:-1 tvg-id="" tvg-name="黑龙江卫视" tvg-logo="",group-title="卫视",黑龙江卫视
-http://14.221.176.132:4022/rtp/239.77.0.93:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="黑龙江卫视" tvg-logo="",group-title="卫视",黑龙江卫视
-http://14.221.176.132:4022/rtp/239.77.0.124:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="黑龙江卫视" tvg-logo="",group-title="卫视",黑龙江卫视
-http://14.221.176.132:4022/rtp/239.77.1.179:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="黑龙江卫视" tvg-logo="",group-title="卫视",黑龙江卫视
-http://14.221.176.132:4022/rtp/239.77.1.6:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="黑龙江卫视" tvg-logo="",group-title="卫视",黑龙江卫视
-http://14.153.178.91:5555/rtp/239.77.0.93:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="黑龙江卫视" tvg-logo="",group-title="卫视",黑龙江卫视
-http://14.153.178.91:5555/rtp/239.77.0.124:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="黑龙江卫视" tvg-logo="",group-title="卫视",黑龙江卫视
-http://14.153.178.91:5555/rtp/239.77.1.179:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="黑龙江卫视" tvg-logo="",group-title="卫视",黑龙江卫视
-http://14.153.178.91:5555/rtp/239.77.1.6:5146
+#EXTINF:-1 tvg-id="" tvg-name="大湾区卫视" tvg-logo="",group-title="卫视",大湾区卫视
+http://14.223.52.56:60000/rtp/239.77.0.215:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="大湾区卫视" tvg-logo="",group-title="卫视",大湾区卫视
 http://14.155.220.176:8888/rtp/239.77.0.215:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="大湾区卫视" tvg-logo="",group-title="卫视",大湾区卫视
+http://116.28.212.32:4022/rtp/239.77.0.215:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="大湾区卫视" tvg-logo="",group-title="卫视",大湾区卫视
 http://113.83.144.127:8188/rtp/239.77.0.215:5146
 
-#EXTINF:-1 tvg-id="" tvg-name="大湾区卫视" tvg-logo="",group-title="卫视",大湾区卫视
-http://14.221.176.132:4022/rtp/239.77.0.215:5146
+#EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-logo="",group-title="卫视",广东卫视
+http://14.223.52.56:60000/rtp/239.77.0.66:5146
 
-#EXTINF:-1 tvg-id="" tvg-name="大湾区卫视" tvg-logo="",group-title="卫视",大湾区卫视
-http://14.153.178.91:5555/rtp/239.77.0.215:5146
+#EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-logo="",group-title="卫视",广东卫视
+http://14.223.52.56:60000/rtp/239.77.0.65:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-logo="",group-title="卫视",广东卫视
+http://14.223.52.56:60000/rtp/239.77.0.153:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-logo="",group-title="卫视",广东卫视
+http://14.223.52.56:60000/rtp/239.77.0.233:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-logo="",group-title="卫视",广东卫视
+http://14.223.52.56:60000/rtp/239.77.0.84:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-logo="",group-title="卫视",广东卫视
+http://14.223.52.56:60000/rtp/239.77.0.166:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-logo="",group-title="卫视",广东卫视
+http://14.223.52.56:60000/rtp/239.77.1.19:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-logo="",group-title="卫视",广东卫视
+http://14.223.52.56:60000/rtp/239.77.1.152:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-logo="",group-title="卫视",广东卫视
+http://183.23.154.63:9123/rtp/239.77.0.66:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-logo="",group-title="卫视",广东卫视
+http://183.23.154.63:9123/rtp/239.77.0.65:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-logo="",group-title="卫视",广东卫视
 http://14.155.220.176:8888/rtp/239.77.0.66:5146
@@ -5320,6 +5350,24 @@ http://116.28.212.32:4022/rtp/239.77.0.66:5146
 http://116.28.212.32:4022/rtp/239.77.0.65:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-logo="",group-title="卫视",广东卫视
+http://116.28.212.32:4022/rtp/239.77.0.153:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-logo="",group-title="卫视",广东卫视
+http://116.28.212.32:4022/rtp/239.77.0.233:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-logo="",group-title="卫视",广东卫视
+http://116.28.212.32:4022/rtp/239.77.0.84:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-logo="",group-title="卫视",广东卫视
+http://116.28.212.32:4022/rtp/239.77.0.166:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-logo="",group-title="卫视",广东卫视
+http://116.28.212.32:4022/rtp/239.77.1.19:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-logo="",group-title="卫视",广东卫视
+http://116.28.212.32:4022/rtp/239.77.1.152:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-logo="",group-title="卫视",广东卫视
 http://113.83.144.127:8188/rtp/239.77.0.66:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-logo="",group-title="卫视",广东卫视
@@ -5343,53 +5391,32 @@ http://113.83.144.127:8188/rtp/239.77.1.19:5146
 #EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-logo="",group-title="卫视",广东卫视
 http://113.83.144.127:8188/rtp/239.77.1.152:5146
 
-#EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-logo="",group-title="卫视",广东卫视
-http://14.221.176.132:4022/rtp/239.77.0.66:5146
+#EXTINF:-1 tvg-id="" tvg-name="深圳卫视" tvg-logo="",group-title="卫视",深圳卫视
+http://14.223.52.56:60000/rtp/239.77.1.14:5146
 
-#EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-logo="",group-title="卫视",广东卫视
-http://14.221.176.132:4022/rtp/239.77.0.65:5146
+#EXTINF:-1 tvg-id="" tvg-name="深圳卫视" tvg-logo="",group-title="卫视",深圳卫视
+http://14.223.52.56:60000/rtp/239.77.0.67:5146
 
-#EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-logo="",group-title="卫视",广东卫视
-http://14.221.176.132:4022/rtp/239.77.0.153:5146
+#EXTINF:-1 tvg-id="" tvg-name="深圳卫视" tvg-logo="",group-title="卫视",深圳卫视
+http://14.223.52.56:60000/rtp/239.77.0.92:5146
 
-#EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-logo="",group-title="卫视",广东卫视
-http://14.221.176.132:4022/rtp/239.77.0.233:5146
+#EXTINF:-1 tvg-id="" tvg-name="深圳卫视" tvg-logo="",group-title="卫视",深圳卫视
+http://14.223.52.56:60000/rtp/239.77.1.3:5146
 
-#EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-logo="",group-title="卫视",广东卫视
-http://14.221.176.132:4022/rtp/239.77.0.84:5146
+#EXTINF:-1 tvg-id="" tvg-name="深圳卫视" tvg-logo="",group-title="卫视",深圳卫视
+http://14.223.52.56:60000/rtp/239.77.1.148:5146
 
-#EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-logo="",group-title="卫视",广东卫视
-http://14.221.176.132:4022/rtp/239.77.0.166:5146
+#EXTINF:-1 tvg-id="" tvg-name="深圳卫视" tvg-logo="",group-title="卫视",深圳卫视
+http://14.223.52.56:60000/rtp/239.77.1.189:5146
 
-#EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-logo="",group-title="卫视",广东卫视
-http://14.221.176.132:4022/rtp/239.77.1.19:5146
+#EXTINF:-1 tvg-id="" tvg-name="深圳卫视" tvg-logo="",group-title="卫视",深圳卫视
+http://14.223.52.56:60000/rtp/239.77.0.130:5146
 
-#EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-logo="",group-title="卫视",广东卫视
-http://14.221.176.132:4022/rtp/239.77.1.152:5146
+#EXTINF:-1 tvg-id="" tvg-name="深圳卫视" tvg-logo="",group-title="卫视",深圳卫视
+http://183.23.154.63:9123/rtp/239.77.1.14:5146
 
-#EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-logo="",group-title="卫视",广东卫视
-http://14.153.178.91:5555/rtp/239.77.0.66:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-logo="",group-title="卫视",广东卫视
-http://14.153.178.91:5555/rtp/239.77.0.65:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-logo="",group-title="卫视",广东卫视
-http://14.153.178.91:5555/rtp/239.77.0.153:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-logo="",group-title="卫视",广东卫视
-http://14.153.178.91:5555/rtp/239.77.0.233:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-logo="",group-title="卫视",广东卫视
-http://14.153.178.91:5555/rtp/239.77.0.84:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-logo="",group-title="卫视",广东卫视
-http://14.153.178.91:5555/rtp/239.77.0.166:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-logo="",group-title="卫视",广东卫视
-http://14.153.178.91:5555/rtp/239.77.1.19:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-logo="",group-title="卫视",广东卫视
-http://14.153.178.91:5555/rtp/239.77.1.152:5146
+#EXTINF:-1 tvg-id="" tvg-name="深圳卫视" tvg-logo="",group-title="卫视",深圳卫视
+http://183.23.154.63:9123/rtp/239.77.0.67:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="深圳卫视" tvg-logo="",group-title="卫视",深圳卫视
 http://14.155.220.176:8888/rtp/239.77.1.14:5146
@@ -5419,6 +5446,21 @@ http://116.28.212.32:4022/rtp/239.77.1.14:5146
 http://116.28.212.32:4022/rtp/239.77.0.67:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="深圳卫视" tvg-logo="",group-title="卫视",深圳卫视
+http://116.28.212.32:4022/rtp/239.77.0.92:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="深圳卫视" tvg-logo="",group-title="卫视",深圳卫视
+http://116.28.212.32:4022/rtp/239.77.1.3:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="深圳卫视" tvg-logo="",group-title="卫视",深圳卫视
+http://116.28.212.32:4022/rtp/239.77.1.148:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="深圳卫视" tvg-logo="",group-title="卫视",深圳卫视
+http://116.28.212.32:4022/rtp/239.77.1.189:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="深圳卫视" tvg-logo="",group-title="卫视",深圳卫视
+http://116.28.212.32:4022/rtp/239.77.0.130:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="深圳卫视" tvg-logo="",group-title="卫视",深圳卫视
 http://113.83.144.127:8188/rtp/239.77.1.14:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="深圳卫视" tvg-logo="",group-title="卫视",深圳卫视
@@ -5438,48 +5480,6 @@ http://113.83.144.127:8188/rtp/239.77.1.189:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="深圳卫视" tvg-logo="",group-title="卫视",深圳卫视
 http://113.83.144.127:8188/rtp/239.77.0.130:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="深圳卫视" tvg-logo="",group-title="卫视",深圳卫视
-http://14.221.176.132:4022/rtp/239.77.1.14:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="深圳卫视" tvg-logo="",group-title="卫视",深圳卫视
-http://14.221.176.132:4022/rtp/239.77.0.67:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="深圳卫视" tvg-logo="",group-title="卫视",深圳卫视
-http://14.221.176.132:4022/rtp/239.77.0.92:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="深圳卫视" tvg-logo="",group-title="卫视",深圳卫视
-http://14.221.176.132:4022/rtp/239.77.1.3:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="深圳卫视" tvg-logo="",group-title="卫视",深圳卫视
-http://14.221.176.132:4022/rtp/239.77.1.148:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="深圳卫视" tvg-logo="",group-title="卫视",深圳卫视
-http://14.221.176.132:4022/rtp/239.77.1.189:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="深圳卫视" tvg-logo="",group-title="卫视",深圳卫视
-http://14.221.176.132:4022/rtp/239.77.0.130:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="深圳卫视" tvg-logo="",group-title="卫视",深圳卫视
-http://14.153.178.91:5555/rtp/239.77.1.14:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="深圳卫视" tvg-logo="",group-title="卫视",深圳卫视
-http://14.153.178.91:5555/rtp/239.77.0.67:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="深圳卫视" tvg-logo="",group-title="卫视",深圳卫视
-http://14.153.178.91:5555/rtp/239.77.0.92:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="深圳卫视" tvg-logo="",group-title="卫视",深圳卫视
-http://14.153.178.91:5555/rtp/239.77.1.3:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="深圳卫视" tvg-logo="",group-title="卫视",深圳卫视
-http://14.153.178.91:5555/rtp/239.77.1.148:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="深圳卫视" tvg-logo="",group-title="卫视",深圳卫视
-http://14.153.178.91:5555/rtp/239.77.1.189:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="深圳卫视" tvg-logo="",group-title="卫视",深圳卫视
-http://14.153.178.91:5555/rtp/239.77.0.130:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="湖南卫视" tvg-logo="",group-title="卫视",湖南卫视
 http://120.234.187.66:10086/rtp/239.10.0.115:1025
@@ -7879,16 +7879,16 @@ http://yanshifen.top:8889/udp/239.253.43.45:5146
 http://61.145.188.90:50055/udp/239.253.43.45:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="汕头新闻综合频道" tvg-logo="",group-title="广东频道",汕头新闻综合频道
+http://14.223.52.56:60000/rtp/239.253.43.45:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="汕头新闻综合频道" tvg-logo="",group-title="广东频道",汕头新闻综合频道
 http://14.155.220.176:8888/rtp/239.253.43.45:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="汕头新闻综合频道" tvg-logo="",group-title="广东频道",汕头新闻综合频道
+http://116.28.212.32:4022/rtp/239.253.43.45:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="汕头新闻综合频道" tvg-logo="",group-title="广东频道",汕头新闻综合频道
 http://113.83.144.127:8188/rtp/239.253.43.45:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="汕头新闻综合频道" tvg-logo="",group-title="广东频道",汕头新闻综合频道
-http://14.221.176.132:4022/rtp/239.253.43.45:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="汕头新闻综合频道" tvg-logo="",group-title="广东频道",汕头新闻综合频道
-http://14.153.178.91:5555/rtp/239.253.43.45:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="汕头新闻综合频道" tvg-logo="",group-title="广东频道",汕头新闻综合频道
 http://120.234.187.66:10086/rtp/239.21.0.101:3744
@@ -7945,16 +7945,16 @@ http://yanshifen.top:8889/udp/239.253.43.46:5146
 http://61.145.188.90:50055/udp/239.253.43.46:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="汕头经济生活频道" tvg-logo="",group-title="广东频道",汕头经济生活频道
+http://14.223.52.56:60000/rtp/239.253.43.46:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="汕头经济生活频道" tvg-logo="",group-title="广东频道",汕头经济生活频道
 http://14.155.220.176:8888/rtp/239.253.43.46:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="汕头经济生活频道" tvg-logo="",group-title="广东频道",汕头经济生活频道
+http://116.28.212.32:4022/rtp/239.253.43.46:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="汕头经济生活频道" tvg-logo="",group-title="广东频道",汕头经济生活频道
 http://113.83.144.127:8188/rtp/239.253.43.46:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="汕头经济生活频道" tvg-logo="",group-title="广东频道",汕头经济生活频道
-http://14.221.176.132:4022/rtp/239.253.43.46:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="汕头经济生活频道" tvg-logo="",group-title="广东频道",汕头经济生活频道
-http://14.153.178.91:5555/rtp/239.253.43.46:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="汕头经济生活频道" tvg-logo="",group-title="广东频道",汕头经济生活频道
 http://120.234.187.66:10086/rtp/239.21.0.102:3748
@@ -8011,16 +8011,16 @@ http://yanshifen.top:8889/udp/239.77.0.229:5146
 http://61.145.188.90:50055/udp/239.77.0.229:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="揭阳综合" tvg-logo="",group-title="广东频道",揭阳综合
+http://14.223.52.56:60000/rtp/239.77.0.229:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="揭阳综合" tvg-logo="",group-title="广东频道",揭阳综合
 http://14.155.220.176:8888/rtp/239.77.0.229:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="揭阳综合" tvg-logo="",group-title="广东频道",揭阳综合
+http://116.28.212.32:4022/rtp/239.77.0.229:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="揭阳综合" tvg-logo="",group-title="广东频道",揭阳综合
 http://113.83.144.127:8188/rtp/239.77.0.229:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="揭阳综合" tvg-logo="",group-title="广东频道",揭阳综合
-http://14.221.176.132:4022/rtp/239.77.0.229:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="揭阳综合" tvg-logo="",group-title="广东频道",揭阳综合
-http://14.153.178.91:5555/rtp/239.77.0.229:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="揭阳综合" tvg-logo="",group-title="广东频道",揭阳综合
 http://120.234.187.66:10086/rtp/239.21.0.82:3668
@@ -8128,16 +8128,16 @@ http://yanshifen.top:8889/udp/239.253.43.70:5146
 http://61.145.188.90:50055/udp/239.253.43.70:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="潮州综合" tvg-logo="",group-title="广东频道",潮州综合
+http://14.223.52.56:60000/rtp/239.253.43.70:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="潮州综合" tvg-logo="",group-title="广东频道",潮州综合
 http://14.155.220.176:8888/rtp/239.253.43.70:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="潮州综合" tvg-logo="",group-title="广东频道",潮州综合
+http://116.28.212.32:4022/rtp/239.253.43.70:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="潮州综合" tvg-logo="",group-title="广东频道",潮州综合
 http://113.83.144.127:8188/rtp/239.253.43.70:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="潮州综合" tvg-logo="",group-title="广东频道",潮州综合
-http://14.221.176.132:4022/rtp/239.253.43.70:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="潮州综合" tvg-logo="",group-title="广东频道",潮州综合
-http://14.153.178.91:5555/rtp/239.253.43.70:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="潮州民生" tvg-logo="",group-title="广东频道",潮州民生
 http://hongzhijiaoyu.net:8188/udp/239.253.43.75:5146
@@ -8179,16 +8179,16 @@ http://yanshifen.top:8889/udp/239.253.43.75:5146
 http://61.145.188.90:50055/udp/239.253.43.75:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="潮州民生" tvg-logo="",group-title="广东频道",潮州民生
+http://14.223.52.56:60000/rtp/239.253.43.75:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="潮州民生" tvg-logo="",group-title="广东频道",潮州民生
 http://14.155.220.176:8888/rtp/239.253.43.75:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="潮州民生" tvg-logo="",group-title="广东频道",潮州民生
+http://116.28.212.32:4022/rtp/239.253.43.75:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="潮州民生" tvg-logo="",group-title="广东频道",潮州民生
 http://113.83.144.127:8188/rtp/239.253.43.75:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="潮州民生" tvg-logo="",group-title="广东频道",潮州民生
-http://14.221.176.132:4022/rtp/239.253.43.75:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="潮州民生" tvg-logo="",group-title="广东频道",潮州民生
-http://14.153.178.91:5555/rtp/239.253.43.75:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="广东珠江" tvg-logo="",group-title="广东频道",广东珠江
 http://rihou.cc:555/tv/[At|]广东珠江
@@ -8287,28 +8287,28 @@ http://198.204.228.26/live/gdzja.m3u8
 http://198.204.228.26/live/gdzj.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="广东珠江" tvg-logo="",group-title="广东频道",广东珠江
+http://14.223.52.56:60000/rtp/239.77.0.1:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="广东珠江" tvg-logo="",group-title="广东频道",广东珠江
+http://14.223.52.56:60000/rtp/239.77.0.114:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="广东珠江" tvg-logo="",group-title="广东频道",广东珠江
 http://14.155.220.176:8888/rtp/239.77.0.1:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="广东珠江" tvg-logo="",group-title="广东频道",广东珠江
 http://14.155.220.176:8888/rtp/239.77.0.114:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="广东珠江" tvg-logo="",group-title="广东频道",广东珠江
+http://116.28.212.32:4022/rtp/239.77.0.1:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="广东珠江" tvg-logo="",group-title="广东频道",广东珠江
+http://116.28.212.32:4022/rtp/239.77.0.114:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="广东珠江" tvg-logo="",group-title="广东频道",广东珠江
 http://113.83.144.127:8188/rtp/239.77.0.1:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="广东珠江" tvg-logo="",group-title="广东频道",广东珠江
 http://113.83.144.127:8188/rtp/239.77.0.114:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="广东珠江" tvg-logo="",group-title="广东频道",广东珠江
-http://14.221.176.132:4022/rtp/239.77.0.1:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="广东珠江" tvg-logo="",group-title="广东频道",广东珠江
-http://14.221.176.132:4022/rtp/239.77.0.114:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="广东珠江" tvg-logo="",group-title="广东频道",广东珠江
-http://14.153.178.91:5555/rtp/239.77.0.1:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="广东珠江" tvg-logo="",group-title="广东频道",广东珠江
-http://14.153.178.91:5555/rtp/239.77.0.114:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="广东珠江" tvg-logo="",group-title="广东频道",广东珠江
 http://120.234.187.66:10086/rtp/239.10.0.121:1025
@@ -8398,16 +8398,16 @@ http://61.145.188.90:50055/udp/239.77.0.225:5146
 http://198.204.228.26/live/gdgg.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="广东民生" tvg-logo="",group-title="广东频道",广东民生
+http://14.223.52.56:60000/rtp/239.77.0.225:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="广东民生" tvg-logo="",group-title="广东频道",广东民生
 http://14.155.220.176:8888/rtp/239.77.0.225:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="广东民生" tvg-logo="",group-title="广东频道",广东民生
+http://116.28.212.32:4022/rtp/239.77.0.225:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="广东民生" tvg-logo="",group-title="广东频道",广东民生
 http://113.83.144.127:8188/rtp/239.77.0.225:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="广东民生" tvg-logo="",group-title="广东频道",广东民生
-http://14.221.176.132:4022/rtp/239.77.0.225:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="广东民生" tvg-logo="",group-title="广东频道",广东民生
-http://14.153.178.91:5555/rtp/239.77.0.225:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="广东民生" tvg-logo="",group-title="广东频道",广东民生
 http://120.234.187.66:10086/rtp/239.20.0.113:2024
@@ -8485,16 +8485,16 @@ http://198.204.228.26/live/gdxw.m3u8
 http://198.204.228.26/live/gdxwa.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="广东新闻" tvg-logo="",group-title="广东频道",广东新闻
+http://14.223.52.56:60000/rtp/239.77.0.173:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="广东新闻" tvg-logo="",group-title="广东频道",广东新闻
 http://14.155.220.176:8888/rtp/239.77.0.173:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="广东新闻" tvg-logo="",group-title="广东频道",广东新闻
+http://116.28.212.32:4022/rtp/239.77.0.173:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="广东新闻" tvg-logo="",group-title="广东频道",广东新闻
 http://113.83.144.127:8188/rtp/239.77.0.173:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="广东新闻" tvg-logo="",group-title="广东频道",广东新闻
-http://14.221.176.132:4022/rtp/239.77.0.173:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="广东新闻" tvg-logo="",group-title="广东频道",广东新闻
-http://14.153.178.91:5555/rtp/239.77.0.173:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="广东新闻" tvg-logo="",group-title="广东频道",广东新闻
 http://120.234.187.66:10086/rtp/239.10.0.122:1025
@@ -8533,28 +8533,28 @@ http://45.192.97.170:8880/play/28.m3u8
 http://45.192.97.170:8880/play/521.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="广东体育" tvg-logo="",group-title="广东频道",广东体育
+http://14.223.52.56:60000/rtp/239.77.0.112:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="广东体育" tvg-logo="",group-title="广东频道",广东体育
+http://14.223.52.56:60000/rtp/239.77.0.168:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="广东体育" tvg-logo="",group-title="广东频道",广东体育
 http://14.155.220.176:8888/rtp/239.77.0.112:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="广东体育" tvg-logo="",group-title="广东频道",广东体育
 http://14.155.220.176:8888/rtp/239.77.0.168:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="广东体育" tvg-logo="",group-title="广东频道",广东体育
+http://116.28.212.32:4022/rtp/239.77.0.112:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="广东体育" tvg-logo="",group-title="广东频道",广东体育
+http://116.28.212.32:4022/rtp/239.77.0.168:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="广东体育" tvg-logo="",group-title="广东频道",广东体育
 http://113.83.144.127:8188/rtp/239.77.0.112:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="广东体育" tvg-logo="",group-title="广东频道",广东体育
 http://113.83.144.127:8188/rtp/239.77.0.168:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="广东体育" tvg-logo="",group-title="广东频道",广东体育
-http://14.221.176.132:4022/rtp/239.77.0.112:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="广东体育" tvg-logo="",group-title="广东频道",广东体育
-http://14.221.176.132:4022/rtp/239.77.0.168:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="广东体育" tvg-logo="",group-title="广东频道",广东体育
-http://14.153.178.91:5555/rtp/239.77.0.112:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="广东体育" tvg-logo="",group-title="广东频道",广东体育
-http://14.153.178.91:5555/rtp/239.77.0.168:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="广东体育" tvg-logo="",group-title="广东频道",广东体育
 http://120.234.187.66:10086/rtp/239.10.0.113:1025
@@ -8596,28 +8596,28 @@ http://gzgxzm.dpdns.org:10086/rtp/239.20.0.97:3012
 https://jsv-live-play.sfccn.com/live/jsv_3920_fhd.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="广东经济科教" tvg-logo="",group-title="广东频道",广东经济科教
+http://14.223.52.56:60000/rtp/239.77.0.85:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="广东经济科教" tvg-logo="",group-title="广东频道",广东经济科教
+http://14.223.52.56:60000/rtp/239.77.0.167:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="广东经济科教" tvg-logo="",group-title="广东频道",广东经济科教
 http://14.155.220.176:8888/rtp/239.77.0.85:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="广东经济科教" tvg-logo="",group-title="广东频道",广东经济科教
 http://14.155.220.176:8888/rtp/239.77.0.167:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="广东经济科教" tvg-logo="",group-title="广东频道",广东经济科教
+http://116.28.212.32:4022/rtp/239.77.0.85:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="广东经济科教" tvg-logo="",group-title="广东频道",广东经济科教
+http://116.28.212.32:4022/rtp/239.77.0.167:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="广东经济科教" tvg-logo="",group-title="广东频道",广东经济科教
 http://113.83.144.127:8188/rtp/239.77.0.85:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="广东经济科教" tvg-logo="",group-title="广东频道",广东经济科教
 http://113.83.144.127:8188/rtp/239.77.0.167:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="广东经济科教" tvg-logo="",group-title="广东频道",广东经济科教
-http://14.221.176.132:4022/rtp/239.77.0.85:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="广东经济科教" tvg-logo="",group-title="广东频道",广东经济科教
-http://14.221.176.132:4022/rtp/239.77.0.167:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="广东经济科教" tvg-logo="",group-title="广东频道",广东经济科教
-http://14.153.178.91:5555/rtp/239.77.0.85:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="广东经济科教" tvg-logo="",group-title="广东频道",广东经济科教
-http://14.153.178.91:5555/rtp/239.77.0.167:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="广东经济科教" tvg-logo="",group-title="广东频道",广东经济科教
 http://120.234.187.66:10086/rtp/239.10.0.112:1025
@@ -8647,10 +8647,22 @@ http://nn.7x9d.cn/深圳最新.php?id=szds
 http://nn.7x9d.cn/深圳最新.php?id=szdsj
 
 #EXTINF:-1 tvg-id="" tvg-name="深圳电视剧" tvg-logo="",group-title="广东频道",深圳电视剧
+http://14.223.52.56:60000/rtp/239.77.1.125:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="深圳电视剧" tvg-logo="",group-title="广东频道",深圳电视剧
+http://14.223.52.56:60000/rtp/239.77.1.177:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="深圳电视剧" tvg-logo="",group-title="广东频道",深圳电视剧
 http://14.155.220.176:8888/rtp/239.77.1.125:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="深圳电视剧" tvg-logo="",group-title="广东频道",深圳电视剧
 http://14.155.220.176:8888/rtp/239.77.1.177:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="深圳电视剧" tvg-logo="",group-title="广东频道",深圳电视剧
+http://116.28.212.32:4022/rtp/239.77.1.125:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="深圳电视剧" tvg-logo="",group-title="广东频道",深圳电视剧
+http://116.28.212.32:4022/rtp/239.77.1.177:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="深圳电视剧" tvg-logo="",group-title="广东频道",深圳电视剧
 http://113.83.144.127:8188/rtp/239.77.1.125:5146
@@ -8658,32 +8670,20 @@ http://113.83.144.127:8188/rtp/239.77.1.125:5146
 #EXTINF:-1 tvg-id="" tvg-name="深圳电视剧" tvg-logo="",group-title="广东频道",深圳电视剧
 http://113.83.144.127:8188/rtp/239.77.1.177:5146
 
-#EXTINF:-1 tvg-id="" tvg-name="深圳电视剧" tvg-logo="",group-title="广东频道",深圳电视剧
-http://14.221.176.132:4022/rtp/239.77.1.125:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="深圳电视剧" tvg-logo="",group-title="广东频道",深圳电视剧
-http://14.221.176.132:4022/rtp/239.77.1.177:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="深圳电视剧" tvg-logo="",group-title="广东频道",深圳电视剧
-http://14.153.178.91:5555/rtp/239.77.1.125:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="深圳电视剧" tvg-logo="",group-title="广东频道",深圳电视剧
-http://14.153.178.91:5555/rtp/239.77.1.177:5146
-
 #EXTINF:-1 tvg-id="" tvg-name="深圳财经生活" tvg-logo="",group-title="广东频道",深圳财经生活
 http://nn.7x9d.cn/深圳最新.php?id=szcjsh
+
+#EXTINF:-1 tvg-id="" tvg-name="深圳少儿" tvg-logo="",group-title="广东频道",深圳少儿
+http://14.223.52.56:60000/rtp/239.77.1.244:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="深圳少儿" tvg-logo="",group-title="广东频道",深圳少儿
 http://14.155.220.176:8888/rtp/239.77.1.244:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="深圳少儿" tvg-logo="",group-title="广东频道",深圳少儿
+http://116.28.212.32:4022/rtp/239.77.1.244:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="深圳少儿" tvg-logo="",group-title="广东频道",深圳少儿
 http://113.83.144.127:8188/rtp/239.77.1.244:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="深圳少儿" tvg-logo="",group-title="广东频道",深圳少儿
-http://14.221.176.132:4022/rtp/239.77.1.244:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="深圳少儿" tvg-logo="",group-title="广东频道",深圳少儿
-http://14.153.178.91:5555/rtp/239.77.1.244:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="深圳国际" tvg-logo="",group-title="广东频道",深圳国际
 http://nn.7x9d.cn/深圳最新.php?id=szgj
@@ -8704,16 +8704,16 @@ https://168.sryze.cc/163189/gzzh
 https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=f0147ae6453a80f5989f382368b72aad&txTime=18d00acf487
 
 #EXTINF:-1 tvg-id="" tvg-name="广州综合" tvg-logo="",group-title="广东频道",广州综合
+http://14.223.52.56:60000/rtp/239.253.43.71:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="广州综合" tvg-logo="",group-title="广东频道",广州综合
 http://14.155.220.176:8888/rtp/239.253.43.71:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="广州综合" tvg-logo="",group-title="广东频道",广州综合
+http://116.28.212.32:4022/rtp/239.253.43.71:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="广州综合" tvg-logo="",group-title="广东频道",广州综合
 http://113.83.144.127:8188/rtp/239.253.43.71:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="广州综合" tvg-logo="",group-title="广东频道",广州综合
-http://14.221.176.132:4022/rtp/239.253.43.71:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="广州综合" tvg-logo="",group-title="广东频道",广州综合
-http://14.153.178.91:5555/rtp/239.253.43.71:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="广州新闻" tvg-logo="",group-title="广东频道",广州新闻
 https://tencentplaygsm.gztv.com/live/xinwen.m3u8
@@ -8737,16 +8737,16 @@ https://168.sryze.cc/163189/gzxw
 https://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=6f73647cae387d01a3c2132074132a83&txTime=18d00acf487
 
 #EXTINF:-1 tvg-id="" tvg-name="广州新闻" tvg-logo="",group-title="广东频道",广州新闻
+http://14.223.52.56:60000/rtp/239.253.43.72:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="广州新闻" tvg-logo="",group-title="广东频道",广州新闻
 http://14.155.220.176:8888/rtp/239.253.43.72:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="广州新闻" tvg-logo="",group-title="广东频道",广州新闻
+http://116.28.212.32:4022/rtp/239.253.43.72:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="广州新闻" tvg-logo="",group-title="广东频道",广州新闻
 http://113.83.144.127:8188/rtp/239.253.43.72:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="广州新闻" tvg-logo="",group-title="广东频道",广州新闻
-http://14.221.176.132:4022/rtp/239.253.43.72:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="广州新闻" tvg-logo="",group-title="广东频道",广州新闻
-http://14.153.178.91:5555/rtp/239.253.43.72:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="广州法治" tvg-logo="",group-title="广东频道",广州法治
 https://tencentplay.gztv.com/live/fazhi.m3u8?txSecret=4400d75d2114b2db07d86eda8f8218ee&txTime=191b60ce0f6
@@ -9127,16 +9127,16 @@ http://45.192.97.170:8880/play/615.m3u8
 http://45.192.97.170:8880/play/617.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="梅州客家生活" tvg-logo="",group-title="港澳台频道",梅州客家生活
+http://14.223.52.56:60000/rtp/239.253.43.124:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="梅州客家生活" tvg-logo="",group-title="港澳台频道",梅州客家生活
 http://14.155.220.176:8888/rtp/239.253.43.124:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="梅州客家生活" tvg-logo="",group-title="港澳台频道",梅州客家生活
+http://116.28.212.32:4022/rtp/239.253.43.124:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="梅州客家生活" tvg-logo="",group-title="港澳台频道",梅州客家生活
 http://113.83.144.127:8188/rtp/239.253.43.124:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="梅州客家生活" tvg-logo="",group-title="港澳台频道",梅州客家生活
-http://14.221.176.132:4022/rtp/239.253.43.124:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="梅州客家生活" tvg-logo="",group-title="港澳台频道",梅州客家生活
-http://14.153.178.91:5555/rtp/239.253.43.124:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="TVBplus备" tvg-logo="",group-title="港澳台频道",TVBplus备
 https://vdm6-hw.nbgdsygs.com/live/h6-2.flv
