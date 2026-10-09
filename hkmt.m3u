@@ -1,0 +1,221 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="翡翠台4K" group-title="港澳台频道",翡翠台4K
+http://cdn.132.us.kg/live/fct4k/stream.m3u8"
+#EXTINF:-1 tvg-name="翡翠台4K" group-title="港澳台频道",翡翠台4K
+https://cdn.163189.xyz/live/fct4k/stream.m3u8"
+#EXTINF:-1 tvg-name="华视新闻" group-title="港澳台频道",华视新闻
+https://ha.msbot.dpdns.org/4gtv_api.php?id=34"
+#EXTINF:-1 tvg-name="TVBJ1" group-title="港澳台频道",TVBJ1
+http://cdn6.veryfast.filegear-sg.me/live/j1/stream.m3u8"
+#EXTINF:-1 tvg-name="澳门综艺" group-title="港澳台频道",澳门综艺
+http://cdn6.veryfast.filegear-sg.me/live/amzy/stream.m3u8"
+#EXTINF:-1 tvg-name="台湾Plus" group-title="港澳台频道",台湾Plus
+https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8"
+#EXTINF:-1 tvg-name="凤凰" group-title="港澳台频道",凤凰
+http://122.231.7.30:4000/udp/233.50.200.191:5140"
+#EXTINF:-1 tvg-name="凤凰" group-title="港澳台频道",凤凰
+http://115.207.12.35:9999/udp/233.50.200.192:5140"
+#EXTINF:-1 tvg-name="viuTV" group-title="港澳台频道",viuTV
+http://aktv_stream.m16tv.cfd/stream/useradd1/viutv/AKTV.m3u8"
+#EXTINF:-1 tvg-name="寰宇新聞" group-title="港澳台频道",寰宇新聞
+http://aktv_stream.m16tv.cfd/stream/taiwan/null-14/AKTV.m3u8"
+#EXTINF:-1 tvg-name="纬来体育" group-title="港澳台频道",纬来体育
+http://108.181.21.27:27347/livehttpplay?channel_id=20120"
+#EXTINF:-1 tvg-name="RTHK35" group-title="港澳台频道",RTHK35
+https://stream1.freetv.fun/86564020a11d3ce6598f1e944855570a59fed9e02ab9471a5f04509c1e110938.m3u8"
+#EXTINF:-1 tvg-name="TVB1" group-title="港澳台频道",TVB1
+http://extraott.com:80/live/6772191932/1654508883/473567.m3u8"
+#EXTINF:-1 tvg-name="HOY78" group-title="港澳台频道",HOY78
+http://61.163.58.154:1321/ms/IPTV.php?id=146"
+#EXTINF:-1 tvg-name="凤凰香港" group-title="港澳台频道",凤凰香港
+http://61.163.58.154:1321/ms/IPTV.php?id=125"
+#EXTINF:-1 tvg-name="八大戏剧" group-title="港澳台频道",八大戏剧
+http://50.7.234.10:8278/badadrama/playlist.m3u8?tid=MBCB2433143824331438&ct=19254&tsum=51660c351b3991d81434e43bd1ab720e"
+#EXTINF:-1 tvg-name="东森综合" group-title="港澳台频道",东森综合
+https://ali.hlspull.yximgs.com/live/moa71.flv"
+#EXTINF:-1 tvg-name="东森洋片" group-title="港澳台频道",东森洋片
+https://ali.hlspull.yximgs.com/live/moa75.flv"
+#EXTINF:-1 tvg-name="民视" group-title="港澳台频道",民视
+https://ali.hlspull.yximgs.com/live/moa17.flv"
+#EXTINF:-1 tvg-name="华视" group-title="港澳台频道",华视
+https://ali.hlspull.yximgs.com/live/moa18.flv"
+#EXTINF:-1 tvg-name="纬来戏剧" group-title="港澳台频道",纬来戏剧
+https://ali.hlspull.yximgs.com/live/moa63.flv"
+#EXTINF:-1 tvg-name="有线新闻" group-title="港澳台频道",有线新闻
+https://ali.hlspull.yximgs.com/live/309835a2911db749f3d147a9e2ab661d.flv"
+#EXTINF:-1 tvg-name="公视台语台" group-title="港澳台频道",公视台语台
+https://live.catvod.com/live.php?id=ctv2_twn"
+#EXTINF:-1 tvg-name="港台电视31" group-title="港澳台频道",港台电视31
+https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8"
+#EXTINF:-1 tvg-name="公视台语台" group-title="港澳台频道",公视台语台
+http://74.91.26.218:82/live/ptsty.m3u8"
+#EXTINF:-1 tvg-name="香港C+" group-title="港澳台频道",香港C+
+http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/index.m3u8"
+#EXTINF:-1 tvg-name="年代MUCH" group-title="港澳台频道",年代MUCH
+https://live.catvod.com/live.php?id=niandaitv_twn"
+#EXTINF:-1 tvg-name="澳门综艺" group-title="港澳台频道",澳门综艺
+https://live.catvod.com/iptv.php?id=amzy01"
+#EXTINF:-1 tvg-name="镜新闻" group-title="港澳台频道",镜新闻
+https://d36dgdk71xuzzg.cloudfront.net/v1/master/3a2ac8e6b6c76471996ebf627393d9c9417a60b6/linetv-6-627778910172-MediaTailor-production/index.m3u8?ads.ad_insertion_type=SSAI&ads.app_id=062097f1b1f34e11e7f82aag22000aee&ads.chocomember_id=&ads.device=mobile_web&ads.instance_id=7d5230db-1329-439f-9b4f-e64e579ffa92&ads.os=&ads.product_type=FAST&ads.session_id=e03e1f07-bd5f-435c-9f9c-f1e6deb82d41&ads.source=LINE_TV&ads.uid2_token=&ads.version=10.87.2"
+#EXTINF:-1 tvg-name="澳门体育" group-title="港澳台频道",澳门体育
+https://live12.szyac.com/live/77795881.m3u8"
+#EXTINF:-1 tvg-name="澳门体育" group-title="港澳台频道",澳门体育
+https://live.catvod.com/iptv.php?id=amty01"
+#EXTINF:-1 tvg-name="镜新闻" group-title="港澳台频道",镜新闻
+https://stream1.freetv.fun/0a7c84c40ea7b310b9886e6c708068403f8fcd0d550d04c3a2e9e95ae394eaa1.m3u8"
+#EXTINF:-1 tvg-name="RTHK" group-title="港澳台频道",RTHK
+http://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8"
+#EXTINF:-1 tvg-name="澳门MaC" group-title="港澳台频道",澳门MaC
+http://rihou.cc:555/tv/[PL]澳门MaC"
+#EXTINF:-1 tvg-name="澳门MaC" group-title="港澳台频道",澳门MaC
+http://rihou.cc:555/tv/[PL]澳门MaC
+#EXTINF:-1 tvg-name="AXN台湾" group-title="港澳台频道",AXN台湾
+https://live.catvod.com/live.php?id=axn_twn"
+#EXTINF:-1 tvg-name="TVB1" group-title="港澳台频道",TVB1
+http://cdn6.veryfast.filegear-sg.me/live/tvb1/stream.m3u8"
+#EXTINF:-1 tvg-name="澳门莲花" group-title="港澳台频道",澳门莲花
+http://cdn6.veryfast.filegear-sg.me/live/amlh/stream.m3u8"
+#EXTINF:-1 tvg-name="澳门体育" group-title="港澳台频道",澳门体育
+http://cdn6.veryfast.filegear-sg.me/live/amty/stream.m3u8"
+#EXTINF:-1 tvg-name="澳视澳门" group-title="港澳台频道",澳视澳门
+http://cdn.132.us.kg/live/asam/stream.m3u8"
+#EXTINF:-1 tvg-name="TVBS" group-title="港澳台频道",TVBS
+http://198.16.100.186:8278/tvbs/playlist.m3u8?tid=MEFE3093330530933305&ct=19249&tsum=ce6b5e9293b3618104ad53084745a223"
+#EXTINF:-1 tvg-name="AXN台湾" group-title="港澳台频道",AXN台湾
+http://50.7.234.10:8278/axn_twn/playlist.m3u8?tid=MA1A8358225083582250&ct=19193&tsum=105511aaad1c3ff86d7489e83e18b209"
+#EXTINF:-1 tvg-name="RTHK32" group-title="港澳台频道",RTHK32
+https://cdn5.163189.xyz/live/rthk32/stream.m3u8"
+#EXTINF:-1 tvg-name="翡翠" group-title="港澳台频道",翡翠
+http://www.namewee.xyz/gudou.php?id=1350"
+#EXTINF:-1 tvg-name="华视" group-title="港澳台频道",华视
+http://37.27.111.214:8080/live/8/hls.m3u8"
+#EXTINF:-1 tvg-name="龙华电影" group-title="港澳台频道",龙华电影
+http://37.27.111.214:8080/live/19/hls.m3u8"
+#EXTINF:-1 tvg-name="寰宇新聞" group-title="港澳台频道",寰宇新聞
+http://122.117.71.103:8548/http/220.130.87.218:8081/hls/76/818/ch062.m3u8"
+#EXTINF:-1 tvg-name="TVB1" group-title="港澳台频道",TVB1
+http://line.greatstar.me/play/live.php?mac=10:27:BE:15:59:81&extension=ts&stream=153401"
+#EXTINF:-1 tvg-name="中视" group-title="港澳台频道",中视
+http://37.27.111.214:8080/live/7/hls.m3u8"
+#EXTINF:-1 tvg-name="无线新闻" group-title="港澳台频道",无线新闻
+http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476925.m3u8"
+#EXTINF:-1 tvg-name="翡翠台" group-title="港澳台频道",翡翠台
+http://61.163.58.154:1321/ms/IPTV.php?id=126"
+#EXTINF:-1 tvg-name="TVBS" group-title="港澳台频道",TVBS
+http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8"
+#EXTINF:-1 tvg-name="凤凰香港" group-title="港澳台频道",凤凰香港
+https://ali.hlspull.yximgs.com/live/diyp_fh3.flv"
+#EXTINF:-1 tvg-name="中天新聞" group-title="港澳台频道",中天新聞
+https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv009"
+#EXTINF:-1 tvg-name="澳门莲花" group-title="港澳台频道",澳门莲花
+http://php.jdshipin.com:8880/amlh.php"
+#EXTINF:-1 tvg-name="中天新聞" group-title="港澳台频道",中天新聞
+https://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8"
+#EXTINF:-1 tvg-name="东森新闻" group-title="港澳台频道",东森新闻
+https://ali.hlspull.yximgs.com/live/moa35.flv"
+#EXTINF:-1 tvg-name="纬来电影" group-title="港澳台频道",纬来电影
+https://ali.hlspull.yximgs.com/live/moa85.flv"
+#EXTINF:-1 tvg-name="纬来日本" group-title="港澳台频道",纬来日本
+https://ali.hlspull.yximgs.com/live/moa70.flv"
+#EXTINF:-1 tvg-name="八大综合" group-title="港澳台频道",八大综合
+https://ali.hlspull.yximgs.com/live/moa55.flv"
+#EXTINF:-1 tvg-name="靖天映畫" group-title="港澳台频道",靖天映畫
+https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv055"
+#EXTINF:-1 tvg-name="八大综合" group-title="港澳台频道",八大综合
+http://50.7.234.10:8278/badazhonghe/playlist.m3u8?tid=MC5C5422299054222990&ct=19193&tsum=8189d5b21bdeabdffa3d2b2cbeaae0ae"
+#EXTINF:-1 tvg-name="无线新闻" group-title="港澳台频道",无线新闻
+https://ali.hlspull.yximgs.com/live/96586ecb464befae77afebc500058d14.flv"
+#EXTINF:-1 tvg-name="凤凰资讯" group-title="港澳台频道",凤凰资讯
+http://wouu.net:9977/udp/239.93.0.118:2191"
+#EXTINF:-1 tvg-name="凤凰中文" group-title="港澳台频道",凤凰中文
+http://118.113.28.216:4022/udp/239.93.0.162:2192"
+#EXTINF:-1 tvg-name="凤凰资讯" group-title="港澳台频道",凤凰资讯
+http://175.152.138.112:6066/udp/239.93.0.118:2191"
+#EXTINF:-1 tvg-name="凤凰中文" group-title="港澳台频道",凤凰中文
+http://183.152.179.159:9999/udp/233.50.200.42:5140"
+#EXTINF:-1 tvg-name="台视新闻" group-title="港澳台频道",台视新闻
+https://live.catvod.com/live.php?id=ttvnews_twn"
+#EXTINF:-1 tvg-name="翡翠" group-title="港澳台频道",翡翠
+http://198.16.100.186:8278/Wlt/playlist.m3u8?tid=MC9C7523788875237888&ct=19225&tsum=fc74aa160d3ca61369c2e5f3ae79ee8e"
+#EXTINF:-1 tvg-name="民视" group-title="港澳台频道",民视
+http://50.7.234.10:8278/ftvhd_taiwan/playlist.m3u8?tid=MC8C5908644059086440&ct=19249&tsum=c96d2cd48b11d40ca9e97fb3addb1384"
+#EXTINF:-1 tvg-name="VIUTV" group-title="港澳台频道",VIUTV
+https://s1.m16tv.cfd/aktv2/viutv/AKTV.m3u8"
+#EXTINF:-1 tvg-name="公视" group-title="港澳台频道",公视
+http://50.7.234.10:8278/ctv_taiwan/playlist.m3u8?tid=MD4D6839548568395485&ct=19193&tsum=56b3e3b150f4fcbc1877e081b313bcd4
+#EXTINF:-1 tvg-name="TVBE" group-title="港澳台频道",TVBE
+http://extraott.com:80/live/6772191932/1654508883/473569.m3u8"
+#EXTINF:-1 tvg-name="RTHK32" group-title="港澳台频道",RTHK32
+http://198.16.100.186:8278/rhk32_twn/playlist.m3u8?tid=mc42afe745533&ct=11595589&tsum=a50adcf48d52c84d4f77ec855e2de00f"
+#EXTINF:-1 tvg-name="纬来体育" group-title="港澳台频道",纬来体育
+http://116.93.98.236:8080/sat/tv721.flv"
+#EXTINF:-1 tvg-name="华视新闻" group-title="港澳台频道",华视新闻
+http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476266.m3u8"
+#EXTINF:-1 tvg-name="澳门2_609" group-title="港澳台频道",澳门2_609
+https://pulltv1.wanfudaluye.com/live/tv1.m3u8"
+#EXTINF:-1 tvg-name="明珠台" group-title="港澳台频道",明珠台
+https://pi.0472.org/tv/mzt.php?auth=2309081833"
+#EXTINF:-1 tvg-name="台视" group-title="港澳台频道",台视
+https://ali.hlspull.yximgs.com/live/moa19.flv"
+#EXTINF:-1 tvg-name="公视" group-title="港澳台频道",公视
+https://ali.hlspull.yximgs.com/live/moa117.flv"
+#EXTINF:-1 tvg-name="有线新闻" group-title="港澳台频道",有线新闻
+https://stream1.freetv.fun/cb206191db20ab3776f20fa69ee8db6d329d213c60c9d6acafab79e4bdadb357.m3u8"
+#EXTINF:-1 tvg-name="澳门mac" group-title="港澳台频道",澳门mac
+https://stream1.freetv.fun/36b115d658ad868ad8c5d67de3467b8bf52727576a12c24fa89ef314c2df3d66.m3u8"
+#EXTINF:-1 tvg-name="翡翠" group-title="港澳台频道",翡翠
+http://198.16.100.186:8278/jade_twn/playlist.m3u8?tid=ME6E1330319113303191&ct=19225&tsum=d76985c4965fd63807e131035f66af09"
+#EXTINF:-1 tvg-name="龙华电影" group-title="港澳台频道",龙华电影
+http://198.16.100.186:8278/xingwei_movie/playlist.m3u8?tid=MBAB2096754620967546&ct=18392&tsum=2c800c1f0b6cc98d2404608c294dcbc2"
+#EXTINF:-1 tvg-name="纬来戏剧" group-title="港澳台频道",纬来戏剧
+https://stream1.freetv.fun/9a3ecad00b3dc63999364b9fe2b57b38e82f78f75cf6357e92dbe8f19feb7218.m3u8"
+#EXTINF:-1 tvg-name="龙华电影" group-title="港澳台频道",龙华电影
+https://stream1.freetv.fun/bb02041f583163ef2f0618ac53f1ed97f03c5ca37f16f0dcfd15bcd02630a4f0.m3u8"
+#EXTINF:-1 tvg-name="TVBS" group-title="港澳台频道",TVBS
+http://108.181.21.27:27347/livehttpplay?channel_id=20085"
+#EXTINF:-1 tvg-name="公视" group-title="港澳台频道",公视
+http://50.7.234.10:8278/ctv_taiwan/playlist.m3u8?tid=MD4D6839548568395485&ct=19193&tsum=56b3e3b150f4fcbc1877e081b313bcd4"
+#EXTINF:-1 tvg-name="中视" group-title="港澳台频道",中视
+http://116.93.98.236:8080/sat/tv091.flv"
+#EXTINF:-1 tvg-name="台视" group-title="港澳台频道",台视
+http://116.93.98.236:8080/sat/tv071.flv"
+#EXTINF:-1 tvg-name="华视" group-title="港澳台频道",华视
+http://116.93.98.236:8080/sat/tv111.flv"
+#EXTINF:-1 tvg-name="八大戏剧" group-title="港澳台频道",八大戏剧
+http://61.221.215.25:8800/hls/39/index.m3u8"
+#EXTINF:-1 tvg-name="东森新闻" group-title="港澳台频道",东森新闻
+http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/479200.m3u8"
+#EXTINF:-1 tvg-name="东森新闻" group-title="港澳台频道",东森新闻
+http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476998.m3u8"
+#EXTINF:-1 tvg-name="翡翠台" group-title="港澳台频道",翡翠台
+http://line.greatstar.me/play/live.php?mac=10:27:BE:15:59:81&extension=ts&stream=571187"
+#EXTINF:-1 tvg-name="澳视澳门" group-title="港澳台频道",澳视澳门
+https://pi.0472.org/tv/asam.php?auth=2309081833"
+#EXTINF:-1 tvg-name="明珠台" group-title="港澳台频道",明珠台
+https://pi.0472.org/tv/mzt.php?auth=230918"
+#EXTINF:-1 tvg-name="美亚电影" group-title="港澳台频道",美亚电影
+https://ali.hlspull.yximgs.com/live/moa41.flv"
+#EXTINF:-1 tvg-name="凤凰香港" group-title="港澳台频道",凤凰香港
+http://47.76.200.150/kyhd/golive.php?id=3"
+#EXTINF:-1 tvg-name="民视" group-title="港澳台频道",民视
+https://ali.hlspull.yximgs.com/live/moa33.flv"
+#EXTINF:-1 tvg-name="中天新闻" group-title="港澳台频道",中天新闻
+https://ali.hlspull.yximgs.com/live/moa28.flv"
+#EXTINF:-1 tvg-name="纬来体育" group-title="港澳台频道",纬来体育
+https://ali.hlspull.yximgs.com/live/moa37.flv"
+#EXTINF:-1 tvg-name="天映频道" group-title="港澳台频道",天映频道
+https://ali.hlspull.yximgs.com/live/moa89.flv"
+#EXTINF:-1 tvg-name="港台电视31" group-title="港澳台频道",港台电视31
+https://ali.hlspull.yximgs.com/live/887427779c354e3cbbbc4154891590e7.flv"
+#EXTINF:-1 tvg-name="港台电视32" group-title="港澳台频道",港台电视32
+https://ali.hlspull.yximgs.com/live/ccc0071e047a8000be6affd2da4d9d83.flv"
+#EXTINF:-1 tvg-name="美亚电影" group-title="港澳台频道",美亚电影
+https://ali.hlspull.yximgs.com/live/ff930ba6c8b80e319ba98912f6fa6548.flv"
+#EXTINF:-1 tvg-name="星空卫视" group-title="港澳台频道",星空卫视
+http://222.211.162.244:8888/udp/239.93.1.10:2193"
+#EXTINF:-1 tvg-name="星空卫视" group-title="港澳台频道",星空卫视
+http://171.223.197.90:4000/udp/239.93.0.156:2193"
+#EXTINF:-1 tvg-name="天映" group-title="港澳台频道",天映
+http://120.198.95.220:9901/tsfile/live/1043_1.m3u8?key=txiptv"
+#EXTINF:-1 tvg-name="镜新闻" group-title="港澳台频道",镜新闻
+https://d36dgdk71xuzzg.cloudfront.net/v1/manifest/3a2ac8e6b6c76471996ebf627393d9c9417a60b6/linetv-6-627778910172-MediaTailor-production/f4d56046-82ba-474e-8499-ab2353dc7a9b/1.m3u8"
