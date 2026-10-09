@@ -8536,6 +8536,9 @@ http://183.30.201.205:10002/rtp/239.253.43.45:5146
 http://14.221.176.108:4022/rtp/239.253.43.45:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="汕头新闻综合频道" tvg-logo="",group-title="广东频道",汕头新闻综合频道
+http://183.31.11.199:8000/rtp/239.253.43.45:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="汕头新闻综合频道" tvg-logo="",group-title="广东频道",汕头新闻综合频道
 http://14.155.136.238:8888/rtp/239.253.43.45:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="汕头新闻综合频道" tvg-logo="",group-title="广东频道",汕头新闻综合频道
@@ -8719,6 +8722,9 @@ http://183.30.201.205:10002/rtp/239.253.43.70:5146
 http://14.221.176.108:4022/rtp/239.253.43.70:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="潮州综合" tvg-logo="",group-title="广东频道",潮州综合
+http://183.31.11.199:8000/rtp/239.253.43.70:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="潮州综合" tvg-logo="",group-title="广东频道",潮州综合
 http://14.155.136.238:8888/rtp/239.253.43.70:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="潮州民生" tvg-logo="",group-title="广东频道",潮州民生
@@ -8765,6 +8771,9 @@ http://183.30.201.205:10002/rtp/239.253.43.75:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="潮州民生" tvg-logo="",group-title="广东频道",潮州民生
 http://14.221.176.108:4022/rtp/239.253.43.75:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="潮州民生" tvg-logo="",group-title="广东频道",潮州民生
+http://183.31.11.199:8000/rtp/239.253.43.75:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="潮州民生" tvg-logo="",group-title="广东频道",潮州民生
 http://14.155.136.238:8888/rtp/239.253.43.75:5146
@@ -9788,6 +9797,9 @@ http://183.30.201.205:10002/rtp/239.253.43.124:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="梅州客家生活" tvg-logo="",group-title="港澳台频道",梅州客家生活
 http://14.221.176.108:4022/rtp/239.253.43.124:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="梅州客家生活" tvg-logo="",group-title="港澳台频道",梅州客家生活
+http://183.31.11.199:8000/rtp/239.253.43.124:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="梅州客家生活" tvg-logo="",group-title="港澳台频道",梅州客家生活
 http://14.155.136.238:8888/rtp/239.253.43.124:5146
