@@ -5773,9 +5773,6 @@ http://gd.wsd.gd.cn:1698/hls/92/index.m3u8
 http://211.97.63.3:3443/hls/541/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="翡翠台" tvg-logo="",group-title="港澳台频道",翡翠台
-http://183.239.248.218:8181/tsfile/live/1049_1.m3u8?key=txiptv&playlive=1&authid=0
-
-#EXTINF:-1 tvg-id="" tvg-name="翡翠台" tvg-logo="",group-title="港澳台频道",翡翠台
 http://218.13.139.26:9901/tsfile/live/1079_1.m3u8?key=txiptv&playlive=1&authid=0
 
 #EXTINF:-1 tvg-id="" tvg-name="凤凰中文" tvg-logo="",group-title="港澳台频道",凤凰中文
@@ -5855,9 +5852,6 @@ https://d2jc41c1shgcol.cloudfront.net/live/ftvnewsqt/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TVBS新闻" tvg-logo="",group-title="港澳台频道",TVBS新闻
 https://d2jc41c1shgcol.cloudfront.net/live/tvbsnewsqt/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="中天新闻" tvg-logo="",group-title="港澳台频道",中天新闻
-http://nmk.ioapk.com:5050/of-4gtv-4gtv009/index.m3u8?proxy=true
 
 #EXTINF:-1 tvg-id="" tvg-name="中天新闻" tvg-logo="",group-title="港澳台频道",中天新闻
 http://xiangxiws.vip:6777/qlw.php?key=qq%E7%BE%A4746405779&id=ztxw
