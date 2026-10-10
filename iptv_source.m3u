@@ -4327,9 +4327,6 @@ http://183.30.201.226:10002/rtp/239.253.43.113:5146
 http://116.28.214.67:4022/rtp/239.253.43.113:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="三沙卫视" tvg-logo="",group-title="卫视",三沙卫视
-http://14.221.176.108:4022/rtp/239.253.43.113:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="三沙卫视" tvg-logo="",group-title="卫视",三沙卫视
 http://183.31.11.199:8000/rtp/239.253.43.113:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="兵团卫视" tvg-logo="",group-title="卫视",兵团卫视
@@ -4351,9 +4348,6 @@ http://183.30.201.226:10002/rtp/239.77.0.96:5146
 http://116.28.214.67:4022/rtp/239.77.0.96:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="厦门卫视" tvg-logo="",group-title="卫视",厦门卫视
-http://14.221.176.108:4022/rtp/239.77.0.96:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="厦门卫视" tvg-logo="",group-title="卫视",厦门卫视
 http://183.31.11.199:8000/rtp/239.77.0.96:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="延边卫视" tvg-logo="",group-title="卫视",延边卫视
@@ -4369,12 +4363,6 @@ http://116.28.214.67:4022/rtp/239.77.0.10:5146
 http://116.28.214.67:4022/rtp/239.77.1.99:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="延边卫视" tvg-logo="",group-title="卫视",延边卫视
-http://14.221.176.108:4022/rtp/239.77.0.10:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="延边卫视" tvg-logo="",group-title="卫视",延边卫视
-http://14.221.176.108:4022/rtp/239.77.1.99:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="延边卫视" tvg-logo="",group-title="卫视",延边卫视
 http://183.31.11.199:8000/rtp/239.77.0.10:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="延边卫视" tvg-logo="",group-title="卫视",延边卫视
@@ -4385,9 +4373,6 @@ http://183.30.201.226:10002/rtp/239.77.0.215:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="大湾区卫视" tvg-logo="",group-title="卫视",大湾区卫视
 http://116.28.214.67:4022/rtp/239.77.0.215:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="大湾区卫视" tvg-logo="",group-title="卫视",大湾区卫视
-http://14.221.176.108:4022/rtp/239.77.0.215:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="大湾区卫视" tvg-logo="",group-title="卫视",大湾区卫视
 http://183.31.11.199:8000/rtp/239.77.0.215:5146
@@ -4437,6 +4422,9 @@ http://gdyd.7259.cc.cd:4111/udp/239.77.0.215:5146
 #EXTINF:-1 tvg-id="" tvg-name="大湾区卫视" tvg-logo="",group-title="卫视",大湾区卫视
 http://gdyd.7259.cc.cd:4014/udp/239.77.0.215:5146
 
+#EXTINF:-1 tvg-id="" tvg-name="大湾区卫视" tvg-logo="",group-title="卫视",大湾区卫视
+http://www.syy3.top:3861/udp/239.77.0.215:5146
+
 #EXTINF:-1 tvg-id="" tvg-name="厦门卫视" tvg-logo="",group-title="卫视",厦门卫视
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226695/1.m3u8
 
@@ -4476,6 +4464,9 @@ https://tv.zhuhongxuan.cn/961023778
 #EXTINF:-1 tvg-id="" tvg-name="中国农林卫视" tvg-logo="",group-title="卫视",中国农林卫视
 http://njdm.i234.me:1234/956904896
 
+#EXTINF:-1 tvg-id="" tvg-name="三沙卫视" tvg-logo="",group-title="卫视",三沙卫视
+http://njdm.i234.me:1234/961023778
+
 #EXTINF:-1 tvg-id="" tvg-name="厦门卫视" tvg-logo="",group-title="卫视",厦门卫视
 https://live.chinacert.cftest5.cn/zgst/live/xiamen
 
@@ -4484,6 +4475,9 @@ https://live.chinacert.cftest5.cn/cnmg/live/956904896
 
 #EXTINF:-1 tvg-id="" tvg-name="延边卫视" tvg-logo="",group-title="卫视",延边卫视
 http://120.76.248.139/live/bfgd/4200000117.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="厦门卫视" tvg-logo="",group-title="卫视",厦门卫视
+http://198.204.228.26/live/xmws.m3u8
 
 
 # ===== 广东频道 =====
@@ -4538,9 +4532,6 @@ http://183.30.201.226:10002/rtp/239.253.43.45:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="汕头新闻综合频道" tvg-logo="",group-title="广东频道",汕头新闻综合频道
 http://116.28.214.67:4022/rtp/239.253.43.45:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="汕头新闻综合频道" tvg-logo="",group-title="广东频道",汕头新闻综合频道
-http://14.221.176.108:4022/rtp/239.253.43.45:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="汕头新闻综合频道" tvg-logo="",group-title="广东频道",汕头新闻综合频道
 http://183.31.11.199:8000/rtp/239.253.43.45:5146
@@ -4601,9 +4592,6 @@ http://183.30.201.226:10002/rtp/239.253.43.46:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="汕头经济生活频道" tvg-logo="",group-title="广东频道",汕头经济生活频道
 http://116.28.214.67:4022/rtp/239.253.43.46:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="汕头经济生活频道" tvg-logo="",group-title="广东频道",汕头经济生活频道
-http://14.221.176.108:4022/rtp/239.253.43.46:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="汕头经济生活频道" tvg-logo="",group-title="广东频道",汕头经济生活频道
 http://183.31.11.199:8000/rtp/239.253.43.46:5146
@@ -4669,9 +4657,6 @@ http://183.30.201.226:10002/rtp/239.77.0.229:5146
 http://116.28.214.67:4022/rtp/239.77.0.229:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="揭阳综合" tvg-logo="",group-title="广东频道",揭阳综合
-http://14.221.176.108:4022/rtp/239.77.0.229:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="揭阳综合" tvg-logo="",group-title="广东频道",揭阳综合
 http://183.31.11.199:8000/rtp/239.77.0.229:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="揭阳综合" tvg-logo="",group-title="广东频道",揭阳综合
@@ -4726,9 +4711,6 @@ http://183.30.201.226:10002/rtp/239.253.43.70:5146
 http://116.28.214.67:4022/rtp/239.253.43.70:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="潮州综合" tvg-logo="",group-title="广东频道",潮州综合
-http://14.221.176.108:4022/rtp/239.253.43.70:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="潮州综合" tvg-logo="",group-title="广东频道",潮州综合
 http://183.31.11.199:8000/rtp/239.253.43.70:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="潮州民生" tvg-logo="",group-title="广东频道",潮州民生
@@ -4775,9 +4757,6 @@ http://183.30.201.226:10002/rtp/239.253.43.75:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="潮州民生" tvg-logo="",group-title="广东频道",潮州民生
 http://116.28.214.67:4022/rtp/239.253.43.75:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="潮州民生" tvg-logo="",group-title="广东频道",潮州民生
-http://14.221.176.108:4022/rtp/239.253.43.75:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="潮州民生" tvg-logo="",group-title="广东频道",潮州民生
 http://183.31.11.199:8000/rtp/239.253.43.75:5146
@@ -5047,12 +5026,6 @@ http://116.28.214.67:4022/rtp/239.77.0.112:5146
 http://116.28.214.67:4022/rtp/239.77.0.168:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="广东体育" tvg-logo="",group-title="广东频道",广东体育
-http://14.221.176.108:4022/rtp/239.77.0.112:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="广东体育" tvg-logo="",group-title="广东频道",广东体育
-http://14.221.176.108:4022/rtp/239.77.0.168:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="广东体育" tvg-logo="",group-title="广东频道",广东体育
 http://183.31.11.199:8000/rtp/239.77.0.112:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="广东体育" tvg-logo="",group-title="广东频道",广东体育
@@ -5084,12 +5057,6 @@ http://116.28.214.67:4022/rtp/239.77.0.85:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="广东经济科教" tvg-logo="",group-title="广东频道",广东经济科教
 http://116.28.214.67:4022/rtp/239.77.0.167:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="广东经济科教" tvg-logo="",group-title="广东频道",广东经济科教
-http://14.221.176.108:4022/rtp/239.77.0.85:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="广东经济科教" tvg-logo="",group-title="广东频道",广东经济科教
-http://14.221.176.108:4022/rtp/239.77.0.167:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="广东经济科教" tvg-logo="",group-title="广东频道",广东经济科教
 http://183.31.11.199:8000/rtp/239.77.0.85:5146
@@ -5131,12 +5098,6 @@ http://116.28.214.67:4022/rtp/239.77.1.125:5146
 http://116.28.214.67:4022/rtp/239.77.1.177:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="深圳电视剧" tvg-logo="",group-title="广东频道",深圳电视剧
-http://14.221.176.108:4022/rtp/239.77.1.125:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="深圳电视剧" tvg-logo="",group-title="广东频道",深圳电视剧
-http://14.221.176.108:4022/rtp/239.77.1.177:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="深圳电视剧" tvg-logo="",group-title="广东频道",深圳电视剧
 http://183.31.11.199:8000/rtp/239.77.1.125:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="深圳电视剧" tvg-logo="",group-title="广东频道",深圳电视剧
@@ -5173,9 +5134,6 @@ http://183.30.201.226:10002/rtp/239.253.43.71:5146
 http://116.28.214.67:4022/rtp/239.253.43.71:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="广州综合" tvg-logo="",group-title="广东频道",广州综合
-http://14.221.176.108:4022/rtp/239.253.43.71:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="广州综合" tvg-logo="",group-title="广东频道",广州综合
 http://183.31.11.199:8000/rtp/239.253.43.71:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="广州新闻" tvg-logo="",group-title="广东频道",广州新闻
@@ -5200,9 +5158,6 @@ http://183.30.201.226:10002/rtp/239.253.43.72:5146
 http://116.28.214.67:4022/rtp/239.253.43.72:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="广州新闻" tvg-logo="",group-title="广东频道",广州新闻
-http://14.221.176.108:4022/rtp/239.253.43.72:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="广州新闻" tvg-logo="",group-title="广东频道",广州新闻
 http://183.31.11.199:8000/rtp/239.253.43.72:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="广州法治" tvg-logo="",group-title="广东频道",广州法治
@@ -5219,9 +5174,6 @@ http://183.30.201.226:10002/rtp/239.77.1.244:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="深圳少儿" tvg-logo="",group-title="广东频道",深圳少儿
 http://116.28.214.67:4022/rtp/239.77.1.244:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="深圳少儿" tvg-logo="",group-title="广东频道",深圳少儿
-http://14.221.176.108:4022/rtp/239.77.1.244:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="深圳少儿" tvg-logo="",group-title="广东频道",深圳少儿
 http://183.31.11.199:8000/rtp/239.77.1.244:5146
@@ -5681,9 +5633,6 @@ http://183.30.201.226:10002/rtp/239.253.43.124:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="梅州客家生活" tvg-logo="",group-title="港澳台频道",梅州客家生活
 http://116.28.214.67:4022/rtp/239.253.43.124:5146
-
-#EXTINF:-1 tvg-id="" tvg-name="梅州客家生活" tvg-logo="",group-title="港澳台频道",梅州客家生活
-http://14.221.176.108:4022/rtp/239.253.43.124:5146
 
 #EXTINF:-1 tvg-id="" tvg-name="梅州客家生活" tvg-logo="",group-title="港澳台频道",梅州客家生活
 http://183.31.11.199:8000/rtp/239.253.43.124:5146
