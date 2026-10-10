@@ -9216,17 +9216,11 @@ http://120.234.187.66:10086/rtp/239.10.0.76:1025
 
 # ===== 港澳台频道 =====
 
-#EXTINF:-1 tvg-id="" tvg-name="NOWSeries" tvg-logo="",group-title="港澳台频道",NOWSeries
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5CM5SY98BF24PL/15102/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="YossoTVBest" tvg-logo="",group-title="港澳台频道",YossoTVBest
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5CM5SY98BF24PL/14236/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="YossoTVBest60fps" tvg-logo="",group-title="港澳台频道",YossoTVBest60fps
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5CM5SY98BF24PL/20165/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Now80sUK" tvg-logo="",group-title="港澳台频道",Now80sUK
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5CM5SY98BF24PL/19196/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="RedTVBigAss" tvg-logo="",group-title="港澳台频道",RedTVBigAss
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5CM5SY98BF24PL/6175/index.m3u8
@@ -9252,23 +9246,11 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5CM5SY98BF24PL/32309/ind
 #EXTINF:-1 tvg-id="" tvg-name="CityTVBG" tvg-logo="",group-title="港澳台频道",CityTVBG
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5CM5SY98BF24PL/32310/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="TimesNowIN" tvg-logo="",group-title="港澳台频道",TimesNowIN
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5CM5SY98BF24PL/6580/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="FilmNowHDRO" tvg-logo="",group-title="港澳台频道",FilmNowHDRO
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5CM5SY98BF24PL/6999/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="NOWFHDTR" tvg-logo="",group-title="港澳台频道",NOWFHDTR
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5CM5SY98BF24PL/2309/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="LineTVBursaTR" tvg-logo="",group-title="港澳台频道",LineTVBursaTR
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5CM5SY98BF24PL/6759/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ASTVBursaTR" tvg-logo="",group-title="港澳台频道",ASTVBursaTR
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5CM5SY98BF24PL/6777/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="NOWHDTR" tvg-logo="",group-title="港澳台频道",NOWHDTR
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5CM5SY98BF24PL/32214/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="凤凰资讯" tvg-logo="",group-title="港澳台频道",凤凰资讯
 http://45.192.97.170:8880/play/66.m3u8
@@ -9348,9 +9330,6 @@ http://45.192.97.170:8880/play/994.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="龙华洋片" tvg-logo="",group-title="港澳台频道",龙华洋片
 http://45.192.97.170:8880/play/995.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="ROCKAction" tvg-logo="",group-title="港澳台频道",ROCKAction
-http://45.192.97.170:8880/play/996.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="民视综艺" tvg-logo="",group-title="港澳台频道",民视综艺
 http://45.192.97.170:8880/play/1001.m3u8
 
@@ -9383,12 +9362,6 @@ http://45.192.97.170:8880/play/1012.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ViuTVsix" tvg-logo="",group-title="港澳台频道",ViuTVsix
 http://45.192.97.170:8880/play/1013.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="RTHK31" tvg-logo="",group-title="港澳台频道",RTHK31
-http://45.192.97.170:8880/play/1015.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="RTHK32" tvg-logo="",group-title="港澳台频道",RTHK32
-http://45.192.97.170:8880/play/1016.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="凤凰资讯" tvg-logo="",group-title="港澳台频道",凤凰资讯
 http://45.192.97.170:8880/play/1023.m3u8
@@ -9485,9 +9458,6 @@ http://45.192.97.170:8880/play/1082.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="amc电影台" tvg-logo="",group-title="港澳台频道",amc电影台
 http://45.192.97.170:8880/play/1085.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="CinemaWorld" tvg-logo="",group-title="港澳台频道",CinemaWorld
-http://45.192.97.170:8880/play/1086.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TVBPlus" tvg-logo="",group-title="港澳台频道",TVBPlus
 http://45.192.97.170:8880/play/1093.m3u8
@@ -9690,9 +9660,6 @@ http://45.192.97.170:8880/play/1177.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="靖天戏剧台" tvg-logo="",group-title="港澳台频道",靖天戏剧台
 http://45.192.97.170:8880/play/1178.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="ROCKAction" tvg-logo="",group-title="港澳台频道",ROCKAction
-http://45.192.97.170:8880/play/1181.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="采昌影剧台" tvg-logo="",group-title="港澳台频道",采昌影剧台
 http://45.192.97.170:8880/play/1182.m3u8
 
@@ -9704,9 +9671,6 @@ http://45.192.97.170:8880/play/1184.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="amc电影台" tvg-logo="",group-title="港澳台频道",amc电影台
 http://45.192.97.170:8880/play/1186.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="CinemaWorld" tvg-logo="",group-title="港澳台频道",CinemaWorld
-http://45.192.97.170:8880/play/1187.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TVBS台剧台" tvg-logo="",group-title="港澳台频道",TVBS台剧台
 http://45.192.97.170:8880/play/1188.m3u8
@@ -9752,12 +9716,6 @@ https://10.fast.hidns.vip/163189/viu/
 
 #EXTINF:-1 tvg-id="" tvg-name="ViuTVsix" tvg-logo="",group-title="港澳台频道",ViuTVsix
 https://10.fast.hidns.vip/163189/viu6/
-
-#EXTINF:-1 tvg-id="" tvg-name="RTHK31" tvg-logo="",group-title="港澳台频道",RTHK31
-https://fast.hidns.vip/163189/rthk31
-
-#EXTINF:-1 tvg-id="" tvg-name="RTHK32" tvg-logo="",group-title="港澳台频道",RTHK32
-https://fast.hidns.vip/163189/rthk32
 
 #EXTINF:-1 tvg-id="" tvg-name="龙华电影" tvg-logo="",group-title="港澳台频道",龙华电影
 https://8.fast.hidns.vip/163189/lhdy
@@ -9848,9 +9806,6 @@ http://iptv.4666888.xyz/iptv2A.php?id=31
 
 #EXTINF:-1 tvg-id="" tvg-name="TVB金曲" tvg-logo="",group-title="港澳台频道",TVB金曲
 http://iptv.4666888.xyz/iptv2A.php?id=17
-
-#EXTINF:-1 tvg-id="" tvg-name="RTHK31" tvg-logo="",group-title="港澳台频道",RTHK31
-http://iptv.4666888.xyz/iptv2A.php?id=23
 
 #EXTINF:-1 tvg-id="" tvg-name="TVBS新闻" tvg-logo="",group-title="港澳台频道",TVBS新闻
 http://iptv.4666888.xyz/iptv2A.php?id=43
