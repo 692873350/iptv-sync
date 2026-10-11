@@ -1542,21 +1542,6 @@ http://173.208.212.130:8181/720p/wsjk.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV发现之旅" tvg-logo="",group-title="央视",CCTV发现之旅
 http://k.061899.xyz/k.php?id=fxzl
 
-#EXTINF:-1 tvg-id="" tvg-name="CCTV女性时尚" tvg-logo="",group-title="央视",CCTV女性时尚
-http://120.234.187.66:10086/rtp/239.10.0.19:1025
-
-#EXTINF:-1 tvg-id="" tvg-name="CCTV女性时尚" tvg-logo="",group-title="央视",CCTV女性时尚
-http://120.234.187.66:10086/rtp/239.11.0.62:1025
-
-#EXTINF:-1 tvg-id="" tvg-name="CCTV女性时尚" tvg-logo="",group-title="央视",CCTV女性时尚
-http://198.204.228.26/live/nxss.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="CCTV女性时尚" tvg-logo="",group-title="央视",CCTV女性时尚
-http://bztv.tvbus.cc:8081/cdnlive/nxss.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="CCTV女性时尚" tvg-logo="",group-title="央视",CCTV女性时尚
-http://173.208.212.130:8181/720p/nxss.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="CCTV法语" tvg-logo="",group-title="央视",CCTV法语
 http://k.061899.xyz/k.php?id=cgtnf
 
@@ -4900,9 +4885,6 @@ http://120.234.187.66:10086/rtp/239.10.0.76:1025
 # ===== 港澳台频道 =====
 
 #EXTINF:-1 tvg-id="" tvg-name="NOW" tvg-logo="",group-title="港澳台频道",NOW
-https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=o_mCBwkO5vuDZH9yjd4KjA&e=1768754818
-
-#EXTINF:-1 tvg-id="" tvg-name="NOW" tvg-logo="",group-title="港澳台频道",NOW
 https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=o_mCBwkO5vuDZH9yjd4KjA&e=1768754818
 
 #EXTINF:-1 tvg-id="" tvg-name="凤凰资讯" tvg-logo="",group-title="港澳台频道",凤凰资讯
@@ -5459,9 +5441,6 @@ http://iptv.4666888.xyz/iptv2A.php?id=54
 
 #EXTINF:-1 tvg-id="" tvg-name="华视TV" tvg-logo="",group-title="港澳台频道",华视TV
 http://iptv.4666888.xyz/iptv2A.php?id=44
-
-#EXTINF:-1 tvg-id="" tvg-name="八大空间" tvg-logo="",group-title="港澳台频道",八大空间
-http://iptv.4666888.xyz/iptv2A.php?id=45
 
 #EXTINF:-1 tvg-id="" tvg-name="龙华电影" tvg-logo="",group-title="港澳台频道",龙华电影
 http://iptv.4666888.xyz/iptv2A.php?id=56
