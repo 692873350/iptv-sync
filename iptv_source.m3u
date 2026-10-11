@@ -1545,18 +1545,6 @@ http://k.061899.xyz/k.php?id=fxzl
 #EXTINF:-1 tvg-id="" tvg-name="CCTV法语" tvg-logo="",group-title="央视",CCTV法语
 http://k.061899.xyz/k.php?id=cgtnf
 
-#EXTINF:-1 tvg-id="" tvg-name="CCTV电视指南" tvg-logo="",group-title="央视",CCTV电视指南
-http://120.234.187.66:10086/rtp/239.11.0.58:1025
-
-#EXTINF:-1 tvg-id="" tvg-name="CCTV电视指南" tvg-logo="",group-title="央视",CCTV电视指南
-http://120.234.187.66:10086/rtp/239.21.0.81:3664
-
-#EXTINF:-1 tvg-id="" tvg-name="CCTV电视指南" tvg-logo="",group-title="央视",CCTV电视指南
-http://198.204.228.26/live/dszn.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="CCTV电视指南" tvg-logo="",group-title="央视",CCTV电视指南
-http://bztv.tvbus.cc:8081/cdnlive/dszn.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="CCTV老故事" tvg-logo="",group-title="央视",CCTV老故事
 http://k.061899.xyz/k.php?id=lgs
 
@@ -1589,12 +1577,6 @@ http://bztv.tvbus.cc:8081/cdnlive/fyyy.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV风云音乐" tvg-logo="",group-title="央视",CCTV风云音乐
 http://173.208.212.130:8181/720p/fyyy.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="CCTV高网" tvg-logo="",group-title="央视",CCTV高网
-http://120.234.187.66:10086/rtp/239.11.0.61:1025
-
-#EXTINF:-1 tvg-id="" tvg-name="CCTV高网" tvg-logo="",group-title="央视",CCTV高网
-http://120.234.187.66:10086/rtp/239.21.0.72:3628
 
 
 # ===== 卫视 =====
@@ -1926,9 +1908,6 @@ http://45.192.97.170:8880/play/310.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="大湾区卫视" tvg-logo="",group-title="卫视",大湾区卫视
 http://45.192.97.170:8880/play/315.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="大湾区卫视海外版" tvg-logo="",group-title="卫视",大湾区卫视海外版
-http://45.192.97.170:8880/play/316.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="湖南卫视" tvg-logo="",group-title="卫视",湖南卫视
 http://45.192.97.170:8880/play/422.m3u8
 
@@ -2033,9 +2012,6 @@ http://45.192.97.170:8880/play/456.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="重庆卫视" tvg-logo="",group-title="卫视",重庆卫视
 http://45.192.97.170:8880/play/457.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="大湾区卫视国际版" tvg-logo="",group-title="卫视",大湾区卫视国际版
-http://45.192.97.170:8880/play/458.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="东方卫视" tvg-logo="",group-title="卫视",东方卫视
 http://45.192.97.170:8880/play/459.m3u8
@@ -2576,9 +2552,6 @@ http://45.192.97.170:8880/play/779.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="湖南卫视4K" tvg-logo="",group-title="卫视",湖南卫视4K
 http://45.192.97.170:8880/play/780.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="人间卫视" tvg-logo="",group-title="卫视",人间卫视
-http://45.192.97.170:8880/play/1030.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="广西卫视" tvg-logo="",group-title="卫视",广西卫视
 http://45.192.97.170:8880/play/2661.m3u8
@@ -4121,9 +4094,6 @@ http://120.76.248.139/live/bfgd/4200000117.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="甘肃卫视" tvg-logo="",group-title="卫视",甘肃卫视
 http://120.76.248.139/live/bfgd/4200000119.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="大湾区卫视国际版" tvg-logo="",group-title="卫视",大湾区卫视国际版
-http://198.204.228.26/live/gdgj.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="甘肃卫视" tvg-logo="",group-title="卫视",甘肃卫视
 http://198.204.228.26/live/gswshd.m3u8
