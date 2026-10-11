@@ -5364,6 +5364,18 @@ http://45.192.97.170:8880/play/488.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="凤凰资讯" tvg-logo="",group-title="港澳台频道",凤凰资讯
 http://45.192.97.170:8880/play/489.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="梅州客家生活" tvg-logo="",group-title="港澳台频道",梅州客家生活
+http://183.30.201.100:10002/rtp/239.253.43.124:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="梅州客家生活" tvg-logo="",group-title="港澳台频道",梅州客家生活
+http://14.154.158.42:4022/rtp/239.253.43.124:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="梅州客家生活" tvg-logo="",group-title="港澳台频道",梅州客家生活
+http://14.155.194.249:8888/rtp/239.253.43.124:5146
+
+#EXTINF:-1 tvg-id="" tvg-name="梅州客家生活" tvg-logo="",group-title="港澳台频道",梅州客家生活
+http://113.95.142.56:8188/rtp/239.253.43.124:5146
+
 #EXTINF:-1 tvg-id="" tvg-name="TVBplus备" tvg-logo="",group-title="港澳台频道",TVBplus备
 https://vdm6-hw.nbgdsygs.com/live/h6-2.flv
 
