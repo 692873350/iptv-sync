@@ -1,2 +1,3 @@
-#EXTINF:-1 tvg-id="" tvg-name="公告❤️" tvg-logo="",group-title="公告❤️",公告❤️
+#EXTM3U x-tvg-url="https://epg.v1.mk/fy.xml"
+#EXTINF:-1 tvg-name="公告❤️" tvg-logo="https://cdn.jsdelivr.net/gh/fanmingming/live@main/tv/CCTV1.png" group-title="公告❤️",公告❤️
 https://cdn.jsdelivr.net/gh/692873350/iptv-sync@main/1791773514055..mp4
