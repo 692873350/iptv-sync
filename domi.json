@@ -1,10 +1,12 @@
 {
-  "generated_at": "2026-11-19T09:37:21Z",
+  "generated_at": "2026-11-19T10:25:28Z",
   "file": "domi.zip",
-  "sha256": "83e9e583243cc5b2a5897870d86f2f392bd9f86ef5fb75b618184ef983e4955a",
-  "size": 897686,
+  "sha256": "3d771c38fe4d65ea1a7f475b8441592a7db5b8a03727416892333742db614362",
+  "size": 908448,
   "encrypted": true,
   "categories": 20,
-  "channels": 3453,
-  "entries": 4449
+  "channels": 3416,
+  "entries": 4177,
+  "resolved": 3461,
+  "dropped": 38
 }
